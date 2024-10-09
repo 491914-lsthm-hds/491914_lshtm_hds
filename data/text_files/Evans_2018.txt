@@ -1,0 +1,1373 @@
+The Journal of Infectious Diseases
+Filovirus Exposure Among People Contacting Wildlife  •  JID  2018:218  (Suppl 5)  •  S277
+Suspected Exposure to Filoviruses Among People 
+Contacting Wildlife in Southwestern Uganda
+Tierra Smiley Evans,1 Leonard Tutaryebwa,6 Kirsten V. Gilardi,1 Peter A. Barry,2 Andrea Marzi,5 Meghan Eberhardt,2 Benard Ssebide,3 
+Michael R. Cranfield,3 Obed Mugisha,6 Emmanuel Mugisha,6 Scott Kellermann,4 Jonna A. K. Mazet,1 and Christine K. Johnson1
+1One Health Institute, School of Veterinary Medicine, and  2Center for Comparative Medicine, Department of Pathology and Laboratory Medicine, University of California,  Davis; 
+and 3Gorilla Doctors, Mountain Gorilla Veterinary Project, Inc., Kampala, Uganda; 4University of San Francisco, California; 5Laboratory of Virology, Division of Intramural Research, 
+National Institute of Allergy and Infectious Diseases, National Institutes of Health, Hamilton, Montana; and 6Bwindi Community Hospital, Buhoma, Uganda
+Background.  Human and filovirus host interactions remain poorly understood in areas where Ebola hemorrhagic fever out-
+breaks are likely to occur. In the Bwindi region of Uganda, a hot spot of mammalian biodiversity in Africa, human livelihoods are 
+intimately connected with wildlife, creating potential for exposure to filoviruses.
+Methods.  We tested samples from 331 febrile patients presenting to healthcare facilities near Bwindi Impenetrable Forest, 
+Uganda, by polymerase chain reaction (PCR) analysis and Western blot, using recombinant glycoprotein antigens for Ebola virus 
+(EBOV), Sudan virus (SUDV), Bundibugyo virus (BDBV), and Marburg virus. Behavioral data on contact with wildlife were col-
+lected to examine risk factors for filovirus seropositivity.
+Results.  All patients were negative for active filovirus infection, by PCR analysis. However, patients were seroreactive to SUDV (4.7%), 
+EBOV (5.3%), and BDBV (8.9%), indicating previous exposure. Touching duikers was the most significant risk factor associated with 
+EBOV seropositivity, while hunting primates and touching and/or eating cane rats were significant risk factors for SUDV seropositivity.
+Conclusions.  People in southwestern Uganda have suspected previous exposure to filoviruses, particularly those with a history 
+of wildlife contact. Circulation of filoviruses in wild animals and subsequent spillover into humans could be more common than 
+previously reported.
+Keywords.  Filovirus; Ebola virus; Marburg virus; zoonoses; bushmeat; wildlife; Uganda.
+ 
+Since the discovery of filoviruses 5 decades ago, Ebola hem-
+orrhagic fever (EHF) and Marburg hemorrhagic fever (MHF) 
+outbreaks have become more frequently recognized and pose 
+great risk for regional and international spread [1]. Increased 
+contact between humans and wildlife in regions where wildlife 
+hosts live or migrate is likely contributing to this rise in filovirus 
+outbreaks [2]. Elucidation of human and animal host interac-
+tions are needed to institute behavioral changes and risk miti-
+gation aimed at prevention in regions where hemorrhagic fever 
+outbreaks are prone to occur.
+Based on field and experimental studies, Pteropodidae 
+fruit bats have been indicated as reservoirs for Marburg virus 
+(MARV) and suggested as possible hosts for Ebola virus (EBOV) 
+[3–5]. Direct exposure to fruit bats through consumption and 
+close proximity (eg, by sharing dwellings and entering mines or 
+caves) has been linked to human EHF and MHF outbreaks in 
+Uganda and other parts of East/Central Africa [6–9]. In addi-
+tion, MARV and EBOV sequences have been detected in insec-
+tivorous bats (Rhinolophus eloquens, Miniopterus inflatus, and 
+Hipposideros species), but no links to human EHF and MHF 
+have been reported [4, 10]. It is unknown whether filoviruses 
+are circulating regularly in bat populations.
+Contact with nonhuman primates has also been implicated 
+as a source of human infections with EBOV and Taï Forest virus 
+(TAFV) [11, 12]. However, nonhuman primate species infected 
+with EBOV and TAFV have had severe or fatal illness, suggest-
+ing that they are not suitable reservoir species but could poten-
+tially transmit filoviruses to humans when hunted and handled 
+after death [12–14]. Members of the Ebolavirus genus have been 
+implicated as one of the causes of the decline of wild common 
+chimpanzees (Pan troglodytes) and western lowland gorillas 
+(Gorilla gorilla gorilla) [14, 15] and are considered a major 
+threat to the survival of African great apes [16].
+Limited evidence exists for other wild and domestic animal 
+species potentially playing a role in filovirus transmission to 
+either humans and/or other great apes. Duikers (Cephalophus 
+species), small forest antelopes, have been implicated as inci-
+dental hosts for EBOV [13]. An increase in brush-tailed porcu-
+pine (Atherurus africanus) and wild bush pig (Potamochoerus 
+larvatus) mortality has also temporally and geographically 
+coincided with human EHF outbreaks [17]. In addition, EBOV 
+RNA has been detected in 2 Muridae rodent genera and 1 
+shrew species (Sylvisorex ollula), although attempts to isolate 
+the virus were unsuccessful [18]. Swine have been confirmed 
+as susceptible domestic animal hosts for Reston virus [19] and 
+S U P P L E M E N T  A R T I C L E
+© The Author(s) 2018. Published by Oxford University Press for the Infectious Diseases Society 
+of America. All rights reserved. For permissions, e-mail: journals.permissions@oup.com.
+DOI: 10.1093/infdis/jiy251
+Correspondence: T. Smiley Evans, DVM, PhD, One Health Institute, University of California–
+Davis, 1089 Veterinary Medicine Dr, Davis, CA 95616 (tsmevans@ucdavis.edu).
+The Journal of Infectious Diseases®    2018;218(S5):S277–86
+S278  •  JID  2018:218  (Suppl 5)  •  Smiley Evans et al
+immunoglobulin G (IgG) EBOV antibodies have been detected 
+in sera from domestic dogs in close proximity to an EBOV epi-
+demic area [20].
+Despite multiple pieces of evidence, further investigation 
+and confirmation of potential wildlife reservoirs and additional 
+incidental hosts for filoviruses is lacking, partly due to mini-
+mal systematic wildlife surveillance efforts and the availability 
+of accurate diagnostic tests. Challenges which have hampered 
+filovirus surveillance in wildlife include a very short time frame 
+within which to detect viral shedding in animals involved in ini-
+tial spillover of filoviruses to humans and difficulties in achiev-
+ing necessary sample sizes in suspected animal reservoirs, 
+particularly among species with unknown population size. 
+Limitations in availability of accurate diagnostic testing include 
+requirement of maximum containment (biosafety level 4) facil-
+ities to conduct virus isolation and cross-reactivity between 
+filovirus species among available serological assays. In addition, 
+surveillance and diagnostic capabilities are likely complicated 
+by the presence of unknown filoviruses, which have the poten-
+tial to cross-react with serological diagnostics and influence 
+immunological susceptibility of reservoir and incidental hosts.
+In consideration of these challenges facing wildlife studies, 
+human serological assays optimized for detection of filoviruses, 
+combined with epidemiologic data on human-wildlife contact, 
+could provide valuable insight into the geographic distribution 
+of filoviruses, as well as the wildlife populations in which to 
+focus further studies. Previous human serological studies have 
+linked activities such as scavenging gorilla, chimpanzee, and 
+duiker carcasses to EHF outbreaks in Gabon [12, 13, 21] and 
+have identified forest-dwelling human populations and peo-
+ple living in close proximity to forests in the Central African 
+Republic and the Democratic Republic of Congo (DRC) as 
+high-risk human groups for EBOV exposure [22, 23].
+In this study, we investigated potential exposures to filovi-
+ruses among acutely febrile patients from the Bakiga and Batwa 
+tribes in southwestern Uganda, and identified possible risk fac-
+tors for filovirus seropositive status using detailed livelihood 
+and behavior surveys. The Bakiga are agriculturalists, whereas 
+the Batwa were previously hunter-gatherers prior to their 
+displacement from the interior of the Bwindi Impenetrable 
+Forest. The Batwa now live in settlements surrounding Bwindi 
+Impenetrable National Park and have become one of the most 
+marginalized human groups in Uganda. The park dominates 
+this region and is a biodiversity hotspot, harboring among the 
+largest number of primate species of any forest in Africa, 
+including the critically endangered mountain gorilla (Gorilla 
+beringei beringei) [24]. Our study objectives were to (1) identify 
+whether humans in the Bwindi region have had past exposures 
+to filoviruses, by testing for the presence of IgG antibodies to 
+specific filovirus glycoproteins (GPs), and (2) identify wild-
+life species and types of wildlife interactions associated with 
+human exposure to filoviruses.
+METHODS
+Human Subjects
+A total of 331 patients from Bwindi Community Hospital and 
+Byumba Health Center II presenting with fever and accompany-
+ing clinical signs were voluntarily enrolled in the study between 
+March and June 2013 (Figure 1). Inclusion criteria included non-
+specific signs of viral illness, such as fever (ie, body temperature 
+>37.8°C), vomiting, diarrhea, abdominal pain, nasal congestion, 
+and/or cough. Blood samples and oropharyngeal swab specimens 
+were collected from each participant. Questionnaires to collect 
+demographic information, travel history, medical history, infor-
+mation on livelihood(s), and interactions with domestic and wild 
+animals were administered in the local language, Runyankore-
+Rukiga. The aim of the study was communicated to all patients 
+or parents/guardians of minors, and written informed consent 
+was obtained from all study participants. Institutional review 
+boards at Makerere University, Bwindi Community Hospital, the 
+University of California–Davis, and the Uganda National Council 
+for Science and Technology approved this study.
+Polymerase Chain Reaction (PCR)–Based Diagnostic Techniques
+Total nucleic acid was extracted from whole-blood and 
+oral swab specimens, using the NucliSens MiniMag system 
+(bioMérieux) according to manufacturer’s instructions, with 
+the exception of the addition of a 2-hour proteinase K digestion 
+step with mechanical disruption for whole-blood samples. RNA 
+was reverse transcribed and complementary DNA (cDNA) 
+synthesized using Superscript III First-Strand Synthesis cDNA 
+kits (Invitrogen, Carlsbad, CA). cDNA was analyzed by con-
+ventional PCR analysis for the filovirus L gene, using primers 
+previously designed by Zhai et  al [25]. A touchdown proto-
+col was programmed, using a Fast Cycling PCR kit (Qiagen, 
+Germantown, MD), with the following reaction conditions: 1 
+cycle at 95°C for 5 minutes; 12 cycles at 96°C for 8 seconds, 65°C 
+(with a 1°C decrease during each subsequent cycle) for 8 sec-
+onds, and 68°C for 18 seconds; 35 cycles at 96°C for 8 seconds, 
+52°C for 8 seconds, and 68°C for 18 seconds; and 1 cycle at 72°C 
+for 5 minutes. PCR products of appropriate size were cloned 
+using Topo TA cloning kits (Invitrogen), and sequencing was 
+performed using Sanger dideoxy sequencing at the University 
+of California–Davis DNA sequencing laboratory.
+Western Blots
+Samples were γ-irradiated with a dose of 2 MRad before screen-
+ing [26]. Samples were denatured in 2.5% β-mercaptoethanol, 
+and proteins were separated on 10% mini-protean TGX gels 
+(Biorad, Hercules, CA) and transferred to Amersham Hybond 
+0.45 polyvinylidene fluoride membranes (GE-biosciences, 
+Marlborough, MA). Blots were blocked in 5% nonfat milk and 
+1% normal goat serum. Membranes were incubated with serum 
+at a 1:100 dilution overnight at room temperature. Membranes 
+were then incubated with peroxidase-labeled antibody to human 
+Filovirus Exposure Among People Contacting Wildlife  •  JID  2018:218  (Suppl 5)  •  S279
+IgG (KPL, Gaithersburg, MD) at a 1:5000 dilution. The follow-
+ing antigens were used: EBOV, SUDV, and MARV strain Musoke 
+recombinant virus GPs (IBT Bioservices, Gaithersburg, MD) and 
+Bundibugyo virus (BDBV) strain Uganda 2007 recombinant, 
+partial virus envelope GP1 (Ile 33–Gln 304; Acro Biosystems, 
+Newark, DE). Antigens were produced in mammalian cells.
+Western blots were validated using convalescent serum from 
+a human who was vaccinated with a recombinant vesicular sto-
+matitis virus (VSV)–based vaccine that expressed an EBOV 
+GP (VSV-EBOV) after suspected EBOV exposure [27], con-
+valescent serum from a MARV-infected nonhuman primate, 
+rabbit anti-SUDV GP polyclonal antibody (IBT Bioservices), 
+and convalescent serum from a rhesus macaque experimen-
+tally infected with BDBV [28]. A negative control pool of serum 
+specimens from 20 Ugandan individuals who presented to the 
+Bwindi Community Hospital with respiratory symptoms and 
+showed no filovirus seroreactivity on Western blots, as well as 
+a negative control pool of serum specimens from 5 individuals 
+from other African countries, were used as negative controls. 
+In addition, 15 serum samples collected from volunteer blood 
+donors at the Stanford Blood Center (Palo Alto, CA) were used 
+as negative controls during assay development.
+Blots were considered positive for virus if a band of the cor-
+rect size could be visualized for the GP1 protein of EBOV, SUDV, 
+and MARV (approximately 150 kDa; Supplementary Figure 1 
+and 2) and the partial GP1 protein of BDBV (approximately 60 
+kDa; Supplementary Figure 3) after visual comparison to pos-
+itive and negative control samples. A conservative approach to 
+interpretation of Western blot band results was taken in that 
+samples were tested in duplicate and were categorized by 2 
+independent researchers as positive, negative, or indeterminate, 
+based on visualization of appropriate sized bands.
+Statistical Analyses
+Individuals with positive and negative samples were used in risk 
+factor analyses and period prevalence calculations; individuals 
+with indeterminate results due to faint bands were excluded (sam-
+ple sizes used in statistical analyses were as follows: 300 for SUDV 
+analyses, 301 for EBOV analyses, 303 for BDBV analyses, and 331 
+for MARV analyses). Period prevalence and 95% binomial exact 
+DRC
+UGANDA
+RWANDA
+LEGEND
+BCH Campus and Clinics
+Patient Catchment Area
+Bwindi Impenetrable Forest
+Figure 1.  Map of the Bwindi region of southwestern Uganda. Bwindi Community Hospital (BHC) main campus and satellite clinics (yellow) on the edge of the Bwindi 
+Impenetrable Forest. Patients enrolled in the study were residents of Kirundo, Nyabwishenya, Mpungu, Kayonza, Kanungu, Kirima, and Kanyantorogo subcounties in south-
+western Uganda.
+S280  •  JID  2018:218  (Suppl 5)  •  Smiley Evans et al
+confidence intervals (CIs) were calculated for demographic 
+groups for each filovirus species. When period prevalence was 0, 
+1-sided, 97.5% binomial exact CIs were calculated.
+All demographic factors, including age, tribe, and livelihood 
+(Table 1), were evaluated for associations with animal contact 
+behaviors (Tables  2 and 3), using bivariate analyses to assess 
+confounding. Associations between filovirus seropositive status 
+and all individual risk factors in Tables 1–3 were initially evalu-
+ated by the 2-sided Fisher exact test or the χ2 test as appropriate, 
+and associations were measured by odds ratios (ORs). Multiple 
+exposures were common, and some behavior categories were 
+associated with each other; therefore, adjustment for various 
+risk factors in multivariable analyses was done sequentially, with 
+priority given to those with a higher OR on crude analysis, those 
+that were highly significant, and those factors with previous evi-
+dence based on other investigations.
+Multivariable logistic regression was then used to assess the 
+association of risk factors with filovirus exposure for variables 
+that were significant on bivariate analysis (P < .1). Separate logistic 
+models were generated for each filovirus species to account for 
+variation in wildlife reservoirs and the risk of transmission to sus-
+ceptible people. Multivariable logistic regression was also used to 
+assess the association between demographic and livelihood fac-
+tors and wild animal contact. Variables were included if they 
+significantly improved model fit, based on the likelihood ratio 
+test (P < .1), while minimizing the Akaike information criterion. 
+Overall model fit was assessed using the Hosmer-Lemeshow 
+goodness-of-fit test [29]. All statistical analyses were performed 
+using Stata (StataCorp, College Station, TX). Network analyses 
+to generate a wildlife taxa-interface network display (Figure 2) 
+were conducted in the network analysis platform Gephi, using 
+the force-directed algorithm ForceAtlas2 [30].
+Ethical Standards
+All procedures contributing to this work complied with the 
+ethical standards of the relevant national and institutional 
+committees on human experimentation and with the Helsinki 
+Declaration of 1975, as revised in 2008.
+Table 1.   Sudan Virus (SUDV), Ebola Virus (EBOV), and Bundibugyo virus (BDBV) Prevalence, by Demographic Characteristic, Among Individuals With 
+Wildlife Contact Who Presented to Healthcare Facilities in the Bwindi Region of Uganda During March–June 2013
+Characteristic
+SUDV
+EBOV
+BDBV
+No. Pos
+No. Neg
+Period Prevalence  
+(95% CIa)
+No. Pos
+No. Neg
+Period Prevalence 
+(95% CIa)
+No. Pos
+No. Neg
+Period Prevalence 
+(95% CIa)
+Ethnic group
+  Bakiga
+11
+267
+3.96 (1.99–6.97)
+14
+263
+5.05 (2.79–8.33)
+23
+261
+8.10 (5.21–11.90)
+  Batwa
+2
+12
+14.29 (1.80–42.81)
+1
+14
+6.67 (.17–31.95)
+2
+11
+15.38 (1.92–45.45)
+Sex
+  Male
+7
+133
+5.00 (2.03–10.03)
+9
+130
+6.67 (3.00–11.94)
+12
+129
+8.51 (4.47–14.39)
+  Female
+7
+142
+4.70 (1.9–9.43)
+7
+143
+4.67 (1.90–9.38)
+13
+137
+8.67 (4.70–14.39)
+Age group
+  0–9
+1
+32
+3.03 (.08–15.76)
+1
+31
+3.13 (.07–16.22)
+5
+25
+16.67 (5.64–34.72)
+  10–19
+2
+62
+3.13 (.38–10.83)
+5
+58
+7
+.94 (2.63–17
+.56)
+10
+55
+15.38 (7
+.63–26.48)
+  20–29
+3
+58
+4.92 (1.03–13.71)
+2
+60
+3.23 (.39–11.17)
+2
+62
+3.13 (.38–10.48)
+  30–39
+2
+41
+4.65 (.57–15.81)
+2
+42
+4.55 (.55–15.47)
+1
+44
+2.22 (.06–11.77)
+  40–49
+0
+24
+0.00b (.00–14.25)
+3
+20
+13.04 (2.78–33.59)
+1
+25
+3.85 (.09–19.63)
+  50–59
+2
+22
+8.33 (1.03–27
+.00)
+3
+24
+11.11 (2.35–29.16)
+0
+26
+0.00b (.00–13.23)
+  60–69
+0
+15
+0.00b (.00–21.80)
+0
+17
+0.00b (.00–19.51)
+1
+16
+5.88 (.15–28.69)
+  ≥70
+1
+14
+6.67 (.17–31.95)
+0
+15
+0.00b (.00–21.80)
+4
+10
+28.57 (8.39–58.10)
+Primary occupation
+  Housework
+12
+224
+5.08 (2.65–8.71)
+13
+224
+5.49 (2.95–9.20)
+19
+227
+7
+.72 (4.71–11.80)
+  Crop farming
+12
+228
+5.00 (2.61–8.57)
+14
+228
+5.79 (2.89–9.01)
+19
+230
+7
+.63 (4.66–11.65)
+  Livestock farming
+9
+196
+4.39 (2.03–8.07)
+11
+193
+5.39 (2.72–9.44)
+14
+197
+6.64 (3.67–10.88)
+  Hunting
+1
+0
+100.00 (.00–97
+.50)
+0
+1
+0.00b (.00–97
+.50)
+0
+1
+0.00b (.00–97
+.50)
+  Working in BINP
+0
+5
+0.00b (.00–52.18)
+0
+5
+0.00b (.00–52.18)
+0
+5
+0.00b (.00–52.18)
+  Trading
+1
+4
+20.00 (.51–71.64)
+0
+5
+0.00b (.00–52.18)
+0
+5
+0.00b (.00–52.18)
+  Business
+0
+6
+0.00b (.00–45.93)
+0
+6
+0.00b (.00–45.93
+0
+6
+0.00b (.00–45.93)
+Overall
+14
+286
+4.67 (2.57–7
+.71)
+16
+285
+5.32 (3.06–8.46)
+27
+276
+8.91 (5.95–12.70)
+Indeterminate test results were excluded from analyses.
+Abbreviation: BINP
+, Bwindi Impenetrable National Park; CI, confidence interval; Neg, negative; Pos, positive.
+aData are 95% binomial exact CIs, unless otherwise indicated.
+bOne-sided 97
+.5% binomial exact CIs were calculated.
+Filovirus Exposure Among People Contacting Wildlife  •  JID  2018:218  (Suppl 5)  •  S281
+RESULTS
+Detection of Previous Exposure to SUDV, EBOV, and BDBV
+Febrile patients in this study did not exhibit any signs of hem-
+orrhagic fever and no patients reported having suffered a hem-
+orrhagic illness previously. Diagnoses provided by medical 
+facilities included, malaria, pneumonia, typhoid fever, respi-
+ratory infection, urinary tract infection, gastritis, brucellosis, 
+and tuberculosis. All patients had negative results on consensus 
+PCR tests of blood and oral swab specimens for detection of 
+filoviruses. Among study participants, 14 of 300 were seropos-
+itive for SUDV, 16 of 301 were seropositive for EBOV, and 27 
+of 303 were seropositive for BDBV by conventional Western 
+blot (Table 1). Seropositivity to MARV was not detected. One 
+sample was positive for both EBOV and SUDV, and 1 was pos-
+itive for both EBOV and BDBV. Serologic results for SUDV, 
+EBOV, and BDBV were not significantly correlated with each 
+Table 2.  Results of Bivariate Analyses for Risk Factors for Exposure to Ebola Virus (EBOV)
+Risk Factora
+Seroprevalence in Exposed Group, 
+Proportion (%)
+Seroprevalence in Nonexposed Group, 
+Proportion (%)
+OR (95% CI)
+P
+Consumed wildlifeb
+  Primate
+1/8 (12.5)
+15/285 (5.3)
+2.57 (.30–22.27)
+.365
+  Bat
+...
+...
+...
+>.999
+  Rodent
+2/13 (15.4)
+14/282 (5.0)
+3.48 (.70–17
+.23)
+.152
+  Duiker
+6/72 (8.3)
+10/223 (4.5)
+1.94 (.68–5.53)
+.217
+  Porcupinec
+1/7 (18.7)
+15/288 (5.2)
+3.03 (.34–26.83)
+.326
+  Wild pig
+6/63 (9.5)
+10/232 (4.3)
+2.34 (.82–6.70)
+.114
+  Hippopotamus
+4/57 (7
+.0)
+10/193 (5.2)
+1.35 (.30–4.92)
+.618
+  Civet
+...
+...
+...
+>.999
+  Any
+11/115 (9.6)
+5/180 (2.8)
+...
+Contacted wildlife that raided crops
+  Primate
+3/68 (4.4)
+11/183 (6.0)
+0.73 (.13–2.89)
+.765
+  Bat
+1/12 (8.3)
+13/239 (5.4)
+1.53 (.03–11.97)
+.514
+  Rodent (all species)
+14/223 (6.3)
+0/28 (0.0)
+...
+>.999
+  Rodent (cane rat)
+0/1 (0.0)
+14/253 (5.5)
+...
+>.999
+  Duiker
+1/5 (20.0)
+13/246 (5.3)
+3.78 (.07–37
+.33)
+.280
+  Porcupinec
+1/2 (50.0)
+13/249 (5.2)
+9.57 (.15–191.09)
+.151
+  Wild pig
+1/5 (20.0)
+13/246 (5.3)
+3.78 (.07–37
+.33)
+.280
+  Civet
+...
+...
+...
+>.999
+  Any
+14/233 (6.0)
+0/18 (0.0)
+...
+Touched/handled wildlife
+  Primate
+0/17 (0.0)
+16/279 (5.7)
+...
+>.999
+  Bat
+0/1 (0.0)
+16/295 (5.4)
+...
+>.999
+  Rodent (all species)
+15/210 (7
+.1)
+1/86 (1.2)
+6.14 (.91–261.51)
+.049
+  Rodent (cane rat)
+1/6 (16.7)
+13/245 (5.3)
+3.14 (.06–28.90)
+.319
+  Duiker
+3/16 (18.8)
+13/280 (4.6)
+4.03 (.67–16.83)
+.065
+  Porcupinec
+1/6 (16.7)
+15/290 (5.2)
+3.22 (.06–29.19)
+.311
+  Wild pig
+0/4 (0.0)
+16/292 (5.5)
+...
+>.999
+  Civet
+0/1 (0.0)
+16/295 (5.4)
+...
+>.999
+  Any
+15/212 (7
+.1)
+1/84 (1.2)
+...
+Contacted wildlife in forest
+  Primate
+0/3 (0.0)
+16/292 (5.5)
+...
+>.999
+  Bat
+0/1 (0.0)
+16/294 (5.4)
+...
+>.999
+  Rodent
+1/8 (12.5)
+15/287 (5.2)
+2.39 (.05–19.88)
+.382
+  Wild birdsd
+2/3 (66.7)
+12/248 (4.8)
+13.78 (1.03–128.96)
+.024
+  Duiker
+0/2 (0.0)
+16/293 (5.5)
+...
+>.999
+  Porcupinec
+...
+...
+...
+  Wild pig
+0/2 (0.0)
+16/293 (5.5)
+...
+>.999
+  Civet
+0/1 (0.0)
+16/294 (5.4)
+...
+>.999
+  Any
+2/14 (14.3)
+12/237 (5.1)
+...
+Abbreviations: CI, confidence interval; OR, odds ratio.
+aHaving wildlife in homes, having wildlife near homes, having wildlife close to water source, sharing fruits/vegetables with wildlife, being injured by wildlife, finding dead wildlife, hunting 
+wildlife, and consuming wildlife were not significantly associated with EBOV seropositivity for any wildlife species.
+bIncludes both current and past wildlife consumption.
+cPorcupines are reported separately from rodents because porcupines were not considered to be in the same animal category as smaller rodent species by local study participants.
+dContact with wild birds, while significant on bivariate analysis, did not have a large enough sample size to evaluate as a risk factor in a multivariable analysis.
+S282  •  JID  2018:218  (Suppl 5)  •  Smiley Evans et al
+other (R2 = 0.03 for the correlation between SUDV and EBOV, 
+R2 = −0.002 for the correlation between EBOV and BDBV, and 
+R2 = 0.002 for the correlation between SUDV and BDBV), indi-
+cating that there was limited cross-reactivity among known filo-
+virus species on these serological assays.
+Wild Animal Contact in Study Community
+Over ninety-nine percent of patients reported some form of 
+contact with wildlife. The wildlife species most commonly 
+contacted were rodents (Rodentia species; 99.6% had indi-
+rect contact, and 86.4% had direct contact), followed by pri-
+mates (Primate species; 62.3% and 15.5%, respectively), bats 
+(Chiroptera species; 67.0% and 5.5%, respectively), duiker 
+(Cephalophus species, 5.5% and 29.0%, respectively), wild pig 
+(Potamochoerus larvatus; 8.1% and 26.6%, respectively), por-
+cupine (Atherurus africanus; 3.3% and 4.1%, respectively), and 
+civet (Civettictis civetta; 0.7% and 0.7%, respectively). Contact 
+due to the presence of wild animals in and around peoples’ 
+Table 3.  Results of Bivariate Analyses for Risk Factors for Exposure to Sudan Virus (SUDV)
+Risk Factora
+Seroprevalence in Exposed Group, 
+ 
+Proportion (%)
+Seroprevalence in Nonexposed Group, 
+ 
+Proportion (%)
+OR (95% CI)
+P
+Hunted wildlife
+  Primate
+4/7 (57
+.1)
+8/242 (3.3)
+39.0 (7
+.46–204.00)
+.001
+  Bat
+0/1 (0.0)
+12/248 (4.8)
+...
+>.999
+  Rodent
+1/3 (33.3)
+11/246 (4.5)
+7
+.46 (.13–100.13)
+.173
+  Duiker
+1/3 (33.3)
+11/246 (4.5)
+7
+.46 (.13–100.13)
+.173
+  Porcupineb
+0/1 (0.0)
+12/248 (4.8)
+...
+>.999
+  Wild pig
+1/3 (33.3)
+11/246 (4.5)
+7
+.46 (.13–100.13)
+.173
+  Civet
+...
+...
+...
+  Any
+4/9 (44.4)
+8/240 (3.3)
+...
+Consumed wildlifec
+  Primate
+0/6 (0.0)
+13/288 (4.5)
+...
+>.999
+  Bat
+...
+...
+...
+  Rodent (all species)
+3/14 (21.4)
+10/280 (3.6)
+6.00 (.95–26.81)
+.029
+  Rodent (cane rat)
+3/11(27
+.3)
+9/237 (4.0)
+7
+.18 (1.08–34.20)
+.021
+  Duiker
+5/70 (7
+.1)
+8/224 (3.6)
+2.00 (.50–7
+.18)
+.229
+  Porcupineb
+1/7 (14.3)
+12/287 (4.2)
+3.42 (.07–30.21)
+.296
+  Wild pig
+4/64 (6.25)
+9/230 (3.9)
+1.60 (.35–5.93)
+.494
+  Hippopotamus
+4/60 (6.67)
+8/188 (4.3)
+1.57 (.33–6.09)
+.491
+  Civet
+0/1 (0.0)
+13/293 (4.4)
+...
+>.999
+  Any
+5/115 (4.3)
+8/179 (4.5)
+...
+Contacted wildlife that raided crops
+  Primate
+6/71 (8.5)
+6/178 (3.4)
+2.51 (.64–9.68)
+.111
+  Bat
+0/12 (0.0)
+12/237 (5.1)
+...
+>.999
+  Rodent (all species)
+11/222 (5.0)
+1/27 (3.7)
+1.34 (.18–59.68)
+>.999
+  Rodent (cane rat)
+1/2 (50.0)
+11/249 (4.4)
+11.31 (.17–227
+.25)
+.131
+  Duiker
+0/5 (0.0)
+12/244 (4.9)
+...
+>.999
+  Porcupineb
+0/3 (0.0)
+12/246 (4.9)
+...
+>.999
+  Wild pig
+1/5 (20.0)
+11/244 (4.4)
+4.43 (.09–44.54)
+.248
+  Civet
+...
+...
+...
+  Any
+11/232 (4.7)
+1/17 (5.9)
+...
+Touched/handled wildlife
+  Primate
+3/16 (18.8)
+10/278 (3.6)
+5.21 (.83–22.89)
+.039
+  Bat
+...
+...
+...
+  Rodent (all species)
+11/212 (5.2)
+2/82 (2.4)
+2.13 (.48–20.12)
+.526
+  Rodent (cane rat)
+2/7 (28.6)
+10/241 (4.1)
+6.89 (.61–42.55)
+.056
+  Duiker
+1/14 (7
+.1)
+12/280 (4.3)
+1.67 (.04–12.87)
+.486
+  Porcupineb
+1/6 (16.7)
+12/288 (4.2)
+4.0 (.08–37
+.09)
+.264
+  Wild pig
+0/4 (0.0)
+13/290 (4.5)
+...
+>.999
+  Civet
+0/1 (0.0)
+13/293 (4.4)
+...
+>.999
+  Any
+11/213 (5.2)
+2/81 (2.5)
+...
+Abbreviations: CI, confidence interval; OR, odds ratio.
+aHaving wildlife in homes, having wildlife near homes, having wildlife close to water source, contacting wildlife in the forest, sharing fruits/vegetables with wildlife, being injured by wildlife, 
+and finding wildlife dead were not significantly associated with SUDV seropositivity for any wildlife species.
+bPorcupines are reported separately from rodents because porcupines were not considered to be in the same animal category as smaller rodent species by local study participants.
+cIncludes both current and past wildlife consumption.
+Filovirus Exposure Among People Contacting Wildlife  •  JID  2018:218  (Suppl 5)  •  S283
+homes was widespread (99% [270 of 274 patients]), and con-
+tact with animals that were raiding crops (93% [255 of 274]) 
+and sharing food items (91% [296 of 325]) was also common. 
+Contact with animals through bushmeat hunting was less 
+commonly reported (5% [13 of 274 patients]; Figure 2).
+On multivariable analysis, men were more likely than 
+women to consume wildlife (OR,  3.18; 95% CI, 1.09–9.32; 
+P = .035) and to touch duikers (OR, 6.62; 95% CI, 1.55–28.21; 
+P = .011). People working as park personnel were 9.5 times 
+as likely to consume wildlife than people with other occu-
+pations (95% CI, 1.43–63.25; P = .020). People of the Batwa 
+tribe were also 9.7 times as likely to consume wildlife (95% 
+CI, 2.08–44.84; P = .004), 7.1 times as likely to hunt wild ani-
+mals (95% CI, 1.20–41.55; P = .031), and 9.5 times as likely to 
+touch a duiker (95% CI, 1.71–52.76; P = .010) than people of 
+the Bakiga tribe.
+Wildlife Contact Associated With EBOV Seropositivity
+Results of our multivariable model showed that people with a 
+history of touching duikers were 5.6 times as likely to be sero-
+positive for EBOV than people who reported no contact with 
+duikers (95% CI, 1.23–25.17; P = .026; Table 2 and Table 4). Age 
+group was included in the model because a history of touching 
+duikers was found to increase with age. The log odds of EBOV 
+seropositivity was predicted by use of the following logistic 
+model: ln[P(x)/1 − P(x)] = −2.64 − 0.11(A) + 1.72(Td), where 
+P(x) denotes the probability of a person being seropositive for 
+EBOV (Hosmer-Lemeshow model goodness-of-fit χ2 = 76.38; 
+P = .785), A denotes age in years, and Td denotes a history of 
+touching a duiker.
+Wildlife Contact Associated With SUDV Seropositivity
+Results of our multivariable model showed that people report-
+ing a history of hunting primates were 37.5 times as likely to 
+have evidence of past exposure to SUDV than people who did 
+not report hunting primates (95% CI, 6.20–226.41; P < .001; 
+Table 4). Also, people with a past history of touching or eat-
+ing cane rats (Thryonomys swinderianus) were 10.7 times as 
+likely to show serologic evidence for past exposure to SUDV 
+than people who did not report touching or eating cane rats 
+(95% CI, 1.95–58.15; P = .006; Table 4). Tribal affiliation was 
+included in the model because being of Batwa ethnicity was 
+significantly associated with hunting wild animals. On bivar-
+iate analyses, both touching and eating cane rats were inde-
+pendently associated with SUDV seropositivity (Table 3) but, 
+when combined, were a better predictor of risk of exposure, 
+and they were therefore incorporated as a combined variable 
+into the multivariable model. The log odds of SUDV seropos-
+itivity was predicted by use of the following logistic model: 
+ln[P(x)/1 − P(x)] = −3.81 + 1.79(T) + 2.37(Cte) + 3.62(Ph), where 
+P(x) denotes the probability of a person being seropositive for 
+SUDV (Hosmer-Lemeshow model goodness of fit χ2  =  0.42; 
+P = .810), T denotes tribe, Cte denotes a history of touching or 
+eating a cane rat, and Ph denotes a history of hunting primates. 
+Share
+Water
+Wild
+Pig
+Eat
+Hippo
+Duiker
+Hunt
+Porcupinea
+Crop
+Raiding
+Primate
+Human
+Dwellings
+Bat
+Forest
+Share
+Food
+Rodent
+Figure. 2.  Epidemiologic bipartite network map showing disease transmission interfaces shared by humans and wildlife in the Bwindi region of southwestern Uganda. 
+For transmission interfaces (blue), the node size is proportionate to the number of people reporting direct or indirect contact with wildlife at each interface. For wildlife taxa 
+(purple), the node size is proportionate to the number of people reporting contact with each respective wildlife taxa. Highly connected and more-central interfaces represent 
+greater opportunities for contact with multiple wildlife host taxa and therefore present greater chances for humans to encounter zoonotic pathogens. This network was 
+created using data on contact between humans and animals that were collected from 331 febrile individuals presenting to medical facilities in the Bwindi region. aPorcupines 
+are reported separately from rodents because porcupines were not considered to be in the same animal category as smaller rodent species by local study participants. 
+S284  •  JID  2018:218  (Suppl 5)  •  Smiley Evans et al
+No variables describing contact between humans and wildlife 
+were significant on bivariate analysis for BDBV.
+DISCUSSION
+We provide evidence for previous exposure to filoviruses 
+among people in the Bwindi region of southwestern Uganda. 
+Our serologic findings fill a gap in geographic exposure data 
+for the region, as outbreaks of EHF have occurred in neighbor-
+ing districts of Bundibugyo and Kibaale and across the border 
+in the DRC [9, 31–33], and MHF has occurred in Kabale and 
+Maramagambo forests [9, 34, 35].
+It is unlikely that clinically significant EHF cases have occurred 
+and gone unreported in the Bwindi region, given the accessibil-
+ity of Bwindi Community Hospital and its associated satellite 
+clinics. Additionally, cases of filovirus-associated hemorrhagic 
+fever in mountain gorillas, a species heavily monitored, highly 
+contacted by people, and susceptible to filovirus infection, have 
+not been reported. Identification of IgG antibodies to filovirus 
+GPs in humans presenting to clinics in Bwindi therefore could 
+be due to asymptomatic infection with SUDV, EBOV, or BDBV 
+and/or infection with serologically cross-reactive low-pathoge-
+nicity or nonpathogenic undiscovered filoviruses that also have 
+wildlife hosts.
+Previous studies suggest that EBOV infections can by asymp-
+tomatic or minimally symptomatic [36–38]. Seropositivity 
+in people who did not report a history of hemorrhagic fever 
+has been demonstrated in EHF-endemic regions [23, 39], and 
+asymptomatic family members of patients infected with known 
+filovirus species have shown seropositivity [40]. We also cannot 
+rule out the possibility that we detected antigenically similar but 
+as-yet unknown filoviruses. Additional filoviruses are expected 
+to be discovered as diagnostic assays and surveillance activities 
+improve. Past serosurveys using antigens that are more broadly 
+reactive among filoviruses have detected filovirus exposure 
+among humans and wildlife living in areas where no cases of 
+EHF have ever been reported, such as the Aka population of 
+the Central African Republic [22] and fruit bat populations in 
+Bangladesh [41]. We used GP antigens in this study because 
+it is predicted that the antibody response to GP is more virus 
+specific, owing to the larger genetic variability with this protein 
+[42]. Serologic cross-reactivity between filovirus species has 
+however been noted in enzyme-linked immunosorbent assays 
+using recombinant GP antigens, although the highest reactions 
+were uniformly detected against the GP antigen homologous to 
+the correct virus species [43].
+Interestingly, no one tested positive for a previous expo-
+sure to MARV, even though outbreaks of MARV infection 
+have occurred in close proximity to the Bwindi region. An 
+outbreak of MARV infection occurred in 2012 in Kabale 
+District [44], approximately 26 km from the southern corner 
+of Bwindi Impenetrable Forest. In addition, 2 foreigners who 
+visited caves in Maramagambo Forest in the southern corner of 
+Queen Elizabeth National Park, approximately 80 km from the 
+northern-most corner of Bwindi Impenetrable Forest, exported 
+MARV in 2008 to the United States and the Netherlands 
+ 
+[45, 46]. MARV has a documented case-fatality rate between 
+24%–88%, indicating that there is potential for detection of 
+seropositive survivors [47, 48]. Our lack of detection of MARV-
+seropositive people in the Bwindi region suggests that exposure 
+to MARV could be rarer than for other filoviruses and that 
+wildlife reservoirs are more restricted in range or habitat.
+We found variations in seroprevalence among people 
+engaged in different activities involving wildlife, providing epi-
+demiologic evidence that filoviruses circulating in Bwindi are 
+of wildlife origin. In contrast to similar studies in West and 
+Central Africa, where bushmeat hunting is the major activity 
+leading to human and wild animal contact, we found a broader 
+scope of activities that leads to interaction with wildlife.
+Contact with duiker was identified as a risk factor for EBOV 
+exposure. Duikers are frequently eaten by humans in many 
+parts of equatorial Africa and have been previously implicated 
+as incidental hosts for EBOV. Duikers are believed to become 
+infected with EBOV through scavenging nonhuman primate 
+carcasses [13], an activity that is plausible in Bwindi given the 
+prevalence and diversity of nonhuman primate species. Duikers 
+are the most common animal caught in snares in Bwindi 
+Impenetrable National Park, and people directly contact this 
+species through hunting, food preparation, and consumption. 
+Duikers also frequently leave the forest and can be found crop 
+raiding among private gardens.
+Table 4.  Odds Ratios and 95% Confidence Intervals (CIs) for Risk Factors Associated With Filovirus Seropositivity Based on Final Multivariable Analyses
+Filovirus, Risk Factor
+Seroprevalence of Risk Factor, 
+ 
+Exposed Group, Proportion (%)
+Seroprevalence of Risk Factor,  
+Nonexposed Group, Proportion (%)
+OR (95% CI)
+P
+Ebola virusa
+  Touched duiker
+3/16 (18.8)
+13/280 (4.6)
+5.57 (1.23–25.17)
+.026
+Sudan virusb
+  Hunted primate
+4/7 (57
+.1)
+8/242 (3.3)
+37
+.47 (6.20–226.41)
+<.001
+  Touched/consumed cane rat
+3/12 (25.0)
+9/235 (3.8)
+10.65 (1.95–58.15)
+.006
+aAge was associated with touching a duiker. Therefore, age was included in the final multivariable model.
+bBeing of the Batwa tribe was associated with hunting primates. Therefore, tribe was included in the final multivariable model.
+Filovirus Exposure Among People Contacting Wildlife  •  JID  2018:218  (Suppl 5)  •  S285
+Hunting primates was identified as a significant risk factor for 
+SUDV seropositivity, consistent with previous findings, which 
+have linked outbreaks of EHF, caused by EBOV
+, to contact with 
+dead common chimpanzees and/or western lowland gorillas [12, 
+13]. Interestingly, contrary to previous beliefs that hunting and 
+consumption of primates was almost nonexistent in Uganda [24], 
+we identified several people presenting to Bwindi Community 
+Hospital who reported hunting primates or knowing others in 
+their close community who hunted primates. All hunting of ver-
+tebrate species living within Uganda’s forest reserves is prohibited 
+by law, and Ugandans generally consider primate meat consump-
+tion culturally unacceptable. Hunting of primates, however, may 
+be on the increase in this region because of population growth 
+both within Uganda and through influx of refugees from the 
+DRC, where primate bushmeat consumption is more common.
+Contact with cane rats was also identified as a risk factor for 
+SUDV exposure. Rodents have been identified as potential filovi-
+rus hosts in previous investigations, but evidence has been weak 
+and they have received less attention as more evidence has pointed 
+toward bats and primates as reservoirs and incidental hosts, respec-
+tively. Cane rats are of particular concern as a potential host for 
+infectious diseases because of their proximity to people. They com-
+monly range freely around human dwellings and are also raised as 
+a source of meat in West and Central Africa. In the Bwindi region, 
+cane rats are one of the most commonly eaten wildlife species and 
+are frequently found raiding crops and food storage areas, where 
+people indirectly contact their feces and/or urine.
+Finding evidence for filoviruses in Bwindi could have impli-
+cations not only for the human communities surrounding and 
+using the park but also for the critically endangered mountain 
+gorilla. Human and mountain gorilla health and livelihoods 
+in this region are intimately connected; they are susceptible 
+to the same pathogens, and gorilla tourism supports the local 
+economy, which in turn preserves the forest. A filovirus hemor-
+rhagic fever outbreak in Bwindi could have devastating impli-
+cations for humans and gorillas alike. Additionally, if unknown 
+filoviruses are circulating in Bwindi, which theoretically could 
+confer some degree of cross-protective immunity, this might 
+help explain why filovirus-associated hemorrhagic fever out-
+breaks have not been reported to date in this region. A better 
+understanding of the filoviruses circulating in Bwindi, as well 
+as their hosts and/or likely reservoir species, is needed to rec-
+ognize and better understand any potential threat. We conclude 
+that broader surveillance strategies are needed, moving beyond 
+dead nonhuman primates and the bat species tested to date, to 
+characterize filovirus transmission cycles in Africa.
+Supplementary Data
+Supplementary materials are available at The Journal of Infectious Diseases 
+online. Consisting of data provided by the authors to benefit the reader, the 
+posted materials are not copyedited and are the sole responsibility of the 
+authors, so questions or comments should be addressed to the corresponding 
+author.
+Notes
+Acknowledgments.  We thank the physicians, nurses, diagnosticians, 
+and staff of the Bwindi Community Hospital and Byumba Health Center 
+II, for facilitating this project; Heinz Feldmann, for training and supply-
+ing positive control sera; Tracey Goldstein,  Brett Smith, Jasmine Pante, 
+and Alex Tremeau-Bravard, for project advice and laboratory support; and 
+Steven Soe Evans, for manuscript editing.
+Disclaimer.   The contents are the responsibility of the authors and 
+do not necessarily reflect the views of the US Agency for International 
+Development, the National Institutes of Health, or the US government.
+Financial support.  This work was supported by the William 
+J. Fulbright Foundation, the US Agency for International Development 
+(USAID) Emerging Pandemic Threats PREDICT project (grant GHN-
+A-009-00010-00), and the Intramural Research Program of the National 
+Institute of Allergy and Infectious Diseases, National Institutes of 
+Health.
+Potential conflicts of interest.  All authors: No reported conflicts of 
+interest. All authors have submitted the ICMJE Form for Disclosure of 
+Potential Conflicts of Interest. Conflicts that the editors consider relevant to 
+the content of the manuscript have been disclosed.
+References
+	 1.	 Centers for Disease Control. 2014 Ebola outbreak in West Africa. http://www.cdc.
+gov/vhf/ebola/outbreaks/2014-west-africa/. Accessed 15 January 2017.
+	 2.	 Muyembe-Tamfum JJ, Mulangu S, Masumu J, Kayembe JM, Kemp A, Paweska JT. 
+Ebola virus outbreaks in Africa: past and present. Onderstepoort J Vet Res 2012; 
+79:451.
+	 3.	 Ogawa H, Miyamoto H, Nakayama E, et al. Seroepidemiological prevalence of 
+multiple species of filoviruses in fruit bats (Eidolon helvum) migrating in Africa. J 
+Infect Dis 2015; 212(Suppl 1):101–8.
+	 4.	 Towner JS, Amman BR, Sealy TK, et al. Isolation of genetically diverse Marburg 
+viruses from Egyptian fruit bats. PLoS Pathog 2009; 5:e1000536.
+	 5.	 Leroy EM, Kumulungui B, Pourrut X, et al. Fruit bats as reservoirs of Ebola virus. 
+Nature 2005; 438:575–6.
+	 6.	 Bausch DG, Nichol ST, Muyembe-Tamfum JJ, et al.; International Scientific and 
+Technical Committee for Marburg Hemorrhagic Fever Control in the Democratic 
+Republic of the Congo. Marburg hemorrhagic fever associated with multiple 
+genetic lineages of virus. N Engl J Med 2006; 355:909–19.
+	 7.	 Adjemian J, Farnon EC, Tschioko F, et al. Outbreak of marburg hemorrhagic fever 
+among miners in Kamwenge and Ibanda districts, Uganda, 2007. J Infect Dis 2011; 
+204(Suppl):796–9.
+	 8.	 Leroy EM, Epelboin A, Mondonge V, et al. Human Ebola outbreak resulting from 
+direct exposure to fruit bats in Luebo, Democratic Republic of Congo, 2007. 
+Vector Borne Zoonotic Dis 2009; 9:723–8.
+	 9.	 Albarino CG, Shoemaker T, Khristova ML, et  al. Genomic analysis of filovi-
+ruses associated with four viral hemorrhagic fever outbreaks in Uganda and the 
+Democratic Republic of the Congo in 2012. Virology 2013; 442:97–100.
+	
+10.	 Swanepoel R, Smit SB, Rollin PE, et  al.; International Scientific and Technical 
+Committee for Marburg Hemorrhagic Fever Control in the Democratic Republic 
+of Congo. Studies of reservoir hosts for Marburg virus. Emerg Infect Dis 2007; 
+13:1847–51.
+	
+11.	 Le Guenno B, Formenty P, Formentry P, et al. Isolation and partial characterisation 
+of a new strain of Ebola virus. Lancet 1995; 345:1271–4.
+	
+12.	 Georges AJ, Leroy EM, Renaut AA, et al. Ebola hemorrhagic fever outbreaks in 
+Gabon, 1994–1997: Epidemiologic and health control issues. J Infect Dis 1999; 
+179(Suppl):65–75.
+	
+13.	 Leroy EM, Rouquet P, Formenty P, et al. Multiple Ebola virus transmission events 
+and rapid decline of central African wildlife. Science 2004; 303:387–90.
+	
+14.	 Formenty P, Boesch C, Wyers M, et al. Ebola virus outbreak among wild chim-
+panzees living in a rain forest of Cote d’Ivoire. J Infect Dis 1999; 179(Suppl 
+1):120–6.
+	
+15.	 Huijbregts B, Wachter PD, Obiang LSN, Akou ME. Ebola and the decline of gorilla 
+(Gorilla gorilla) and chimpanzee (Pan troglodytes) populations in Minkebe Forest, 
+north-eastern Gabon. Oryx 2003; 37:437–43.
+	
+16.	 Leendertz SAJ, Wich SA, Ancrenaz M, et al. Ebola in great apes—current knowl-
+edge, possibilities for vaccination, and implications for conservation and human 
+health. Mammal Review 2017; 47:98–111.
+	
+17.	 Lahm SA, Kombila M, Swanepoel R, Barnes RF. Morbidity and mortality of wild 
+animals in relation to outbreaks of Ebola haemorrhagic fever in Gabon, 1994–
+2003. Trans R Soc Trop Med Hyg 2007; 101:64–78.
+S286  •  JID  2018:218  (Suppl 5)  •  Smiley Evans et al
+	
+18.	 Morvan JM, Deubel V, Gounon P, et al. Identification of Ebola virus sequences 
+present as RNA or DNA in organs of terrestrial small mammals of the Central 
+African Republic. Microbes Infect 1999; 1:1193–201.
+	
+19.	 Barrette RW, Metwally SA, Rowland JM, et al. Discovery of swine as a host for the 
+Reston ebolavirus. Science 2009; 325:204–6.
+	
+20.	 Allela L, Boury O, Pouillot R, et al. Ebola virus antibody prevalence in dogs and 
+human risk. Emerg Infect Dis 2005; 11:385–90.
+	
+21.	 Rouquet P, Fromont JM, Mermejo M, et al. Wild animal mortality monitoring and 
+human Ebola outbreaks, Gabon and Republic of Congo, 2001–2003. Emerg Infect 
+Dis 2005; 11:283–90.
+	
+22.	 Gonzalez JP, Nakoune E, Slenczka W, Vidal P, Morvan JM. Ebola and Marburg 
+virus antibody prevalence in selected populations of the Central African Republic. 
+Microbes Infect 2000; 2:39–44.
+	
+23.	 Busico KM, Marshall KL, Ksiazek TG, et al. Prevalence of IgG antibodies to Ebola 
+virus in individuals during an Ebola outbreak, Democratic Republic of the Congo, 
+1995. J Infect Dis 1999; 179(Suppl 1):102–7.
+	
+24.	 Newton-Fisher N, Notman H, Paterson J, Reynolds V, eds. Primates of western 
+Uganda. New York: Springer, 2010.
+	
+25.	 Zhai J, Palacios G, Towner JS, et al. Rapid molecular strategy for filovirus detection 
+and characterization. J Clin Microbiol 2007; 45:224–6.
+	
+26.	 Hume AJ, Ames J, Rennick LJ, et al. Inactivation of RNA viruses by gamma irradi-
+ation: a study on mitigating factors. Viruses 2016; 8. doi: 10.3390/v8070204.
+	
+27.	 Gunther S, Feldmann H, Geisbert TW, et al. Management of accidental exposure 
+to Ebola virus in the biosafety level 4 laboratory, Hamburg, Germany. J Infect Dis 
+2011; 204(Suppl 3):785–90.
+	
+28.	 Falzarano D, Feldmann F, Grolla A, et al. Single immunization with a monovalent 
+vesicular stomatitis virus-based vaccine protects nonhuman primates against heterol-
+ogous challenge with Bundibugyo ebolavirus. J Infect Dis 2011; 204(Suppl 3):1082–9.
+	
+29.	 Hosmer D, Lemeshow S, Sturdivant R. Applied logistic regression. New York: John 
+Wiley and Sons, 2013.
+	
+30.	 Jacomy M, Venturini T, Heymann S, Bastian M. ForceAtlas2, a continuous graph 
+layout algorithm for handy network visualization designed for the Gephi software. 
+PLoS One 2014; 9:e98679.
+	
+31.	 Shoemaker T, MacNeil A, Balinandi S, et al. Reemerging Sudan Ebola virus disease 
+in Uganda, 2011. Emerg Infect Dis 2012; 18:1480–3.
+	
+32.	 Okware SI, Omaswa FG, Zaramba S, et al. An outbreak of Ebola in Uganda. Trop 
+Med Int Health 2002; 7:1068–75.
+	
+33.	 Khan AS, Toshioko FK, Heymann DL, et al. The reemergence of Ebola hemor-
+rhagic fever, Democratic Republic of the Congo, 1995. J Infect Dis 1999; 179:76–86.
+	
+34.	 Timen A, Koopmans MP, Vossen AC, et al. Response to imported case of Marburg 
+hemorrhagic fever, the Netherland. Emerg Infect Dis 2009; 15:1171–5.
+	
+35.	 Centers for Disease Control and Prevention. Imported case of Marburg hemor-
+rhagic fever - Colorado, 2008. Morb Mortal Wkly Rep 2009; 58:1377–81.
+	
+36.	 Becker S, Feldmann H, Will C, Slenczka W. Evidence for occurrence of filovirus 
+antibodies in humans and imported monkeys: do subclinical filovirus infections 
+occur worldwide? Med Microbiol Immunol 1992; 181:43–55.
+	
+37.	 Leroy EM, Baize S, Volchkov VE, et al. Human asymptomatic Ebola infection and 
+strong inflammatory response. Lancet 2000; 355:2210–5.
+	
+38.	 Richardson ET, Kelly JD, Barrie MB, et  al. Minimally symptomatic infection 
+in an Ebola ‘hotspot’: a cross-sectional serosurvey. PLoS Negl Trop Dis 2016; 
+10:e0005087.
+	
+39.	 Becquart P, Wauquier N, Mahlakõiv T, et al. High prevalence of both humoral and 
+cellular immunity to Zaire ebolavirus among rural populations in Gabon. PLoS 
+One 2010; 5:e9126.
+	
+40.	 Rowe AK, Bertolli J, Khan AS, et al. Clinical, virologic, and immunologic fol-
+low-up of convalescent Ebola hemorrhagic fever patients and their household 
+contacts, Kikwit, Democratic Republic of the Congo. Commission de Lutte contre 
+les Epidemies a Kikwit. J Infect Dis 1999; 179(Suppl 1):28–35.
+	
+41.	 Olival KJ, Islam A, Yu M, et al. Ebola virus antibodies in fruit bats, bangladesh. 
+Emerg Infect Dis 2013; 19:270–3.
+	
+42.	 Sanchez A, Trappier SG, Mahy BW, Peters CJ, Nichol ST. The virion glycoproteins 
+of Ebola viruses are encoded in two reading frames and are expressed through 
+transcriptional editing. Proc Natl Acad Sci U S A 1996; 93:3602–7.
+	
+43.	 Nakayama E, Yokoyama A, Miyamoto H, et al. Enzyme-linked immunosorbent 
+assay for detection of filovirus species-specific antibodies. Clin Vaccine Immunol 
+2010; 17:1723–8.
+	
+44.	 Albarino CG, Shoemaker T, Khristova M, et al. Genomic analysis of filoviruses 
+associated with four viral hemorrhagic fever outbreaks in Uganda and the 
+Democratic Republic of the Congo in 2012. Virol 2013; 442:97–100.
+	
+45.	 Timen A, Koopmans MP, Vossen AC, et al. Response to imported case of Marburg 
+hemorrhagic fever, the Netherland. Emerg Infect Dis 2009; 15:1171–5.
+	
+46.	 Centers for Disease Control and Prevention. Imported case of Marburg hemor-
+rhagic fever - Colorado, 2008. MMWR Morb Mortal Wkly Rep 2009; 58:1377–81.
+	
+47.	 Bausch DG, Borchert M, Grein T, et al. Risk factors for Marburg hemorrhagic 
+fever, Democratic Republic of the Congo. Emerg Infect Dis 2003; 9:1531–7.
+	
+48.	 Towner JS, Khristova ML, Sealy TK, et al. Marburgvirus genomics and asso-
+ciation with a large hemorrhagic fever outbreak in Angola. J Virol 2006; 80: 
+6497–516.
+

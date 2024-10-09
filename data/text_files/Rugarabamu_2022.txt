@@ -1,0 +1,1227 @@
+Rugarabamu et al. 
+Infectious Diseases of Poverty           (2022) 11:33  
+https://doi.org/10.1186/s40249-022-00959-z
+RESEARCH ARTICLE
+Viral haemorrhagic fevers and malaria 
+co‑infections among febrile patients seeking 
+health care in Tanzania
+Sima Rugarabamu1,2,3, Susan F. Rumisha4,5, Gaspary O. Mwanyika1,2,6, Calvin Sindato1,7, Hee‑Young Lim8, 
+Gerald Misinzo1,2 and Leonard E. G. Mboera1*   
+Abstract 
+Background:  In recent years there have been reports of viral haemorrhagic fever (VHF) epidemics in sub-Saharan 
+Africa where malaria is endemic. VHF and malaria have overlapping clinical presentations making differential diagno‑
+sis a challenge. The objective of this study was to determine the prevalence of selected zoonotic VHFs and malaria 
+co-infections among febrile patients seeking health care in Tanzania.
+Methods:  This facility-based cross-sectional study was carried out between June and November 2018 in Buhigwe, 
+Kalambo, Kyela, Kilindi, Kinondoni, Kondoa, Mvomero, and Ukerewe districts in Tanzania. The study involved febrile 
+patients seeking health care from primary healthcare facilities. Blood samples were collected and tested for infections 
+due to malaria, Crimean-Congo haemorrhagic fever (CCHF), Ebola virus disease (EVD), Marburg virus disease (MVD), 
+Rift Valley fever (RVF) and yellow fever (YF). Malaria infections were tested using rapid diagnostics tests while exposure 
+to VHFs was determined by screening for immunoglobulin M antibodies using commercial enzyme-linked immuno‑
+sorbent assays. The Chi-square test was used to compare the proportions.
+Results:  A total of 308 participants (mean age = 35 ± 19 years) were involved in the study. Of these, 54 (17.5%) had 
+malaria infection and 15 (4.8%) were positive for IgM antibodies against VHFs (RVF = 8; CCHF = 2; EBV = 3; MBV = 1; 
+YF = 1). Six (1.9%) individuals had both VHF (RVF = 2; CCHF = 1; EVD = 2; MVD = 1) and malaria infections. The highest 
+co-infection prevalence (0.6%) was observed among individuals aged 46‒60 years (P < 0.05). District was significantly 
+associated with co-infection (P < 0.05) with the highest prevalence recorded in Buhigwe (1.2%) followed by Kinondoni 
+(0.9%) districts. Headache (100%) and muscle, bone, back and joint pains (83.3%) were the most significant complaints 
+among those infected with both VHFs and malaria (P = 0.001).
+Conclusions:  Co-infections of VHF and malaria are prevalent in Tanzania and affect more the older than the younger 
+population. Since the overlapping symptoms in co-infected individuals may challenge accurate diagnosis, adequate 
+laboratory diagnosis should be emphasized in the management of febrile illnesses.
+Keywords:  Malaria, Viral haemorrhagic fevers, Febrile illnesses, Co-infection, Tanzania
+© The Author(s) 2022. Open Access This article is licensed under a Creative Commons Attribution 4.0 International License, which 
+permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the 
+original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or 
+other third party material in this article are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line 
+to the material. If material is not included in the article’s Creative Commons licence and your intended use is not permitted by statutory 
+regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this 
+licence, visit http://​
+creat​
+iveco​
+mmons.​
+org/​
+licen​
+ses/​
+by/4.​
+0/. The Creative Commons Public Domain Dedication waiver (http://​
+creat​
+iveco​
+mmons.​
+org/​
+publi​
+cdoma​
+in/​
+zero/1.​
+0/) applies to the data made available in this article, unless otherwise stated in a credit line to the data.
+Background
+Viral haemorrhagic fevers (VHF) have become more 
+prevalent in sub-Saharan Africa during recent years, 
+causing either sporadic or large-scale epidemics, thus 
+posing significant risk to public health. The VHFs 
+reported in sub-Saharan Africa in recent years include 
+Open Access
+*Correspondence:  lmboera@gmail.com
+1 SACIDS Foundation for One Health, Sokoine University of Agriculture, 
+Morogoro, Tanzania
+Full list of author information is available at the end of the article
+Page 2 of 8
+Rugarabamu et al. Infectious Diseases of Poverty           (2022) 11:33 
+Crimean-Congo haemorrhagic fever (CCHF), Ebola virus 
+disease (EVD), Lassa fever (LF), Marburg virus disease 
+(MVD), Rift Valley fever (RVF), and yellow fever (YF) [1–
+4]. On the other hand, malaria is among the most impor-
+tant mosquito-borne parasitic endemic disease in the 
+region, accounting for 94% of the reported cases glob-
+ally [5]. VHFs and malaria are among the major causes 
+of febrile illnesses in humans in sub-Saharan Africa. 
+The fact that malaria prevalence in sub-Saharan Africa 
+is high, it is likely that the prevalence of co-infections of 
+VHFs and malaria to be common in the region.
+Of the VHFs, RVF and CCHF outbreaks have been 
+reported in Tanzania [6–8]. Although no clinical case of 
+EVD, MVD or YF have been reported in Tanzania, its 
+geographical position puts the country at high risk. This 
+is due to the fact that outbreaks of the three diseases have 
+been reported from its neighbouring countries [9–12]. 
+Moreover, a recent study in Tanzania has reported the 
+presence of immunoglobulin M (IgM) and IgG antibod-
+ies against to CCHF, EVD, MVD, RVF, and YF in 12.8% 
+of the population across the country. The specific disease 
+estimated seroprevalence of CCHF, EVD, MVD, RFV 
+and YF was 2.0%, 3.4%, 1.2%, 4.8%, and 1.4%, respectively 
+[4]. Tanzania is among the 10 countries with the highest 
+malaria cases and deaths, accounting for 3% of the global 
+cases and 5% of global deaths [5]. Malaria is endemic in 
+almost all regions of Tanzania, with over 95% of the pop-
+ulation at risk, though with significant transmission vari-
+ations between and within districts [13, 14]. The disease 
+accounts for about a quarter and a third of all outpatient 
+attendances and hospital admissions, respectively, and is 
+the leading cause of hospital mortality [15].
+In sub-Saharan Africa, VHF and malaria co-infections 
+have been reported in Gabon [16], Senegal [17], Nigeria 
+[18], and Democratic Republic of the Congo [19]. In a 
+recent systematic review, prevalence of EVD and malaria 
+co-infection was reported to be between 19 and 72% [20]. 
+Co-infections of malaria and VHF have been described 
+to shape and influence the development of inflammatory 
+diseases, with either beneficial or detrimental outcomes 
+[20–22]. A study in Liberia has indicated that malaria 
+parasitaemia was associated with an increase in the prob-
+ability of surviving EVD infection [23]. In the contrary, 
+in a study in Sierra Leone, the mortality risk was highest 
+among patients with both EVD and malaria than those 
+with EVD alone [24].
+Most VHFs and malaria initially present with simi-
+lar non-specific symptoms and signs of fever, headache, 
+joint pains and weaknesses, posing challenges in differen-
+tial diagnosis [19, 25]. Clinical diagnosis of VHF is con-
+sidered when a patient is from an endemic area, tested 
+malaria negative, and an alternative diagnosis cannot be 
+established. When not systematically investigated, VHFs 
+are often misdiagnosed as malaria due to similar clini-
+cal presentations; thus delays the identification of VHF 
+outbreaks and the associated potentially high morbid-
+ity and mortality [20]. There is dearth of information 
+on VHF and malaria co-infections in Tanzania and pos-
+sibly underreported because of the limited number of 
+laboratories capable of diagnosing VHF infections. The 
+objective of this study was therefore to determine the 
+prevalence of co-infections of VHFs and malaria among 
+febrile patients seeking health care in Tanzania.
+Methods
+Study areas and design
+This study was carried out in eight districts in five dis-
+tinct ecological zones of Tanzania. The zones are West-
+ern, Southern-highlands, North-eastern, Central and 
+Lake Victoria. The western zone is characterised by tropi-
+cal forest, unimodal rainfall pattern, and an altitude of 
+2300  m. The Southern-highlands zone covers regions 
+with high precipitations, tropical forest, bimodal rainfall 
+pattern, low temperatures and elevation > 2300  m. The 
+North-eastern Tanzania is characterised by a bimodal 
+rainfall pattern and seasons of high temperatures. The 
+Central zone comprises of a semi-arid area at an eleva-
+tion of about 1000 m characterized by moderate precipi-
+tation and unimodal rainfall pattern. The Lake Victoria 
+area is characterized by a bimodal rainfall pattern and 
+intermediate temperatures and an elevation of 1134  m. 
+The study districts were Buhigwe, Kalambo (western), 
+Kyela (southern-highlands), Kilindi, Kinondoni (north-
+eastern), Kondoa, Mvomero (central) and Ukerewe (Lake 
+Victoria) (Fig. 1). The study area has been described in 
+detail elsewhere [4].
+In each district, a hospital and two health centres were 
+conveniently selected while a random sampling was done 
+in selecting four dispensaries. Patients presenting with 
+fever were recruited for the study. Fever was defined as 
+any patient with an axillary temperature of  > 38 ℃ based 
+on clinical thermometer reading on the day of health 
+facility visit. Clinicians from the study team and those 
+from the selected health facilities carried out clinical 
+assessment for each participant. Socio-demographic 
+and epidemiological data were collected from each 
+participant.
+Sample size calculation
+To calculate the sample size for this study, the fever 
+prevalence of 25% [13], a desired absolute precision of 
+5%, and a confidence level of 95% were used [26]. The 
+minimum estimated sample size was 289 individuals. To 
+split among the districts, the population-weighted sam-
+ples based on the zonal and regional prevalence of the 
+febrile population were used [13]. District specific sample 
+Page 3 of 8
+Rugarabamu et al. Infectious Diseases of Poverty           (2022) 11:33 
+	
+sizes were as follows: Western zone: Buhigwe = 33; Kal-
+ambo = 31; Southern-highlands zone (Kyela) = 48; North-
+eastern zone: (Kilindi = 31; Kinondoni = 39); Central 
+zone: (Kondoa = 32; Mvomero = 49); and Lake Victoria 
+zone: Ukerewe = 45. The sample size considered a con-
+tingency of 10% to account for non-response, refusal, or 
+missingness. The district sample was split equally among 
+the study facilities.
+Data collection
+This facility-based study was conducted between June 
+and November 2018. The research team was oriented 
+on the study objectives, procedures, research ethics 
+and trained on data collection tools. All febrile patients 
+attending healthcare facility were targeted. A face-to-
+face interview was conducted to collect information on 
+socio-demographic and clinical characteristics using 
+a semi-structured questionnaire programmed in the 
+AfyaData app installed in smartphones [27]. The socio-
+demographic characteristics collected included age, sex, 
+occupation, village, workplace, and area of residence. 
+Each individual was examined for symptoms and/or 
+clinical features of headache, rash, fatigue, muscle pain, 
+bone pain, back or joint pain, nausea, abdominal pain, 
+bruising, vomiting, red spots (on the skin/eye/mucosa), 
+and jaundice. Each participant was assigned a code that 
+Fig. 1  Map of Tanzania showing the ecological zones, study districts and sites
+Page 4 of 8
+Rugarabamu et al. Infectious Diseases of Poverty           (2022) 11:33 
+restricted her/his direct identification. Axillary tempera-
+ture was recorded using a digital clinical thermometer. 
+Five millilitres of blood were collected from adults and 
+children > 10 years and 2 ml from children < 10 years of 
+age by venepuncture using standard sterile technique. 
+Malaria infection was tested using malaria rapid diagnos-
+tic tests (CareStart™ malaria HRP-2/pLDH, American 
+Access Bio Company, USA). The sensitivity and specific-
+ity of CareStart™ malaria HRP2/pLDH (Pf/pan) combo 
+test are high [28] and test has been approved for diagno-
+sis of malaria at the point of care in Tanzania.
+Sera were harvested from the collected blood sam-
+ples by centrifugation at the laboratories in the respec-
+tive district hospitals. The samples were labelled using 
+a unique identification number, archived, and stored in 
+liquid nitrogen (−  196  ℃) before being transported to 
+the laboratory at Sokoine University of Agriculture in 
+Morogoro, Tanzania, where they were stored at −80 ℃ 
+until examination. Aliquots of the sera were tested for the 
+presence of human IgM antibodies against CCHF, EVD, 
+LF, MBV, RVF, and YF using commercial enzyme-linked 
+immunosorbent assays (ELISA) kits (My BioSource, Inc., 
+San Diego, CA, USA), according to the manufacturer’s 
+instructions. To validate the ELISA, determination of the 
+intra-assay coefficient of variation (CV), inter-assay CV, 
+recovery, linearity and parallelism was performed. The 
+intra-assay CV (%) and inter-assay CV (%) were less than 
+15% for reactive samples.
+Data analysis
+Data were analysed using Statistical Package for the 
+Social Sciences (SPSS) Statistics version 23 (IBM, 
+Armonk, NY, USA). Frequencies, median, and associ-
+ated interquartile ranges (IQRs) were calculated. The 
+Chi-square test (or Fisher’s exact test where appropri-
+ate) was used to compare the proportions of positive 
+malaria, VHF and co-infections frequency by sex and 
+age. A statistically significant difference was consid-
+ered when the P-value was below 0.05. Cut-off values 
+for ELISA antibody analysis were determined following 
+the manufacturer’s instructions. The assay performance 
+was considered adequate when the intra- and inter-assay 
+coefficient of variabilities were less than 15%.
+Results
+Socio‑demographic and clinical characteristics
+A total of 308 participants were involved in the study. Of 
+these, 185 (60.1%) were females, and 123 (39.9%) males. 
+The mean age was 35 ± 19  years. Over half (54.2%) of 
+participants were in the 16‒45 years age category. About 
+two-thirds (62.3%) of participants had primary school 
+education. Crop farmers accounted for the largest pro-
+portion (43.2%) of the participants (Table 1).
+The most common symptoms among the study partici-
+pants were body aches and pains which included head-
+ache (48.4%), muscle, bone, back, or joint pain (32.0%), 
+and stomach pain (16.4%). The least observed signs were 
+jaundice, bleeding/bruising, and red spots on the skin, 
+eyes or mucosae (Table 1).
+Seroprevalence of malaria or viral haemorrhagic fevers
+Of the 308 febrile individuals, 54 (17.5%) were posi-
+tive to the rapid diagnostic malaria test. The prevalence 
+of malaria infection was higher among females (10.1%; 
+n = 31) than males (7.5%; n = 23). Individuals aged 
+0‒15 years (6.8%; n = 21) were most affected by malaria. 
+However, there was no significant difference between 
+sex and the age groups (P > 0.05) (Table  2). A total of 
+15 (4.8%) participants were positive for IgM antibod-
+ies against VHF tested (RVF = 8; CCHF = 2; EBV = 3; 
+MBV = 1; YF = 1). None of the samples was positive for 
+Lassa fever virus antibody. There was a significant differ-
+ence between the age groups among seropositive indi-
+viduals to EVD (P < 0.05). Seroprevalence of RVF, CCHF, 
+MVD and YF were similar in all age groups (Table 2).
+VHFs and malaria co‑infections
+Six (1.9%) individuals had both VHF (RVF = 2; CCHF = 1; 
+EVD = 2; MVD = 1) and malaria infections. Of those 
+with VHF and malaria co-infections, four (66.7%) were 
+males and two (33.3%) were females. In relation to age, 
+the highest co-infection rate (0.6%), was observed among 
+individuals aged 46–60 years (P < 0.05). Location was sig-
+nificantly associated with co-infection (P < 0.05) as higher 
+prevalence was recorded among those from Buhigwe 
+(1.2%) followed by Kinondoni (0.9%) districts (Table 3).
+Severe headache was the most frequent (100%) com-
+plain among those with both VHF and malaria infections. 
+Other aches, including muscle, bone, back, and joint 
+pains were reported by 83.3% of those with co-infections 
+of VHFs and malaria (Table 4).
+Discussion
+Malaria was the most important febrile associated 
+infection in the study districts. Overall, about 5% of 
+the study population were positive for IgM antibodies 
+against VHF tested, with RVF accounting for the largest 
+proportion of the infections. Co-infections of malaria 
+and VHFs were detected in about 2% of the febrile indi-
+viduals seeking care from health facilities. While RVF 
+outbreaks have been reported to occur in low malaria 
+endemic districts of Tanzania [29–32], CCHF has been 
+reported in high malaria area of the country [6, 7]; thus 
+allowing the occurrence of mixed infections in patients 
+as previously reported in other endemic regions [33]. 
+The prevalence of malaria infections in the current 
+Page 5 of 8
+Rugarabamu et al. Infectious Diseases of Poverty           (2022) 11:33 
+	
+study was lower than that reported by other recent 
+studies in Tanzania [13, 14, 33]. This could be due to 
+the differences in the study period, targeted population 
+and also biases of health-facility based surveys. A rela-
+tively higher prevalence of co-infection of malaria and 
+EVD has been reported from studies during outbreaks 
+in Democratic Republic of the Congo [19] and Sierra 
+Leone [25]. Similar to the findings of a study in Nigeria 
+[34], no malaria and YF co-infection was  observed in 
+this study.
+Table 1  Socio-demographic and clinical characteristics of study participants
+Variable
+Description
+Frequency
+Percentage (%)
+Sex
+Female
+185
+60.1
+Male
+123
+39.9
+Age (years)
+0‒15
+49
+15.9
+16‒30
+86
+27.9
+31‒45
+81
+26.3
+46‒60
+55
+17.9
+ ≥ 61
+37
+12.0
+Education
+None
+77
+25.0
+Primary
+192
+62.3
+Secondary
+29
+9.4
+College
+10
+3.3
+Occupation
+Crop farming
+133
+43.2
+Employed
+44
+14.4
+Trading
+21
+6.8
+Livestock keeping
+20
+6.4
+Student
+27
+8.8
+Others
+63
+20.4
+Symptom/sign
+Headache
+242
+48.4
+Muscle, bone, back, or joint pain
+160
+32.0
+Abdominal pain
+82
+16.4
+Fatigue
+45
+9.0
+Rashes
+31
+6.2
+Vomiting
+25
+5.0
+Nausea
+18
+3.6
+Jaundice
+7
+1.4
+Bleeding/bruising
+3
+0.6
+Red spots on the skin/eye/mucosa
+2
+0.4
+Table 2  Seroprevalence of single infection of malaria, RVF, CCHF, EVD, MVD, and YF by age and sex
+Key: RVF Rift Valley fever, CCHF  Crimean-Congo Haemorrhagic fever, EVD Ebola Virus Disease, MVD Marburg Virus Disease, YF Yellow fever
+Variable
+Malaria
+RVF
+CCHF
+EVD
+MVD
+YF
+n (%)
+P-value
+n (%)
+P-value
+n (%)
+P-value
+n (%)
+P-value
+n (%)
+P-value
+n (%)
+P-value
+Age (years)
+ 0‒15
+21 (6.8)
+0.69
+0
+0
+0
+1 (0.3)
+0
+ 16‒30
+14 (4.5)
+1 (0.3)
+1 (0.3)
+0
+0
+0
+ 31‒45
+12 (3.9)
+3 (1.0)
+0.96
+1 (0.3)
+0.67
+0
+0.015
+0
+0.99
+1 (0.3)
+0.99
+ 46‒60
+7 (2.3)
+1 (0.3)
+0
+3 (0.9)
+0
+0
+ ≥ 61
+0 (0.0)
+3 (1.0)
+0
+0
+0
+0
+Sex
+ Female
+31 (10.1)
+0.56
+4 (1.3)
+0.67
+1 (0.3)
+0.53
+1 (0.3)
+0.35
+0
+0.21
+1 (0.3)
+0.44
+ Male
+23 (7.4)
+4 (1.3)
+1 (0.3)
+2 (0.6)
+1 (0.3)
+0
+Page 6 of 8
+Rugarabamu et al. Infectious Diseases of Poverty           (2022) 11:33 
+The VHF and malaria co-infection rate observed in 
+this study was associated with older age. The higher 
+prevalence of VHF and malaria co-infections among the 
+adults is likely to be associated with higher exposure 
+compared with children due to their livelihoods activities 
+that bring them closer to sources of VHF infection [35]. 
+Many studies have linked VHF and malaria co-infections 
+with increased human activity around ecological zones of 
+increasing biodiversity, climate change, negative health-
+care-seeking practices of some community members, 
+gate-keeping role by traditional healers and traditional 
+health care system, water and sanitation challenges, bur-
+ial practices, and corpse management capacity in poor-
+resource settings [22, 25, 36, 37].
+VHFs (EVD, MVD, RVF) and malaria co-infections 
+were most prevalent in Buhigwe district in Kigoma 
+Region of western Tanzania, bordering the Demo-
+cratic Republic of Congo. Available statistics indicate 
+that Buhigwe is among the districts with high malaria 
+prevalence (24%) in Tanzania [14, 38]. Moreover, a 
+recent seroprevalence study has reported a 4.4% over-
+all prevalence of VHF in the same district, the high-
+est rate reported in Tanzania [4]. Co-infections due 
+to malaria and either RVF or CCHF were most preva-
+lent in Kinondoni district. The district is within the 
+high malaria burden region [38] and a recent study has 
+reported an overall prevalence of VHF of 2.8% [4].
+Aches and pains including severe headache were sig-
+nificantly noted in most of all the co-infected patients in 
+this study compared to patients with VHF alone. How-
+ever, this study could not determine whether malaria, 
+VHF or both to be responsible for the observed symp-
+toms. Our study agrees with others that patients with 
+VHFs usually present with non-specific signs, including 
+fever, vomiting, diarrhoea, fatigue, myalgia and head-
+ache [19]. Most often, later on, if not self-recovered, 
+the disease progresses to rashes and some affected 
+individuals will show evidence of coagulation disorders 
+with multiple foci of mucosal haemorrhage and persis-
+tent bleeding, while massive haemorrhages usually only 
+occur in fatal cases [39]. Our study observed an over-
+lap presentation of fever, headache, muscle/bone/back/
+joint pain, and vomiting in all patients co-infected with 
+VHF and malaria.
+The presence of antibodies against RVF, CCHF, EVD, 
+MVD and malaria in this study was highly unexpected. 
+The results are alarming because if sublethal VHF 
+infections commonly occur, they are likely to be missed 
+in co-infections with malaria.
+This study has limitations including use of rapid 
+test to diagnose malaria, which could result to some 
+cases been missed due to low parasitaemia. In addi-
+tion, no information on the use of antimalarials prior 
+to the test was obtained which could result to false 
+positives. The study was conducted between June and 
+November, a period associated with both high and low 
+malaria season depending on the district, which could 
+influence visits to health facilities and availability of 
+febrile patients as treatment seeking is low during low 
+malaria seasons, and levels of malaria risk obtained. 
+The serological results are based on antibody detec-
+tion which are likely to be a reflection of cumulative 
+Table 3  Seroprevalence of malaria, RVF, CCHF, EVD, MVD, YF and the respective co-infections with malaria (Mal) by district, n (%)
+Key: RVF Rift Valley fever, CCHF Crimean-Congo Haemorrhagic fever, EVD Ebola Virus Disease, MVD Marburg Virus Disease, YF Yellow fever, Mal malaria
+District
+Malaria
+RVF
+RVF + Mal
+CCHF
+CCHF + Mal
+EVD
+EVD + Mal
+MVD
+MVD + Mal
+YF
+YF + Mal
+Buhigwe
+3 (0.9%)
+1 (0.3%)
+1 (0.3%)
+0
+0
+2 (0.6%)
+2 (0.6%)
+1 (0.3%)
+1 (0.3%)
+0
+0
+Kinondoni
+6 (1.9%)
+2 (0.6%)
+1 (0.3%)
+1 (0.3%)
+1 (0.3%)
+0
+0
+0
+0
+1 (0.3%)
+0
+Mvomero
+4 (1.3%)
+1 (0.3%)
+0
+0
+0
+0
+0
+0
+0
+0
+0
+Kyela
+14 (4.5%)
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+Kalambo
+10 (3.2%)
+1 (0.3%)
+0
+0
+0
+0
+0
+0
+0
+0
+0
+Kondoa
+3 (0.9%)
+1 (0.3%)
+0
+0
+0
+1 (0.3%)
+0
+0
+0
+0
+0
+Kilindi
+2 (0.6%)
+1 (0.3%)
+0
+0
+0
+0
+0
+0
+0
+0
+0
+Ukerewe
+12 (3.9%)
+1 (0.3%)
+0
+1 (0.3%)
+0
+0
+0
+0
+0
+0
+0
+Table 4  Main clinical characteristics of malaria, VHF and 
+VHF + malaria co-infections
+VHF Viral haemorrhagic fever
+Symptoms and sign
+Number of subjects (%)
+P-value
+Malaria
+VHF
+VHF + Malaria
+Headache
+8 (14.8%)
+1 (7%)
+6 (100%)
+0.001
+Aches and pains
+7 (12.9%)
+0
+5 (83.3%)
+0.001
+Vomiting
+2 (3.7%)
+0
+2 (33%)
+0.32
+Rashes
+0
+1 (7%)
+1 (16.6%)
+0.31
+Fatigue
+3 (5.5%)
+1 (7%)
+1 (16.6%)
+0.23
+Abdominal pain
+2 (3.4%)
+0
+1 (16.6%)
+0.44
+Bleeding/bruising
+0
+0
+1 (16.6%)
+0.23
+Jaundice
+0
+0
+1 (16.6%)
+0.24
+Page 7 of 8
+Rugarabamu et al. Infectious Diseases of Poverty           (2022) 11:33 
+	
+exposure and/or antibody persistence following sin-
+gle or multiple exposure. Moreover, point of care tests 
+also have limitations associated with possibility that 
+one or more as-yet-unknown pathogens are circulating 
+among the human populations sampled in this study, 
+producing antibodies cross-reactive. The results of this 
+study should be interpreted with caution. Despite use-
+ful information gathered on the presence of VHF and 
+malaria co-infections, the findings from this study are 
+based on very small sample hence weaken the accuracy 
+and may not be representative.
+Conclusions
+The findings of this study show that the prevalence of 
+co-infections of viral haemorrhagic fevers and malaria 
+in Tanzania is generally low, though higher rates were 
+observed among the older  individuals. Since infections 
+due to malaria and VHF are associated with similar 
+symptoms, these findings suggest the need for improve-
+ment in case management of febrile illnesses based on 
+adequate laboratory diagnosis. It is equally important 
+that more studies are needed to establish how VHFs and 
+malaria infections interact to improve case management 
+and control in the future. The findings also highlight the 
+need to conduct molecular studies to identify specific 
+pathogens.
+Acknowledgements
+We are grateful to Alexander Raphael, Martin Anditi, Lucas Lazaro, and Felici‑
+ana Rawille for their support in data and sample collection. Mariam Makange, 
+Anna Rogath, and Mhoja Ndalahwa are thanked for their technical assistance 
+in laboratory examination of samples.
+Authors’ contributions
+LEGM conceived and designed the study; LEGM and CS developed the 
+sampling protocol; CS coordinated data and sample collection; SR and GOM 
+carried out data collection. SR and SFR carried out data analysis. A first draft 
+of the manuscript was prepared by SR and LEGM, then further revised by SFR, 
+GM, CS. All authors read and approved the final manuscript.
+Funding
+This study was financially supported by the research programme funded by 
+the Korea National Institute of Health/Korea Disease Control and Preven‑
+tion Agency (Fund code: 4845-300-340-01). SR and GOM are PhD students 
+supported by the Government of the United Republic of Tanzania through 
+the World Bank (WB-ACE II Grant; PAD1436, IDA Credit 5799-TZ) to the SACIDS 
+Africa Centre of Excellence for Infectious Diseases of Humans and Animals in 
+East and Southern Africa.
+Availability of data and materials
+The datasets generated for this study are available on request to the cor‑
+responding author.
+Declarations
+Ethics approval and consent to participate
+This study was approved by the Medical Research Coordinating Commit‑
+tee of the National Institute of Medical Research in Tanzania (Reference No. 
+NIMR/HQ/R.8c/Vol.1/1612). Written informed consent was obtained from all 
+subjects ≥ 18 years, and consent was obtained from parents or guardians of 
+the respective individuals < 18 years old following subject’s assent.
+Consent for publication
+Not applicable.
+Competing interests
+The authors declare that they conducted the research in the absence of any 
+commercial or financial relationships that could be construed as a potential 
+conflict of interest.
+Author details
+1 
+SACIDS Foundation for One Health, Sokoine University of Agriculture, 
+Morogoro, Tanzania. 2 
+Department of Veterinary Microbiology, Parasitology 
+and Biotechnology, Sokoine University of Agriculture, Morogoro, Tanzania. 
+3 
+Muhimbili University of Health and Allied Sciences, Dar es Salaam, Tanzania. 
+4 
+National Institute for Medical Research, Dar es Salaam, Tanzania. 5 
+Malaria Atlas 
+Project, Geospatial Health and Development, Telethon Kids Institute, Perth, 
+WA, Australia. 6 
+Mbeya University of Science and Technology, Mbeya, Tanzania. 
+7 
+National Institute for Medical Research, Tabora Research Centre, Tabora, 
+Tanzania. 8 
+Korea Disease Control and Prevention Agency, National Institute 
+of Health, Osong, Chungchungbukdo, Republic of Korea. 
+Received: 18 December 2021   Accepted: 10 March 2022
+References
+	1.	
+Asogun DA, Gunther S, Akpede GO, Ihekweazu C, Zumla A. Lassa fever: 
+epidemiology, clinical features, diagnosis, management and prevention. 
+Infect Dis Clin North Am. 2019;33:933–51. https://​
+doi.​
+org/​
+10.​
+1016/j.​
+idc.​
+2019.​
+08.​
+002.
+	2.	
+Zumla A, Hui DSC. Emerging and re-emerging infectious diseases: global 
+overview. Infect Dis Clin North Am. 2019. https://​
+doi.​
+org/​
+10.​
+1016/j.​
+idc.​
+2019.​
+09.​
+001.
+	3.	
+Iannetta M, Di Caro A, Nicastri E, Vairo F, Masanja H, Kobinger G, et al. Viral 
+hemorrhagic fevers other than Ebola and Lassa. Infect Dis Clin North Am. 
+2019;33:977–1002. https://​
+doi.​
+org/​
+10.​
+1016/j.​
+idc.​
+2019.​
+08.​
+003.
+	4.	
+Rugarabamu S, Mwanyika G, Rumisha SF, Sindato C, Lim H-Y, Misinzo 
+G, et al. Seroprevalence of selected zoonotic viral haemorrhagic fevers 
+and associated risk factors in Tanzania. Int J Infect Dis. 2021;109:174–81. 
+https://​
+doi.​
+org/​
+10.​
+1016/j.​
+ijid.​
+2021.​
+07.​
+006.
+	5.	
+Malaria World Report 2020. World Health Organization. https://​
+www.​
+who.​
+int/​
+malar​
+ia/​
+publi​
+catio​
+ns/​
+world-​
+malar​
+ia-​
+report-​
+2018/​
+en/.Accessed 21 Nov 
+2021.
+	6.	
+Swanepoel R, Shepherd AJ, Leman PA, Shepherd SP, McGillivray GM, 
+Erasmus MJ, et al. Epidemiologic and clinical features of Crimean-
+Congo hemorrhagic fever in southern Africa. Am J Trop Med Hyg. 
+1987;36(1):120–32. https://​
+doi.​
+org/​
+10.​
+4269/​
+ajtmh.​
+1987.​
+36.​
+120.
+	7.	
+Swanepoel R. Nairovirus infections. In: Porterfield JS, editor. Exotic Viral 
+Infections. London: Chapman and Hall; 1995. p. 285–93.
+	8.	
+Sindato C, Karimuribo ED, Pfeiffer DU, Mboera LEG, Kivaria F, Dautu G, 
+et al. Spatial and temporal pattern of Rift Valley fever outbreaks in Tan‑
+zania; 1930 to 2007. PLoS One. 2014;9(2):E8889. https://​
+doi.​
+org/​
+10.​
+1371/​
+journ​
+al.​
+pone.​
+00888​
+97.
+	9.	
+Smith DH, Johnson BK, Isaacson M, Swanepoel R, Johnson KM, Killey 
+M, et al. Marburg-virus disease in Kenya. Lancet. 1982;1(8276):816–20. 
+https://​
+doi.​
+org/​
+10.​
+1016/​
+s0140-​
+6736(82)​
+91871-2.
+	10.	 Kwallah AO, Inoue S, Thairu-Muigai AW, Kuttoh N, Morita K, Mwau M. 
+Sero-prevalence of yellow fever virus in selected health facilities in West‑
+ern Kenya from 2010 to 2012. Jap J Infect Dis. 2014;68(3):230–4.
+	11.	 Siya A, Bazeyo W, Tuhebwe D, Tumwine G, Ezama A, Manirakza L, et al. 
+Lowland grazing and Marburg virus disease (MVD) outbreak in Kween 
+district, Eastern Uganda. BMC Public Health. 2019;19:136. https://​
+doi.​
+org/​
+10.​
+1186/​
+s12889-​
+019-​
+6477-y.
+	12.	 Rugarabamu S, George J, Mbanzulu KM, Mwanyika G, Misinzo G, Mboera 
+LEG. Estimating risk of introduction of Ebola virus disease from the 
+Democratic Republic of Congo to Tanzania: a qualitative assessment. 
+Epidemiol. 2021. https://​
+doi.​
+org/​
+10.​
+3390/​
+epide​
+miolo​
+gia30​
+10007.
+	13.	 Tanzania Malaria Indicator Survey 2017. Ministry of Health, Community 
+Development, Gender, Elderly and Children (Tanzania Mainland), Ministry 
+of Health (Zanzibar), National Bureau of Statistics, Office of the Chief 
+Government Statistician, and ICF, Dar es Salaam. 2017.
+Page 8 of 8
+Rugarabamu et al. Infectious Diseases of Poverty           (2022) 11:33 
+•
+ 
+fast, convenient online submission
+ 
+•
+  
+thorough peer review by experienced researchers in your ﬁeld
+• 
+ 
+rapid publication on acceptance
+• 
+ 
+support for research data, including large and complex data types
+•
+  
+gold Open Access which fosters wider collaboration and increased citations 
+ 
+maximum visibility for your research: over 100M website views per year 
+•
+  
+At BMC, research is always in progress.
+Learn more biomedcentral.com/submissions
+Ready to submit your research
+Ready to submit your research ?  Choose BMC and benefit from: 
+?  Choose BMC and benefit from: 
+	14.	 Chacky F, Runge M, Rumisha SF, Machafuko P, Chaki P, Massaga JJ, et al. 
+Nationwide school malaria parasitaemia survey in public primary schools, 
+the United Republic of Tanzania. Malar J. 2018;17:452. https://​
+doi.​
+org/​
+10.​
+1186/​
+s12936-​
+018-​
+2601-1.
+	15.	 Mboera LEG, Rumisha SF, Chiduo MG, Mangu CD, Lyimo EP, Mremi IR, 
+et al. Cause-specific mortality patterns among hospital deaths in Tanza‑
+nia. PLoS One. 2018;13(10):e0205833. https://​
+doi.​
+org/​
+10.​
+1371/​
+journ​
+al.​
+pone.​
+02058​
+33.
+	16.	 Abbate JL, Becquart P, Leroy E, Ezenwa VO, Roche B. Exposure to Ebola 
+virus and risk for infection with malaria parasites, rural Gabon. Emerg 
+Infect Dis. 2020;26(2):229–37. https://​
+doi.​
+org/​
+10.​
+3201/​
+eid26​
+02.​
+181120.
+	17.	 Sow A, Loucoubar C, Diallo D, Faye O, Ndiaye Y, Senghor CS, et al. 
+Concurrent malaria and arbovirus infections in Kedougou, south-eastern 
+Senegal. Malar J. 2016;15:47. https://​
+doi.​
+org/​
+10.​
+1186/​
+s12936-​
+016-​
+1100-5.
+	18.	 Kolawole OM, Ayodeji AO, Ogah JI. Prevalence of Rift Valley fever virus in 
+febrile malaria patients using serological and molecular-based evidence. 
+Ann Sci Technol. 2018;3(1):1–6. https://​
+doi.​
+org/​
+10.​
+2478/​
+ast-​
+2018-​
+0008.
+	19.	 Kratz T, Roddy P, Tshomba Oloma A, Jeffs B, Pou Ciruelo D, de la Rosa O, 
+et al. Ebola virus disease outbreak in Isiro, Democratic Republic of the 
+Congo, 2012: signs and symptoms, management and outcomes. PLoS 
+One. 2015;10(6):e0129333. https://​
+doi.​
+org/​
+10.​
+1371/​
+journ​
+al.​
+pone.​
+01293​
+33.
+	20.	 Edwards HM, Counihan H, Bonnington C, Achan J, Hamade P, Tiben‑
+derana K. The impact of malaria co-infection on Ebola virus dis‑
+ease outcomes: a systematic review and meta-analysis. PLoS One. 
+2021;16(5):e0251101. https://​
+doi.​
+org/​
+10.​
+1371/​
+journ​
+al.​
+pone.​
+02511​
+01.
+	21.	 Hassan A, Wlodarczyk MF, Benamar M, Bassot E, Salvioni A, Kassem S, et al. 
+A virus hosted in malaria-infected blood protects against T cell-mediated 
+inflammatory diseases by impairing DC function in a Type I IFN-depend‑
+ent manner. MBio. 2020;11(2):e03394-e3419. https://​
+doi.​
+org/​
+10.​
+1128/​
+mBio.​
+03394-​
+19.
+	22.	 Baba M, Logue CH, Oderinde B, Abdulmaleek H, Williams J, Lewis J, et al. 
+Evidence of arbovirus co-infection in suspected febrile malaria and 
+typhoid patients in Nigeria. J Infect Develop Countr. 2013;7(1):51–9. 
+https://​
+doi.​
+org/​
+10.​
+3855/​
+jidc.​
+2411.
+	23.	 Rosenke K, Adjemian J, Munster VJ, Marzi A, Falzarano D, Onyango CO, 
+et al. Plasmodium parasitemia associated with increased survival in Ebola 
+virus-infected patients. Clin Infect Dis. 2016;63(8):1026–33. https://​
+doi.​
+org/​
+10.​
+1093/​
+cid/​
+ciw452.
+	24.	 Waxman M, Aluisio AR, Rege S, Levine AC. Characteristics and survival 
+of patients with Ebola virus infection, malaria, or both in Sierra Leone: a 
+retrospective cohort study. Lancet Infect Dis. 2017;17:654–60. https://​
+doi.​
+org/​
+10.​
+1016/​
+S1473-​
+3099(17)​
+30112-3.
+	25.	 World Health Organization. Guidance on temporary malaria control 
+measures in Ebola-affected countries. Geneva: World Health Organiza‑
+tion; 2014.
+	26.	 Lwanga S, Lemeshow S. Sample size determination in health studies: a 
+practical manual. World Health Organization;1991. https://​
+apps.​
+who.​
+int/​
+iris/​
+handle/​
+10665/​
+40062.
+	27.	 Karimuribo ED, Mutagahywa E, Sindato C, Mboera LE, Mwabukusi M, 
+Kariuki Njenga M, et al. A smartphone app (AfyaData) for innovative one 
+health disease surveillance from community to national levels in Africa: 
+Intervention in disease surveillance. JMIR Public Health Surveill. 2017;3(4): 
+e94. https://​
+doi.​
+org/​
+10.​
+2196/​
+publi​
+cheal​
+th.​
+7373.
+	28.	 Bwire GM, Ngasala B, Kilonzi M, Mikomangwa WP, Felician FF, Kamuhabwa 
+AAR, et al. Diagnostic performance of CareStart™ malaria HRP2/pLDH test 
+in comparison with standard microscopy for detection of uncomplicated 
+malaria infection among symptomatic patients, Eastern Coast of Tanza‑
+nia. Malar J. 2019;18:354. https://​
+doi.​
+org/​
+10.​
+1186/​
+s12936-​
+019-​
+2990-9.
+	29.	 Mohamed M, Mosha F, Mghamba J, Zaki SR, Shieh WJ, Paweska J, et al. 
+Epidemiologic and clinical aspects of a Rift Valley fever outbreak in 
+humans in Tanzania, 2007. Am J Trop Med Hyg. 2010;83(2 Suppl):22–7. 
+https://​
+doi.​
+org/​
+10.​
+4269/​
+ajtmh.​
+2010.​
+09-​
+0318.
+	30.	 Heinrich N, Saathoff E, Weller N, Clowes P, Kroidl I, Ntinginya E, et al. High 
+seroprevalence of Rift Valley fever and evidence for endemic circulation 
+in Mbeya region, Tanzania, in a cross-sectional study. PLoS Negl Trop Dis. 
+2012;6: e1557. https://​
+doi.​
+org/​
+10.​
+1371/​
+journ​
+al.​
+pntd.​
+00015​
+57.
+	31.	 Barry M, Traoré FA, Sako FB, Kpamy DO, Bah EI, Poncin M, et al. Ebola out‑
+break in Conakry, Guinea: epidemiological, clinical, and outcome features. 
+Med Mal Infect. 2014;44:491–4. https://​
+doi.​
+org/​
+10.​
+1016/j.​
+medmal.​
+2014.​
+09.​
+009.
+	32.	 Ahmed A, Makame J, Robert F, Julius K, Mecky M. Seroprevalence and 
+spatial distribution of Rift Valley fever infection among agro-pastoral 
+and pastoral communities during Interepidemic period in the Serengeti 
+ecosystem, northern Tanzania. BMC Infect Dis. 2018;18:276. https://​
+doi.​
+org/​
+10.​
+1186/​
+s12879-​
+018-​
+3183-9.
+	33.	 Analytical Report to Inform the Tanzania Health Sector Strategic Plan 
+2015/16–2019/20. Ministry of Health, Community Development, Gender, 
+Elderly and Children, United Republic of Tanzania, Dodoma, Tanzania. 
+August 2019.
+	34.	 Kolawole OM, Irekeola AA, Seriki AA, Bellow KE. Investigation of risk fac‑
+tors associated with malaria and yellow fever coinfection among febrile 
+patients in Ilorin. Nigeria J Med Soc. 2018;32:33–9. https://​
+doi.​
+org/​
+10.​
+4103/​
+0972-​
+4958.​
+213955.
+	35.	 Glynn JR. Age-specific incidence of Ebola Virus disease. Lancet. 
+2015;386(9992):432. https://​
+doi.​
+org/​
+10.​
+1016/​
+S0140-​
+6736(15)​
+61446-5.
+	36.	 Muga GO, Onyango-Ouma W, Sang R, Affognon H. Sociocultural 
+and economic dimensions of Rift Valley fever. Am J Trop Med Hyg. 
+2015;92(4):730–8. https://​
+doi.​
+org/​
+10.​
+4269/​
+ajtmh.​
+14-​
+0363.
+	37.	 Omoleke SA, Mohammed I, Saidu Y. Ebola Viral Disease in West Africa: a 
+threat to global health, economy and political stability. J Public Health Afr. 
+2016;7(1):534. https://​
+doi.​
+org/​
+10.​
+4081/​
+jphia.​
+2016.​
+534.
+	38.	 Thawer SG, Chacky F, Runge M, Reaves E, Mandike R, Lazaro S, et al. Sub-
+national stratification of malaria risk in mainland Tanzania: a simplified 
+assembly of survey and routine data. Malar J. 2020;19:177. https://​
+doi.​
+org/​
+10.​
+1186/​
+s12936-​
+020-​
+03250-4.
+	39.	 Baize S, Pannetier D, Oestereich L, Rieger T, Koivogui L, Magassouba N, 
+et al. Emergence of Zaire Ebola virus disease in Guinea. New Engl J Med. 
+2014;371(15):1418–25. https://​
+doi.​
+org/​
+10.​
+1056/​
+NEJMo​
+a1404​
+505.
+

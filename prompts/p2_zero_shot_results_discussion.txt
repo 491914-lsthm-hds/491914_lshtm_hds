@@ -1,0 +1,17 @@
+Here is the full text of a medical article:
+<medical_article> 
+{MEDICAL_ARTICLE} 
+</medical_article>
+
+Extract the following epidemiological parameters about {DISEASE} from the text if they are reported:
+<parameters_to_extract>{PARAMETERS}
+</parameters_to_extract> 
+
+Look only for parameters reported in the results and discussion sections.
+
+Report the parameter type and value. Report the parameter type (e.g. mean, median, std dev). Report the uncertainty interval if reported.
+
+Enclose your output in XML tags. Your final output should be in CSV format like this:
+<extracted_parameters>
+parameter_type, parameter_value, unit, parameter_value_type, uncertainty_interval_lower_bound,uncertainty_interval_upper_bound,uncertainty_type
+</extracted_parameters>

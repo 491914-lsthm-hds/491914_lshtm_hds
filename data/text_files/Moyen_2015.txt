@@ -1,0 +1,1005 @@
+RESEARCH ARTICLE
+Risk Factors Associated with Ebola and
+Marburg Viruses Seroprevalence in Blood
+Donors in the Republic of Congo
+Nanikaly Moyen1,2,3*, Laurence Thirion1, Petra Emmerich4, Amelia Dzia-Lepfoundzou2,
+Hervé Richet3, Yannik Boehmann1, Yannick Dimi2, Pierre Gallian1,3,5, Ernest A. Gould1,
+Stephan Günther4, Xavier de Lamballerie1,3
+1 Aix Marseille University, IRD French Institute of Research for Development, EHESP French School of
+Public Health, EPV UMR_D 190 "Emergence des Pathologies Virales", Marseille, France, 2 Centre National
+de Transfusion Sanguine, Brazzaville, Republic of Congo, 3 IHU Méditerranée Infection, APHM Public
+Hospitals of Marseille, Marseille, France, 4 Department of Virology, Bernhard-Nocht-Institute for Tropical
+Medicine, Hamburg, Germany, 5 Etablissement Français du Sang Alpes Méditerranée, Marseille, France
+* moyenmimi@gmail.com
+Abstract
+Background
+Ebola and Marburg viruses (family Filoviridae, genera Ebolavirus and Marburgvirus) cause
+haemorrhagic fevers in humans, often associated with high mortality rates. The presence of
+antibodies to Ebola virus (EBOV) and Marburg virus (MARV) has been reported in some Af-
+rican countries in individuals without a history of haemorrhagic fever. In this study, we pres-
+ent a MARV and EBOV seroprevalence study conducted amongst blood donors in the
+Republic of Congo and the analysis of risk factors for contact with EBOV.
+Methodology and Findings
+In 2011, we conducted a MARV and EBOV seroprevalence study amongst 809 blood do-
+nors recruited in rural (75; 9.3%) and urban (734; 90.7%) areas of the Republic of Congo.
+Serum titres of IgG antibodies to MARV and EBOV were assessed by indirect double-immu-
+nofluorescence microscopy. MARV seroprevalence was 0.5% (4 in 809) without any identi-
+fied risk factors. Prevalence of IgG to EBOV was 2.5%, peaking at 4% in rural areas and in
+Pointe Noire. Independent risk factors identified by multivariate analysis were contact with
+bats and exposure to birds.
+Conclusions/Significance
+This MARV and EBOV serological survey performed in the Republic of Congo identifies a
+probable role for environmental determinants of exposure to EBOV. It highlights the require-
+ment for extending our understanding of the ecological and epidemiological risk of bats (pre-
+viously identified as a potential ecological reservoir) and birds as vectors of EBOV to
+humans, and characterising the protection potentially afforded by EBOV-specific antibodies
+as detected in blood donors.
+PLOS Neglected Tropical Diseases | DOI:10.1371/journal.pntd.0003833
+June 5, 2015
+1 / 15
+OPEN ACCESS
+Citation: Moyen N, Thirion L, Emmerich P, Dzia-
+Lepfoundzou A, Richet H, Boehmann Y, et al. (2015)
+Risk Factors Associated with Ebola and Marburg
+Viruses Seroprevalence in Blood Donors in the
+Republic of Congo. PLoS Negl Trop Dis 9(6):
+e0003833. doi:10.1371/journal.pntd.0003833
+Editor: Matthew Kasper, U.S. Naval Medical
+Research Unit Six, UNITED STATES
+Received: January 27, 2015
+Accepted: May 15, 2015
+Published: June 5, 2015
+Copyright: © 2015 Moyen et al. This is an open
+access article distributed under the terms of the
+Creative Commons Attribution License, which permits
+unrestricted use, distribution, and reproduction in any
+medium, provided the original author and source are
+credited.
+Data Availability Statement: All relevant data are
+within the paper and its Supporting Information files.
+Funding: The authors received no specific funding
+for this work.
+Competing Interests: The authors have declared
+that no competing interests exist.
+Author Summary
+Ebola and Marburg viruses cause haemorrhagic fevers often fatal to humans. Here, we
+looked for antibodies to Ebola and Marburg viruses (i.e., markers of previous contact with
+these viruses) in Congolese blood donors with no previous history of haemorrhagic fever.
+We found serologic evidence for contact with Marburg and Ebola viruses in 0.5% and
+2.5% of blood donors, respectively. The circulation of Marburg virus occurs at a very low
+rate without any identified risk factor. In contrast, prevalence to Ebola virus was peaking
+at 4% in rural areas and in Pointe Noire city. Importantly, we identified that contacts with
+bats and birds constituted two independent environmental determinants of exposure. This
+study confirms that contact with Ebola virus is not infrequent in Congo and can occur in
+the absence of haemorrhagic fever. It highlights the requirement for further investigating
+the role of bats and birds in the ecological cycle of Ebola, and for determining whether
+asymptomatic contact with Ebola virus can provide subsequent protection against severe
+forms of the Ebola disease.
+Introduction
+Marburg and Ebola viruses (family Filoviridae, genera Marburgvirus and Ebolavirus) cause se-
+vere Viral Haemorrhagic Fever (VHF) in humans, with a high fatality rate in symptomatic
+cases [1,2,3]. They appear to infect and persist in some species of fruit bats, that may serve as
+natural reservoirs for these viruses [4,5,6,7,8,9]. Non-human primates have been a source of
+human infections however they are not thought to be the reservoir as they develop severe, fatal
+illness when infected [10].
+The genus Marburgvirus currently consists of a single species Marburg marburgvirus, of
+which the recognised members are Marburg virus (MARV) and Ravn virus [11,12]. The first
+cases of Marburg haemorrhagic fever (MHF) occurred in Germany and Serbia (in the former
+Yugoslavia) in 1967 and were linked to laboratory work using tissues dissected from African
+green monkeys imported from Uganda [13,14]. The first major outbreak of MHF occurred in
+Democratic Republic of the Congo (DRC, formerly Zaire), from 1998 to 2000 [15,16]. A sec-
+ond, even more devastating outbreak occurred in Angola in 2004–2005 with a reported case fa-
+tality rate (CFR) of almost 90% [17,18].
+In Nigeria and DRC, seroprevalence studies identified antibodies to MARV in less than 2%
+of apparently healthy people selected in general population in Nigeria and amongst healthcare
+workers and general population in DRC [19,20]. In the Central African Republic (CAR), anti-
+bodies to MARV were observed in both Pygmy (0.7–5.6%) and non-Pygmy (0.0–3.9%) popula-
+tions [21]. An African serosurvey of VHF (Crimean-Congo haemorrhagic fever, Rift Valley
+fever, Lassa, Hantaan, EBOV and MARV), conducted in the 1980s in the Central African gen-
+eral population, reported low prevalence values: 0.3% in N’Djamena (Tchad), 2.6% in Bioco Is-
+land (Equatorial Guinea) and, in the Republic of Congo, 3% in Pointe-Noire but no
+seropositive sera to MARV detected in people in Brazzaville [22]. To date, no case of MHF has
+been reported in the Republic of Congo.
+The genus Ebolavirus includes five species: Zaire ebolavirus (Ebola virus: EBOV), Sudan ebo-
+lavirus, Taï Forest ebolavirus, Reston ebolavirus and Bundibugyo ebolavirus [11,12]. The genus
+Ebolavirus is primarily African in origin, with the exception of the species Reston ebolavirus
+which is Asian [23]. EBOV was first identified in 1976, in Southern Sudan [24] and in the North
+of DRC [25,26]. Since then, outbreaks have been described in several other African countries
+(the Republic of Congo, Ivory Coast, DRC, Gabon, Sudan, Uganda, Guinea, Sierra Leone and
+Ebola and Marburg Viruses Seroprevalence in the Republic of Congo
+PLOS Neglected Tropical Diseases | DOI:10.1371/journal.pntd.0003833
+June 5, 2015
+2 / 15
+Liberia) [1,27,28,29,30,31,32,33,34], with reported (CFR) frequently exceeding 50% amongst
+symptomatic patients. In the Republic of Congo where the current study took place, several out-
+breaks of (Zaire) EBOV were reported in the North of the country (2001 in Olloba-Mbomo,
+2002 in Kéllé, 2003 in Mbandza-Mbomo), with 75 to 89% reported fatality rates [35,36,37].
+In previous seroprevalence studies, amongst 1,517 apparently healthy persons tested in five
+regions of the Cameroon, a positive rate of 9.7% was found with highest rates amongst Pygmies
+(14.5%), young adults (11.6%) and rain forest farmers (13%) [38]. In CAR, the seropositivity
+rate was 5.3% and Pygmies appeared to have a higher seroprevalence than non-Pygmies (7%
+versus 4.2%) [21]. During the 1995 outbreak of Ebola virus disease in the region of Kikwit
+(Democratic Republic of Congo), villagers had a greater chance of exposure (9.3%) than forest
+and city workers (2.2%) [39]. In a large study conducted in 220 villages in Gabon (4,349 indi-
+viduals enrolled), antibodies against EBOV were detected in 15.3% of those tested, with the
+highest levels in forested regions (17.6% and 19.4% respectively in forest and deep forest areas),
+suggesting the occurrence of mild or asymptomatic infections [40,41]. In the Republic of
+Congo, seroprevalence values reported in the late 1980's were 7.8% in Pointe-Noire and 6.2%
+in Brazzaville [22].
+In Sierra Leone, in 2006–2008, among 253 febrile patients negative for Lassa fever and ma-
+laria, antibodies against EBOV and MARV were detected in respectively 8.2% et 3.2% of the
+samples [42].
+In this study, we present an analysis of MARV and EBOV seroprevalence amongst blood
+donors in the Republic of Congo in 2011 and we report associated risk factors for contact with
+EBOV.
+Materials and Methods
+Study Design
+A MARV and EBOV seroprevalence study was performed in 2011 in the Republic of Congo,
+using a prospective cohort of blood donors.
+Setting
+Field samples for the study were collected from March to July 2011, in the Republic of Congo
+(Fig 1) in urban areas (Brazzaville and Pointe-Noire) and in rural locations (Gamboma,
+Owando, Oyo and Ewo). Ewo is the capital of the Department of Cuvette-Ouest, where all pre-
+vious EBOV outbreaks occurred.
+This study was performed in collaboration with the Centre National de Transfusion San-
+guine (CNTS) of Congo; the Virology Laboratory UMR_D 190 "Emergence des Pathologies
+Virales" (Aix-Marseille University, IRD French Institute of Research for Development, EHESP
+French School of Public Health), Marseille, France and the Virology Laboratory of Bernhard-
+Nocht-Institut für Tropenmedizin, Hamburg, Germany.
+Population Studied
+Blood donors of both genders were included. The criteria for enrollment were eligibility for
+blood donation and provision of informed consent without specific limiting factors. The age of
+blood donors ranged from 18 to 65 years.
+Ethical Considerations
+Serum samples for serological analyses were collected in collaboration with the CNTS. In-
+formed, written consent was obtained from each person enrolled in the study and the consent
+Ebola and Marburg Viruses Seroprevalence in the Republic of Congo
+PLOS Neglected Tropical Diseases | DOI:10.1371/journal.pntd.0003833
+June 5, 2015
+3 / 15
+procedure was approved by the Congolese Research in Health Sciences Ethics Committee
+(N° 00000065 DGRST/CERSSA).
+Data Collection
+A structured questionnaire was administered face-to-face, in the official language (French)
+and/or in national languages (Lingala or Kutumba). All questionnaires were completed by the
+medical personnel conducting the interviews.
+The following data were collected: socio-demographic circumstances, domestic characteris-
+tics (age, gender, occupation, residence, size of household, type of house, water resource, usage
+of mosquito nets), environmental characteristics (animal contacts and/or consumption), travel
+outside the country during their lifetime, history of haemorrhagic fever (in family or personal).
+Fig 1. Map of Congolese study sites. Rural locations and Pointe-Noire city (circles); Brazzaville, the capital
+(square). Brackets: number of positive samples/ total of samples.
+doi:10.1371/journal.pntd.0003833.g001
+Ebola and Marburg Viruses Seroprevalence in the Republic of Congo
+PLOS Neglected Tropical Diseases | DOI:10.1371/journal.pntd.0003833
+June 5, 2015
+4 / 15
+Serum
+Venous blood samples were drawn using two 4 mL plain tubes which were immediately centri-
+fuged. Sera were kept at -80°C until use. Aliquots were inactivated at 56°C for 30 min and
+transferred to the Virology Laboratory of the Bernhard-Nocht-Institut (BNI) in Hamburg for
+serological assays.
+Serological Tests
+Serum IgG antibodies specific for EBOV and MARV were titrated using indirect double-
+immunofluorescence microscopy assays which were recorded as positive if reciprocal end
+point titres were 20 [43].
+Antigens consisted of acetone-fixed Vero cells infected with Ebola virus (strain ATCC 1978)
+or Marburg virus (strain Popp 1967). Cultivation of the viruses was carried out in an approved
+and compliant BLS4 laboratory in BNI.
+Serum samples were tested as serial twofold dilutions from 1:20 to  1:160 and antibodies
+were detected with a Fluorescein isothiocyanate (FITC) labelled anti-human IgG antibody-
+conjugate. Cell smears were counterstained with specific anti-Ebola or anti-Marburg nucleo-
+capsid monoclonal antibodies (provided by the Institute of Virology, University of Marburg)
+using a rhodamine-anti-mouse conjugate as secondary antibody [44]. As positive controls for
+Ebola virus, we used (i) a human polyclonal antibody for the first IF with a titre at 2,560 (IgG)
+and (ii) a mouse monoclonal antibody with a titre at 1,280 (IgG). As positive controls for Mar-
+burg virus, we used (i) a human polyclonal antibody for the first IF with a titre at 1,280 (IgG)
+and (ii) a mouse monoclonal antibody with a titre at 640 (IgG).
+This “double immunofluorescence” protocol provides a much higher specificity than regu-
+lar immunofluorescence assays, since only antibodies that detect filoviral antigens in co-locali-
+sation with a monoclonal antibody are considered.
+Statistical Analysis
+Statistical analyses were performed using the IBM SPSS statistic 21 software. Analyses aiming
+at analysing risk factors for seropositivity included univariate, stratified and multivariate analy-
+ses. The Fisher’s exact test was used to compare proportions in univariate analysis and the
+ANOVA test to compare means. The Pearson’s test was used for stratified analysis.
+All statistical analyses were performed at the 95% confidence level. The association between
+anti-EBOV IgG seropositivity and risk factors was determined by binary logistic regression
+analysis. Stratified analysis based on sex, age and area were performed. The significant variables
+in univariate analysis were entered in the multivariate model. The quality of the multivariate
+model was assessed with Hosmer-Lemeshow’s test.
+Results
+Sociodemographic characteristics are presented in Table 1. Overall, 809 blood donors provided
+serum samples; 734 (90.7%) lived in urban areas (62.9% and 27.8% in Brazzaville and Pointe-
+Noire, respectively), 370 (45.7%) of which were younger than 30 years old (yo) with a median
+age of 31. The gender ratio (Male/Female) was 3.02. Most blood donors lived in a modern
+house 723 (89.4%). The two most common occupations were “student” (20.9%) and “unem-
+ployed” (26.5%).
+Epidemiological analyses of EBOV and MARV infections were performed separately. How-
+ever, the same potential risk factors for seropositivity (gender, age, household size, occupation,
+Ebola and Marburg Viruses Seroprevalence in the Republic of Congo
+PLOS Neglected Tropical Diseases | DOI:10.1371/journal.pntd.0003833
+June 5, 2015
+5 / 15
+mosquito net, travel risk, exposure to rodents/forests animals, and consumption of forests ani-
+mals) were assessed for both viruses.
+Individual titres of the MARV and EBOV-positives are presented in Table 2.
+MARV-Specific IgG Seroprevalence
+IgG to MARV was identified in 0.5% of the donors tested (4 in 809). Seropositivity could not be
+significantly associated with any of the risk factors investigated in the individual questionnaire.
+Antibodies to MARV were detected exclusively in male blood donors from Brazzaville who had
+all been in contact (touching and catching) with rodents (mice and rats), but this is a common
+feature in out cohort (>80% of the donors reported such contact). Three out of four were
+Table 1. Socio-demographic characteristics of blood donors in study areas, March-July 2011.
+Study population N = 809
+General population N = 24,509
+Residence; No. (%)
+Brazzaville
+509 (62.9)
+11,962 (48.8)
+Pointe-Noire
+225 (27.8)
+10,014 (40.9)
+Rural areas
+75 (9.3)
+2,533 (10.3)
+Gender
+Male/Female
+608/201
+18,906/5,603
+Gender ratio
+3.02
+3.37
+Age, y
+Mean
+32.89
+-
+Median
+31
+-
+Range
+18–63
+18–65
+SD
+10.21
+-
+Age groups; No. (%)
+ 29 y
+370 (45.7)
+-
+30–39 y
+238 (29.4)
+-
+40–49 y
+130 (16.1)
+-
+50+ y
+71(8.8)
+-
+Occupation; No. (%)
+Health professional
+88 (10.9)
+-
+Ofﬁce worker
+64 (7.9)
+-
+Military
+105 (13.0)
+-
+Unemployed
+214 (26.5)
+-
+Student
+169 (20.9)
+-
+Hunter
+17 (2.1)
+-
+Cultivator
+15 (1.9)
+-
+Farmer
+17 (2.1)
+-
+Manual labourer
+120 (14.8)
+-
+Household size; No. (%)
+1–5
+439 (54.3)
+-
+6–10
+303 (37.5)
+-
+ 11
+67 (8.3)
+-
+Type of house; No. (%)
+Modern
+723 (89.4)
+-
+Traditional
+86 (10.6)
+-
+doi:10.1371/journal.pntd.0003833.t001
+Ebola and Marburg Viruses Seroprevalence in the Republic of Congo
+PLOS Neglected Tropical Diseases | DOI:10.1371/journal.pntd.0003833
+June 5, 2015
+6 / 15
+students (median age 23) and one (55yo) was an office worker. None had been in contact with
+(or had eaten) forest animals or bats. The titre of IgG in positive donor ranged from 80 to 160.
+EBOV-Specific IgG Seroprevalence
+The overall prevalence of positivity for IgG when tested against EBOV was 2.5% (20 in 809). It
+was 1.6% (8 in 509) in Brazzaville, 4% (3 in 75) in the rural locations (Gamboma, Owando,
+Oyo and Ewo) and 4% (9 in 225) in Pointe-Noire.
+Univariate Analysis
+Table 3 summarises the association between potential risk factors and anti-EBOV IgG seropos-
+itivity using univariate analysis. Amongst the populations studied there was no statistically sig-
+nificant relationship between gender (p = 0.79), age (p = 0.96), travel (p = 0.62), household size
+(p = 0.39), exposure to rodents (p = 0.63) and the presence of IgG to EBOV. However, being a
+hunter (p = 0.01) was a risk factor, whereas the other occupations showed no statistical signifi-
+cance in univariate analysis. The use of simple mosquito nets had a protective effect. Impor-
+tantly, significant association with bat contact or eating birds (p values respectively of <0.001
+and 0.01) was identified.
+Table 2. Individual titres of the EBOV and MARV-positives.
+Number of positive samples
+Sites
+IgG Titre
+MARV
+1
+Brazzaville
+80
+2
+Brazzaville
+80
+3
+Brazzaville
+160
+4
+Brazzaville
+160
+EBOV
+1
+Brazzaville
+>160
+2
+Brazzaville
+80
+3
+Brazzaville
+40
+4
+Brazzaville
+>160
+5
+Brazzaville
+>160
+6
+Brazzaville
+160
+7
+Brazzaville
+80
+8
+Brazzaville
+80
+9
+Pointe-Noire
+80
+10
+Pointe-Noire
+80
+11
+Pointe-Noire
+80
+12
+Pointe-Noire
+>160
+13
+Pointe-Noire
+40
+14
+Pointe-Noire
+20
+15
+Pointe-Noire
+160
+16
+Pointe-Noire
+40
+17
+Pointe-Noire
+40
+18
+Gamboma
+80
+19
+Ewo
+40
+20
+Ewo
+40
+doi:10.1371/journal.pntd.0003833.t002
+Ebola and Marburg Viruses Seroprevalence in the Republic of Congo
+PLOS Neglected Tropical Diseases | DOI:10.1371/journal.pntd.0003833
+June 5, 2015
+7 / 15
+Table 3. Association between potential risk factors and anti-EBOV IgG seropositivity.
+Frequency; (%)
+Univariate analysis
+Multivariate analysis
+Variables
+IgG +
+IgG -
+OR (95% CI)
+p-value
+OR (95% CI)
+p-value
+Gender
+0.41
+0.63
+Male
+16 (2.6)
+592 (97.4)
+Female
+4 (2.0)
+197 (98.0)
+Age groups
+0.96
+0.36
+18–29
+10 (2.7)
+360 (97.3)
+30–39
+5 (2.1)
+233 (97.9)
+40–49
+3 (2.3)
+127 (97.7)
+50+
+2 (2.8)
+69 (97.2)
+Household size
+0.39
+1–5
+12 (2.7)
+427 (97.3)
+6–10
+8 (2.6)
+295 (97.4)
+ 11
+0
+67 (100.0)
+Occupation
+Health professional
+0
+88 (100)
+0.09
+Ofﬁce worker
+2 (3.1)
+62 (96.9)
+0.47
+Military
+3 (2.8)
+103 (97.2)
+0.49
+Unemployed
+3 (1.4)
+210 (98.6)
+0.18
+Student
+6 (3.6)
+163 (96.4)
+0.22
+Hunter
+2 (11.8)
+15 (88.2)
+5.1 (1.3–20.6)
+0.01
+0.7
+Cultivator
+1 (6.7)
+14 (93.3)
+0.31
+Farmer
+0
+17 (100)
+0.65
+Manual labourer
+3 (2.5)
+117 (97.5)
+0.58
+Type of house
+0.64
+Modern
+18 (2.5)
+705 (97.5)
+Traditional
+2 (2.3)
+84 (97.7)
+Mosquito net (usage)
+Simple
+3 (0.9)
+338 (99.1)
+0.24 (0.1–0.8)
+0.01
+0.06
+Impregnated
+9 (4.5)
+190 (95.5)
+0.06
+Travels
+Central Africa
+7 (3.1)
+219 (96.9)
+0.31
+West Africa
+0 (0.0)
+31 (100.0)
+0.45
+Other countries
+0 (0.0)
+31 (100.0)
+0.45
+Exposure to Rodents
+0.58
+Mice
+17 (2.5)
+669 (97.5)
+0.638
+Rats
+9 (3.3)
+260 (96.7)
+0.18
+Exposure to Forest animals
+Bats
+7 (14.0)
+43 (86.0)
+8.17 (3.4–19.6)
+<0.001
+7.5 (2.6–21.7)
+<0.001
+Monkeys
+2 (8.0)
+23 (92.0)
+0.12
+Birds
+2 (4.1)
+47 (95.9)
+0.34
+Antelopes
+2 (8.3)
+22 (91.7)
+0.11
+Snakes
+1 (3.7)
+26 (96.3)
+0.49
+Consumption of Forest Animals
+Bats
+0 (0.0)
+23 (100.0)
+0.55
+Monkeys
+12 (3.1)
+380 (96.9)
+0.20
+Birds
+10 (5.2)
+182 (94.8)
+3.21 (1.3–7.6)
+0.01
+2.6 (1.1–6.9)
+0.04
+Antelopes
+12 (2.7)
+436 (97.3)
+0.42
+Snakes
+3 (2.0)
+146 (98.0)
+0.48
+doi:10.1371/journal.pntd.0003833.t003
+Ebola and Marburg Viruses Seroprevalence in the Republic of Congo
+PLOS Neglected Tropical Diseases | DOI:10.1371/journal.pntd.0003833
+June 5, 2015
+8 / 15
+Stratified Analysis
+Seropositivity in age-groups was as follows: 2.7% in 18–29yo, 2.1% in 30–39yo, 2.3% in 40–
+49yo, 3.2% in 50–59yo and 0.0% in >60yo, with no evidence for an increase of seroprevalence
+with age. In the 18–29yo age-group, higher seroprevalence was associated with touching bats
+(p<0.001). In the second group (30–39yo), higher seroprevalence was associated with the mili-
+tary profession (p = 0.04). No significant association was found in the other age-groups. No sig-
+nificant association was identified in a stratified analysis by occupation, including
+military profession.
+Regarding stratification by areas: in Pointe-Noire, to be a student (p = 0.002) or to have expo-
+sure to bats (p<0.001) was statistically associated with anti-EBOV IgG. Exposure to bats
+(p<0.001) was also found to be a risk factor in Brazzaville. Other variables (sex, age, household
+size, type of house, travel risk, exposure to rodents, and consumption of forest animals) were not
+significantly associated with the presence of IgG, regardless of the area in which donors lived.
+Concerning stratification by gender (S1 Table), seropositivity was 2.6% in males and 2.0%
+in females. No significant association was identified in females. Amongst the male subpopula-
+tion, being a hunter (p = 0.009), having contact with bats (p<0.001) or monkeys (p = 0.01), or
+consuming birds (p = 0.002) was statistically associated with EBOV IgG positivity. Other vari-
+ables (age, household size, type of house, travel risk, exposure to rodents) had no statistically
+significant relationship with the presence of IgG to EBOV.
+Multivariate Analysis
+In the multivariate model (Table 3), the only variables independently associated with Ebola an-
+tibody detection were contact with bats (p<0.001) and bird consumption (p = 0.04).
+Discussion
+Whilst the Democratic Republic of the Congo and neighbouring Angola have experienced
+Marburg disease outbreaks [2,45], no Marburg cases have been reported to date in the Re-
+public of Congo. By contrast, human epidemics due to Ebola virus have been reported in the
+Republic of Congo in 2001, 2002 and 2003. All outbreaks were located in the Cuvette-Ouest
+Department [1,29,46].
+Against this background, we conducted a seroprevalence study of Ebola and Marburg virus-
+es amongst blood donors in the Republic of Congo, to estimate the seroprevalence of both vi-
+ruses outside the epidemic period and also to identify possible risk factors. This study has some
+obvious limitations related to the population studied (e.g., the number of blood donors origi-
+nating from rural areas was small, all participants were older than 18 years old and 75% were
+males) and to the capacity to collect epidemiological information without interfering with the
+process of blood donation (for example, travel inside the country and activities outside the
+main occupation were not documented). However a body of standardised information was ob-
+tained from the questionnaires.
+Importantly, our biological analyses identified antibodies specific for Ebola virus (and to a
+lesser extent to Marburg virus) in healthy blood donors who did not report a history of haemor-
+rhagic fever. This confirms previous studies suggesting that filoviruses can circulate in Africa in
+the absence of severe clinical presentations (i.e., associated with asymptomatic or mild infections)
+[47] and that Ebola virus-specific seroconversion can be observed without clinical manifestation
+[21] or possibly associated with atypical clinical presentation. In the case of Ebola virus infec-
+tions, asymptomatic seropositives have been identified by different techniques (e.g., immunofluo-
+rescence [22] or ELISA [21]) and have been found more frequently in areas where Ebola cases
+were reported [40]. In addition, Leroy and collaborators detected the Ebola virus genome in
+Ebola and Marburg Viruses Seroprevalence in the Republic of Congo
+PLOS Neglected Tropical Diseases | DOI:10.1371/journal.pntd.0003833
+June 5, 2015
+9 / 15
+white blood cells of asymptomatic seroconverters investigated for up to 3 weeks following expo-
+sure to documented Ebola symptomatic patients [41]. Contact with limited amounts of virus,
+specific infection routes [48], specific characteristics of individual immunity leading to produc-
+tion of specific IgG and early and strong inflammatory responses [47], may explain the presence
+or absence of symptomatic presentation. Finally, a recent study identified asymptomatic seropo-
+sitives with antibodies against various linear epitopes located in different and both structural and
+non-structural EBOV proteins [49]. Altogether, this rules out the hypothesis that antibodies to
+EBOV detected in asymptomatic individuals in previous studies are massively false positives.
+It has been proposed that some populations may have been exposed to yet unidentified
+virus strains that have relatively low pathogenicity for humans. Monath [50] proposed that
+pathogenic strains may have independent transmission cycles involving species rarely in con-
+tact with humans. In support of this hypothesis, Gonzalez [22] reported atypical serological re-
+sponses in asymptomatic seropositives, consisting in identical titres against Ebola Mayinga
+from Zaire and Ebola Boniface from Sudan identified in 89% of cases. This hypothesis still
+stands but is weakened by (i) the fact that fifteen years of investigations of African wildlife spe-
+cies have failed to identify such low pathogenicity strains in host species in close contact with
+humans and (ii) the identification of asymptomatic seroconversions following contact with
+symptomatic patients [41].
+Monath [50] further proposed that pathogenic strains may emerge from non-pathogenic
+strains by mutational events, but this hypothesis is weakened by the argument that the same
+strain of EBOV has been shown to be responsible for symptomatic cases and secondary asymp-
+tomatic cases [41].
+In the late 1980's, Gonzalez and collaborators identified low MARV seroprevalence values
+in Pointe Noire and Brazzaville (3 and 0%, respectively) [22]. In our study, the prevalence of
+IgG to MARV was also low (0.5%) and could not be associated with specific risk factors. In
+contrast, the prevalence of antibodies to EBOV was 2.5%, peaking at 4% in rural populations
+and in the city of Pointe Noire. It was 1.6% in Brazzaville. Gonzalez and collaborators had pre-
+viously reported 7.8 and 6.2% Ebola seroprevalence values in Pointe Noire and Brazzaville, re-
+spectively [22]. The differences observed may be explained by different technical protocols
+used for detection of antibodies, by the fact that studies were performed more than twenty
+years apart, and by the investigation of different populations since Gonzalez studied randomly
+selected clusters (providing representativeness of gender and age distribution). Against the lat-
+ter hypothesis, it should be noted that, in both studies, no significant difference associated with
+age-group and gender could be identified.
+Nevertheless, two remarkable aspects of our epidemiological observations deserve further
+discussion. On the one hand, antibodies to Ebola virus were detected in urban populations of
+Congolese blood donors, which should stimulate future investigations relating to asymptomat-
+ic seropositives. On the other hand, new environmental factors associated with seropositivity
+have been identified. In neighbouring Gabon, the seroprevalence was significantly higher in
+the forest regions (17.6%) than in savannah regions (10.5%) and Lakeland areas (2.7%) [40,48],
+but no sociodemographic or behavioural risk factors associated with EBOV seropositivity
+could be identified. Therefore, the finding in the current study that (i) exposure to bats and (ii)
+bird consumption are associated independently in multivariate analysis with an increased prev-
+alence of antibodies to EBOV is of particular relevance.
+The notion of bird consumption must be interpreted with caution. If birds are consumed,
+they will have been cooked, but bird consumption also implies contact with birds, either in the
+markets in Africa or when capturing them or preparing them for cooking. Whilst further stud-
+ies to clarify the role of birds as a possible source of human infection are clearly justified, we
+prefer to refer to “exposure to birds” as a potential source of the detected seropositivity.
+Ebola and Marburg Viruses Seroprevalence in the Republic of Congo
+PLOS Neglected Tropical Diseases | DOI:10.1371/journal.pntd.0003833
+June 5, 2015
+10 / 15
+The possibility of exposure to birds, with supporting evidence, has never been described be-
+fore as a risk factor for filovirus infection. To the best of our knowledge, birds have not been as-
+sociated with EBOV or virus antigen in previous investigations [51]. In 1979 and 1980, a total
+of 1,664 animals (117 species, including 67 birds) were collected in the DRC and Cameroon
+during the dry season near the site of the 1976 Ebola haemorrhagic fever epidemic. This study
+failed to identify an animal reservoir of EBOV [52]. An ecologic investigation was also per-
+formed to identify the reservoir of EBOV following the 1995 outbreak in Kikwit, DRC. Most of
+the 3,066 collected specimens were mammals (87%, 2663), but birds (9%, 265) were also col-
+lected. All attempts at isolation of EBOV remained negative [53]. During a study in CAR
+(Ngotto forest) in 1998–99, 662 animals were trapped including 16 birds. Only Zaire ebolavirus
+nucleotide sequences were detected in six organs rodents [54]. Finally, experimental inocula-
+tion of birds with EBOV did not evidence significant acute or chronic replication [55].
+In 1994, an outbreak of Ebola was described in a wild chimpanzee community in the Taï
+National Park, Ivory Coast. Before the beginning of the outbreak, chimpanzees spent a long
+time in a fig tree (Ficus goliath) that was full of fruits. Many birds (pigeons) were seen feeding
+on the figs during the day, and rodents and fruit bats were feeding on the tree during the night.
+It was proposed that the F. goliath could have constituted an epidemiological "hub", putting dif-
+ferent species-including birds- in contact with one another [56].
+The implication of birds in the epidemiology of filoviral disease was evoked by Monath [50]
+in a hypothetical transmission cycle, taking into consideration the possibility that filoviruses
+may be primary arthropod or plant viruses, transmitted to vertebrates including bats or other
+insectivorous species such as birds. Jeffers et al. [57] reported in 2002 a noticeable biochemical
+similarity between the glycoprotein of certain birds, oncogenic retroviruses and the EBOV gly-
+coprotein. They suggested a possible common evolutionary origin which could be an indication
+that avian species have or have had a role in the ecology and evolution of filoviruses. Accord-
+ingly, the possible role of birds in the transmission of EBOV should not be ruled out and our
+intriguing observation suggests that additional studies to elucidate the ecology of filoviruses in
+birds would be of great interest.
+The statistically significant identification of exposure to bats as an independent risk factor
+for EBOV infection is also remarkable since contact with bats has been reported as a risk factor
+for MARV infection [58,59,60,61], and fruit bats [6] (and possibly insectivorous bats [62]) are
+thought to have a significant role in the ecological cycle of EBOV. Therefore, the current study
+reinforces the suspected importance of bats in the natural cycle of Ebola virus and its possible
+transmission to humans.
+In Conclusion
+Our results imply that in the Republic of Congo, the circulation of Marburg virus occurs at a
+very low rate without any identified risk factor, but that human exposure to Ebola virus without
+consequent disease is not infrequent. Living in Pointe Noire or in a rural area, and having con-
+tact with bats and birds is associated with a higher risk of exposure to Ebola virus. Unfortunately,
+little is known about the natural history and biological properties of EBOV antibody in individu-
+als without haemorrhagic fever. Here, we did not observe an increase of seroprevalence with age,
+which may suggest that, in some individuals, the antibody titre decreases and becomes undetect-
+able with time. This would in turn imply the absence of iterative contacts with Ebola virus anti-
+gens or that of a strong antibody response following such secondary antigenic exposure.
+Similarly, the protection afforded by antibodies detected in blood donors against Ebola
+virus infection remains completely unknown. How individuals without any history of haemor-
+rhagic fever acquire specific antibodies to EBOV and what are the biological properties of such
+Ebola and Marburg Viruses Seroprevalence in the Republic of Congo
+PLOS Neglected Tropical Diseases | DOI:10.1371/journal.pntd.0003833
+June 5, 2015
+11 / 15
+antibodies (in particular what is their seroneutralising capacity) deserve further investigations
+in African populations.
+Supporting Information
+S1 Table. Associated anti-EBOV IgG seropositivity and potential risk factors stratified by
+gender (male).
+(DOCX)
+S1 Checklist. Checklist of items included in report.
+(DOC)
+Acknowledgments
+The authors are deeply indebted to the personnel of the Centre National de Transfusion San-
+guine for their collaboration and assistance, to Dr. Stephan Becker (Institute of Virology, Uni-
+versity of Marburg) for providing the anti-NP-Ebola mouse monoclonal antibody, to Corinna
+Thome-Bolduan (Bernhard Nocht Institute for Tropical Medicine, Hamburg, Germany) for
+technical assistance during serological analyses and to Anderson Loundou (Faculty of Medi-
+cine, Marseille, France) for technical assistance in database management. We acknowledge a
+contribution from the EU 7th Framework Predemics Project—Agreement No. 278433.
+Author Contributions
+Conceived and designed the experiments: NM ADL XdL. Performed the experiments: NM PE
+YD. Analyzed the data: NM HR LT YB. Contributed reagents/materials/analysis tools: XdL
+ADL PE SG PG. Wrote the paper: NM LT PE YB EAG XdL.
+References
+1.
+http://www.cdc.gov/vhf/ebola/resources/outbreak-table.html Chronology of Ebola Hemorrhagic Fever
+Outbreaks.
+2.
+http://www.cdc.gov/vhf/marburg/resources/outbreak-table.html Chronology of Marburg Hemorrhagic
+Fever Outbreaks.
+3.
+Siegert R (1978) [Marburg, Lassa and Ebola virus as cause of hemorrhagic fever]. Dtsch Med
+Wochenschr 103: 1176–1181. PMID: 352653
+4.
+Peterson AT, Carroll DS, Mills JN, Johnson KM (2004) Potential mammalian filovirus reservoirs. Emerg
+Infect Dis 10: 2073–2081. PMID: 15663841
+5.
+Smith I, Wang LF (2013) Bats and their virome: an important source of emerging viruses capable of in-
+fecting humans. Curr Opin Virol 3: 84–91. doi: 10.1016/j.coviro.2012.11.006 PMID: 23265969
+6.
+Leroy EM, Kumulungui B, Pourrut X, Rouquet P, Hassanin A, et al. (2005) Fruit bats as reservoirs of
+Ebola virus. Nature 438: 575–576. PMID: 16319873
+7.
+Pourrut X, Souris M, Towner JS, Rollin PE, Nichol ST, et al. (2009) Large serological survey showing
+cocirculation of Ebola and Marburg viruses in Gabonese bat populations, and a high seroprevalence of
+both viruses in Rousettus aegyptiacus. BMC Infect Dis 9: 159. doi: 10.1186/1471-2334-9-159 PMID:
+19785757
+8.
+Olival KJ, Islam A, Yu M, Anthony SJ, Epstein JH, et al. (2013) Ebola virus antibodies in fruit bats, ban-
+gladesh. Emerg Infect Dis 19: 270–273. doi: 10.3201/eid1902.120524 PMID: 23343532
+9.
+Yuan J, Zhang Y, Li J, Wang LF, Shi Z (2012) Serological evidence of ebolavirus infection in bats,
+China. Virol J 9: 236. doi: 10.1186/1743-422X-9-236 PMID: 23062147
+10.
+Leroy EM, Rouquet P, Formenty P, Souquiere S, Kilbourne A, et al. (2004) Multiple Ebola virus trans-
+mission events and rapid decline of central African wildlife. Science 303: 387–390. PMID: 14726594
+11.
+Bukreyev AA, Chandran K, Dolnik O, Dye JM, Ebihara H, et al. (2014) Discussions and decisions of the
+2012–2014 International Committee on Taxonomy of Viruses (ICTV) Filoviridae Study Group, January
+2012-June 2013. Arch Virol 159: 821–830. PMID: 24122154
+Ebola and Marburg Viruses Seroprevalence in the Republic of Congo
+PLOS Neglected Tropical Diseases | DOI:10.1371/journal.pntd.0003833
+June 5, 2015
+12 / 15
+12.
+Kuhn JH, Becker S, Ebihara H, Geisbert TW, Johnson KM, et al. (2010) Proposal for a revised taxono-
+my of the family Filoviridae: classification, names of taxa and viruses, and virus abbreviations. Arch
+Virol 155: 2083–2103. doi: 10.1007/s00705-010-0814-x PMID: 21046175
+13.
+Martini GA (1969) Marburg agent disease: in man. Trans R Soc Trop Med Hyg 63: 295–302. PMID:
+5815873
+14.
+Siegert R, Shu HL, Slenczka HL, Peters D, Muller G (1968) The aetiology of an unknown human infec-
+tion transmitted by monkeys (preliminary communication). Ger Med Mon 13: 1–2. PMID: 4968593
+15.
+(1999) Viral haemorrhagic fever/Marburg, Democratic Republic of the Congo. Wkly Epidemiol Rec 74:
+157–158. PMID: 10355355
+16.
+Bausch DG, Nichol ST, Muyembe-Tamfum JJ, Borchert M, Rollin PE, et al. (2006) Marburg hemorrhag-
+ic fever associated with multiple genetic lineages of virus. N Engl J Med 355: 909–919. PMID:
+16943403
+17.
+(2005) Marburg haemorrhagic fever, Angola. Wkly Epidemiol Rec 80: 158–159. PMID: 15898301
+18.
+Towner JS, Khristova ML, Sealy TK, Vincent MJ, Erickson BR, et al. (2006) Marburgvirus genomics
+and association with a large hemorrhagic fever outbreak in Angola. J Virol 80: 6497–6516. PMID:
+16775337
+19.
+Tomori O, Fabiyi A, Sorungbe A, Smith A, McCormick JB (1988) Viral hemorrhagic fever antibodies in
+Nigerian populations. Am J Trop Med Hyg 38: 407–410. PMID: 3128130
+20.
+Bausch DG, Borchert M, Grein T, Roth C, Swanepoel R, et al. (2003) Risk factors for Marburg hemor-
+rhagic fever, Democratic Republic of the Congo. Emerg Infect Dis 9: 1531–1537. PMID: 14720391
+21.
+Gonzalez JP, Nakoune E, Slenczka W, Vidal P, Morvan JM (2000) Ebola and Marburg virus antibody
+prevalence in selected populations of the Central African Republic. Microbes Infect 2: 39–44. PMID:
+10717539
+22.
+Gonzalez JP, Josse R, Johnson ED, Merlin M, Georges AJ, et al. (1989) Antibody prevalence against
+haemorrhagic fever viruses in randomized representative Central African populations. Res Virol 140:
+319–331. PMID: 2505350
+23.
+Miranda ME, White ME, Dayrit MM, Hayes CG, Ksiazek TG, et al. (1991) Seroepidemiological study of
+filovirus related to Ebola in the Philippines. Lancet 337: 425–426. PMID: 1671441
+24.
+(1978) Ebola haemorrhagic fever in Sudan, 1976. Report of a WHO/International Study Team. Bull
+World Health Organ 56: 247–270. PMID: 307455
+25.
+(1978) Ebola haemorrhagic fever in Zaire, 1976. Bull World Health Organ 56: 271–293. PMID: 307456
+26.
+Heymann DL, Weisfeld JS, Webb PA, Johnson KM, Cairns T, et al. (1980) Ebola hemorrhagic fever:
+Tandala, Zaire, 1977–1978. J Infect Dis 142: 372–376. PMID: 7441008
+27.
+Georges AJ, Leroy EM, Renaut AA, Benissan CT, Nabias RJ, et al. (1999) Ebola hemorrhagic fever
+outbreaks in Gabon, 1994–1997: epidemiologic and health control issues. J Infect Dis 179 Suppl 1:
+S65–75. PMID: 9988167
+28.
+Khan AS, Tshioko FK, Heymann DL, Le Guenno B, Nabeth P, et al. (1999) The reemergence of Ebola
+hemorrhagic fever, Democratic Republic of the Congo, 1995. Commission de Lutte contre les Epide-
+mies a Kikwit. J Infect Dis 179 Suppl 1: S76–86. PMID: 9988168
+29.
+Formenty P, Libama F, Epelboin A, Allarangar Y, Leroy E, et al. (2003) [Outbreak of Ebola hemorrhagic
+fever in the Republic of the Congo, 2003: a new strategy?]. Med Trop (Mars) 63: 291–295. PMID:
+14579469
+30.
+Le Guenno B, Formenty P, Wyers M, Gounon P, Walker F, et al. (1995) Isolation and partial characteri-
+sation of a new strain of Ebola virus. Lancet 345: 1271–1274. PMID: 7746057
+31.
+Shoemaker T, MacNeil A, Balinandi S, Campbell S, Wamala JF, et al. (2012) Reemerging Sudan Ebola
+virus disease in Uganda, 2011. Emerg Infect Dis 18: 1480–1483. doi: 10.3201/eid1809.111536 PMID:
+22931687
+32.
+(2005) Outbreak of Ebola haemorrhagic fever in Yambio, south Sudan, April—June 2004. Wkly Epide-
+miol Rec 80: 370–375. PMID: 16285261
+33.
+Bosch X (2004) Sudan Ebola outbreak of known strain. Lancet Infect Dis 4: 388. PMID: 15252932
+34.
+Bagcchi S (2014) Ebola haemorrhagic fever in west Africa. Lancet Infect Dis 14: 375. PMID: 24877203
+35.
+Pourrut X, Kumulungui B, Wittmann T, Moussavou G, Delicat A, et al. (2005) The natural history of
+Ebola virus in Africa. Microbes Infect 7: 1005–1014. PMID: 16002313
+36.
+Nkoghe D, Kone ML, Yada A, Leroy E (2011) A limited outbreak of Ebola haemorrhagic fever in
+Etoumbi, Republic of Congo, 2005. Trans R Soc Trop Med Hyg 105: 466–472. doi: 10.1016/j.trstmh.
+2011.04.011 PMID: 21605882
+Ebola and Marburg Viruses Seroprevalence in the Republic of Congo
+PLOS Neglected Tropical Diseases | DOI:10.1371/journal.pntd.0003833
+June 5, 2015
+13 / 15
+37.
+http://www.cdc.gov/vhf/ebola/resources/distribution-map.html Ebola Hemorrhagic Fever Distribution
+Map.
+38.
+Bouree P, Bergmann JF (1983) Ebola virus infection in man: a serological and epidemiological survey
+in the Cameroons. Am J Trop Med Hyg 32: 1465–1466. PMID: 6650749
+39.
+Busico KM, Marshall KL, Ksiazek TG, Roels TH, Fleerackers Y, et al. (1999) Prevalence of IgG antibod-
+ies to Ebola virus in individuals during an Ebola outbreak, Democratic Republic of the Congo, 1995. J
+Infect Dis 179 Suppl 1: S102–107. PMID: 9988172
+40.
+Becquart P, Wauquier N, Mahlakoiv T, Nkoghe D, Padilla C, et al. (2010) High prevalence of both hu-
+moral and cellular immunity to Zaire ebolavirus among rural populations in Gabon. PLoS One 5:
+e9126. doi: 10.1371/journal.pone.0009126 PMID: 20161740
+41.
+Leroy EM, Baize S, Debre P, Lansoud-Soukate J, Mavoungou E (2001) Early immune responses ac-
+companying human asymptomatic Ebola infections. Clin Exp Immunol 124: 453–460. PMID:
+11472407
+42.
+Schoepp RJ, Rossi CA, Khan SH, Goba A, Fair JN (2014) Undiagnosed acute viral febrile illnesses, Si-
+erra Leone. Emerg Infect Dis 20: 1176–1182. doi: 10.3201/eid2007.131265 PMID: 24959946
+43.
+Emmerich P, Gunther S, Schmitz H (2008) Strain-specific antibody response to Lassa virus in the local
+population of west Africa. J Clin Virol 42: 40–44. doi: 10.1016/j.jcv.2007.11.019 PMID: 18164653
+44.
+Emmerich P, Thome-Bolduan C, Drosten C, Gunther S, Ban E, et al. (2006) Reverse ELISA for IgG and
+IgM antibodies to detect Lassa virus infections in Africa. J Clin Virol 37: 277–281. PMID: 16996789
+45.
+http://www.cdc.gov/vhf/marburg/resources/distribution-map.html Marburg Hemorrhagic Fever Distribu-
+tion Map.
+46.
+(2003) Outbreak(s) of Ebola haemorrhagic fever, Congo and Gabon, October 2001-July 2002. Wkly
+Epidemiol Rec 78: 223–228. PMID: 15571171
+47.
+Leroy EM, Baize S, Volchkov VE, Fisher-Hoch SP, Georges-Courbot MC, et al. (2000) Human asymp-
+tomatic Ebola infection and strong inflammatory response. Lancet 355: 2210–2215. PMID: 10881895
+48.
+Nkoghe D, Padilla C, Becquart P, Wauquier N, Moussavou G, et al. (2011) Risk factors for Zaire ebola-
+virus–specific IgG in rural Gabonese populations. J Infect Dis 204 Suppl 3: S768–775. doi: 10.1093/
+infdis/jir344 PMID: 21987749
+49.
+Becquart P, Mahlakoiv T, Nkoghe D, Leroy EM (2014) Identification of continuous human B-cell epi-
+topes in the VP35, VP40, nucleoprotein and glycoprotein of Ebola virus. PLoS One 9: e96360. doi: 10.
+1371/journal.pone.0096360 PMID: 24914933
+50.
+Monath TP (1999) Ecology of Marburg and Ebola viruses: speculations and directions for future re-
+search. J Infect Dis 179 Suppl 1: S127–138. PMID: 9988176
+51.
+Morvan JM, Deubel V, Gounon P, Nakoune E, Barriere P, et al. (1999) Identification of Ebola virus se-
+quences present as RNA or DNA in organs of terrestrial small mammals of the Central African Republic.
+Microbes Infect 1: 1193–1201. PMID: 10580275
+52.
+Breman JG, Johnson KM, van der Groen G, Robbins CB, Szczeniowski MV, et al. (1999) A search for
+Ebola virus in animals in the Democratic Republic of the Congo and Cameroon: ecologic, virologic, and
+serologic surveys, 1979–1980. Ebola Virus Study Teams. J Infect Dis 179 Suppl 1: S139–147. PMID:
+9988177
+53.
+Leirs H, Mills JN, Krebs JW, Childs JE, Akaibe D, et al. (1999) Search for the Ebola virus reservoir in
+Kikwit, Democratic Republic of the Congo: reflections on a vertebrate collection. J Infect Dis 179 Suppl
+1: S155–163. PMID: 9988179
+54.
+Morvan JM NE, Deubel V & Colyn M (2000) Ecosystemes forestiers et virus Ebola. Bulletin de la So-
+cieté de Pathologie Exotique 93: 172–175.
+55.
+Swanepoel R, Leman PA, Burt FJ, Zachariades NA, Braack LE, et al. (1996) Experimental inoculation
+of plants and animals with Ebola virus. Emerg Infect Dis 2: 321–325. PMID: 8969248
+56.
+Formenty P BC, Wyers M, Steiner C, Donati F, Dind F, Walker F, Le Guenno B (1999) Ebola virus out-
+break among wild chimpanzees living in a rain forest of Côte d'Ivoire. J Infect Dis 179: 120–126.
+57.
+Jeffers SA, Sanders DA, Sanchez A (2002) Covalent modifications of the ebola virus glycoprotein. J
+Virol 76: 12463–12472. PMID: 12438572
+58.
+Timen A, Koopmans MP, Vossen AC, van Doornum GJ, Gunther S, et al. (2009) Response to imported
+case of Marburg hemorrhagic fever, the Netherland. Emerg Infect Dis 15: 1171–1175. doi: 10.3201/
+eid1508.090015 PMID: 19751577
+59.
+Leroy EM, Epelboin A, Mondonge V, Pourrut X, Gonzalez JP, et al. (2009) Human Ebola outbreak re-
+sulting from direct exposure to fruit bats in Luebo, Democratic Republic of Congo, 2007. Vector Borne
+Zoonotic Dis 9: 723–728. doi: 10.1089/vbz.2008.0167 PMID: 19323614
+Ebola and Marburg Viruses Seroprevalence in the Republic of Congo
+PLOS Neglected Tropical Diseases | DOI:10.1371/journal.pntd.0003833
+June 5, 2015
+14 / 15
+60.
+Adjemian J, Farnon EC, Tschioko F, Wamala JF, Byaruhanga E, et al. (2011) Outbreak of Marburg
+hemorrhagic fever among miners in Kamwenge and Ibanda Districts, Uganda, 2007. J Infect Dis 204
+Suppl 3: S796–799. doi: 10.1093/infdis/jir312 PMID: 21987753
+61.
+Towner JS, Pourrut X, Albarino CG, Nkogue CN, Bird BH, et al. (2007) Marburg virus infection detected
+in a common African bat. PLoS One 2: e764. PMID: 17712412
+62.
+Saez AM, Weiss S, Nowak K, Lapeyre V, Zimmermann F, et al. (2014) Investigating the zoonotic origin
+of the West African Ebola epidemic. EMBO Mol Med.
+Ebola and Marburg Viruses Seroprevalence in the Republic of Congo
+PLOS Neglected Tropical Diseases | DOI:10.1371/journal.pntd.0003833
+June 5, 2015
+15 / 15
+

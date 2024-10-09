@@ -1,0 +1,758 @@
+RESEARCH
+Open Access
+Serosurveillance of viral pathogens
+circulating in West Africa
+Aileen E. O’Hearn1, Matthew A. Voorhees1, David P. Fetterer2, Nadia Wauquier3, Moinya R. Coomber4,
+James Bangura3, Joseph N. Fair5, Jean-Paul Gonzalez3 and Randal J. Schoepp1*
+Abstract
+Background: Sub-Saharan Africa is home to a variety of pathogens, but disease surveillance and the
+healthcare infrastructure necessary for proper management and control are severely limited. Lassa virus, the
+cause of Lassa fever, a severe hemorrhagic fever in humans is endemic in West Africa. In Sierra Leone at the
+Kenema Government Hospital Lassa Diagnostic Laboratory, up to 70 % of acute patient samples suspected of
+Lassa fever test negative for Lassa virus infection. This large amount of acute undiagnosed febrile illness can
+be attributed in part to an array of hemorrhagic fever and arthropod-borne viruses causing disease that goes
+undetected and untreated.
+Methods: To better define the nature and extent of viral pathogens infecting the Sierra Leonean population,
+we developed a multiplexed MAGPIX® assay to detect IgG antibodies against Lassa, Ebola, Marburg, Rift Valley
+fever, and Crimean-Congo hemorrhagic fever viruses as well as pan-assays for flaviviruses and alphaviruses.
+This assay was used to survey 675 human serum samples submitted to the Lassa Diagnostic Laboratory
+between 2007 and 2014.
+Results: In the study population, 50.2 % were positive for Lassa virus, 5.2 % for Ebola virus, 10.7 % for
+Marburg virus, 1.8 % for Rift Valley fever virus, 2.0 % for Crimean-Congo hemorrhagic fever virus, 52.9 %
+for flaviviruses and 55.8 % for alphaviruses.
+Conclusions: These data exemplify the importance of disease surveillance and differential diagnosis for viral
+diseases in Sierra Leone. We demonstrate the endemic nature of some of these viral pathogens in the region
+and suggest that unrecognized outbreaks of viral infection have occurred.
+Keywords: Serosurvey, West Africa, Sierra Leone, Lassa, Ebola, Marburg, Rift Valley fever, Crimean-Congo,
+Alphavirus, Flavivirus, Prevalence, Antibodies, IgG, MAGPIX, Luminex
+Background
+Sierra Leone is plagued by a large array of human
+diseases, but insufficient healthcare infrastructure has
+resulted in many being unrecognized and uncontrolled.
+Diseases are often only reported as outbreaks and epi-
+demics, despite their consistent presence in the commu-
+nity. A notable exception is Lassa virus (LASV), which is
+endemic to Sierra Leone and neighboring countries, and
+causes Lassa fever (LF), a severe viral hemorrhagic fever
+that can have a case fatality rate as high as 69 % [1–4].
+In eastern Sierra Leone, Kenema Government Hospital
+(KGH)
+has
+a
+designated
+LF
+ward
+where
+patients
+suspected of LASV infection can be isolated and treated.
+The Lassa Diagnostic Laboratory supports the ward and
+regional medical facilities and receives approximately
+500–700 suspected LF samples annually [1, 5]. Of the
+submitted samples, only 30–40 % can be attributed to
+LASV infection, indicating significant disease resulting
+from other unidentified pathogens. Studies on acute
+undiagnosed samples from KGH found evidence of
+hemorrhagic fever and arthropod-borne virus infections
+including Ebola virus (EBOV), Marburg virus (MARV),
+Rift Valley fever virus (RVFV), yellow fever virus (YFV),
+* Correspondence: randal.j.schoepp.civ@mail.mil
+1Diagnostic Systems Division, US Army Medical Research Institute of
+Infectious Diseases, 1425 Porter Street, Fort Detrick, MD 21702-5011, USA
+Full list of author information is available at the end of the article
+© 2016 The Author(s). Open Access This article is distributed under the terms of the Creative Commons Attribution 4.0
+International License (http://creativecommons.org/licenses/by/4.0/), which permits unrestricted use, distribution, and
+reproduction in any medium, provided you give appropriate credit to the original author(s) and the source, provide a link to
+the Creative Commons license, and indicate if changes were made. The Creative Commons Public Domain Dedication waiver
+(http://creativecommons.org/publicdomain/zero/1.0/) applies to the data made available in this article, unless otherwise stated.
+O’Hearn et al. Virology Journal  (2016) 13:163 
+DOI 10.1186/s12985-016-0621-4
+dengue virus (DENV), West Nile virus (WNV), Chikun-
+gunya virus (CHIKV), and O'nyong-nyong virus (ONNV)
+[5, 6], however the disease burden on the human popula-
+tion is unknown. To better define the virus infections over
+time we undertook a seroprevalence survey of 675 human
+samples collected at the KGH Lassa Diagnostic Labora-
+tory from suspected LF patients between 2007 and 2014
+to detect immunoglobulin G (IgG) antibodies against an
+array of hemorrhagic fever and arthropod-borne viruses.
+Utilizing a multiplex assay on the magnetic bead-based
+MAGPIX® system (Luminex, Austin, TX), we previously
+demonstrated increased sensitivity of the MAGPIX® detec-
+tion platform over enzyme-linked immunosorbent assays
+(ELISA) for both LASV and EBOV antigen and antibody
+detection (Satterly et al., submitted). Here, we use the
+MAGPIX® system to detect and identify virus-specific IgG
+antibodies against LASV, EBOV, MARV, RVFV, Crimean
+Congo hemorrhagic fever virus (CCHFV), and pan-assays
+for flaviviruses and alphaviruses, in an attempt to better
+define the disease burden on the population over time.
+Methods
+Human samples
+The Lassa Diagnostic Laboratory receives blood samples
+from suspected LF patients and their contacts primarily
+from Sierra Leone, with occasional samples from Liberia
+and Guinea. A total of 675 serum samples from sus-
+pected LF patients and contacts collected between 2007
+and 2014 were tested for IgG antibodies at the Lassa
+Diagnostic
+Laboratory
+and
+the
+Diagnostic
+Systems
+Division at USAMRIID. Whole blood samples were
+centrifuged at 200xg, serum collected, and stored at -80 °C
+until testing. Research on human subjects was con-
+ducted in compliance with US Department of Defense,
+federal and state regulations. All data were gathered
+and human subject research was conducted under an
+USAMRIID institutional review board protocol (no. HP-
+09-32).
+Viral antigen
+Viruses used for production of MAGPIX® antigenic
+materials included LASV Josiah [7, 8]; EBOV Mayinga
+[9]; MARV Musoke [10]; RVFV ZH 501 strain [11];
+CCHFV IbAr10200 [12]; DENV-2 New Guinea C [13, 14];
+WNV NY99 [15]; YFV 17D [16]; and CHIKV B8635.
+All viruses were propagated at the appropriate biological
+safety level (BSL), either BSL-3 or BSL-4. Briefly, the
+viruses were grown in appropriate continuous cell lines
+until cytopathic effects were observed in 50 to 75 %
+of the cells. Tissue culture supernatants (TCS) were clari-
+fied by centrifugation, inactivated by treatment with
+0.3 % beta-propiolactone, aliquoted, and stored at -70 °C.
+Virus infected TCS was inactivated by gamma-irradiation
+(3 x 106 rads) and safety tested to ensure inactivation.
+Optimal dilutions of antigens were determined by checker-
+board titrations against virus specific antibodies. Mock
+TCS antigens used as negative controls were prepared
+as described above using uninfected cell monolayers.
+MAGPIX® assay development
+To develop a multiplexed IgG detection assay, we first
+chose monoclonal antibodies (MAbs) based on target
+specificity and exclusivity. In the case of the pan-assays,
+we considered inclusivity of multiple virus family mem-
+bers. Initial antibody selection was based on ELISA
+checkerboard assessments with the viruses of interest.
+MAbs with strong affinity for their target were coupled
+to MAGPIX® magnetic microspheres at a concentration
+of 4 μg antibody/1 X 106 beads using the Luminex Anti-
+body Coupling Kit (catalog #4050016) according to
+manufacturer’s instructions. They were then optimized
+for MAGPIX® IgG detection, and tested for exclusivity
+against the additional viral targets. Pan-assays utilized
+MAbs with the greatest cross-reactivity to the virus
+family. MAbs coupled to MAGPIX® microspheres and
+used in MAGPIX® IgG detection assays were as follows:
+anti-LASV glycoprotein complex (GP) L52-85-6-BG12;
+anti-LASV nucleoprotein (NP) L52-2159-15; anti-EBOV
+glycoprotein (GP) Z-DA06-AH05; anti-EBOV viral protein
+40 (VP40) M-HD6-A10A; anti-MARV VP40 3MI2; anti-
+RVFV nucleocapsid (NC) R1-P6F6-6-2-2; anti-CCHFV
+nucleocapsid (N) CCII 12G10-2-2A; anti-YFV envelope
+(E) YF-211-4E11 (pan-flavivirus capture capable of detec-
+ting IgG antibodies to DENV, WNV, YFV, Japanese
+encephalitis virus (JEV), and tick-borne encephalitis virus
+(TBEV)) ([17], unpublished data); and anti- Sindbis virus
+(SINV)/Semliki forest virus glycoprotein E1 (E1) SLK42
+(pan-alphavirus capture capable of detecting IgG anti-
+bodies SINV, CHIKV, ONNV, Venezuelan equine ence-
+phalitis virus (VEEV), Western equine encephalitis virus
+(WEEV), and Eastern equine encephalitis virus (EEEV)
+([18], unpublished data). Virus-specific sets of micro-
+spheres were combined into a multiplex assay that could
+detect several targets in a single sample well for IgG
+detection.
+MAGPIX® IgG detection
+Nine distinct assays detecting IgG antibodies against
+LASV-GP, LASV-NP, EBOV-GP, EBOV-VP40, MARV-
+VP40, RVFV-NC, CCHFV-N, YFV-E (pan-flavivirus),
+and SINV-E1 (pan-alphavirus) were combined in a mul-
+tiplexed IgG detection assay used to test the 675 human
+sera samples. Microspheres, 2000 of each of the nine
+sets, were combined into all wells of 96-well plates;
+to which either mock TCS or a mixture of viral infected
+TCS was added. The plates were covered, incubated
+at room temperature (RT) for 1 h with shaking at
+400–500 rpm, and washed three times using a magnetic
+O’Hearn et al. Virology Journal  (2016) 13:163 
+Page 2 of 6
+plate separator. Patient serum was diluted 1:100 and
+added to wells in triplicate. The plates were covered and
+incubated at room temperature for 1 h with shaking. The
+plates were washed, and anti-human IgG-R-Phycoerythrin
+(Sigma, St. Louis, MO) was added at a 1:100 dilution. The
+plates were covered, incubated at room temperature for
+30 min, washed, and read on a MAGPIX® instrument. The
+median fluorescence intensity (MFI) of each bead set in
+each well was obtained. Throughout the assay, the total
+volume for each step was 50 μl. All dilutions and washes
+were with 100 μl phosphate-buffered saline with 0.02 %
+Tween-20.
+Statistical analysis of MAGPIX® results
+Assay results were log transformed prior to analysis. For
+each sample, the z-score was calculated by the mean
+difference between the log transformed sample replicates
+in viral infected TCS and the log transformed sample
+replicates in uninfected TCS, divided by the standard
+error of the difference. The MFI variance on the log
+scale was found to be homogenous within each test,
+and an appropriate pooled variance estimate was taken
+across each test in calculating standard errors. Results
+from multiple tests were collected from a single well, and
+the data for each test were analyzed separately. This ana-
+lysis step was carried out with a generalized linear model
+having identity link and normal distribution, as provided
+in the SAS® GENMOD procedure [19]. Results that had a
+conservative z-score of at least three standard errors above
+zero were considered a positive test. Samples testing posi-
+tive for one or more targets of a single virus was consi-
+dered positive for the virus; for example, if a sample tested
+positive for LASV-NP and negative for LASV-GP, it was
+considered positive for LASV. Prevalence was calculated
+using the dichotomization obtained at the three standard
+errors cut point. Although 675 serum samples were
+assayed, test results with readings from less than ten
+beads per well were considered unreliable and therefore
+excluded from analysis; therefore, the total number of
+samples analyzed for each test varied.
+Results
+Prevalence of anti-viral IgG antibodies
+A total of 675 serum samples submitted to the Lassa
+Diagnostic Laboratory in Kenema, Sierra Leone were
+subjected to serological testing. Samples were tested for
+IgG antibodies to specific viral targets and results are pre-
+sented in Table 1. Of the data collected, 50.2 % (n = 328)
+of samples had detectable antibodies to LASV, consistent
+with previous estimates of 8–52 % in the area [20].
+Antibodies against EBOV were detected in 5.2 % (n = 35)
+of the sample population, MARV in 10.7 % (n = 71), RVFV
+in 1.8 % (n = 12), and CCHFV in 2.0 % (n = 13). Detectable
+antibodies to one or more flaviviruses were demonstrated
+in 52.9 % (n = 330) of the samples, and 55.8 % (n = 373)
+had detectable antibodies to one or more alphaviruses. Of
+the seven distinct viruses (including the two pan-assays),
+the mean number of positive tests was 1.8, with 26.2 % of
+individuals testing positive for 3 or more distinct viruses,
+as shown in Table 2. A more accurate number is likely
+higher, considering the pan-alphavirus and pan-flavivirus
+tests detect multiple exposures.
+Longitudinal assessment of prevalence
+A longitudinal assessment to investigate chronological
+trends in positive IgG antibody rates was performed and
+presented in Table 3. Surprisingly, MARV antibodies
+were detected in 23 % of samples tested from 2008,
+suggesting a possible unrecognized outbreak of the virus
+in the area. Of additional note is the large increase in
+RVFV in 2014, and the fluctuations in alphavirus positive
+Table 1 Seroprevalence of each target virus among samples
+obtained from suspected LF patients. Number of samples testing
+positive, total number tested, and percent tested positive by
+MAGPIX
+Observed Prevalence Rates
+Analyte
+Positive/total tested (%)
+LASV
+328/654 (50.2 %)
+EBOV
+35/672 (5.2 %)
+MARV
+71/663 (10.7 %)
+RVFV
+12/667 (1.8 %)
+CCHFV
+13/641 (2.0 %)
+Pan-flavivirus
+330/624 (52.9 %)
+Pan-alphavirus
+373/668 (55.8 %)
+Table 2 Distribution of number of positive tests identified per
+sample, out of seven distinct tests (LASV, EBOV, MARV, RVFV,
+CCHFV, Pan-alphavirus, and Pan-flavivirus). Samples that did
+not have valid results for all 7 distinct tests are listed as not
+applicable (N/A)
+Frequency of Positive Tests per Sample
+Number of positive
+tests per sample
+Frequency (n)
+Percent (%) of
+total samples
+0
+109
+16.15
+1
+138
+20.44
+2
+174
+25.78
+3
+137
+20.30
+4
+29
+4.30
+5
+6
+0.89
+6
+4
+0.59
+7
+1
+0.15
+N/A
+77
+11.41
+O’Hearn et al. Virology Journal  (2016) 13:163 
+Page 3 of 6
+rates. It should be noted that year 2009 had only one
+representative sample and was therefore not included in
+the table below.
+Discussion
+Knowledge of the diseases circulating in a region is para-
+mount for proper diagnosis, care and treatment of
+patients, and ultimately a reduction of overall disease
+burden. Sierra Leone and the surrounding areas suffer
+from numerous viral diseases, but surveillance and diag-
+nostic capabilities fall short of the need for effective
+disease control. Moreover, as demonstrated by the recent
+EBOV outbreak in West Africa, differential diagnosis
+among febrile illnesses and knowledge of their prevalence
+is of great importance for timely and efficient manage-
+ment of patients and outbreak prevention. To more accu-
+rately define the disease burden on the population, we
+applied a multiplexed serological assay to screen a panel
+of 675 serum samples from Sierra Leone to identify some
+of the arthropod-borne and hemorrhagic fever viral burden
+in the region.
+The MAGPIX platform, a multiplexed, bead-based
+system, can efficiently collect valuable disease burden
+information
+where
+it
+is
+not
+routinely
+monitored.
+Customization and optimization of multiple assays in a
+single well permitted testing for each target of interest
+in less time and with less effort than other methods
+such as ELISA. In our study population, 26.2 % were
+positive for exposure to at least three viruses. Since
+we investigated only IgG antibodies, the results repre-
+sented the infection of individuals over their lifetimes and
+not a single point in time, therefore it was expected to
+find antibodies to multiple targets in a single individual.
+This further highlights the severe extent of public health
+risk of virus infection for the population.
+Among suspected LF patients we found LASV sero-
+prevalence to be 50.2 %, which is consistent with esti-
+mates ranging from 8–52 % throughout the country and
+the hyper-endemic region in eastern Sierra Leone, where
+KGH is located [20]. EBOV and MARV seroprevalence
+were 5.2 % and 10.7 %, respectively. A recent study esti-
+mated seroprevalence of filoviruses to be 22 % in the
+area, and an IgM survey from the same hospital reported
+a 9 % acute EBOV infection rate between 2006 and 2008
+[5, 6]. Considering the estimated fatality rates of EBOV
+and that we are observing latent immunity only present
+in survivors, the 5.2 % prevalence seen here correlates
+appropriately with the 9 % observed acute cases during
+the time period of sample collection. In our study,
+EBOV infections were demonstrated in the population
+as early as 2008 and earlier by others [5], indicating
+circulating virus throughout the time period that may be
+the result of a reservoir maintaining EBOV in the envi-
+ronment. We found the overall seroprevalence of MARV
+to be 10.7 % and present as early as 2007; although there
+are no records of MARV outbreaks or disease in this
+region, it was found retrospectively in 3.6 % of acute
+samples from KGH dating from 2006–2008, suggesting
+an increase in exposures occurred in the last 7 years.
+There is a notable jump in MARV to 23 % seropre-
+valence in 2008, suggesting a possible unrecognized out-
+break of the MARV in the area. Since no increase in
+VHF was noted, it might be that the MARV circulating
+is a less virulent strain.
+RVFV is a bunyavirus known to circulate throughout
+sub-Saharan Africa, mainly among livestock and Aedes
+species mosquitos, with sporadic outbreaks of human
+disease. While the climate and epizootic factors are well
+studied in East and South Africa, it has been postulated
+that there are other factors supporting endemic sustai-
+nability in West Africa [21–23]. Here we report a sero-
+prevalence of 1.8 %, and observed a notable increase in
+prevalence from 1–3 % in 2007–2013 to 11 % in 2014,
+suggesting a substantial and recent increase in its circu-
+lation. Another bunyavirus, CCHFV, is known to occur
+throughout Africa, Asia and Europe in animals and ticks.
+Human infection, albeit rare, is severe and usually asso-
+ciated with livestock contact [24–27]. We detected low
+numbers of CCHFV exposure (n = 13, 2.0 %) in our
+sample population, even though it was not detected in
+Table 3 Observed seropositive rates are reported in percent of total samples from that year for each pathogen. There was only one
+representative sample from the year 2009, therefore statistics for that year are not included in the chart
+Seroprevalence rate (% of total each year)
+Year
+Total samples
+LASV
+EBOV
+MARV
+RVFV
+CCHFV
+Pan-flavivirus
+Pan-alphavirus
+2007
+51
+41
+0
+8
+0
+0
+49
+61
+2008
+151
+57
+3
+23
+1
+1
+38
+68
+2010
+195
+51
+7
+7
+1
+2
+67
+65
+2011
+153
+36
+5
+6
+3
+3
+39
+32
+2012
+66
+67
+10
+13
+1
+1
+64
+63
+2013
+41
+61
+2
+0
+0
+2
+73
+49
+2014
+19
+37
+0
+0
+11
+5
+47
+26
+O’Hearn et al. Virology Journal  (2016) 13:163 
+Page 4 of 6
+other recent studies [5, 6]. The relatively low but consist-
+ent prevalence of antibodies to RVFV and CCHFV may
+suggest the presence of reservoirs or continual reintroduc-
+tion to the region resulting in low, but consistent levels of
+human infection.
+Flaviviruses and alphaviruses cause a large number of
+infections and disease throughout West Africa. Serological
+data is difficult to interpret since there is significant cross-
+reactivity among viruses within their respective families.
+Generally, antibodies to a specific virus must be distin-
+guished by plaque reduction neutralization tests. It is
+known that multiple alphaviruses and flaviviruses circulate
+in this region, some described and others possibly undis-
+covered, but our interests were in the prevalence of
+the overall disease attributed to each group. Therefore
+given the number of samples tested here and the desire
+for broad and complete surveillance, we developed two
+pan-assays intended for the widest possible coverage of
+flavivirus and alphavirus species. Antibody prevalence
+rates were high for viruses of both families; combined
+prevalence of flavivirus and alphavirus antibodies were
+52.9 % and 55.8 %, respectively. There are limited data
+on the seroprevalence to flaviviruses in Sierra Leone. A
+survey by Boisen et al. (n = 77) from Kenema Government
+Hospital revealed 45 % seroprevalence to DENV and 54 %
+to WNV [6]. Studies in the neighboring countries of
+Guinea, Nigeria, and Cameroon report a range of sero-
+prevalence to flaviviruses including YFV (27–43 %),
+DENV-2 (12–45 %) and WNV (7–49 %) [28–30], each of
+which is detectable in our pan-assay and likely represent
+significant portions of the overall seroprevalence. It is also
+possible that YFV vaccination may have increased the
+prevalence of flaviviruses recorded here; distribution of
+the vaccine in Sierra Leone before and during the time
+period of the samples examined here is estimated to have
+a population coverage of 75 % or more [31, 32]. Similar to
+the flaviviruses, there is limited information on the preva-
+lence of alphavirus antibodies in Sierra Leone. Boisen
+et al. reported in the same survey of 77 KGH serum sam-
+ples a prevalence to CHIKV of 27 % [6]. The 55.8 % preva-
+lence of alphavirus antibodies that we report here is
+similar to estimates of CHIKV and ONNV in nearby
+Cameroon where approximately 47 % of healthy adults
+tested positive for CHIKV and/or ONNV (with noted
+overlap) [30]. Our longitudinal data analysis revealed a
+high prevalence of alphaviruses prior to 2010 (>60 %),
+which may be in part due to ONNV and CHIKV out-
+breaks known to occur in Guinea in 2003 [33] and 2006
+[34]. Additionally, a spike in 2012 and a subsequent de-
+crease in the following years correlates with a reported
+CHIKV outbreak in Sierra Leone in 2012, identified in a
+hospital only 60 kilometers from KGH [35]. The high rates
+of both flaviviruses and alphaviruses seen here, combined
+with identified recurring outbreaks of CHIKV and ONNV,
+highlight the range of endemic viruses and their signifi-
+cant impact on the limited medical infrastructure.
+Retrospective studies have limitations by their very
+nature. In this study the samples tested had a bias for
+subjects that 1) were willing to seek help from the
+hospital, and 2) had at some point presented with symp-
+toms resembling LF. An individual’s presentation at the
+hospital may indicate they are more likely to be exposed
+to pathogens via factors in their lifestyle, geographic
+location, or workplace environment.
+Conclusions
+The results of this study indicate that in addition to LASV,
+there is a significant presence of filoviruses, bunyaviruses,
+flaviviruses and alphaviruses actively circulating in the
+Sierra Leone region over time. Some virus pathogens are
+consistently circulating over the entire 7-year timespan
+tested, which suggests many are endemic, being main-
+tained in the region in natural reservoirs. We found indi-
+cations of possible unrecognized outbreaks of infection or
+subclinical exposure that add to the disease burden in the
+human population. Sierra Leone and other regions where
+the public health burden of these pathogens is insuffi-
+ciently evaluated need improved pathogen surveillance.
+Multiplexed and bead-based platforms such as MAGPIX
+can provide an efficient, customizable surveillance method
+to evaluate pathogen presence, spread and risk.
+Abbreviations
+BSL: Biological safety level; CHIKV: Chikungunya virus; DENV: Dengue virus;
+YFV-E: Yellow fever virus envelope protein; SINV-E1: Sindbis/Semliki forest
+glycoprotein E1; EBOV: Ebola virus; EEEV: Eastern equine encephalitis virus;
+ELISA: Enzyme-linked immunosorbent assay; EBOV-GP: Ebola virus glycoprotein;
+LASV-GP: Lassa virus glycoprotein; IgG: Immunoglobulin G; JEV: Japanese
+encephalitis virus; KGH: Kenema Government Hospital; LASV: Lassa virus;
+LF: Lassa fever; MAbs: Monoclonal antibodies; MARV: Marburg virus; MFI: Median
+fluorescence intensity; CCHFV-N: Crimean-Congo hemorrhagic fever virus
+nucleocapsid; N/A: Not applicable; RVFV-NC: Rift Valley fever virus nucleocapsid;
+LASV-NP: Lassa virus nucleoprotein; ONNV: O'nyong-nyong virus; RT: Room
+temperature; RVFV: Rift Valley fever virus; SINV: Sindbis virus; TBEV: Tick-borne
+encephalitis virus; TCS: Tissue culture supernatants; VEEV: Venezuelan equine
+encephalitis virus; VP40: Viral protein 40; WEEV: Western equine encephalitis
+virus; WNV: West Nile virus; YFV: Yellow fever virus
+Acknowledgements
+The authors wish to thank all the dedicated and hardworking employees of
+the Kenema Government Hospital, Kenema, Sierra Leone. Special thanks to
+Augustin Goba (Tulane University), Mambu Momoh, and the late Mohamed
+Fullah at the Lassa Diagnostic Laboratory. We thank Tamara Clements, Scott
+Olschner, Dr. Mark A. Poli, and Cynthia A. Rossi at the US Army Medical
+Research Institute of Infectious Diseases for their expert technical assistance.
+We thank Dr. Robert F. Garry and the Viral Hemorrhagic Fever Consortium
+for providing anonymized samples and infrastructural support at the Kenema
+Government Hospital.
+Funding
+The study was funded in part by the Division of Global Emerging Infections
+Surveillance and Response System (GEIS) Operations at the Armed Forces
+Health Surveillance Center, through US Army Medical Research Institute of
+Infectious Diseases (USAMRIID) and by the Defense Threat Reduction Agency
+Cooperative Biological Engagement Program, through Metabiota. Dr.
+O’Hearn was funded by the Defense Threat Reduction Agency Cooperative
+Biological Engagement Program and National Research Council Research
+O’Hearn et al. Virology Journal  (2016) 13:163 
+Page 5 of 6
+Associateship Award at US Army Medical Research Institute of Infectious
+Diseases (USAMRIID). Opinions, interpretations, conclusions, and
+recommendations are those of the authors and are not necessarily endorsed
+by the U.S. Army.
+Authors’ contributions
+AEO contributed to experimental design, experimental execution, data
+collection, data analysis, and drafting of manuscript. MAV contributed to
+experimental design, experimental execution, data collection, and data
+analysis. DF contributed extensive data analysis and critical review of
+manuscript. NW and MRC provided laboratory and experimental assistance
+at KGH. JB, JF and JPG provided necessary aid in Sierra Leone and access to
+samples. RJS contributed to experimental design, data interpretation, and
+provided extensive critical review of manuscript. All authors read and
+approved the final manuscript.
+Competing interests
+The authors declare that they have no competing interests.
+Ethics approval and consent to participate
+Research on human subjects was conducted in compliance with US DoD,
+Federal, and State statutes and regulations relating to the protection of
+human subjects, and adheres to principles identified in the Belmont Report
+(1979). All data and human subjects research were gathered and conducted
+for this publication under an IRB approved protocol, number HP-09-32.
+Author details
+1Diagnostic Systems Division, US Army Medical Research Institute of
+Infectious Diseases, 1425 Porter Street, Fort Detrick, MD 21702-5011, USA.
+2Statistics Division, US Army Medical Research Institute of Infectious Diseases,
+Fort Detrick, MD, USA. 3Metabiota, Inc., San Francisco, CA, USA. 4Kenema
+Government Hospital, Lassa Diagnostic Laboratory, Ministry of Health and
+Sanitation, Kenema, Sierra Leone. 5MRI Global, 1330 Piccard Avenue,
+Rockville, MD, USA.
+Received: 22 March 2016 Accepted: 22 September 2016
+References
+1.
+Shaffer JG, Grant DS, Schieffelin JS, Boisen ML, Goba A, Hartnett JN, et al. Lassa
+Fever in Post-Conflict Sierra Leone. PLoS Negl Trop Dis. 2014;8(3):e2748.
+2.
+Frame JD, Baldwin Jr JM, Gocke DJ, Troup JM. Lassa Fever, a new virus
+disease of man from West Africa 1. Clinical Description and Pathological
+Findings. 1970;19(4):670–6.
+3.
+Leifer E, Gocke DJ, Bourne H. Lassa Fever, A New Virus Disease of Man
+from West Africa 2. Report of a Laboratory-Acquired Infection Treated
+with Plasma from a Person Recently Recovered from the Disease.
+Am J Trop Med Hyg. 1970;19(4):677–9.
+4.
+Buckley SM, Casals J. Lassa fever, a new virus disease of man from West
+Africa. 3. Isolation and characterization of the virus. Am J Trop Med Hyg.
+1970;19(4):680–91.
+5.
+Schoepp RJ, Rossi CA, Khan SH, Goba A, Fair JN. Undiagnosed acute viral
+febrile illnesses, Sierra Leone. Emerg Infect Dis. 2014;20(7):1176–82.
+6.
+Boisen ML, Schieffelin JS, Goba A, Oottamasathien D, Jones AB, Shaffer JG,
+et al. Multiple Circulating Infections Can Mimic the Early Stages of Viral
+Hemorrhagic Fevers and Possible Human Exposure to Filoviruses in Sierra
+Leone Prior to the 2014 Outbreak. Viral Immunol. 2015;28(1):19–31.
+7.
+Auperin DD, McCormick JB. Nucleotide sequence of the Lassa virus
+(Josiah strain) S genome RNA and amino acid sequence comparison of the
+N and GPC proteins to other arenaviruses. Virology. 1989;168(2):421–5.
+8.
+Auperin DD, Sasso DR, McCormick JB. Nucleotide sequence of the
+glycoprotein gene and intergenic region of the Lassa virus S genome RNA.
+Virology. 1986;154(1):155–67.
+9.
+Ksiazek TG, Rollin PE, Williams AJ, Bressler DS, Martin ML, Swanepoel R, et al.
+Clinical virology of Ebola hemorrhagic fever (EHF): virus, virus antigen, and
+IgG and IgM antibody findings among EHF patients in Kikwit, Democratic
+Republic of the Congo, 1995. J Infect Dis. 1999;179(Suppl):S177–87.
+10.
+Warren TK, Warfield KL, Wells J, Swenson DL, Donner KS, Van Tongeren SA,
+et al. Advanced antisense therapies for postexposure protection
+against lethal filovirus infections. Nat Med Nature Publishing Group.
+2010;16(9):991–4.
+11.
+Meegan JM. The Rift Valley fever epizootic in Egypt 1977-78. 1. Description
+of the epizzotic and virological studies. Trans R Soc Trop Med Hyg.
+1979;73(6):618–23.
+12.
+Causey OR, Kemp GE, Madbouly MH, David-West TS. Congo virus from
+domestic livestock, African hedgehog, and arthropods in Nigeria.
+Am J Trop Med Hyg. 1970;19(5):846–50.
+13.
+Sabin AB, Schlesinger RW. Production of immunity to dengue with virus
+modified by propagation in mice. Science. 1945;101(2634):640–2.
+14.
+Sabin AB. The dengue group of viruses and its family relationships.
+Bacteriol Rev. 1950;14(3):225–32.
+15.
+Lanciotti RS, Roehrig JT, Deubel V, Smith J, Parker M, Steele K, et al. Origin
+of the West Nile virus responsible for an outbreak of encephalitis in the
+northeastern United States. Science. 1999;286(5448):2333–7.
+16.
+Theiler M. The virus. In: Yellow Fever. 1951. p. 39–136.
+17.
+Monath TP, Schlesinger JJ, Brandriss MW, Cropp CB, Prange WC. Yellow
+fever monoclonal antibodies: type-specific and cross-reactive determinants
+identified by immunofluorescence. Am J Trop Med Hyg. 1984;33(4):695–8.
+18.
+Schmaljohn AL, Kokubun KM, Cole GA. Protective monoclonal antibodies
+define maturational and pH-dependent antigenic changes in Sindbis virus
+E1 glycoprotein. Virology. 1983;130(1):144–54.
+19.
+SAS Institute Inc. SAS 9.4 Statements Reference, Fourth Edition. Cary, NC:
+SAS Institute Inc.; 2015.
+20.
+Mccormick JB, Webb PA, Krebs JW, Johnson KM, Smith ES. A Prospective
+Study of the Epidemiology and Ecology of Lassa Fever. J Infect Dis.
+1987;155(3):437–44.
+21.
+Favier C, Chalvet-Monfray K, Sabatier P, Lancelot R, Fontenille D, Dubois MA.
+Rift Valley fever in West Africa: the role of space in endemicity. Trop Med Int
+Health. 2006;11(12):1878–88.
+22.
+Fontenille D, Traore-Lamizana M, Zeller H, Mondo M, Diallo M, Digoutte JP.
+Short report: Rift Valley fever in western Africa: isolations from Aedes
+mosquitoes during an interepizootic period. Am J Trop Med Hyg.
+1995;52(5):403–4.
+23.
+Fontenille D, Traore-Lamizana M, Diallo M, Thonnon J, Digoutte JP, Zeller HG.
+New vectors of Rift Valley fever in West Africa. Emerg Infect Dis. 1998;4(2):289–93.
+24.
+Whitehouse CA. Crimean-Congo hemorrhagic fever. Antiviral Res.
+2004;64(3):145–60.
+25.
+Appannanavar SB, Mishra B. An update on crimean congo hemorrhagic
+Fever. J Glob Infect Dis. 2011;3(3):285–92.
+26.
+Messina JP, Pigott DM, Golding N, Duda KA, Brownstein JS, Weiss DJ, et al.
+The global distribution of Crimean-Congo hemorrhagic fever. Trans R Soc
+Trop Med Hyg. 2015;109(8):503–13.
+27.
+Gonzalez JP, LeGuenno B, Guillaud M, Wilson ML. A fatal case of
+Crimean-Congo haemorrhagic fever in Mauritania: virological and
+serological evidence suggesting epidemic transmission. Trans R Soc
+Trop Med Hyg. 1990;84(4):573–6.
+28.
+Fagbami AH, Monath TP, Fabiyi A. Dengue virus infections in Nigeria:
+a survey for antibodies in monkeys and humans. Trans R Soc Trop Med
+Hyg. 1977;71(1):60–5.
+29.
+Amarasinghe A, Kuritsk JN, Letson GW, Margolis HS. Dengue virus infection
+in Africa. Emerg Infect Dis. 2011;17(8):1349–54.
+30.
+Kuniholm MH, Wolfe ND, Huang CY-H, Mpoudi-Ngole E, Tamoufe U, Burke
+DS, et al. Seroprevalence and distribution of flaviviridae, togaviridae, and
+bunyaviridae arboviral infections in rural Cameroonian adults. Am J Trop
+Med Hyg. 2006;74(6):1078–83.
+31.
+Pezzoli L, Conteh I, Kamara W, Gacic-Dobo M, Ronveaux O, Perea WA, et al.
+Intervene before leaving: clustered lot quality assurance sampling to
+monitor vaccination coverage at health district level before the end of a
+yellow fever and measles vaccination campaign in Sierra Leone in 2009.
+BMC Public Health BioMed Central. 2012;12(1):415.
+32.
+Garske T, Van Kerkhove MD, Yactayo S, Ronveaux O, Lewis RF, Staples JE,
+et al. Yellow Fever in Africa: Estimating the Burden of Disease and Impact of
+Mass Vaccination from Outbreak and Serological Data. Hay SI, editor. PLoS
+Med. Public Library of Science; 2014 May 6;11(5):e1001638.
+33.
+Posey DL, O’rourke T, Roehrig JT, Lanciotti RS, Weinberg M, Maloney S.
+O’nyong-nyong fever in West Africa. Am J Trop Med Hyg. 2005;73(1):32.
+34.
+Jentes ES, Robinson J, Johnson BW, Conde I, Sakouvougui Y, Iverson J, et?al.
+Acute arboviral infections in Guinea, West Africa, 2006. Am J Trop Med Hyg.
+2010;83(2):388–94.
+35.
+Ansumana R, Jacobsen K, Leski T, Covington A, Bangura U, et al.
+Reemergence of Chikungunya Virus in Bo, Sierra Leone. Emerg Infect Dis.
+2013;19(7):1108–10.
+O’Hearn et al. Virology Journal  (2016) 13:163 
+Page 6 of 6
+

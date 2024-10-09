@@ -1,0 +1,6 @@
+```xml
+<extracted_parameters>
+Incubation period, 7-8, days, estimated, , , 
+Time symptom to outcome (death), 7, days, exact, , , 
+</extracted_parameters>
+```

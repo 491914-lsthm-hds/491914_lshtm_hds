@@ -1,0 +1,2133 @@
+The Origin and Evolution of Ebola and Marburg Viruses 
+Yoshiyuki Suzuki*“f and Takashi GojoborP 
+*Center for Information 
+Biology, National Institute of Genetics, 
+Mishima, 
+Japan; and TDepartment 
+of Microbiology, 
+Akita University 
+School of Medicine, 
+Akita, Japan 
+Molecular 
+evolutionary 
+analyses 
+for Ebola and Marburg viruses were conducted 
+with the aim of elucidating 
+evo- 
+lutionary 
+features of these viruses. In particular, the rate of nonsynonymous 
+substitutions 
+for the glycoprotein 
+gene 
+of Ebola virus was estimated 
+to be, on the average, 3.6 X 1O-5 per site per year. Marburg virus was also suggested 
+to be evolving 
+at a similar rate. Those rates were a hundred 
+times slower than those of retroviruses 
+and human 
+influenza 
+A virus, but were of the same order of magnitude 
+as that of hepatitis 
+B virus. When these rates were 
+applied to the degree of sequence divergence, 
+the divergence 
+time between Ebola and Marburg viruses was estimated 
+to be more than several thousand 
+years ago. Moreover, 
+most of the nucleotide 
+substitutions 
+were transitions 
+and 
+synonymous 
+for Marburg virus. This suggests 
+that purifying 
+selection 
+has operated 
+on Marburg virus during evo- 
+lution. 
+Introduction 
+Ebola 
+and Marburg 
+viruses 
+are known 
+to be the 
+etiological 
+agents 
+of haemorrhagic 
+fever, which has a 
+high mortality 
+rate (Martini 
+and Siegert 
+197 1; Interna- 
+tional 
+Commission 
+1978; 
+WHO/International 
+Study 
+Team 1978; Baron, McCormick, 
+and Zubeir 
+1983; Cen- 
+ters for Disease 
+Control 
+and Prevention 
+1995), and thus 
+have been classified 
+as “biosafety 
+level 4” agents (Rich- 
+ardson and Barkley 
+1988). These viruses have also been 
+classified 
+into the genus 
+Filovirus, 
+which 
+is the sole 
+member 
+of the family 
+Filoviridue 
+(Riley 
+et al. 1982). 
+The genome 
+of these viruses is the nonsegmented, 
+neg- 
+ative-stranded 
+RNA 
+(Regnery, 
+Johnson, 
+and Kiley 
+1981), and thus they have been further 
+classified 
+into 
+the order Mononegavirales 
+(Pringle 
+1991). Their 
+ge- 
+nomes encode the same set of seven genes in the same 
+order, namely 
+nucleoprotein 
+(NP), viral structural 
+pro- 
+tein 35 (VP35), VP40, glycoprotein 
+(GP), VP30, VP24, 
+and RNA-dependent 
+RNA polymerase 
+(L), from the 3’ 
+to 5’ end (Feldmann 
+et al. 1992; Sanchez 
+et al. 1993). 
+From the molecular 
+evolutionary 
+point of view, it 
+is of importance 
+to elucidate 
+the origins 
+and evolution- 
+ary modes of these viruses. 
+In particular, 
+to examine 
+the 
+rates and patterns 
+of nucleotide 
+substitutions 
+for these 
+viruses 
+is important 
+for understanding 
+the mutation 
+mechanism, 
+and it is also useful for predicting 
+the future 
+evolution 
+of these viruses. 
+Such knowledge 
+can lead us 
+to the development 
+of antiviral 
+drugs and effective 
+vac- 
+cines for Ebola and Mar-burg viruses. 
+In this study, we 
+estimated 
+the rates of nucleotide 
+substitutions 
+for Ebola 
+and Mar-burg viruses. 
+Applying 
+the estimated 
+rates to 
+the degree of sequence 
+divergence, 
+we further estimated 
+the divergence 
+time not only among Ebola virus strains 
+but also between 
+Ebola and Marburg 
+viruses. 
+The pat- 
+tern of nucleotide 
+substitutions 
+is also discussed 
+to clar- 
+ify the evolutionary 
+modes of these viruses. 
+Key words: 
+Ebola virus, Marburg 
+virus, substitution 
+rate, diver- 
+gence time, substitution 
+pattern, 
+purifying 
+selection. 
+Address 
+for correspondence 
+and reprints: 
+Takashi Gojobori, 
+Di- 
+rector and Professor, 
+Center for Information 
+Biology, National Institute 
+of Genetics, 
+1111 Yata, Mishima, 
+Shizuoka-ken 
+411, Japan. 
+E-mail: 
+tgojobor@genes.nig.ac.jp. 
+Mol. Biol. Evol. 14(8):800-806. 
+1997 
+0 1997 by the Society for Molecular Biology and Evolution. 
+ISSN: 0737-4038 
+800 
+Materials 
+and Methods 
+Sequence 
+Data Used 
+Sequence 
+data for Ebola and Marburg 
+viruses were 
+collected 
+from the international 
+DNA data banks DDBJ/ 
+EMBL/GenBank. 
+The sequence 
+data used in this study 
+are summarized 
+in table 1. In our analyses, 
+we assumed 
+that 
+no sequences 
+of Ebola 
+and 
+Marburg 
+viruses 
+changed 
+after isolation. 
+If these viruses did change their 
+genome 
+sequences 
+after isolation, 
+the rates of nucleotide 
+substitutions 
+estimated 
+in the present analysis 
+would be 
+underestimates, 
+but they would 
+still give us important 
+information. 
+Rates of Nonsynonymous 
+Substitutions 
+for Ebola and 
+Mar-burg Viruses 
+We first made alignments 
+of homologous 
+sequences 
+for Ebola 
+and Marburg 
+viruses 
+using 
+CLUSTAL 
+W 
+(Thompson, 
+Higgins, 
+and 
+Gibson 
+1994). 
+Then, 
+the 
+neighbor-joining 
+method 
+(Saitou 
+and Nei 
+1987) was 
+used for constructing 
+phylogenetic 
+trees, with the dis- 
+tances estimated 
+using the method of Nei and Gojobori 
+(1986). The reliability 
+of clustering 
+in the phylogenetic 
+trees was tested by the bootstrap 
+method with 1000 rep- 
+lications 
+(Felsenstein 
+1985). 
+Phylogenetic 
+trees were 
+constructed 
+for all genes for the number 
+of nonsynon- 
+ymous 
+substitutions. 
+Unfortunately, 
+we could not con- 
+struct phylogenetic 
+trees for synonymous 
+substitutions, 
+because the number 
+of synonymous 
+substitutions 
+among 
+different 
+virus strains of Ebola virus or between 
+Ebola 
+and Marburg 
+viruses 
+was so large that we could 
+not 
+estimate 
+it accurately. 
+We also could not estimate 
+the 
+substitution 
+rate of Ebola virus for all genes except the 
+GP gene, because 
+sequence 
+data for Ebola virus were 
+available 
+for only one strain in other genes. The rates 
+were estimated 
+from the phylogenetic 
+trees by dividing 
+the difference 
+in branch lengths of two strains of interest 
+from the last common 
+ancestor by the difference 
+in their 
+isolation 
+times. 
+In the case of the GP gene of Ebola 
+virus, however, 
+we excluded 
+the sequences 
+of Marburg 
+virus in constructing 
+the phylogenetic 
+tree, because 
+we 
+could estimate 
+branch 
+lengths 
+accurately 
+by using only 
+Ebola 
+virus 
+strains. 
+Then, 
+we made comparisons 
+be- 
+tween all possible pairs of viral sequences 
+from the same 
+subtype 
+to avoid getting large variances. 
+Downloaded from https://academic.oup.com/mbe/article/14/8/800/982315 by London School of Hygiene & Tropical Medicine user on 27 May 2024
+Origin and Evolution 
+of Ebola and Marburg 
+Viruses 
+801 
+Table 1 
+Sequence Data Used in this Study 
+Gene 
+Accession 
+Number 
+Virus 
+Place and Time 
+Codon Numbers 
+Reference 
+NP . . . . . . . 
+L11365 
+M72714 
+229337 
+VP35..... 
+L11365 
+X61274 
+212132 
+229337 
+VP40..... 
+L11365 
+X6 1274 
+212132 
+229337 
+GP . . . . . . . 
+U23069 
+U23152 
+U23187 
+U23416 
+U23417 
+U28006 
+U28077 
+U28134 
+u3 1033 
+212132 
+229337 
+VP30. . . . . 
+L11365 
+212132 
+229337 
+VP24. . . . . 
+L11365 
+212132 
+229337 
+L . . . . . . . . 
+U2345 8 
+212132 
+229337 
+Ebola 
+Marburg 
+Marburg 
+Ebola 
+Ebola 
+Mar-burg 
+Marburg 
+Ebola 
+Ebola 
+Marburg 
+Mar-burg 
+Ebola 
+Ebola 
+Ebola 
+Ebola 
+Ebola 
+Ebola 
+Ebola 
+Ebola 
+Ebola 
+Marburg 
+Marburg 
+Ebola 
+Marburg 
+Marburg 
+Ebola 
+Marburg 
+Marburg 
+Ebola 
+Marburg 
+Marburg 
+Yambuku, 
+1976 
+Kenya, 
+1980 
+Marburg, 
+1967 
+Yambuku, 
+1976 
+Yambuku, 
+1976 
+Kenya, 
+1980 
+Marburg, 
+1967 
+Yambuku, 
+1976 
+Yambuku, 
+1976 
+Kenya, 
+1980 
+Marburg, 
+1967 
+Nzara, 
+1979 
+Reston, 
+1989 
+Yambuku, 
+1976 
+Manila, 
+1992 
+Siena, 1992 
+Tai, 1994 
+Kikwit, 
+1995 
+Maridi, 
+1976 
+Yambuku, 
+1976 
+Kenya, 
+1980 
+Marburg, 
+1967 
+Yambuku, 
+1976 
+Kenya, 
+1980 
+Marburg, 
+1967 
+Yambuku, 
+1976 
+Kenya, 
+1980 
+Marburg, 
+1967 
+Nzara, 
+1979 
+Kenya, 
+1980 
+Marburg, 
+1967 
+20-409 
+Sanchez et al. (1989) 
+2-39 1 
+Sanchez et al. (1992) 
+2-39 1 
+Bukreyev 
+et al. (1995b) 
+78-339 
+Sanchez 
+et al. (1993) 
+78-340 
+Bukreyev 
+et al. (1993~) 
+67-329 
+Feldmann 
+et al. (1992) 
+67-329 
+Bukreyev 
+et al. (1993~) 
+67-295 
+Sanchez et al. (1993) 
+67-295 
+Bukreyev 
+et al. (1993~) 
+55-283 
+Feldmann 
+et al. (1992) 
+55-283 
+Bukreyev 
+et al. (1993~) 
+25-185, 
+51 l-672 
+Sanchez et al. (1996) 
+26-186, 
+512-673 
+Sanchez et al. (1996) 
+25-185, 
+51 l-672 
+Sanchez et al. (1996) 
+26-186, 
+512-673 
+Sanchez 
+et al. (1996) 
+26-186, 
+512-673 
+Sanchez 
+et al. (1996) 
+25-185, 
+51 l-672 
+Sanchez et al. (1996) 
+25-185, 
+51 l-672 
+Sanchez et al. (1996) 
+25-185, 
+51 l-672 
+Sanchez et al. (1996) 
+25-185, 
+51 l-672 
+Volchkov 
+et al. (1995) 
+11-169, 
+512-673 
+Feldmann 
+et al. (1992) 
+11-169, 
+512-673 
+Bukreyev 
+et al. (1993b) 
+62-159, 
+167-254 
+Sanchez et al. (1993) 
+67-166, 
+173-260 
+Feldmann 
+et al. (1992) 
+67-166, 
+174-261 
+Bukreyev 
+et al. (1995~) 
+2-25 1 
+Sanchez et al. (1993) 
+2-253 
+Feldmann 
+et al. (1992) 
+2-253 
+Bukreyev 
+et al. (1995~) 
+5-1161, 
+1163-1650, 
+1784-2209 
+Not published 
+2-1163, 
+1189-1674, 
+1903-2328 
+Muehlberger 
+et al. (1992) 
+2-1163, 
+1189-1674, 
+1903-2328 
+Bukreyev 
+et al. (1995b) 
+NOTE.--This table shows genes, accession numbers of the sequence data in DDBJ/EMBL/GenBank, 
+virus names, places and times of outbreaks, codon numbers 
+of gene regions examined, 
+and references. Several gaps were conducted in the analyzed regions in sequence alignments. 
+The divergence 
+times 
+among 
+Ebola 
+virus 
+strains 
+and between 
+Ebola and Mar-burg viruses were estimated 
+on the assumption 
+that these viruses 
+had evolved 
+at al- 
+most the same substitution 
+rate. 
+Patterns 
+of Nucleotide 
+Substitutions 
+for Mat-burg Virus 
+The pattern 
+of nucleotide 
+substitutions 
+was exam- 
+ined for two Marburg 
+virus strains for which the entire 
+genome 
+sequences 
+were 
+available 
+(DDBJ/EMBL/ 
+GenBank 
+accession 
+numbers 
+M727 14 and 212132, 
+and 
+229337). 
+All nucleotide 
+changes between 
+them were as- 
+sumed to have occurred 
+through 
+single-nucleotide 
+sub- 
+stitutions. 
+This assumption 
+is reasonable 
+because the nu- 
+cleotide 
+sequences 
+of these strains were closely 
+related 
+(94%-97% 
+identity). 
+The numbers 
+of substitutions 
+be- 
+tween two particular 
+nucleotides 
+were summed 
+up, and 
+the values 
+thus obtained 
+were corrected 
+by base com- 
+positions 
+using the method 
+of Gojobori, 
+Li, and Graur 
+(1982). The corrected 
+values 
+represent 
+the substitution 
+numbers 
+from a particular 
+nucleotide 
+to another 
+one in 
+100 nucleotides 
+of a hypothetical 
+sequence 
+which con- 
+tains equal amounts 
+of the four nucleotides. 
+Results and Discussion 
+Rates of Nonsynonymous 
+Substitutions 
+for Ebola and 
+Mar-burg Viruses 
+The rates of nonsynonymous 
+substitutions 
+for Ebo- 
+la and Marburg 
+viruses 
+are summarized 
+in tables 2 and 
+3, respectively. 
+Unfortunately, 
+we could not estimate the 
+rate of synonymous 
+substitutions 
+because the number 
+of 
+synonymous 
+substitutions 
+among different 
+virus strains 
+of Ebola virus or between 
+Ebola and Mar-burg viruses 
+was so large that we could not estimate 
+it accurately. 
+We also could not estimate the substitution 
+rate of Ebola 
+virus for all genes except the GP gene, because sequence 
+data for Ebola virus were available 
+for only one strain 
+in other genes. 
+For Ebola 
+virus, 
+the average 
+rate of nonsynony- 
+mous substitutions 
+for the GP gene was estimated 
+to be 
+3.6 X 10e5 per site per year (table 
+2). The value 
+of 
+standard error appeared to be relatively 
+large. This might 
+be due to the relatively 
+small 
+difference 
+in isolation 
+times compared 
+with the slow rate of nucleotide 
+substi- 
+tutions. 
+However, 
+the rate was estimated 
+to be at the 
+same order in almost all comparisons, 
+as shown in table 
+2. Negative 
+values were obtained 
+in the estimations 
+for 
+the NP, VP40, GP, and L genes of Marburg 
+virus, which 
+would be due to statistical 
+fluctuations 
+because 
+of the 
+relatively 
+large distances 
+between 
+Ebola 
+and Mar-burg 
+viruses. However, the values for VP35, VP30, and VP24 
+indicate 
+that Mar-burg virus is evolving 
+at the rate of 
+10-5 to 10-4 per site per year. These rates were com- 
+pared with those of other RNA viruses and mammals 
+in 
+table 4. Most of the RNA viruses 
+are known 
+to evolve 
+Downloaded from https://academic.oup.com/mbe/article/14/8/800/982315 by London School of Hygiene & Tropical Medicine user on 27 May 2024
+802 
+Suzuki and Gojobori 
+Table 2 
+Rate of Nonsynonymous 
+Substitutions 
+for the GP Gene of 
+Ebola Virus 
+Differ- 
+Differ- 
+ence in 
+ence in 
+Branch 
+Isolation 
+Lengths 
+Times 
+Rate 
+Strains Compared” 
+(X 10-4/site) 
+(years) 
+(X 10-4/site/year) 
+U23187 
+and U28077 . . . 
+7.16 
+19 
+0.38 + 1.01 
+U31033 
+and U28077 . . . 
+7.16 
+19 
+0.38 k 1.01 
+U23152 
+and U23416 . . . 
+1.16 
+3 
+0.39 2 6.33 
+U23152 
+and U23417 . . . 
+2.72 
+3 
+0.91 t 6.51 
+U23069 
+and U28134 
+. . . 
+0.00 
+3 
+0.00 t 0.00 
+Average 
+. 
+- 
+- 
+. . . . . . . . . . . 
+0.36 2 1.09 
+NOTE.--The rates were estimated from the phylogenetic 
+tree, excluding 
+the 
+sequences of Marburg virus, by dividing 
+the difference in branch lengths of two 
+strains of interest from the last common ancestor by the difference in their iso- 
+lation times. 
+a Reference 
+sequences 
+used 
+were U23069, 
+U23152, 
+U23416, 
+U23417, 
+U28006, 
+and U28134 
+for the comparisons 
+between U23187 
+and U28077 and 
+between U31033 and U28077; U23069, U23187, U28006, U28077, U28134 and 
+U3 1033 for the comparisons 
+between U23 152 and U23416 and between U23 152 
+and U23417; 
+and U23187, 
+U23152, 
+U23416, 
+U23417, 
+U28006, 
+U28077, 
+and 
+U31033 for the comparison 
+between U23069 and U28134. 
+at the rate of 10V5 to 10e3 per site per year, and the rates 
+for Ebola 
+and Marburg 
+viruses 
+seem to be roughly 
+of 
+the same order of magnitude, 
+suggesting 
+that these vi- 
+ruses share the molecular 
+mechanisms 
+of rapid evolution 
+with other RNA viruses. 
+Compared 
+with other RNA vi- 
+ruses, however, 
+these viruses 
+seem to be evolving 
+rela- 
+7 
+00.0 
+1 
+.5 
+I 
+Table 3 
+Rates of Nonsynonymous 
+Substitutions 
+for Marburg 
+Virus and Divergence Times Between Ebola and Marburg 
+Viruses 
+Differ- 
+ence in 
+Number 
+Branch 
+of Non- 
+Lengths 
+Divergence 
+synonymous 
+(X 10e3/ 
+Substitution 
+Rate 
+Time 
+Gene 
+Sites 
+site) 
+(X 10-4/site/year) 
+(years) 
+NP . . 
+- 
+. . . 
+905.67 
+NG” 
+NG 
+VP35 . . . 
+602.67 
+4.68 
+3.60 +- 2.57 
+1,000 
+VP40 . . . 
+523.92 
+NG 
+NG 
+- 
+GP . . . . . 
+738.70 
+NG 
+NG 
+- 
+VP30 . . . 
+437.33 
+0.49 
+0.38 + 4.69 
+9,800 
+VP24 . . . 
+583.67 
+1.65 
+1.27 ? 2.29 
+2,800 
+L 
+- 
+. . . . . . . 
+4,861.56 
+NG 
+NG 
+No-m.-The 
+difference 
+in isolation 
+a NG: negative value was obtained. 
+times was 13 years for all comparisons. 
+tively slowly. In particular, 
+both Ebola and Marburg 
+vi- 
+ruses have substitution 
+rates approximately 
+a hundred 
+times slower than retroviruses 
+and human 
+influenza 
+A 
+virus. 
+This is consistent 
+with the previous 
+report that 
+suggested 
+genetic 
+stability 
+in Ebola virus from the re- 
+sults 
+of oligonucleotide 
+mapping 
+(Cox 
+et al. 1983). 
+Then, 
+we speculate 
+the following 
+reasons 
+for the rela- 
+tively 
+slow rates of nonsynonymous 
+substitutions 
+for 
+Ebola and Mat-burg viruses. 
+First, the RNA-dependent 
+RNA polymerase 
+of Ebola and Marburg viruses may not 
+r U28077 
+U23187 
+U28006 
+i 
+U23152 
+100.0 
+U23416 
+59.8 
+U23417 
+r 
+212132 
+L 229337 
+, 
+d 
+0.250 
+0.200 
+0.150 
+0.100 
+0.050 
+0.000 
+I 
+Zaire subtype 
+] 
+Ivory Coast subtype 
+1 
+Sudan subtype 
+1 
+Reston subtype 
+Ebola virus 
+Marburg virus 
+FIG. l.-Phylogenetic 
+tree constructed 
+for the GP gene of Ebola and Marburg 
+viruses by the neighbor-joining 
+method (Saitou and Nei 
+1987), with distances 
+for nonsynonymous 
+sites estimated 
+by the method 
+of Nei and Gojobori 
+(1986). The bootstrap 
+probability 
+for each node 
+is also indicated 
+(Felsenstein 
+1985). When we estimated 
+the substitution 
+rate of Ebola virus, we excluded 
+the sequences 
+of Marburg 
+virus and 
+constructed 
+another 
+phylogenetic 
+tree (data not shown), 
+in which the topology 
+among Ebola virus strains was identical 
+with that of the former 
+Downloaded from https://academic.oup.com/mbe/article/14/8/800/982315 by London School of Hygiene & Tropical Medicine user on 27 May 2024
+Origin and Evolution 
+of Ebola and Marburg 
+Viruses 
+803 
+Table 4 
+Comparisons of the Rates of Nonsynonymous Substitutions for Ebola and Marburg Viruses with Those of Various 
+RNA Viruses and Mammals 
+Virus and Organism 
+Gene 
+Ebola virus . . . . . . . . . . . . , . . . . 
+GP 
+Marburg 
+virus. . . . . . . . . . . . . . . 
+VP35 
+VP30 
+VP24 
+HIV-la..................... 
+gag 
+PO1 
+env 
+envhv 
+Human 
+influenza 
+A virus. . . . . . 
+HA (H3) 
+NA (Nl) 
+NA (N2) 
+MMSVb.................... 
+v-mos 
+MMLV”.................... 
+gag 
+HCVd...................... 
+C 
+E 
+NSl 
+NS3 
+NS5 
+HBV”...................... 
+P 
+pre-S 
+C 
+X 
+Mammals. . . . . . . . . . . . . . . . . . . 
+cx-globin 
+a Human immunodeficiency 
+virus. 
+b Moloney murine sarcoma virus. 
+c Moloney murine leukemia virus. 
+d Hepatitis C virus. 
+Substitution 
+Rate 
+(/site/year) 
+3.6 X 1O-5 
+3.6 X 1O-4 
+3.8 X 1O-5 
+1.3 x 10-4 
+(1.0 - 3.9) x 10-3 
+1.6 X 1O-3 
+(3.9 - 5.1) x 10-3 
+14.0 x 10-s 
+(2.9 - 3.6) X 1O-3 
+3.7 X 10-3 
+2.8 X 1O-3 
+8.2 X 1O-4 
+5.4 x 10-4 
+6.3 X 1O-4 
+3.2 X 1O-4 
+7.5 X 10-4 
+3.3 X 10-b 
+2.2 x 10-d 
+1.5 X 10-S 
+2.6 X 1O-5 
+1.8 X 1O-5 
+5.5 X 10-s 
+5.6 X lo-lo 
+Reference 
+Li, Tanimura, 
+and Sharp (1988); Gojobori, 
+Moriyama, 
+and Ki- 
+mura (1990); Gojobori 
+et al. (1994) 
+Li, Tanimura, 
+and Sharp (1988) 
+Li, Tanimura, 
+and Sharp (1988); Gojobori 
+et al. (1994) 
+Li, Tanimura, 
+and Sharp (1988) 
+Gojobori, 
+Moriyama, 
+and Kimura (1990); Hayashida 
+et al. 
+(1985) 
+Hayashida 
+et al. (1985) 
+Hayashida 
+et al. (1985) 
+Gojobori, 
+Moriyama, 
+and Kimura (1990) 
+Gojobori 
+and Yokoyama 
+(1985) 
+Ina et al. (1994) 
+Ina et al. (1994) 
+Ina et al. (1994) 
+Ina et al. (1994) 
+Ina et al. (1994) 
+Orito et al. (1989) 
+Orito et al. (1989) 
+Orito et al. (1989) 
+Orito et al. (1989) 
+Li, Luo, and Wu (1985) 
+e Hepatitis B virus. HBV is included because it is known to replicate itself via the RNA transcript. 
+be so error-prone. 
+Second, the replication 
+frequency 
+may 
+be relatively 
+low in the natural host in comparison 
+with 
+retroviruses 
+and human 
+influenza 
+A virus. 
+Third, 
+the 
+number 
+of the reservoir 
+of these viruses 
+in nature may 
+be relatively 
+small probably 
+because 
+of a low level of 
+infectivity 
+of these viruses. 
+Finally, 
+strong 
+functional 
+constraints 
+may be operating 
+on these viruses 
+during 
+evolution, 
+particularly 
+on GP and VP30, for we focused 
+only on nonsynonymous 
+substitutions, 
+which change the 
+coding amino acid. When we examined 
+the rates of syn- 
+onymous 
+substitutions 
+for Ebola 
+and Mar-burg viruses, 
+they were estimated 
+to be at most 1.35 X 10e2 and 1.77 
+X 10e2 per site per year, respectively. 
+The rates of syn- 
+onymous 
+substitutions 
+for retroviruses 
+and human influ- 
+enza A virus have been estimated 
+to be 10m2 to 10e3 
+(Hayashida 
+et al. 1985; Li, Tanimura, 
+and Sharp 1988; 
+Gojobori, 
+Moriyama, 
+and Kimura 
+1990; Gojobori 
+et al. 
+1994). Thus, we could not rule out the possibility 
+that 
+the relatively 
+slow rates of nonsynonymous 
+substitutions 
+for Ebola and Marburg 
+viruses 
+were due to the strong 
+functional 
+constraint 
+while the mutation 
+rates were as 
+high as those of retroviruses 
+and human 
+influenza 
+A 
+virus. In particular, 
+a part of the GP gene region of Ebola 
+virus has been reported to encode two different 
+proteins 
+in different 
+frames by transcriptional 
+editing 
+(Volchkov 
+et al. 1995; Sanchez 
+et al. 1996). Such a region 
+could 
+be influenced 
+by a strong 
+functional 
+constraint. 
+Al- 
+though we have excluded 
+that region from our analysis, 
+we could not rule out the possibility 
+that there are other 
+overlapping 
+regions currently 
+unknown. 
+At any rate, the 
+relatively 
+slow 
+rate 
+of nonsynonymous 
+substitutions 
+may be useful 
+for establishing 
+effective 
+vaccines 
+for 
+these viruses, 
+because 
+the rate of emergence 
+of a new 
+phenotype 
+as a source of the human 
+infection 
+may also 
+be slow. 
+Divergence 
+Times Among 
+Ebola Virus Strains and 
+Between 
+Ebola and Marburg 
+Viruses 
+The divergence 
+times 
+among 
+Ebola 
+virus 
+strains 
+and between 
+Ebola and Marburg 
+viruses were estimated 
+on the assumption 
+that these viruses had evolved 
+at al- 
+most the same substitution 
+rate. Ebola virus strains are 
+known 
+to be classified 
+into four subtypes: 
+Zaire, Sudan, 
+Reston, 
+and Ivory 
+Coast 
+subtypes 
+(fig. 1). From 
+the 
+analysis 
+of the rate of nonsynonymous 
+substitutions 
+for 
+the GP gene of Ebola virus, we estimated 
+that the Zaire 
+and Ivory 
+Coast 
+subtypes 
+diverged 
+700-1,300 
+years 
+ago, the Sudan 
+and Reston 
+subtypes 
+diverged 
+1,400- 
+1,600 
+years 
+ago, 
+and 
+these 
+two 
+clusters 
+diverged 
+l,OOO-2,100 
+years ago. Moreover, 
+the divergence 
+time 
+between 
+Ebola and Marburg 
+viruses was estimated 
+to be 
+7,100-7,900 
+years ago. Similarly, 
+from the analysis 
+of 
+the rate of nonsynonymous 
+substitutions 
+for Marburg 
+virus, we estimated 
+that these viruses 
+diverged 
+l,OOO- 
+9,800 years ago (table 3). Thus, although the divergence 
+Downloaded from https://academic.oup.com/mbe/article/14/8/800/982315 by London School of Hygiene & Tropical Medicine user on 27 May 2024
+804 
+Suzuki and Gojobori 
+Table 5 
+Relative Substitution 
+Frequencies for the First and 
+Second Codon Positions and Those for the Third Codon 
+Position in the Entire Coding Region for Marburg Virus 
+Substitution 
+Between 
+First and Second 
+Positions 
+[80.2] 
+Third Position 
+[89.7] 
+A++G 
+.................. 
+42.4 (87) 
+42.8 (220) 
+At,T 
+.................. 
+3.0 (7) 
+1.8 (13) 
+A-C 
+.................. 
+7.9 (17) 
+3.9 (20) 
+G-T 
+.................. 
+5.4 (10) 
+4.2 (22) 
+G-C 
+.................. 
+3.4 (6) 
+0.5 (2) 
+Tt,C 
+.................. 
+37.9 (73) 
+46.9 (248) 
+Correlation 
+Coefficient 
+-0.35 
+-0.25 
+NOTE.---The numbers in brackets represent proportions 
+of transition 
+substi- 
+tutions. The numbers in parentheses 
+represent raw numbers of nucleotide 
+sub- 
+stitutions. 
+Correlation 
+coefficients 
+between the frequencies 
+of nucleotide 
+substi- 
+tutions and the chemical distances between two nucleotide bases, as defined by 
+Gojobori, 
+Li, and Graur (1982), are shown in the last row. 
+times estimated 
+are in the wide range, we conclude 
+that 
+Ebola and Mar-burg viruses 
+diverged 
+more than several 
+thousand 
+years ago. 
+The divergence 
+time between 
+human 
+immunodefi- 
+ciency virus type 1 (HIV-l) 
+and type 2 (HIV-2) has been 
+estimated 
+to be 150-200 
+years ago (Gojobori, 
+Moriya- 
+ma, and Yokoyama 
+1988). Moreover, 
+hepatitis 
+C virus 
+has been estimated 
+to have diverged 
+from its ancestor 
+around 
+300 years ago (Mizokami, 
+Gojobori, 
+and Lau 
+1994). 
+In comparison 
+with the estimated 
+divergence 
+times for these prevalent 
+pathogenic 
+viruses, 
+Ebola and 
+Marburg 
+viruses 
+might have diverged 
+much earlier. 
+Patterns 
+of Nucleotide 
+Substitutions 
+for Marburg 
+Virus 
+The patterns 
+of nucleotide 
+substitutions 
+at the first 
+and second codon positions 
+and the third codon position 
+for Mar-burg virus were examined 
+separately, 
+as sum- 
+marized 
+in table 5. As most of the nucleotide 
+substitu- 
+tions at the first and second codon positions 
+change cod- 
+ing amino 
+acids, the substitution 
+pattern 
+at these posi- 
+tions 
+would 
+be influenced 
+by natural 
+selection 
+at the 
+protein 
+level. On the other hand, as most of the substi- 
+tutions 
+at the third codon position 
+do not change coding 
+amino 
+acids, 
+nucleotide 
+changes 
+at that position 
+are 
+mostly 
+free from natural 
+selection 
+(Kimura 
+1983) and 
+reflect, to some extent, the pattern 
+of spontaneous 
+mu- 
+tations in the genome. 
+At the third codon 
+position 
+in the entire 
+coding 
+region 
+of Mar-burg 
+virus, 
+the proportion 
+of transition 
+substitutions 
+was 90%, which was much larger than that 
+of transversion 
+substitutions. 
+Furthermore, 
+among tran- 
+sition substitutions, 
+the frequencies 
+of substitutions 
+be- 
+tween purines 
+were almost the same as those between 
+pyrimidines. 
+This feature of transition 
+substitutions 
+for 
+Marburg 
+virus 
+is similar 
+to that of influenza 
+A virus 
+(Saitou 
+1987). For HIV (Shimizu 
+et al. 1989; Moriyama 
+et al. 1991) and oncoviruses 
+(Gojobori 
+and Yokoyama 
+1987), however, 
+substitution 
+between 
+purines 
+is more 
+frequent 
+than that between 
+pyrimidines. 
+Although 
+HIV 
+and oncoviruses 
+replicate 
+themselves 
+with reverse tran- 
+scriptase, Marburg 
+virus and influenza 
+A virus have their 
+own RNA-dependent 
+RNA polymerase. 
+Thus, the dif- 
+ference 
+in transition 
+substitutions 
+among 
+these viruses 
+appears to reflect differences 
+in the generating 
+mecha- 
+nisms of spontaneous 
+mutations 
+with viral polymerases. 
+We also investigated 
+the pattern of nucleotide 
+sub- 
+stitutions 
+at the first and second codon positions 
+of Mar- 
+burg 
+virus 
+to examine 
+whether 
+any 
+functional 
+con- 
+straints 
+are imposed 
+on amino 
+acid changes. 
+For this 
+purpose, 
+we calculated 
+the correlation 
+coefficients 
+be- 
+tween the frequencies 
+of nucleotide 
+substitutions 
+at var- 
+ious codon positions 
+and the chemical 
+distances 
+between 
+two nucleotide 
+bases, as defined 
+by Gojobori, 
+Li, and 
+Graur (1982) (table 5). The chemical 
+distance 
+between 
+two nucleotides 
+was defined 
+using 
+Grantham’s 
+(1974) 
+chemical 
+distances 
+between 
+two amino 
+acids. When 
+a 
+correlation 
+coefficient 
+is negative, 
+it is possible 
+that pu- 
+rifying 
+selection 
+may be operating 
+on the nucleotide 
+substitutions. 
+Using 
+this 
+method, 
+Gojobori, 
+Li, and 
+Graur (1982) demonstrated 
+that purifying 
+selection 
+has 
+operated 
+on most of the eukaryotic 
+functional 
+genes. 
+Saitou (1987) suggested 
+that purifying 
+selection 
+has also 
+operated 
+on influenza 
+A virus. For Mar-burg virus, the 
+correlation 
+coefficients 
+were -0.35 
+for the first and sec- 
+ond codon positions 
+and -0.25 
+for the third codon po- 
+sition. Thus, it seems that the correlation 
+coefficient 
+for 
+the first and second codon positions 
+is larger than that 
+for the third codon 
+position, 
+indicating 
+that purifying 
+selection 
+has operated 
+on Mar-burg virus during 
+evolu- 
+tion. 
+This conclusion 
+is supported 
+by a recent study (Bu- 
+kreyev et al. 1995b), in which 72.6% of the nucleotide 
+substitutions 
+in the entire coding 
+region 
+were found at 
+the third codon position 
+between 
+the two strains of Mar- 
+burg virus analyzed 
+in this study. This is because 
+puri- 
+fying selection 
+results in more frequent 
+nucleotide 
+sub- 
+stitutions 
+at the third codon position 
+than at the first and 
+second codon positions 
+(Kimura 
+1983). We also calcu- 
+lated the numbers 
+of synonymous 
+and nonsynonymous 
+substitutions 
+for the entire coding region between 
+those 
+two 
+strains 
+using 
+the method 
+of Nei 
+and 
+Gojobori 
+(1986). 
+The numbers 
+of synonymous 
+and nonsynony- 
+mous substitutions 
+were estimated 
+to be 0.180 5 0.008 
+per site and 0.017 + 0.001 per site, respectively. 
+Thus, 
+the number 
+of synonymous 
+substitutions 
+was signifi- 
+cantly 
+higher 
+than that of nonsynonymous 
+ones (P < 
+0.001). This suggests 
+that purifying 
+selection 
+has oper- 
+ated on Mar-burg virus during 
+evolution, 
+because 
+syn- 
+onymous 
+substitutions 
+are considered 
+to be selectively 
+neutral 
+at the protein 
+level, 
+whereas 
+nonsynonymous 
+substitutions 
+are influenced 
+by selective 
+constraints 
+(Ki- 
+mura 1983; Hughes and Nei 1988, 1989). The purifying 
+selection 
+would be caused by the functional 
+constraint 
+for viral proteins. 
+The pattern of nucleotide 
+substitutions 
+and the de- 
+gree of functional 
+constraints, 
+which were estimated 
+in 
+the present 
+study, are useful for the development 
+of an- 
+tiviral drugs and effective 
+vaccines. 
+In particular, 
+inhib- 
+itors against 
+viral replication 
+will be able to be devel- 
+oped by taking 
+into account 
+the pattern 
+of nucleotide 
+substitutions. 
+Moreover, 
+if more data for the genome 
+sequences 
+of Ebola virus become 
+available, 
+it will be 
+Downloaded from https://academic.oup.com/mbe/article/14/8/800/982315 by London School of Hygiene & Tropical Medicine user on 27 May 2024
+possible to identify 
+the gene product targeted by the host 
+immune 
+system, by comparing 
+the degrees of functional 
+constraints 
+gene by gene. This is because 
+the degree of 
+functional 
+constraints 
+may vary with genes in the viral 
+genome 
+depending 
+on the variability 
+of amino acids. 
+In this study, we found that the GP gene of Ebola 
+virus is evolving 
+at the average rate of 3.6 X lop5 per 
+site per year at the nonsynonymous 
+site, and that Mar- 
+burg virus is evolving 
+at a similar rate. These rates are 
+of almost the same order of magnitude, 
+but somewhat 
+slow, in comparison 
+with other RNA viruses. 
+In partic- 
+ular, those 
+rates 
+are approximately 
+a hundred 
+times 
+slower than those of retroviruses 
+and human 
+influenza 
+A virus. We also estimated 
+the divergence 
+time between 
+Ebola 
+and Mat-burg 
+viruses 
+to be more 
+than 
+several 
+thousand 
+years ago. In addition, 
+the pattern of nucleotide 
+substitutions 
+for Mar-burg virus indicated 
+that the puri- 
+fying 
+selection 
+has operated 
+on this virus during 
+evo- 
+lution. 
+These results 
+will be useful 
+in elucidating 
+the 
+origin and evolution 
+of Ebola and Marburg 
+viruses. 
+To 
+confirm 
+and extend 
+our observations, 
+more 
+sequence 
+data for estimating 
+the rate of synonymous 
+substitutions 
+and experimental 
+studies on the mutation 
+rates of Ebola 
+and Marburg 
+viruses 
+would be required. 
+Acknowledgments 
+We thank Dr. Osamu Nakagomi 
+at Akita University 
+School of Medicine, 
+Dr. Ian Humphery-Smith 
+at Sydney 
+University, 
+and two anonymous 
+reviewers 
+for valuable 
+suggestions. 
+This study was supported, 
+in part, by grants 
+from the Ministry 
+of Education, 
+Science, 
+Sports, 
+and 
+Culture. 
+LITERATURE 
+CITED 
+BARON, 
+R. C., J. B. MCCORMICK, 
+and 0. A. ZUBEIR. 1983. 
+Ebola hemorrhagic fever in southern Sudan: hospital dis- 
+semination and intrafamilial spread. Bull. World Health Or- 
+gan. 6:997-1003. 
+BUKREYEV, A. A., E. E BELANOV, V. M. BLINOV, and S. V. 
+NETESOV. 199%. Complete nucleotide sequences of Mar- 
+burg virus genes 5 and 6 encoding VP30 and VP24 pro- 
+teins. Biochem. Mol. Biol. Int. 35:605-613. 
+BUKREYEV, 
+A. A., V. E. VOLCHKOV, 
+V. M. BLINOV, S. A. DRY- 
+GA, and S. V. NETESOV. 1995b. The complete nucleotide 
+sequence of the Popp (1967) strain of Marburg virus: a 
+comparison with the Musoke (1980) strain. Arch. Virol. 
+140: 1589-1600. 
+BUKREYEV, 
+A. A., V. E. VOLCHKOV, 
+V. M. BLINOV, 
+and S. V. 
+NETESOV. 
+1993~. The VP35 and VP40 proteins of filovi- 
+ruses. Homology 
+between Marburg and Ebola viruses. 
+FEBS Lett. 322:41-46. 
+-. 
+1993b. The GP-protein of Mat-burg virus contains the 
+region similar to the ‘immunosuppressive 
+domain’ of on- 
+cogenic retrovirus P15E proteins. FEBS Lett. 323: 183-187. 
+CENTERS 
+FOR 
+DISEASE 
+CONTROL 
+AND 
+PREVENTION. 
+1995. Up- 
+date: outbreak of Ebola viral hemorrhagic fever-Zaire, 
+1995. Morbid. Mortal. Wkly. Rep. 44:468-475. 
+Cox, N. J., J. B. MCCORMICK, 
+K. M. JOHNSON, 
+and M. I? 
+KILEY. 1983. Evidence for two subtypes of Ebola virus 
+based on oligonucleotide 
+mapping of RNA. J. Infect. Dis. 
+1471272-275. 
+FELDMANN, 
+H., E. MUHLBERGER, 
+A. RANDOLF, 
+C. WILL, M. I? 
+KILEY, A. SANCHEZ, 
+and H.-D. KLENK. 1992. Marburg vi- 
+Origin 
+and Evolution 
+of Ebola 
+and Marburg 
+Viruses 805 
+rus, a filovirus: messenger RNAs, gene order and regulatory 
+elements of the replication cycle. Virus Res. 24:1-19. 
+FELSENSTEIN, 
+J. 1985. Confidence limits on phylogenies: an 
+approach using the bootstrap. Evolution 39:783-791. 
+GOJOBORI, 
+T., W.-H. LI, and D. GRAUR. 1982. Patterns of nu- 
+cleotide substitution in pseudogenes and functional genes. 
+J. Mol. Evol. l&360-369. 
+GOJOBORI, 
+T., E. N. MORIYAMA, 
+and M. KIMURA. 
+1990. Mo- 
+lecular clock of viral evolution and neutral theory. Proc. 
+Natl. Acad. Sci. USA 87:10015-10018. 
+GOJOBORI, 
+T., E. N. MORIYAMA, 
+and S. YOKOYAMA. 
+1988. Mo- 
+lecular evolutionary analysis of AIDS viruses. Pp. 142 in 
+Fourth International Conference on AIDS Book 1. Stock- 
+holm. 
+GOJOBORI, 
+T., Y. YAMAGUCHI, 
+K. IKEO, and M. MIZOKAMI. 
+1994. Evolution of pathogenic viruses with special refer- 
+ence to the rates of synonymous and nonsynonymous 
+sub- 
+stitutions. Jpn. J. Genet. 69:48 l-488. 
+GOJOBORI, 
+T., and S. YOKOYAMA. 
+1985. Rates of evolution of 
+the retroviral oncogene of Moloney murine sarcoma virus 
+and of its cellular homologues. Proc. Natl. Acad. Sci. USA 
+82:4198-4201. 
+- 
+1987. Molecular evolutionary rates of oncogenes. J. 
+Mol: Evol. 26: 148-156. 
+GRANTHAM, 
+R. 1974. Amino acid difference formula to help 
+explain protein evolution. Science 185:862-864. 
+HAYASHIDA, 
+H., H. TOH, R. KIKUNO, 
+and T. MIYATA. 1985. 
+Evolution of influenza virus genes. Mol. Biol. Evol. 2: 
+289-303. 
+HUGHES, 
+A. L., and M. NEI. 1988. Pattern of nucleotide sub- 
+stitution at major histocompatibility 
+complex class I loci 
+reveals overdominant selection. Nature 335: 167-170. 
+-. 
+1989. Nucleotide substitution at major histocompati- 
+bility complex class II loci: evidence for overdominant se- 
+lection. Proc. Natl. Acad. Sci. USA 86:958-962. 
+INA, Y., M. MIZOKAMI, 
+K. OHBA, 
+and T. GOJOBORI. 
+1994. Re- 
+duction of synonymous 
+substitutions in the core protein 
+gene of hepatitis C virus. J. Mol. Evol. 38:50-56. 
+INTERNATIONAL 
+COMMISSION. 
+1978. Ebola haemorrhagic fever 
+in Zaire, 1976. Bull. World Health Organ. 56:271-293. 
+KILEY, M. I?, E. T W. BOWEN, 
+G. A. EDDY 
+et al. (17 co-au- 
+thors). 1982. Filoviridae: a taxonomic home for Marburg 
+and Ebola viruses? Intervirology 18:24-32. 
+KIMURA, 
+M. 1983. The neutral theory of molecular evolution, 
+Cambridge University Press, Cambridge. 
+LI, W.-H., C.-C. Luo, and C.-I. Wu. 1985. Evolution of DNA 
+sequences. Pp. l-94 
+in R. J. MACINTYRE, ed. Molecular 
+evolutionary genetics. Plenum Press, New York, N.Y. 
+LI, W.-H., M. TANIMURA, and I? M. SHARP. 1988. Rates and 
+dates of divergence between AIDS virus nucleotide se- 
+quences. Mol. Biol. Evol. 5:313-330. 
+MARTINI, 
+G. A., and R. SIEGERT. 
+1971. Marburg virus disease. 
+1st edition. Springer, Berlin, Heidelberg, New York. 
+MIZOKAMI, 
+M., T. GOJOBORI, 
+and J. Y. N. LAU. 1994. Molec- 
+ular evolutionary virology: its application to hepatitis C vi- 
+rus. Gastroenterology 107: 118 
+l-l 182. 
+MORIYAMA, 
+E. N., Y. INA, K. IKEO, N. SHIMIZU, 
+and T Go- 
+JOBORI. 
+199 1. Mutation pattern of human immunodeficiency 
+virus genes. J. Mol. Evol. 32:360-363. 
+MUEHLBERGER, 
+E., A. SANCHEZ, 
+A. RANDOLF, 
+C. WILL, M. P 
+KILEY, 
+H.-D. KLENK, 
+and H. FELDMANN. 
+1992. The nucle- 
+otide sequence of the L gene of Marburg virus, a filovirus: 
+homologies with paramyxoviruses 
+and rhabdoviruses. Vi- 
+rology 187:534-547. 
+NEI, M., and I’. GOJOBORI. 
+1986. Simple methods for estimat- 
+ing the numbers of synonymous and nonsynonymous 
+sub- 
+stitutions. Mol. Biol. Evol. 3:418-426. 
+Downloaded from https://academic.oup.com/mbe/article/14/8/800/982315 by London School of Hygiene & Tropical Medicine user on 27 May 2024
+806 
+Suzuki and Gojobori 
+ORITO, E., M. MIZOKAMI, 
+Y. INA, E. N. MORIYAMA, 
+N. KA- 
+MESHIMA, 
+M. YAMAMOTO, 
+and T. GOJOBORI. 
+1989. Host- 
+independent evolution and a genetic classification of the 
+hepadnavirus family based on nucleotide sequences. Proc. 
+Natl. Acad. Sci. USA 86:7059-7062. 
+PRINGLE, 
+C. R. 1991. The order Mononegavirales. Arch. Virol. 
+117: 137-140. 
+REGNERY, 
+R. L., K. M. JOHNSON, 
+and M. I? KILEY. 1981. Mar- 
+burg and Ebola viruses: possible members of a new group 
+of negative strand viruses. Pp. 971-977 in D. H. L. BISHOP 
+and R. W. COMPANS, 
+eds. The replication of negative strand 
+viruses. Elsevier/North Holland, Amsterdam. 
+RICHARDSON, 
+J. H., and W. E. BARKLEY. 
+1988. Biosafety in 
+microbiological 
+and biomedical laboratories. USPH, CDC. 
+HHS Publication no. 88-8395. 
+SAITOU, 
+N. 1987. Patterns of nucleotide substitutions in influ- 
+enza A virus genes. Jpn. J. Genet. 62:439-443. 
+SAITOU, 
+N., and M. NEI. 1987. The neighbor-joining 
+method: 
+a new method for reconstructing phylogenetic trees. Mol. 
+Biol. Evol. 4:406-425. 
+SANCHEZ, 
+A., M. I? KILEY, B. l? HOLLOWAY, 
+and D. D. Au- 
+PERIN. 
+1993. Sequence analysis of the Ebola virus genome: 
+organization, genetic elements, and comparison with the ge- 
+nome of Marburg virus. Virus Res. 29:215-240. 
+SANCHEZ, 
+A., M. l? KILEY, B. l? HOLLOWAY, 
+J. B. MCCOR- 
+MICK, 
+and D. D. AUPERIN. 
+1989. The nucleoprotein gene of 
+Ebola virus: cloning, sequencing, and in vitro expression. 
+Virology 170:81-91. 
+SANCHEZ, 
+A., M. I? KILEY, H.-D. KLENK, 
+and H. FELDMANN. 
+1992. Sequence analysis of the Marburg virus nucleoprotein 
+gene: comparison to Ebola virus and other non-segmented 
+negative-strand RNA viruses. J. Gen. Virol. 73:347-357. 
+SANCHEZ, 
+A., S. G. TRAPPIER, 
+B. W. J. MAHY, C. J. PETERS, 
+and S. T. NICHOL. 
+1996. The virion glycoproteins of Ebola 
+viruses are encoded in two reading frames and are ex- 
+pressed through transcriptional 
+editing. Proc. Natl. Acad. 
+Sci. USA 93:3602-3607. 
+SHIMIZU, 
+N., T. OKAMOTO, E. N. MORIYAMA, Y. TAKEUCHI, 
+T. 
+GOJOBORI, 
+and H. HOSHINO. 
+1989. Patterns of nucleotide 
+substitutions and implications for the immunological diver- 
+sity of human immunodeficiency 
+virus. FEBS Lett. 250: 
+591-595. 
+THOMPSON, 
+J. D., D. G. HIGGINS, and T. J. GIBSON. 1994. 
+CLUSTAL W improving the sensitivity of progressive mul- 
+tiple sequence alignment through sequence weighting, po- 
+sition-specific gap penalties and weight matrix choice. Nu- 
+cleic Acids Res. 22:4673-4680. 
+VOLCHKOV, 
+V. E., S. BECKER, 
+V. A. VOLCHKOVA, 
+V. A. TER- 
+NOVOJ, 
+A. N. KOTOV, S. V. NETESOV, 
+and H.-D. KLENK. 
+1995. GP mRNA of Ebola virus is edited by the Ebola virus 
+polymerase and by T7 and vaccinia virus polymerases. Vi- 
+rology 214:421-430. 
+WHO/INTERNATIONAL 
+STUDY 
+TEAM. 1978. Ebola haemorrhagic 
+fever in Sudan, 1976. Bull. World Health Organ. 56:247- 
+270. 
+MITIKO Go, reviewing 
+editor 
+Accepted 
+April 25, 1997 
+Downloaded from https://academic.oup.com/mbe/article/14/8/800/982315 by London School of Hygiene & Tropical Medicine user on 27 May 2024
+

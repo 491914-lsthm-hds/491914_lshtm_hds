@@ -1,0 +1,1364 @@
+JOURNAL OF VIROLOGY, July 2006, p. 6497–6516
+Vol. 80, No. 13
+0022-538X/06/$08.000
+doi:10.1128/JVI.00069-06
+Marburgvirus Genomics and Association with a Large Hemorrhagic
+Fever Outbreak in Angola
+Jonathan S. Towner,1 Marina L. Khristova,2 Tara K. Sealy,1 Martin J. Vincent,1 Bobbie R. Erickson,1
+Darcy A. Bawiec,1 Amy L. Hartman,1 James A. Comer,1 Sherif R. Zaki,3 Ute Stro
+¨her,4,5
+Filomena Gomes da Silva,6 Fernando del Castillo,7 Pierre E. Rollin,1
+Thomas G. Ksiazek,1 and Stuart T. Nichol1*
+Special Pathogens Branch,1 DVRD, Biotechnology Core Facility Branch,2 SRP and Infectious Disease Pathology Activity,3
+and DVRD, NCID, and Global Aids Program,7 Centers for Disease Control and Prevention Atlanta, Georgia 30333;
+Special Pathogens Program, National Microbiology Laboratory, Public Health Agency of Canada, Winnipeg,
+Manitoba R3E 3R2,4 and Department of Medical Microbiology, University of Manitoba, Winnipeg,
+Manitoba R3E OW3,5 Canada; and Instituto Nacional de Sau
+´de Publica,
+Ministro da Sau
+´de, Repu
+´blica de Angola, Luanda, Angola6
+Received 10 January 2006/Accepted 21 March 2006
+In March 2005, the Centers for Disease Control and Prevention (CDC) investigated a large hemorrhagic
+fever (HF) outbreak in Uige Province in northern Angola, West Africa. In total, 15 initial specimens were sent
+to CDC, Atlanta, Ga., for testing for viruses associated with viral HFs known to be present in West Africa,
+including ebolavirus. Marburgvirus was also included despite the fact that the origins of all earlier outbreaks
+were linked directly to East Africa. Surprisingly, marburgvirus was conﬁrmed (12 of 15 specimens) as the cause
+of the outbreak. The outbreak likely began in October 2004 and ended in July 2005, and it included 252 cases
+and 227 (90%) fatalities (report from the Ministry of Health, Republic of Angola, 2005), making it the largest
+Marburg HF outbreak on record. A real-time quantitative reverse transcription-PCR assay utilized and
+adapted during the outbreak proved to be highly sensitive and sufﬁciently robust for ﬁeld use. Partial
+marburgvirus RNA sequence analysis revealed up to 21% nucleotide divergence among the previously char-
+acterized East African strains, with the most distinct being Ravn from Kenya (1987). The Angolan strain was
+less different (7%) from the main group of East African marburgviruses than one might expect given the large
+geographic separation. To more precisely analyze the virus genetic differences between outbreaks and among
+viruses within the Angola outbreak itself, a total of 16 complete virus genomes were determined, including
+those of the virus isolates Ravn (Kenya, 1987) and 05DRC, 07DRC, and 09DRC (Democratic Republic of
+Congo, 1998) and the reference Angolan virus isolate (Ang1379v). In addition, complete genome sequences
+were obtained from RNAs extracted from 10 clinical specimens reﬂecting various stages of the disease and
+locations within the Angolan outbreak. While the marburgviruses exhibit high overall genetic diversity (up to
+22%), only 6.8% nucleotide difference was found between the West African Angolan viruses and the majority of
+East African viruses, suggesting that the virus reservoir species in these regions are not substantially distinct.
+Remarkably few nucleotide differences were found among the Angolan clinical specimens (0 to 0.07%),
+consistent with an outbreak scenario in which a single (or rare) introduction of virus from the reservoir species
+into the human population was followed by person-to-person transmission with little accumulation of muta-
+tions. This is in contrast to the 1998 to 2000 marburgvirus outbreak, where evidence of several virus genetic
+lineages (with up to 21% divergence) and multiple virus introductions into the human population was found.
+Marburgvirus was ﬁrst identiﬁed in 1967, when infected
+monkeys, imported from the Lake Kyoga region of Uganda,
+transmitted the virus to laboratory workers and scientists at
+facilities in Germany and the former Yugoslavia (56). Mar-
+burgvirus and its close relative ebolavirus comprise the family
+Filoviridae and are known to cause severe hemorrhagic fever
+(HF) in humans and nonhuman primates (38). Marburgvirus is
+a single species, consisting of viruses differing from one an-
+other by up to 21% at the nucleotide level. In contrast, four
+distinct species of ebolavirus (Zaire, Sudan, Reston, and Ivory
+Coast) have been deﬁned, which differ genetically from one
+another by approximately 37 to 41% (15). Marburgvirus is a
+single-strand, negative-sense RNA virus whose seven gene
+products are, in order, nucleoprotein (NP), VP35, VP40, gly-
+coprotein (GP), VP30, VP24, and the polymerase (L) (14).
+Ebola and Marburg HF outbreaks are generally thought to
+involve the relatively rare introduction of the virus into the
+human population followed by waves of human-to-human
+transmission (usually through close contact with infected indi-
+viduals or their body ﬂuids), with little if any evolution of the
+virus during the course of the outbreak (42, 48). Symptoms of
+marburgvirus infection include general malaise, acute fever,
+abdominal cramping, bleeding disorders, and shock (29). Case
+fatality rates in previous large Marburg HF outbreaks have
+ranged from 23 to 83% (5, 30).
+Historically, sources of marburgvirus have been conﬁned to
+East Africa. They have been centered almost exclusively within
+500 miles of Lake Victoria, with the exception of a single case
+* Corresponding author. Mailing address: 1600 Clifton Road, Mail-
+stop G14, Atlanta, GA 30333. Phone: (404) 639-1115. Fax: (404) 639-
+1118. E-mail: Stn1@cdc.gov.
+6497
+in Zimbabwe in 1975, when a traveler became infected and,
+seeking medical treatment, subsequently transmitted the virus
+to a health care worker in South Africa. This previous close
+association of marburgvirus with East Africa contrasts with the
+observed distribution of ebolavirus, which has caused human
+HF outbreaks throughout tropical Africa, ranging from Cote
+d’Ivoire to Uganda. The largest Marburg HF outbreak previ-
+ously on record occurred from 1998 to 2000 in Durba, Dem-
+ocratic Republic of Congo (DRC) (57), infecting 154 people
+and with a case fatality rate of approximately 83% (5). The
+majority of these patients were involved directly or indirectly
+with illegal gold mining activity in the region. The Durba out-
+break was somewhat unusual compared to previous marburg-
+virus outbreaks in that it continued for almost 2 years, during
+which time multiple distinct genetic lineages were found to be
+circulating (37), likely indicating several independent introduc-
+tions of virus into the human population from the unknown
+natural reservoir.
+The recent emergence of marburgvirus in West Africa is
+described in this report. Based upon clinical presentations that
+meet the viral HF case deﬁnition (10), the outbreak likely
+started in October of 2004 in Uige Province in northern An-
+gola yet continued undiagnosed until March 2005, when trans-
+mission of HF to health care workers alerted the community to
+the possibility of Marburg or Ebola HF (9, 58). The outbreak
+persisted until July 2005 (32), raising the possibility that mul-
+tiple genetic lineages could have been introduced during this
+long epidemic period. In this study, we sequenced the entire
+marburgvirus genomes obtained from multiple laboratory-con-
+ﬁrmed cases throughout the Angola outbreak and compared
+these sequences to those obtained at different times during the
+1998 marburgvirus outbreak in Durba, DRC, as well as the
+complete genome of Ravn marburgvirus isolated in 1987. Col-
+lectively, these 16 newly derived complete genome sequences,
+along with those previously determined for the Popp, Musoke,
+and Ozolin strains, afforded us the opportunity to carry out the
+most comprehensive survey to date of the sequence spectrum
+circulating among marburgviruses. We determined that the
+newly emergent Angola marburgvirus is closely related to the
+majority of the previous East African isolates.
+MATERIALS AND METHODS
+Specimen processing, antigen capture, IgM and IgG ELISA, virus isolation,
+and IHC staining. Blood and serum specimens from suspected viral HF (VHF)
+patients were received unfrozen at CDC in International Air Transport Associ-
+ation-approved
+containers.
+Samples
+200501377
+to
+-88,
+200501411,
+and
+200501412 were opened under biosafety level 4 conditions, and virus isolation
+using Vero E6 cells was performed as previously described (42). The Angola
+marburgvirus reference sample is clinical specimen number 200501379, or
+“1379c,” while the virus isolated from 1379c is designated “1379v”. The samples
+were inactivated with gamma-cell irradiation or chaotrope for RNA extraction
+and then tested for marburgvirus antigen, speciﬁc immunoglobulin M (IgM),
+IgG, and nucleic acid by using modiﬁcations of existing techniques for Ebola
+hemorrhagic fever (22, 23, 48, 49). The modiﬁcations for the IgM and IgG
+enzyme-linked immunosorbent assays (ELISAs) consisted of (i) a replacement of
+the pooled monoclonal antibody mix with one directed to marburgvirus (Musoke
+strain) NP and (ii) a replacement of the Vero cell lysates with ones in which Vero
+cells were infected with marburgvirus (Musoke strain). The modiﬁcations for the
+nucleic acid detection were to use a marburgvirus-speciﬁc quantitative reverse
+transcription-PCR (Q-RT-PCR) assay designed to detect all known species of
+marburgvirus (described below). Immunohistochemical (IHC) staining was per-
+formed on skin biopsies ﬁxed in 10% formalin as previously described (60) and
+adapted for detection of marburgvirus. Specimens 2005000126 to -998, processed
+in the ﬁeld lab, were not gamma irradiated but were treated additionally with
+0.5% Triton X-100 and heated at 56°C for 30 min to greatly reduce infectivity.
+RNA extraction. RNA was extracted using an Applied Biosystems 6100 nucleic
+acid preparation station according to a modiﬁed protocol (49) using noncellular
+lysis buffer. Brieﬂy, 50 l of sample was mixed with 300 l of 2 noncellular lysis
+buffer under biosafety containment conditions. Following 15 min of incubation,
+plastic ware containing samples in lysis buffer was externally decontaminated
+with 3% Lysol, and RNAs were transported out of biosafety containment and
+extracted according to the manufacturer’s instructions, with the modiﬁcation of
+adding two extra 1 noncellular lysis buffer washes at the beginning of the
+extraction process.
+PCR diagnostic assay. Brieﬂy, a Q-RT-PCR assay was designed to detect a
+region in VP40. Q-RT-PCR assays were carried out by ﬁrst random-primed
+conversion of the RNA to cDNA using the High Capacity cDNA synthesis kit
+(Applied Biosystems) according to the manufacturer’s instructions. Ten micro-
+liters of the cDNA synthesis reaction mixture was then used to program probe-
+based real-time PCR assays, using Universal Master Mix (Applied Biosystems) in
+50-l total reaction volumes. The marburgvirus broadly reactive Q-PCR assay
+used the following forward and reverse primers and probe, respectively: 5-GG
+ACCACTGCTGGCCATATC-3, 5-GTCGGCAGGAGGIGAAATCC-3, and
+6-carboxyﬂuorescein-5-CTCTGGGACTTTTTCIACCCTCAGTTGATGA-3.
+The quencher, Black Hole, was internally placed on T indicated by boldface
+within the probe oligonucleotide. Ampliﬁcations were carried out for 40 cycles by
+denaturing for 20 seconds at 94°C followed by 30 seconds at 60°C degrees.
+Samples exhibiting cycle threshold (CT) values of less than 35 were considered
+positive. The VP40 gene sequence of the Angola-05 marburgvirus isolate was
+determined and allowed development of an Angola-speciﬁc Q-RT-PCR assay.
+The slightly modiﬁed primers and probe were 5-GGTCCACTGCTGGCCATA
+TC-3, 5-GTCGGCAGGAAGCGAAATCC-3, and 6-carboxyﬂuorescein-5-T
+TCTGGGACTTTTTCGACTCTCAGTTGATGA-3, where the quencher was
+again internally placed on the T indicated by boldface. The modiﬁed Q-RT-PCR
+assay provided two to fourfold (1 to 2 CT units) better sensitivity in samples
+assayed side by side with the original assay (data not shown).
+Virus passage histories. Ravn isolate (1987), strain M/Kenya/Kitum Cave (20),
+was passaged once in SW13 cells, followed by four passages in Vero E6 cells.
+05DRC, 07DRC, and 09DRC viruses (Durba, DRC, 1998) were passaged three
+times each in Vero E6 cells.
+Genome fragment ampliﬁcation and sequencing. The reference sequence,
+Ang1379c, was determined from RNA isolated directly from clinical material and
+also from the virus isolate (Ang1379v) after one passage on Vero E6 cells.
+Multiple RT-PCR fragments were generated using the Superscript III one-step
+high-ﬁdelity RT-PCR kit (Invitrogen) according to the manufacturer’s instruc-
+tions. The fragments, ampliﬁed using the following combinations of primers
+(listed 5 to 3) and designed based upon a consensus sequence derived from an
+alignment of Musoke, Popp and Ozolin marburgviruses (GenBank ascension
+numbers DQ217792, NC001608, and AY358025, respectively), were as follows
+(the oligonucleotide names reﬂect the approximate nucleotide position of each
+primer): 21F (GACACACAAAAACAAGAGATGATG) and 810R (GAAGTC
+CTGAGAATCTAGTTTG), 132F (GTACAAAACCCACTGCCCCTCATG)
+and 3489R (AACCGTAGTCCCCTTACTAC), and 5363F (AGAIGGIATGAT
+GAAGAAAAG) and 7781R (CAGGTCCIAGCACITTGCATGTTCC), fol-
+lowed by nested ampliﬁcation using 5420F (TGAGAAITTICCTTTGAATGGC
+TTC) and 7671R (TCCAAGGATTTIGCAGTTTG), 7567F (TGGCCCTGGA
+ATIGAAGGACTC)
+and
+10571R
+(AGCATATGAACAATAGATC),
+and
+10401F (TGTTCCAGAGTGGCAACAAAC) and 14933R (CTCAGAIAAATT
+AATCCACTTTAC), followed by heminested ampliﬁcation using 10401F and
+14882R (TGTGGCACCAATTAGCCTTTTCCC) and 14763F (TGGACGATG
+ATTTATCTGAGTC) and 19113R (GGACACACTAAAAAGATGAAG). The
+region between nucleotides 3489 and 5363 was ampliﬁed by using primers
+VP35F1 (GCTTACTTAAATGAGCATGG) and GP170R (TGCCCACTCAG
+TGTAAATCC). The full-length genome sequences from clinical specimens from
+this outbreak (samples 1380, 1381, 1386, 1411, 0126, 0181, 0214, 0215, 0754, and
+0998) and isolates 05DRC and 07DRC were similarly determined with primer
+modiﬁcations by amplifying six genome fragments, designated A to F, as follows:
+fragment A was ampliﬁed with 63F (TGACATTGAGACTTGTCAGTC) and
+4997R (GCTTGATTTCCTTCACGC) followed by nested ampliﬁcation using
+375F (CAAGAATGCAGATGCAACC) and 4641R (GTTTGCACCGTGGTC
+AG); fragment B was ampliﬁed using primers 3781F (GTTCCTCCAGTGATA
+AGAGTC) and 8478R (GATTGAAGTAAGGCAAGTTGTTAA) followed by
+nested ampliﬁcation using 4155F (CTAACAAAAGGGGTCTAACCTA) and
+8304R (CTTAACTATGTCTTCAAGCCTA); fragment C was ampliﬁed using
+primers 7567F and 10571R followed by nested ampliﬁcation (sample 1386 only)
+using 7621F (TTTITGITGIAGGTTGAGGCG) and 10521R (TTGATCCTTC
+6498
+TOWNER ET AL.
+J. VIROL.
+AAAGCAACTCC); fragment D was ampliﬁed using primers 10000F (GTACC
+TCTAAGGAAAACCATGAAG) and 15460R (GTTGATATAATTGCACGT
+GTGG) followed by nested ampliﬁcation using primers 10287F (GACCTCAA
+TTCCACAGCA) and 15279R (GTCTGCAGTGCCTTGAGT); fragment E was
+ampliﬁed using 14763F and 19113R followed by heminested ampliﬁcation using
+14817F (CTAATTTCTTGAGGGCATATTC) and 19113R; and fragment F was
+ampliﬁed in a heminested reaction using 3F (CACACAAAAACAAGAGATG
+ATG) and 925R (CTCAACGCCTGCTTGAAAG) followed by heminested am-
+pliﬁcation using 3F with 801R. The RT-PCR fragments for the Ravn and 09DRC
+virus isolates required considerable primer modiﬁcations. Nucleotides 3 to
+6000 were generated in four fragments using primers 3F with 721R (ACCTGT
+CACCAAATTTACTCC),
+617F
+(CACTGGCTTACTACAGGCCA)
+with
+1128R
+(TGTTCATGTCGCCTTTGTAG),
+818F
+(ATTGCATCCACTTGT
+GCG) with 2117R (AGACAGGATTTTGGTTATTCC), and 1581F (CACTAA
+GGCAAACTCAGGAC) with GP170R. The remainder of the genome was gen-
+erated using primers described above, namely, 7567F with 10571R, 10401F with
+14882R, and 14763F with 19113R. If necessary, RT-PCR products of the correct
+predicted sizes were gel puriﬁed using either the Qiaquick gel extraction kit
+(QIAGEN, Valencia, CA) or the NucleoTrap gel extraction kit (BD Biosciences
+Clontech, Palo Alto, CA). The puriﬁed DNA was sequenced by primer walking
+of both strands, using ABI BigDye 3.1 dye chemistry and ABI 3730XL auto-
+mated DNA sequencers (Applied Biosystems, Foster City, CA). Sequencing
+primers representing the most conserved regions were designed encompassing
+the entire genome fragment. Sequencing primers were synthesized by Integrated
+DNA Technologies (Coralville, IA). Chromatogram data were assembled using
+Seqmerge (Accelrys Inc, San Diego, CA), Phred/Phrap base calling and assembly
+software, and Consed for sequence editing (University of Washington). The
+terminal 20 nucleotides were not experimentally determined but were based on
+the termini of the previously published Popp, Musoke, and Ozolin sequences.
+Phylogenetic analysis. Genomic analyses and alignments of ﬁlovirus sequences
+were performed using the Wisconsin package of GCG version 10.3. (Accelrys
+Inc., San Diego, CA). Phylogenetic analysis was performed using Paup 4.0b10
+(Sinauer Associates Inc.).
+Nucleotide sequence accession number. The GenBank Accession numbers for
+the newly determined full-length genome sequences are as follows: Ravn,
+DQ447649; 07DRC, DQ447650; 05DRC, DQ447651; 09DRC, DQ447652;
+Ang1379c, DQ447653; Ang1381, DQ447654; Ang1386, DQ447655; Ang0126,
+DQ447656; Ang0214, DQ447657; Ang0215, DQ447658; Ang0754, DQ447659;
+and Ang0998, DQ447660.
+RESULTS
+Discovery of marburgvirus HF in West Africa. In early 2005,
+reports were received by the CDC and World Health Organi-
+zation (WHO) of a large HF outbreak in Uige Province in
+northern Angola, West Africa (Fig. 1). On 15 March, speci-
+mens were collected and sent to CDC in Atlanta, Ga., for
+testing for evidence of infection with viruses associated with
+VHF which were known to be present in West Africa. To be
+thorough, the VHF-associated Marburg virus was also in-
+cluded despite the origin of all earlier outbreaks being re-
+stricted to East Africa. Testing included virus isolation, antigen
+capture ELISA, IgM and IgG ELISA, RT-PCR and Q-RT-
+PCR assays, and in one case IHC staining. Contrary to expec-
+tations, evidence of acute marburgvirus infection was found in
+12 of the 15 initial specimens (Table 1), all of which were from
+fatal cases.
+Clearly the most sensitive diagnostic test was the Q-RT-PCR
+assay, which was designed to detect a conserved sequence of
+VP40 present in all known species of marburgvirus, including
+the more distantly related Ravn strain. All positive Q-RT-PCR
+results were obtained in duplicate, with each set yielding am-
+pliﬁcation curves within 0.4 CT units. Virus isolation proved to
+be nearly as sensitive as the Q-RT-PCR assay, although limited
+clinical material in some cases made virus isolation attempts
+difﬁcult. The antigen capture assay conﬁrmed the RT-PCR
+results in four cases yet overall proved less sensitive. None of
+the initial samples were positive in either the marburgvirus-
+speciﬁc IgM or IgG assays performed in parallel. In those
+ELISAs, the positive and negative controls in each assay per-
+formed as expected, thus suggesting that the negative results
+with the human specimens were not the result of any system-
+atic errors. In no instances did specimens test positive by an-
+FIG. 1. (A) Map of Angola, with Uige Province highlighted in burgundy. (B) Expansion of the inset in panel A to show the local municipalities
+from which individual cases were analyzed. The majority of cases (90%) in the outbreak were in the Uige municipality located within Uige
+Province.
+VOL. 80, 2006
+MARBURGVIRUS GENOMICS AND HF OUTBREAK IN ANGOLA
+6499
+tigen capture, IgM, IgG, or virus isolation and not test positive
+by RT-PCR (data not shown).
+Three samples (samples 1411 to 1413 in Table 1) arrived the
+following week. One specimen was a skin biopsy from a patient
+in Uige, while the other two samples, 1411 and 1412 (a blood
+specimen and a serum specimen, respectively, drawn at the
+same time), were from a physician in Luanda with a recent
+contact history with the suspected VHF patients in Uige Prov-
+ince. The physician traveled directly to the capitol city of
+Luanda only days before her death. Both samples tested pos-
+itive by Q-RT-PCR and virus isolation, while the skin biopsy
+tested positive by IHC staining.
+Complete genome sequence determination and phylogenetic
+analysis. To establish the genetic relationship of the Angola
+marburgvirus relative to prior East African viruses, and to
+determine the extent of sequence variation circulating within
+the Angola VHF outbreak, complete marburgvirus genomes
+were sequenced from 11 clinical samples collected from fatal
+cases throughout a time period of almost 3 months and en-
+compassing the known geographic distribution of the outbreak.
+There were four municipalities within Uige Province from
+which virus-positive samples were collected (Fig. 1). The mu-
+nicipalities were Uige (samples 1379 to 1386 and 0998),
+Songo (sample 0754), Bungo (samples 0181, 0214, and 0215),
+and Damba (sample 0126). In addition, we included the sam-
+ple from the Angolan capitol, Luanda (sample 1411) (Fig. 1).
+RNAs were extracted from multiple types of clinical speci-
+mens, including oral swabs, which collectively contained a wide
+range of viral loads. It should be noted that following the initial
+Marburg VHF diagnosis, ﬁeld labs were established by CDC
+and the Public Health Agency of Canada on site in Luanda
+and Uige, respectively, at the request of the Ministry of
+Health of Angola and WHO. Samples 0126, 0181, 0214,
+0215, 0754, and 0998 (Table 2) were obtained and tested
+within 24 h of specimen collection and then stored frozen
+until nucleotide sequence analysis could be initiated.
+To provide a more complete representation of the overall
+potential for genetic diversity within a single marburgvirus
+outbreak and to provide a basis to which to compare the
+genetic diversity (or lack thereof) circulating in the Angola
+outbreak, we determined the complete genome sequences of
+four marburgvirus isolates obtained from the two most recent
+marburgvirus outbreaks prior to the one in Angola. Three of
+TABLE 1. Summary of marburgvirus diagnostic test results for samples sent to CDC from Angola in March 2005
+Specimen
+no. (last
+four
+digits)
+Patient
+age
+Specimen
+type
+Diagnostic test results
+Aga
+IgM
+IgG
+Q-RT-PCRb
+Virus
+isolationc
+IHC
+staining
+1377
+12 yr
+Serum
+
+
+
+
+
+NDd
+1378
+16 mo
+Serum
+
+
+
+
+
+ND
+1379
+8 mo
+Serum
+
+
+
+
+
+ND
+1380
+3 yr
+Serum
+
+
+
+
+
+ND
+1381
+9 mo
+Serum
+
+
+
+
+
+ND
+1382
+NAe
+Serum
+
+
+
+
+
+ND
+1383
+NA
+Serum
+
+
+
+
+
+ND
+1384
+NA
+Serum
+
+
+
+
+
+ND
+1385
+24 yr
+Serum
+
+
+
+
+
+ND
+1386
+5 yr
+Serum
+
+
+
+
+
+ND
+1387
+5 yr
+Serum
+
+
+
+
+
+ND
+1388
+NA
+Serum
+
+
+
+
+
+ND
+1411f
+51 yr
+Blood
+
+
+
+
+
+ND
+1412f
+51 yr
+Serum
+
+
+
+
+
+ND
+1413
+NA
+Skin
+ND
+ND
+ND
+ND
+ND
+
+a Antigen capture assay. , sum optical density (23) of greater than 2.0; , sum optical density of 1.0 to 2.0; , sum optical density of 0.45 (threshold) to 1.0.
+b , CT values of less than 20; , CT values of 20 to 25; , CT values of 25 to 30; , CT values of 30 to 35.
+c Virus isolations were considered positive after cultures of Vero E6 cells showed cytopathic effect and subsequent scrapes were positive by immunoﬂuorescence
+assay.
+d ND, not determined.
+e NA, not available.
+f Case in the capital, Luanda.
+TABLE 2. Summary of marburgvirus sequencing from cases
+representing the geographic, temporal, and viral load
+distributions seen in the outbreak
+Specimen
+no. (last
+four
+digits)
+Specimen
+type
+Q-RT-PCRa
+Date of:
+Region
+Onset
+Collection
+1379b
+Serum
+
+24 February
+13 March
+Uige
+1380
+Serum
+
+10 March
+13 March
+Uige
+1381
+Serum
+
+1 March
+13 March
+Uige
+1386
+Serum
+
+6 March
+11 March
+Uige
+1411
+Blood
+
+16 March
+20 March
+Luanda
+0126
+Blood
+
+2 April
+8 April
+Damba
+0181
+Oral swab
+
+Unknown
+13 April
+Bungo
+0214
+Oral swab
+
+Unknown
+15 April
+Bungo
+0215
+Oral swab
+
+2 April
+15 April
+Bungo
+0754
+Oral swab
+
+13 April
+22 April
+Songo
+0998
+Oral swab
+
+15 May
+17 May
+Uige
+a The scale for the Q-RT-PCR assay is the same as that described in Table 1,
+footnote b, with the caveat that the Q-RT-PCR assay used on samples 0126,
+0181, 0214, 0215, 0754, and 0998 had been redesigned, as described in Materials
+and Methods, to correct nucleotide mismatches between the primers and probe
+to match the Angola-speciﬁc target sequences. The minor modiﬁcations resulted
+in a decrease of 1 to 2 CT units for clinical samples tested side by side with the
+original (more generic) Q-RT-PCR assay.
+b Reference specimen.
+6500
+TOWNER ET AL.
+J. VIROL.
+the isolates, 05DRC, 07DRC, and 09DRC, were from epide-
+miologically unlinked cases that occurred at different times
+during the 1998 outbreak in Durba, DRC, while the fourth
+isolate, Ravn (Rav), was obtained in 1987 from a 15-year-old
+Danish boy with a recent history of travel to Kitum Cave in
+Mount Elgon, Kenya, 9 days prior to disease onset.
+All 16 newly determined complete marburgvirus sequences
+(19,114 nucleotides in length), in addition to those of Popp
+(Pop), Musoke (Mus), and Ozolin (Ozo), were analyzed to
+determine their phylogenetic relationship (Fig. 2A) and nucle-
+otide distances (Fig. 2B). A maximum-likelihood analysis
+placed the Angola (Ang) isolates ﬁrmly (100% bootstrap sup-
+port) within the clade containing the majority of the East
+African isolates. This result was surprising given the large
+geographic distance, 1,000 miles, of Uige, Angola, from the
+locations of all other known sources of marburgvirus. The
+branching pattern of the phylogenetic tree shows ﬁve overall
+branches, with the Rav/09DRC branch being the most diver-
+gent, showing nucleotide differences greater than 21% relative
+to viruses in other lineages, including Ang. 05DRC, 07DRC,
+and Ozo comprise a second well-deﬁned lineage, differing from
+viruses in all other lineages by greater than 7%. Finally, using
+a cutoff of 5% nucleotide difference, Ang, Mus, and Pop
+form three additional lineages, with the Angola sequence di-
+verging by 6.8 and 7.1% from Mus and Pop, respectively, and
+by greater than 7.4% from the Ozo, 05DRC, and 07DRC
+lineages. Mus and Pop differ from each other by 5.9%. For
+comparison, the difference between any of the marburgvirus
+genomes and those of either Zaire ebolavirus or Sudan ebo-
+lavirus is greater than 65%, while the Zaire and Sudan ebola-
+viruses differ from each other by greater than 40%.
+Among the 11 clinical samples selected from the Angola
+outbreak, the genetic sequences were well conserved through-
+out the entire length (19,114 nucleotides) of the genome (Fig. 3).
+Ten of 11 genomes had ﬁve changes or fewer compared to the
+reference isolate Ang1379c. Remarkably, four of the se-
+quences, obtained from clinical samples collected over a month
+and a half, showed no nucleotide differences for the entire
+19,114-nucleotide genome. This conﬁrmed the high ﬁdelity of
+the RT-PCR-based sequence analysis performed and demon-
+strated that human-to-human passage of marburgvirus could
+occur in the absence of virus evolution. In addition, our refer-
+ence sequence, Ang1379c, was also 100% identical to the
+sequence obtained from the corresponding virus isolate,
+Ang1379v, indicating the lack of selection occurring during
+culture of the virus from the clinical specimen. The most ge-
+FIG. 2. (A) Maximum-likelihood analysis of full-length genomes with indicated bootstrap values. *, reference specimen. (B) Nucleotide
+diversity, comparing full-length genome sequences of the indicated ﬁloviruses. The Angola marburgvirus sequence was represented by that
+determined from the reference specimen 1379c.
+VOL. 80, 2006
+MARBURGVIRUS GENOMICS AND HF OUTBREAK IN ANGOLA
+6501
+netically diverse genome came from a specimen collected in
+the Songo municipality (specimen 0754), which had a total of
+11 nucleotide changes (out of 19,114 bases) relative to the
+reference isolate (0.07% variation). Each of the unique
+changes were independently conﬁrmed by generation of small
+(1-kb) RT-PCR fragments followed by sequence analysis. In
+contrast, the analysis of three isolates from within the earlier
+Durba, DRC, outbreak showed at least 10 times greater se-
+quence diversity, ranging from 0.8 to 21% nucleotide differ-
+ence. The 05DRC and 07DRC isolates differed by 0.8% (150
+nucleotide differences) and differed by over 21% when each was
+compared to the 09DRC isolate. The 09DRC isolate is notewor-
+thy because it represents the second member of the most distinct
+lineage within the marburgviruses, ﬁrst deﬁned by the Rav isolate
+(20). The minimal genetic diversity observed in the Angola out-
+break (maximum of 0.07% variation) relative to that seen in the
+Durba (0.8 to 21% variation) is consistent with the Angola mar-
+burgvirus outbreak being the result of a rare introduction of virus
+into the human population from the unknown reservoir followed
+by direct human-to-human transmission.
+Comparative analysis of marburgvirus genetic elements.
+The determination of the Ang, Rav, 05DRC, 07DRC, and
+09DRC full-length sequences almost tripled the number of
+marburgvirus genomes available for analysis. Therefore, using
+FIG. 3. Summary of single-nucleotide (nt) changes among the 11 indicated marburgvirus sequences from the Angola outbreak. Beneath the
+position descriptions of each change are the RT-PCR fragment(s) used to generate the sequence.
+FIG. 4. Similarity plot of an alignment of eight marburgvirus sequences (Ang, Pop, Mus, Ozo, Rav, 05DRC, 07DRC, and 09DRC), using a
+sliding window of 50 nucleotides. The Angola marburgvirus sequence was represented by that determined from the reference specimen 1379c.
+6502
+TOWNER ET AL.
+J. VIROL.
+this more extensive database of full-length sequences, a com-
+prehensive effort was undertaken to reexamine many genetic
+features throughout the genome and determine the degree to
+which these elements are maintained across all eight marburg-
+virus strains. An initial macroscopic perspective of genome
+similarity is shown in Fig. 4, in which full-length genomes were
+analyzed for similarity using a sliding window of 50 nucleo-
+tides. The similarity plot reveals a striking pattern of sequence
+conservation among the open reading frames ﬂanked by re-
+gions of much greater variation in the noncoding sequences.
+However, the more variable noncoding regions are punctuated
+with spikes of high identity corresponding to the regions con-
+taining transcription start and stop sequences (arrows). Align-
+ments of the individual cis-acting regulatory features demon-
+strate that 12 of 14 transcription start and stop sequences are
+100% identical (Fig. 5). Of the two start/stop sequences that
+show variation, the differences are merely single-nucleotide
+transitions and are within the Ravn/09DRC lineages. In all
+FIG. 5. Alignment of the transcription start and stop signals, IR sequences, and lengths of the 5 and 3 untranslated regions (UTRs) for each
+marburgvirus sequences. Shown in red are nucleotides (nt) or UTR lengths that are different from the consensus. The Angola marburgvirus
+sequence was represented by that determined from the reference specimen 1379c.
+VOL. 80, 2006
+MARBURGVIRUS GENOMICS AND HF OUTBREAK IN ANGOLA
+6503
+genomic elements examined, the Angola sequence shows
+100% identity with the consensus sequence. Well conserved
+genomic features include the lengths of the 5 and 3 untrans-
+lated regions of all seven predicted mRNAs, some of which
+differ slightly from previous reports (8, 15), as well as the
+length and composition of the six intergenic (IR) sequences. A
+few notable variations within the IRs are a requirement for a
+purine residue in the ﬁrst position of the trinucleotide IR
+between VP24 and L and conserved differences within the
+Ravn/09DRC lineage at three of seven positions in the IR
+between NP and VP35.
+An examination of the nucleotide and amino acid distances
+for each of the seven marburgvirus gene products is shown in
+Fig. 6A and B, respectively. At the nucleotide level the most
+conserved genes are, in order, VP40, NP, VP24, and VP35,
+showing 0.2 to 15.2% variation, closely followed by VP30,
+showing 0.3 to 17.4% variation. The gene with the greatest
+nucleotide differences is GP (0.7 to 22.5%), consistent with
+previous alignments using fewer marburgvirus strains (8, 20,
+45). Surprisingly, the nucleotide difference in the polymer-
+ase (0.5 to 21.4%) is almost as much as that seen in the GP
+FIG. 6. Percent nucleotide (nt) (A) or amino acid (B) differences for each of the seven marburgvirus gene products. The Angola marburgvirus
+sequence was represented by that determined from the reference specimen 1379c.
+6504
+TOWNER ET AL.
+J. VIROL.
+region despite having some stretches of very high conserva-
+tion (Fig. 7G).
+At the amino acid level, the percent differences among the
+marburgvirus strains for each of the seven gene products are
+quite different from those seen within the same genes at the
+nucleotide level. The degrees of variation within all the open
+reading frames, except GP, are decreased by 2- to 10-fold. The
+most striking example is the matrix protein VP40, in which the
+decrease is about 10-fold, demonstrating a distinct intolerance
+for amino acid changes (1.65% maximum variation). This in-
+tolerance is suggestive of tight physical constraints for VP40 in
+the virus assembly process. At the other end of the spectrum,
+GP showed no decrease at all in the level of amino acid vari-
+ation (23%) relative to that seen at the nucleotide level,
+suggesting a selective pressure for nonsynonymous changes,
+most likely exerted by the immune system of the natural res-
+ervoir host(s).
+We next examined known protein domains and motifs in
+each of the seven open reading frames by comparative align-
+ment of the amino acid sequences (Fig. 7A to G). The analysis
+of GP (Fig. 7D) shows that the area of greatest diversity is a
+continuous 300-amino-acid (aa) stretch from residue 201 to
+FIG. 6—Continued.
+VOL. 80, 2006
+MARBURGVIRUS GENOMICS AND HF OUTBREAK IN ANGOLA
+6505
+FIG. 7. Comparative amino acid alignments for each of the seven marburgvirus gene products. The Angola marburgvirus sequence was
+represented by that determined from the reference specimen 1379c. (A) NP. Shown are conserved cysteines (underlined and in boldface) and
+serine/threonine phosphorylation motifs (boxed) residing in domains previously deﬁned (28) (gray) when queried with the Angola marburgvirus
+NP amino acid sequences for the kinase substrates casein kinase II (S/TxxD/E), protein kinase C (S/TxK/R), protein kinase A (RxS/T), glycogen
+synthase kinase 3 (S/TxxxS/T), casein kinase I (SxxS/T), and mitogen-activated protein kinase (S/TP). (B) VP35. Shown are the predicted
+oligomerization domain (35) (gray) with hydrophobic residues in the ﬁrst and forth positions of the heptad repeats (), type I IFN antagonism
+domain (boxed) with critical basic residues (asterisks), and conserved cysteines (underlined and in boldface). (C) VP40. Shown are the L domain
+(PPxY) (boxed) and conserved cysteines (underlined and in boldface). (D) GP. Shown are conserved cysteines (underlined and in boldface);
+N-glycosylation sites (N x T/S), conserved (boxed in gray) and nonconserved (boxed only); furin cleavage sites (R x K/RR) (double underlined);
+fusion domain (); immunosuppressive domain (asterisks); and transmembrane domain (parentheses). (E) VP30. Shown are phosphorylated
+serine residues (34) (asterisks), conserved cysteines (underlined and in boldface), Cys3-His residues of the zinc binding motif (), and tetraleucine
+motif for VP30 oligomerization (boxed). (F) VP24. Shown are conserved cysteines (underlined and in boldface). (G) Polymerase. Shown are
+conserved cysteines (underlined and in boldface, with the double-cysteine motif [36] double underlined and in boldface), ATP binding motifs
+(asterisks), D-D diresidue motifs (boxed), MGDNQ motif (), box A* to C* regions (36) (light gray and labeled), domains of higher variability
+(light gray and labeled), and motifs A** to C** (53) (dark gray).
+6506
+TOWNER ET AL.
+J. VIROL.
+FIG. 7—Continued.
+VOL. 80, 2006
+MARBURGVIRUS GENOMICS AND HF OUTBREAK IN ANGOLA
+6507
+501, a region previously divided into two smaller variable do-
+mains (45). Despite this diversity, a number of previously de-
+scribed features remain well conserved, many of which reside
+within this central variable domain. These features include 13
+of 14 proposed N-glycosylation sites (N-x-T/S) and 12 of 12
+cysteines (45). Elsewhere in GP, the transmembrane domain
+(aa 649 to 670) and proposed fusion domain (aa 526 to 540)
+show 100% identity among all eight strains of marburgvirus, as
+does the furin cleavage site R-X-K/R-R (aa 432 to 435) (54).
+Volchkov et al. (52) proposed the presence of an immunosup-
+pressive domain (ISD) in GP2 of ebolavirus based on analogy
+to retroviruses. This 26-amino-acid motif is also present in
+marburgvirus (55) and shows a single Thr-to-Ala substitution
+at position 12 of the Angola sequence. Lending importance to
+the function of the ISD motif, recent studies have shown that
+17-residue monomers of ﬁlovirus ISDs are capable of suppress-
+ing T-cell activation and Th1-related cytokine production in
+activated human and nonhuman primate peripheral blood
+FIG. 7—Continued.
+6508
+TOWNER ET AL.
+J. VIROL.
+mononuclear cells (59). All other positions of the ISD show
+complete conservation. Another posttranslational modiﬁcation
+ascribed to GP is the potential for phosphorylation at serine
+residues in two independent motifs between amino acids 260
+and 273 (46). The GP alignments demonstrate that only one
+phosphorylation site, encompassing amino acids 268 to 273, is
+conserved among all eight marburgviruses. The other site, a
+diserine motif at amino acids 260 to 261, is not present in ﬁve
+of eight strains, thus discounting this motif as a general feature
+of all marburgviruses.
+Within the alignment of marburgvirus L amino acid se-
+quences (Fig. 7G), the regions showing the greatest variation
+are clustered into ﬁve domains, i.e., amino acids 114 to 135,
+262 to 348, 1143 to 1206, 1623 to 1645, and 1677 to 1866. The
+last domain, encompassing residues 1677 to 1866, may contain
+a hinge region within the polymerase based on analogy to
+morbilliviruses, which have been shown to tolerate the inser-
+tion of the green ﬂuorescent protein within the proposed hinge
+(13, 31).The areas of greatest conservation within the marburg-
+virus L sequences are in three large blocks, amino acids 349 to
+1142, 1207 to 1622, and 1867 to 2322. The ﬁrst of these three
+areas, amino acids 349 to 1142, contain the box A, B, and C
+sequences common to paramyxo- and rhabdovirus L proteins
+(3, 36). Boxes A and B share 100% identity among the aligned
+FIG. 7—Continued.
+VOL. 80, 2006
+MARBURGVIRUS GENOMICS AND HF OUTBREAK IN ANGOLA
+6509
+marburgvirus sequences, while box C has a single K-to-R sub-
+stitution in the Rav and 09DRC lineages. Two other motifs
+purported to be present in all polymerases of negative-sense
+RNA viruses are the diresidue D-D and QGDNQ motifs (3, 21).
+These were previously identiﬁed in the Mus marburgvirus L se-
+quence (36) and are thought to be essential components of the
+polymerase catalytic core. In this alignment, these potential cat-
+alytic core motifs are all 100% conserved, with the exception of
+one diresidue D-D motif at amino acids 91 to 93, which shows
+degeneracy at two positions in the Ravn and 09DRC lineages. In
+addition, there is a putative ATP and/or purine ribonucleoside
+triphosphate binding domain found in all known L proteins of
+single-strand negative-sense viruses (amino acids 1931 to 1956)
+(36), referred to as motif C in an alignment of ﬁlovirus L se-
+quences (53), that shows 100% identity at the core consensus
+glycine residues and identity at 23 of 26 positions overall within
+the motif. Three other potential ATP binding motifs at residues,
+1325 to 1360, 1390 to 1420, and 1560 to 1593 (36), show complete
+identity among all taxa analyzed. Finally, 46 of 52 consensus
+cysteine residues are completely conserved, including the dicys-
+FIG. 7—Continued.
+6510
+TOWNER ET AL.
+J. VIROL.
+teine motif at positions 1376 to 1377, as previously noted (36),
+which are found in most L proteins at similar locations and are
+believed to anchor protein secondary structure to maintain the
+necessary conformation of the putative active sites.
+Outside of the polymerase and glycoprotein, a few notable
+genomic elements reside in the NP, VP35, and VP30 genes. An
+alignment of NP amino acid sequences (Fig. 7A) shows that
+nearly all the variability is in the C-terminal half of the protein,
+similar to that seen in a recent comparison of Zaire and Sudan
+ebolavirus full-length genome sequences (44). Within this
+same half of the protein are seven unique phosphorylation
+domains (28), each containing one or more serine/threonine
+kinase substrate motifs. Yet, despite the overall variation, the
+majority of individual kinase recognition motifs are conserved
+to the point that, regardless of the marburgvirus strain exam-
+ined, at least one motif is present within each of the seven
+domains. The maintenance of these motifs highlights the po-
+tential role for phosphorylation in this region of NP, an area
+postulated to effect protein-protein interactions.
+VP35 protein of marburgvirus plays an essential role in tran-
+FIG. 7—Continued.
+VOL. 80, 2006
+MARBURGVIRUS GENOMICS AND HF OUTBREAK IN ANGOLA
+6511
+scription and replication of viral RNA. A predicted coiled-coil
+domain with residues 70 to 120 may effect VP35 oligomeriza-
+tion, an interaction which in turn may be necessary for VP35 to
+bridge NP with L to form the active polymerase complex (35).
+At the heart of the presumed coiled-coil domain are heptad
+repeats containing hydrophobic residues at the ﬁrst and fourth
+positions. This domain shows variability at nine positions (Fig.
+7B). Yet despite this variation, the spacing of the hydropho-
+bicity is strictly maintained among all the aligned sequences.
+The Angola sequence shows no variation whatsoever from the
+consensus sequence throughout the 50-amino-acid domain. In
+addition to its role in RNA replication, VP35 of ebolavirus has
+recently been shown to contain an 11-amino-acid motif (Zaire
+ebolavirus residues 304 to 314) that is thought to be essential
+for type I interferon (IFN) antagonism (19). This motif, which
+is possibly involved in RNA binding, is also present in mar-
+burgvirus (residues 293 to 303) and has identity at 9 of 11
+positions with that of ebolavirus, including the three basic
+amino acids experimentally demonstrated to be important.
+Further highlighting the potential importance of this VP35
+FIG. 7—Continued.
+6512
+TOWNER ET AL.
+J. VIROL.
+domain, the alignment (Fig. 7B) reveals that this domain is a
+general feature of all known marburgviruses.
+VP30 of Zaire ebolavirus has been shown to contain an
+unconventional Cys3-His zinc binding domain whose integrity
+has been shown to be required for VP30 function in virus
+transcription (33). The alignment in Fig. 7E shows the high
+conservation of all four zinc-coordinating residues among all
+eight marburgvirus taxa. Adjacent to the zinc binding domain
+is a well-conserved tetraleucine motif which could facilitate
+VP30 oligomerization, similar to that observed with ebolavirus
+VP30 (18).
+Finally, VP24, whose alignment is shown in Fig. 7F, is highly
+conserved throughout the protein. Recent studies of marburg-
+virus VP24 have implicated it to be involved in nucleocapsid
+assembly and interactions between nucleocapsids and budding
+sites at the plasma membrane (2). In addition, ebolavirus VP24
+has been shown to bind Karyopherin 	1 and to block STAT1
+nuclear accumulation, thus implicating VP24 as a virulence
+determinant that allows ebolavirus to evade antiviral effects of
+IFNs (41). Consistent with the idea that VP24 may be a viru-
+lence determinant, both mouse- and guinea pig-adapted ebo-
+laviruses, each of which is capable of 100% lethality in its
+respective animal model, have amino changes that map to
+VP24 (7, 51).
+DISCUSSION
+In this report we describe the laboratory conﬁrmation of the
+ﬁrst known marburgvirus outbreak in West Africa, along with
+an extensive comparative genomic analysis of marburgviruses.
+Virus associated with previous Marburg HF outbreaks had all
+originated in East Africa, and up to 21% virus genetic diversity
+had been found based on analysis of partial genome sequences.
+Consequently, the discovery of Marburg HF in Angola was a
+surprise, as was the ﬁnding that the Angolan marburgvirus was
+not more distinct, differing from the main group of East Afri-
+can marburgviruses by only 7%. Presumably the absence of a
+greater genetic difference reﬂects virus natural host reservoir
+similarities between the East and West African locations.
+However, due to the resource-poor nature of the affected area,
+an index case was never identiﬁed, and thus the importation of
+the virus from East Africa, while unlikely, cannot be ruled out.
+By the same token, the large virus genetic difference seen
+between the Ravn/09DRC lineage and the other marburgvi-
+ruses may represent reservoir host differences, such that vi-
+ruses within this lineage may be associated with a different host
+species or subspecies than the other marburgviruses. Interest-
+ingly, earlier ecological niche modeling approaches had pre-
+dicted that parts of northern and eastern Angola were within
+the range for potential ﬁlovirus reservoirs (39, 40).
+The natural reservoir for marburgvirus remains unknown, but
+marburgvirus emergence in Angola will likely extend the scope of
+the reservoir search beyond East Africa. As recently reported (5),
+the marburgvirus outbreak in Durba, DRC, was closely associated
+with illegal mining activity. Epidemiological data linked over 70%
+of the cases with mines or caves, suggesting that the natural
+reservoir could well be associated with such environments. With
+the Angola outbreak, difﬁculties in surveillance and contact trac-
+ing, combined with the delay in the identiﬁcation of the outbreak,
+led to poor epidemiological linkage of marburgvirus cases and
+ultimately to a lack of success in identifying a point source or
+mounting any ecological study. Filovirus outbreaks in general are
+relatively rare events. A recent report has suggested that bat
+species with rather wide geographic distributions may be a poten-
+tial reservoir for ebolavirus (24). If the natural reservoir of mar-
+burgvirus is similar to that of ebolavirus, the emergence of mar-
+burgvirus in western Africa should not be surprising, as the sites
+of multiple large ebolavirus outbreaks are less than 500 miles
+away, including areas which have experienced almost yearly ac-
+tivity over the last decade (25, 26).
+The initial diagnosis was based on 9 of 12 clinical specimens
+FIG. 7—Continued.
+VOL. 80, 2006
+MARBURGVIRUS GENOMICS AND HF OUTBREAK IN ANGOLA
+6513
+testing positive by virus isolation, antigen, and/or PCR-based
+methods, including a newly designed Q-RT-PCR assay de-
+signed to detect the VP40 genome region of all known strains
+of marburgvirus. This Q-RT-PCR assay outperformed all
+other assays designed to detect acute marburgvirus infection,
+including the “gold standard” virus isolation assay. The assay
+was also sufﬁciently robust to allow deployment into a ﬁeld
+setting in Angola. The extensive virus genomic analysis pre-
+sented here also conﬁrms that the VP40 gene target was an
+excellent choice for a broadly reactive marburgvirus detection
+assay, as it is the most conserved virus gene. These features
+suggest this should be a highly useful assay for detection of
+potential naturally occurring or deliberate Marburg HF out-
+breaks in the future.
+Following the initial diagnosis, we determined the full-
+length genome sequence directly from clinical material from 11
+patients representing the temporal and geographic distribution
+of the outbreak. Our purpose was to fully characterize the level
+of sequence variation generated during the course of a large
+marburgvirus outbreak with a high case fatality rate and to use
+this information to determine whether multiple marburgvirus
+introductions into the human population had occurred. To
+generate a context with which to compare the Angola mar-
+burgvirus sequence data, we determined the complete genome
+sequence of the Ravn marburgvirus, ﬁrst isolated in 1987 in
+Kenya, as well as three additional, uncharacterized marburg-
+viruses from Durba, DRC, the location of the largest outbreak
+on record prior to the one in Angola. Our data increased the
+number of the complete genome reference sequences from
+three to eight. Therefore, we used this expanded database to
+review the known genetic elements throughout the genome in
+an effort to assess their importance based upon the degree to
+which the features are maintained across the eight marburgvi-
+rus strains. One of the most striking features is the high degree
+to which nearly all the genetic elements previously identiﬁed
+were maintained. To some extent this was expected, but we
+predicted that perhaps the Ravn and 09DRC lineages, differing
+by greater than 21% from all other marburgviruses at the
+nucleotide level, would show more versatility as to how the
+viral proteins could potentially carry out their functions. Di-
+versity within marburgviruses is still, even with this more com-
+plete data set, considerably less than that seen with the ebola-
+viruses, to the point that the Ravn/09DRC lineage would not
+be considered a different species. In fact, the three most con-
+served genes, VP40, VP24, and L, among the major species of
+ebolavirus (Zaire, Sudan, and Reston) show 20 to 25% protein
+diversity (44). In contrast, those same genes within the mar-
+burgvirus lineages shown here have, respectively, 1.6, 4.3, and
+12.3% maximum diversity.
+Given the general error-prone nature of RNA virus poly-
+merases, the fact that there were comparatively few changes
+observed among the 11 Angolan marburgvirus isolates was
+somewhat surprising. In fact, four of the complete genome
+sequences (19,114 nucleotides in length) from specimens col-
+lected over a month and a half and representing at least two to
+three human to human transmission cycles were 100% identi-
+cal. In the absence of precise knowledge of transmission events
+from the natural reservoir, possibly bats (24, 47), this analysis
+attempts to answer the question of what level of sequence
+divergence constitutes a distinct lineage versus the degree of
+sequence variation to be expected in a large outbreak of single
+origination. To answer this question, we felt it important to
+compare the diversity seen in the Angola outbreak with that in
+the Durba, DRC, outbreak. Among the sequences from the
+Angola outbreak, the representative from the Songo munici-
+pality (specimen 0754) had 11 nucleotide differences from the
+reference isolate (0.07% variation). However, this maximum
+level of variation is 1/10 of the minimum diversity seen be-
+tween the two closest lineages within the Durba outbreak,
+05DRC and 07DRC, respectively (0.8% variation). Based on
+this comparison, we do not consider the Songo lineage to be
+indicative of a second introduction, although such a possibility
+cannot be ruled out. For the Angola marburgvirus outbreak, it
+would be interesting to measure the rate of accumulation of
+nucleotide changes over time, but unfortunately, the epidemi-
+ological links between the 11 patients could not be established
+and there is no Angola marburgvirus isolate from the pre-
+sumed beginning of the outbreak in October 2004.
+Genome plasticity and rapid evolution in response to posi-
+tive selection are general features of RNA viruses which pos-
+sess error-prone polymerases and lack proofreading mecha-
+nisms (12). Such features have been well documented in recent
+outbreaks of emergent RNA viruses, such as severe acute res-
+piratory syndrome coronavirus and human immunodeﬁciency
+virus (HIV), in which genetic differences have been shown to
+accumulate during human-to-human transmission events and,
+in some instances, within the same tissues of a single host (27,
+43). Severe acute respiratory syndrome coronavirus has re-
+cently been calculated to accumulate approximately two mu-
+tations per genome per human transmission event (50). Why,
+then, was so little variation found within this marburgvirus
+outbreak? The answer likely involves at least two related com-
+ponents, namely, (i) the time of progression within the host
+from initial infection to disease outcome and (ii) the host
+immune response to marburgvirus infection. With HIV, highly
+diverse quasispecies have been shown to develop from homo-
+geneous populations in response to the development of host
+neutralizing antibodies and cytotoxic T-lymphocyte responses
+(6). Yet, in the later stages of HIV infection towards the
+development of AIDS, the immune system is no longer able to
+exert strong selective pressure on the replicating quasispecies
+and, as a result, HIV evolution dramatically slows (11). For
+marburgvirus, like Zaire ebolavirus, disease progression is so
+rapid that most individuals die before an effective immune
+response can be mounted (1, 22, 48). For ebolavirus the me-
+dian time to death after onset of symptoms is only 8 to 9 days
+(22, 48). In addition to the rapid course of infection, ebolavirus
+actively suppresses the immune system by (i) directly antago-
+nizing the host interferon system through an uncharacterized
+mechanism involving the virus VP35 protein (4) and (ii) pref-
+erentially infecting dendritic cells and macrophages as sites of
+primary infection, thus diminishing host cell populations that
+are critical for the establishment of innate and adaptive im-
+mune responses (16, 17). These features together allow for
+explosive virus growth within the host in a manner virtually
+unchecked by the immune system. The lack of IgM and IgG
+responses shown in Table 1 is consistent with this view. The
+lack of genetic diversity within the Angola marburgvirus out-
+break is therefore not surprising and is in fact consistent with
+the absence of genetic differences seen among genome fragments
+6514
+TOWNER ET AL.
+J. VIROL.
+of viruses analyzed in previous Zaire and Sudan ebolavirus out-
+breaks (42, 48).
+A trial sampling procedure that emerged during the out-
+break was the use of oral swabs for sampling suspected Mar-
+burg VHF corpses. RNA extracted from oral swabs sometimes
+gave low CT values in the Q-RT-PCR assay (Table 2 and data
+not shown), indicating the potential for high viral loads in these
+secretions. Unfortunately, deﬁnitive interpretations of CT val-
+ues from oral swabs are difﬁcult, since the swabbing technique
+and the volumes recovered are inherently variable. In general,
+very high viral loads are seen in sera of individuals infected
+with ﬁloviruses. For instance, during human infections with
+Sudan ebolavirus, viral loads in patient serum can vary from
+105 RNA copies/ml at the time of fever onset to greater than
+1010 RNA copies/ml at the time of death (48). However, the
+timing and extent to which this range of viral load is reﬂected
+in human oral/nasal secretions are currently unknown. Of par-
+ticular concern is the use of this sampling technique as a means
+of establishing a particular etiology of a VHF outbreak when
+multiple agents must be considered and tested, many of which
+may not ever produce viral loads that can be detected by oral
+swabs. Blood-based sampling as a reliable source of virus for
+serology-, antigen-, and PCR-based detection assays is well
+documented and should remain the method of choice for sam-
+pling suspected VHF patients.
+ACKNOWLEDGMENTS
+The management of the outbreak was greatly assisted by the Min-
+istry of Health, Republic of Angola; the World Health Organization;
+and the International Response Team. We thank the Instituto Nacio-
+nal de Sau
+´de Publica and Amilcar Tanuri of the CDC Global Aids
+Program for their excellent technical and logistical assistance with the
+CDC ﬁeld lab and their devotion to the resolution of this public health
+crisis. The efforts of Daniel Kertesz of the World Health Organization
+were critical for sending the initial sets of diagnostic specimens to
+CDC, Atlanta, Ga. We also thank the U.S. Embassy to Angola, the
+U.S. Ofﬁce of Foreign Disaster Assistance for their essential ﬁnancial
+and logistical support, and the Chevron Corporation for the loan of a
+crucial electrical generator. The CDC ﬁeld lab was well supported by
+the technical assistance of Jennifer B. Oliver, Deborah L. Cannon,
+Kimberly A. Slaughter, and Thomas L. Stevens, while the ﬁeld lab of
+the Public Health Agency of Canada was similarly supported by Lisa
+Fernando, Allen Grolla, Steven M. Jones, Jim E. Strong, and Heinz
+Feldmann. We also acknowledge Mike Frace and Brian Halloway for
+making available multiple components of the CDC Biotechnology
+Core Facility, which immensely facilitated this study.
+The ﬁndings and conclusions in this report are those of the authors
+and do not necessarily represent the views of the funding agencies.
+REFERENCES
+1. Baize, S., E. M. Leroy, M.-C. Georges-Courbot, M. Capron, J. Lansoud-
+Soukate, P. Debre, S. P. Fisher-Hoch, J. B. McCormick, and A. J. Georges.
+1999. Defective humoral responses and extensive intravascular apoptosis are
+associated with fatal outcome in ebola virus-infected patients. Nat. Med.
+5:423–426.
+2. Bamberg, S., L. Kolesnikova, P. Moller, H. D. Klenk, and S. Becker. 2005.
+VP24 of Marburg virus inﬂuences formation of infectious particles. J. Virol.
+79:13421–13433.
+3. Barik, S., E. W. Rud, D. Luk, A. K. Banerjee, and C. Y. Kang. 1990.
+Nucleotide sequence analysis of the L gene of vesicular stomatitis virus (New
+Jersey serotype): identiﬁcation of conserved domains in L proteins of non-
+segmented negative-strand RNA viruses. Virology 175:332–337.
+4. Basler, C. F., A. Mikulasova, L. Martinez-Sobrido, J. Paragas, E. Muhl-
+berger, M. Bray, H.-D. Klenk, P. Palese, and A. Garcia-Sastre. 2003. The
+Ebola virus VP35 protein inhibits activation of interferon regulatory factor 3.
+J. Virol. 77:7945–7956.
+5. Bausch, D. G., M. Borchert, T. Grein, C. Roth, R. Swanepoel, M. L. Libande,
+A. Talarmin, E. Bertherat, J.-J. Muyembe-Tamfum, B. Tugume, R.
+Colebunders, K. M. Konde
+´, P. Pirard, L. L. Olinda, G. R. Rodier, P. Campbell,
+O. Tomori, T. G. Ksiazek, and P. E. Rollin. 2003. Risk factors for Marburg
+hemorrhagic fever, Democratic Republic of the Congo. Emerg. Infect. Dis.
+9:1531–1537.
+6. Borrow, P., H. Lewicki, X. Wei, M. S. Horwitz, N. Peffer, H. Meyers, J. A.
+Nelson, J. E. Gairin, B. H. Hahn, M. B. Oldstone, and G. M. Shaw. 1997.
+Antiviral pressure exerted by HIV-1-speciﬁc cytotoxic T lymphocytes (CTLs)
+during primary infection demonstrated by rapid selection of CTL escape
+virus. Nat. Med. 3:205–211.
+7. Bray, M., K. Davis, T. Geisbert, C. Schmaljohn, and J. Huggins. 1998. A
+mouse model for evaluation of prophylaxis and therapy of Ebola hemor-
+rhagic fever. J. Infect. Dis. 178:651–661.
+8. Bukreyev, A. A., V. E. Volchkov, V. M. Blinov, S. A. Dryga, and S. V. Netesov.
+1995. The complete nucleotide sequence of the Popp (1967) strain of Mar-
+burg virus—a comparison with the Musoke (1980) strain. Arch. Virol. 140:
+1589–1600.
+9. Centers for Disease Control and Prevention. 2005. Outbreak of Marburg
+virus hemorrhagic fever—Angola, October 1, 2004-March 29, 2005. Morb.
+Mortal. Wkly. Rep. 54:308–309.
+10. Centers for Disease Control and Prevention and World Health Organiza-
+tion. 1998. Infection control for viral haemorrhagic fevers in the African
+health care setting, p. 1–198. Centers for Disease Control and Prevention.
+Atlanta, Ga.
+11. Delwart, E. L., H. Pan, H. W. Sheppard, D. Wolpert, A. U. Neumann, B.
+Korber, and J. I. Mullins. 1997. Slower evolution of human immunodeﬁ-
+ciency virus type 1 quasispecies during progression to AIDS. J. Virol. 71:
+7498–7508.
+12. Domingo, E., and J. J. Holland. 1997. RNA virus mutations and ﬁtness for
+survival. Annu. Rev. Microbiol. 51:151–178.
+13. Duprex, W. P., F. M. Collins, and B. K. Rima. 2002. Modulating the function
+of the measles virus RNA-dependent RNA polymerase by insertion of green
+ﬂuorescent protein into the open reading frame. J. Virol. 76:7322–7328.
+14. Feldmann, H., and M. P. Kiley. 1999. Classiﬁcation, structure, and replica-
+tion of ﬁloviruses. Curr. Top. Microbiol. Immunol. 235:1–21.
+15. Feldmann, H., E. Mu
+¨hlberger, A. Randolf, C. Will, M. P. Kiley, A. Sanchez,
+and H. D. Klenk. 1992. Marburg virus, a ﬁlovirus: messenger RNAs, gene
+order, and regulatory elements of the replication cycle. Virus Res. 24:1–19.
+16. Geisbert, T. W., L. E. Hensley, T. R. Gibb, K. E. Steele, N. K. Jaax, and P. B.
+Jahrling. 2000. Apoptosis induced in vitro and in vivo during infection by
+Ebola and Marburg viruses. Lab. Investig. 80:171–186.
+17. Geisbert, T. W., L. E. Hensley, T. Larsen, H. A. Young, D. S. Reed, J. B.
+Geisbert, D. P. Scott, E. Kagan, P. B. Jahrling, and K. J. Davis. 2003.
+Pathogenesis of Ebola hemorrhagic fever in cynomolgus macaques: evidence
+that dendritic cells are early and sustained targets of infection. Am. J. Pathol.
+163:2347–2370.
+18. Hartlieb, B., J. Modrof, E. Muhlberger, H. D. Klenk, and S. Becker. 2003.
+Oligomerization of Ebola virus VP30 is essential for viral transcription and
+can be inhibited by a synthetic peptide. J. Biol. Chem. 278:41830–41836.
+19. Hartman, A. L., J. S. Towner, and S. T. Nichol. 2004. A C-terminal basic
+amino acid motif of Zaire ebolavirus VP35 is essential for type I interferon
+antagonism and displays high identity with the RNA-binding domain of
+another interferon antagonist, the NS1 protein of inﬂuenza A virus. Virology
+328:177–184.
+20. Johnson, E. D., B. K. Johnson, D. Silverstein, P. Tukei, T. W. Geisbert, A. N.
+Sanchez, and P. B. Jahrling. 1996. Characterization of a new Marburg virus
+isolated from a 1987 fatal case in Kenya. Arch. Virol. 11:101–114.
+21. Kamer, G., and P. Argos. 1984. Primary structural comparison of RNA-
+dependent polymerases from plant, animal and bacterial viruses. Nucleic
+Acids Res. 12:7269–7282.
+22. Ksiazek, T. G., P. E. Rollin, A. J. Williams, D. S. Bressler, M. L. Martin, R.
+Swanepoel, F. J. Burt, P. A. Leman, A. K. Rowe, R. Mukunu, A. Sanchez, and
+C. J. Peters. 1999. Clinical virology of Ebola hemorrhagic fever (EHF): virus,
+virus antigen, IgG and IgM antibody ﬁndings among EHF patients in Kikwit,
+1995. J. Infect. Dis. 179(Suppl. 1):S177–S187.
+23. Ksiazek, T. G., C. P. West, P. E. Rollin, P. B. Jahrling, and C. J. Peters. 1999.
+ELISA for the detection of antibodies to Ebola viruses. J. Infect. Dis.
+179(Suppl. 1):S191–S198.
+24. Leroy, E. M., B. Kumulungui, X. Pourrut, P. Rouquet, A. Hassanin, P. Yaba,
+A. Delicat, J. T. Paweska, J. P. Gonzalez, and R. Swanepoel. 2005. Fruit bats
+as reservoirs of Ebola virus. Nature 438:575–576.
+25. Leroy, E. M., S. Baize, E. Mavoungou, and C. Apetrei. 2002. Sequence
+analysis of the GP, NP, VP40 and VP24 genes of Ebola virus isolated from
+deceased, surviving and asymptomatically infected individuals during the
+1996 outbreak in Gabon: comparative studies and phylogenetic character-
+ization. J. Gen. Virol. 83:67–73.
+26. Leroy, E. M., P. Rouquet, P. Formenty, S. Souquiere, A. Kilbourne, J.-M.
+Froment, M. Bermejo, S. Smit, W. Karesh, R. Swanepoel, S. R. Zaki, and
+P. E. Rollin. 2004. Multiple Ebola virus transmission events and rapid de-
+cline of Central African wildlife. Science 303:387–390.
+27. Liu, J., S. L. Lim, Y. Ruan, A. E. Ling, L. F. Ng, C. Drosten, E. T. Liu, L. W.
+Stanton, and M. L. Hibberd. 2005. SARS transmission pattern in Singapore
+reassessed by viral sequence variation analysis. PLoS Med. 2:e43.
+VOL. 80, 2006
+MARBURGVIRUS GENOMICS AND HF OUTBREAK IN ANGOLA
+6515
+28. Loetfering, B., E. Muehlberger, T. Tamura, H.-D. Klenk, and S. Becker.
+1999. The nucleoprotein of Marburg virus is target for multiple cellular
+kinases. Virology 255:50–62.
+29. Martini, G. A. 1971. Clinical syndrome, p. 1–9. In G. A. Martini and R.
+Siegert (ed.), Marburg virus disease. Springer-Verlag, New York, N.Y.
+30. Martini, G. A., and R. Siegert. 1971. Preface, p. v. In G. A. Martini and R.
+Siegert (ed.), Marburg virus disease. Springer-Verlag, New York, N.Y.
+31. McIlhatton, M. A., M. D. Curran, and B. K. Rima. 1997. Nucleotide se-
+quence analysis of the large (L) genes of phocine distemper virus and canine
+distemper virus (corrected sequence). J. Gen. Virol. 78:571–576.
+32. Ministry of Health, Republic of Angola. 2005. Declaration of termination of
+Marburg viral hemorrhagic fever in Angola. Ministry of Health, Luanda,
+Angola.
+33. Modrof, J., S. Becker, and E. Muhlberger. 2003. Ebola virus transcription
+activator VP30 is a zinc-binding protein. J. Virol. 77:3334–3338.
+34. Modrof, J., C. Moritz, L. Kolesnikova, T. Konakova, B. Hartlieb, A. Randolf,
+E. Muhlberger, and S. Becker. 2001. Phosphorylation of Marburg virus vp30
+at serines 40 and 42 is critical for its interaction with NP inclusions. Virology
+287:171–182.
+35. Moller, P., N. Pariente, H. D. Klenk, and S. Becker. 2005. Homo-oligomer-
+ization of marburgvirus VP35 is essential for its function in replication and
+transcription. J. Virol. 79:14876–14886.
+36. Muhlberger, E., A. Sanchez, A. Randolf, C. Will, M. P. Kiley, H. D. Klenk,
+and H. Feldmann. 1992. The nucleotide sequence of the L gene of Marburg
+virus, a ﬁlovirus: homologies with paramyxoviruses and rhabdoviruses. Vi-
+rology 187:534–547.
+37. Nichol, S. T., and R. Swanepoel. Personal communication.
+38. Peters, C. J., and A. S. Khan. 1999. Filovirus diseases. Curr. Top. Microbiol.
+Immunol. 235:85–95.
+39. Peterson, A. T., J. T. Bauer, and J. N. Mills. 2004. Ecologic and geographic
+distribution of ﬁlovirus disease. Emerg. Infect. Dis. 10:40–47.
+40. Peterson, A. T., D. S. Carroll, J. N. Mills, and K. M. Johnson. 2004. Potential
+mammalian ﬁlovirus reservoirs. Emerg. Infect. Dis. 10:2073–2081.
+41. Reid, S. P., L. W. Leung, A. L. Hartman, O. Martinez, M. L. Shaw, C.
+Carbonnelle, V. E. Volchkov, S. T. Nichol, and C. F. Basler. 2006. Ebola virus
+VP24 binds karyopherin 	1 and blocks STAT1 nuclear accumulation. J. Vi-
+rol. 80:5156–5167.
+42. Rodriguez, L., A. De Roo, Y. Guimard, S. Trappier, A. Sanchez, D. Bressler,
+A. J. Williams, T. G. Ksiazek, C. J. Peters, and S. T. Nichol. 1999. Persistence
+and genetic stability of Ebola virus during the outbreak in Kikwit, Zaire 1995.
+J. Infect. Dis. 179(Suppl. 1):S170–S176.
+43. Ruan, Y. J., C. L. Wei, A. L. Ee, V. B. Vega, H. Thoreau, S. T. Su, J. M. Chia,
+P. Ng, K. P. Chiu, L. Lim, T. Zhang, C. K. Peng, E. O. Lin, N. M. Lee, S. L.
+Yee, L. F. Ng, R. E. Chee, L. W. Stanton, P. M. Long, and E. T. Liu. 2003.
+Comparative full-length genome sequence analysis of 14 SARS coronavirus
+isolates and common mutations associated with putative origins of infection.
+Lancet 361:1779–1785.
+44. Sanchez, A., and P. E. Rollin. 2005. Complete genome sequence of an Ebola
+virus (Sudan species) responsible for a 2000 outbreak of human disease in
+Uganda. Virus Res. 113:16–25.
+45. Sanchez, A., S. G. Trappier, U. Stro
+¨her, S. T. Nichol, M. D. Bowen, and H.
+Feldmann. 1998. Variation in the glycoprotein and VP35 genes of Marburg
+virus strains. Virology 240:138–146.
+46. Sanger, C., E. Muhlberger, B. Lotfering, H.-D. Klenk, and S. Becker. 2002.
+The Marburg virus surface protein GP is phosphorylated at its ectodomain.
+Virology 295:20–29.
+47. Swanepoel, R., P. A. Leman, F. J. Burt, N. A. Zachariades, L. E. O. Braack,
+T. G. Ksiazek, P. E. Rollin, S. R. Zaki, and C. J. Peters. 1996. Experimental
+inoculation of plants and animals with Ebola virus. Emerg. Infect. Dis.
+2:321–325.
+48. Towner, J. S., P. E. Rollin, D. G. Bausch, A. Sanchez, S. M. Crary, M.
+Vincent, W. F. Lee, C. F. Spiropoulou, T. G. Ksiazek, M. Lukwiya, F.
+Kaducu, R. Downing, and S. T. Nichol. 2004. Rapid diagnosis of Ebola
+hemorrhagic fever by reverse transcription-PCR in an outbreak setting and
+assessment of patient viral load as a predictor of outcome. J. Virol. 78:4330–
+4341.
+49. Towner, J. S., T. K. Sealy, and S. T. Nichol. 2006. Unpublished data.
+50. Vega, V. B., Y. Ruan, J. Liu, W. H. Lee, C. L. Wei, S. Y. Se-Thoe, K. F. Tang,
+T. Zhang, P. R. Kolatkar, E. E. Ooi, A. E. Ling, L. W. Stanton, P. M. Long,
+and E. T. Liu. 2004. Mutational dynamics of the SARS coronavirus in cell
+culture and human populations isolated in 2003. BMC Infect. Dis. 4:32.
+51. Volchkov, V. E., A. A. Chepurnov, V. A. Volchkova, V. A. Ternovoj, and H. D.
+Klenk. 2000. Molecular characterization of guinea pig-adapted variants of
+Ebola virus. Virology 277:147–155.
+52. Volchkov, V. E., V. M. Blinov, and S. V. Netesov. 1992. The envelope glyco-
+protein of Ebola virus contains an immunosuppressive-like domain similar to
+oncogenic retroviruses. FEBS Lett. 305:181–184.
+53. Volchkov, V. E., V. A. Volchkova, A. Chepurnov, V. M. Blinov, O. Dolnik,
+S. V. Netesov, and H. Feldmann. 1999. Characterization of the L gene and 5
+trailer regions of Ebola virus. J. Gen. Virol. 80:355–362.
+54. Volchkov, V. E., V. A. Volchkova, U. Stroeher, S. Becker, O. Dolnik, M.
+Cieplik, W. Garten, H.-D. Klenk, and H. Feldmann. 2000. Proteolytic pro-
+cessing of Marburg virus glycoprotein. Virology 268:1–6.
+55. Will, C., E. Muhlberger, D. Linder, W. Slenczka, H. D. Klenk, and H.
+Feldmann. 1993. Marburg virus gene 4 encodes the virion membrane pro-
+tein, a type I transmembrane glycoprotein. J. Virol. 67:1203–1210.
+56. World Health Organization. 1967. Outbreaks in laboratory personnel work-
+ing with Cercopithecus monkeys from East Africa—Europe. Wkly. Epide-
+miol. Rec. 42:479–480.
+57. World Health Organization. 1999. Marburg fever, Democratic Republic of
+the Congo. Wkly. Epidemiol. Rec. 74:145.
+58. World Health Organization. 2005. Marburg virus disease, Angola. Wkly.
+Epidemiol. Rec. 80:115–117.
+59. Yaddanapudi, K., G. Palacios, J. S. Towner, S. T. Nichol, C. Sariol, and W. I.
+Lipkin. Implication of a retrovirus-like glycoprotein peptide in the immu-
+nopathogenesis of Ebola and Marburg viruses. Submitted for publication.
+60. Zaki, S. R., W.-J. Shieh, P. W. Greer, C. S. Goldsmith, T. Ferebee, J.
+Katshitshi, K. Tchioko, M. A. Bwaka, R. Swanepoel, P. Calain, A. S. Khan,
+E. Lloyd, P. E. Rollin, T. G. Ksiazek, C. J. Peters, and and the EHF Study
+Group. 1999. A novel immunohistochemical assay for detection of Ebola
+virus in skin: implications for diagnosis, spread, and surveillance of Ebola
+hemorrhagic fever. J. Infect. Dis. 179(Suppl. 1):S36–S47.
+6516
+TOWNER ET AL.
+J. VIROL.
+

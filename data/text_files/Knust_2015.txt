@@ -1,0 +1,795 @@
+Multidistrict Outbreak of Marburg Virus Disease—Uganda, 2012
+Barbara Knust1, Ilana J. Schafer1, Joseph Wamala3, Luke Nyakarahuka7, Charles Okot4, 
+Trevor Shoemaker8, Kimberly Dodd1, Aridth Gibbons1, Stephen Balinandi8, Alex 
+Tumusiime8, Shelley Campbell1, Edmund Newman10, Estrella Lasry2, Hilde DeClerck11, Yap 
+Boum9, Issa Makumbi3, Henry Kyobe Bosa5,6, Anthony Mbonye3, Jane Ruth Aceng3, Stuart 
+T. Nichol1, Ute Ströher1, and Pierre E. Rollin1
+1Viral Special Pathogens Branch, Centers for Disease Control and Prevention, Atlanta, Georgia 
+2Médecins Sans Frontières, New York, New York 3Uganda Ministry of Health, Mbarara, Uganda 
+4World Health Organization, Mbarara, Uganda 5Uganda Ministry of Health, Mbarara, Uganda 
+6Uganda People Defense Force, Mbarara, Uganda 7Uganda Virus Research Institute, Mbarara, 
+Uganda 8Viral Special Pathogens Branch, Centers for Disease Control and Prevention, Entebbe, 
+Mbarara, Uganda 9EpiCentre, Mbarara, Uganda 10Microbiology Services-Research, Public Health 
+England, Porton Down, United Kingdom 11Médecins Sans Frontières, Brussels, Belgium
+Abstract
+In October 2012, a cluster of illnesses and deaths was reported in Uganda and was confirmed to be 
+an outbreak of Marburg virus disease (MVD). Patients meeting the case criteria were interviewed 
+using a standard investigation form, and blood specimens were tested for evidence of acute or 
+recent Marburg virus infection by reverse transcription–polymerase chain reaction (RT-PCR) and 
+antibody enzyme-linked immunosorbent assay. The total count of confirmed and probable MVD 
+cases was 26, of which 15 (58%) were fatal. Four of 15 laboratory-confirmed cases (27%) were 
+fatal. Case patients were located in 4 different districts in Uganda, although all chains of 
+transmission originated in Ibanda District, and the earliest case detected had an onset in July 2012. 
+No zoonotic exposures were identified. Symptoms significantly associated with being a MVD case 
+included hiccups, anorexia, fatigue, vomiting, sore throat, and difficulty swallowing. Contact with 
+a case patient and attending a funeral were also significantly associated with being a case. Average 
+RT-PCR cycle threshold values for fatal cases during the acute phase of illness were significantly 
+lower than those for nonfatal cases. Following the institution of contact tracing, active case 
+surveillance, care of patients with isolation precautions, community mobilization, and rapid 
+diagnostic testing, the outbreak was successfully contained 14 days after its initial detection.
+Keywords
+Marburg virus; filoviruses; hemorrhagic fever; zoonotic disease; outbreak response
+Correspondence: Barbara Knust, DVM, MPH, 1600 Clifton Rd NE, MS G-14, Atlanta, GA 30333 (bknust@cdc.gov). 
+Presented in part: 2013 Epidemic Intelligence Service Conference; 2013 American Society for Tropical Medicine and Hygiene, 
+Abstract #910; 2014 Filoviruses Symposium.
+Potential conflicts of interest. All authors: No reported conflicts. All authors have submitted the ICMJE Form for Disclosure of 
+Potential Conflicts of Interest. Conflicts that the editors consider relevant to the content of the manuscript have been disclosed.
+HHS Public Access
+Author manuscript
+J Infect Dis. Author manuscript; available in PMC 2017 October 20.
+Published in final edited form as:
+J Infect Dis. 2015 October 01; 212(Suppl 2): S119–S128. doi:10.1093/infdis/jiv351.
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Viruses within the family Filoviridae, genera Ebolavirus and Marburgvirus, can cause viral 
+hemorrhagic fever in humans with a high case-fatality rate (CFR; 23%–90%) [1, 2]. The 
+Marburgvirus genus contains 2 closely related viruses, which, together, will be simply 
+referred to here as Marburg virus. Outbreaks of Ebola virus disease (EVD) and Marburg 
+virus disease (MVD) begin when an initial zoonotic transmission from an infected animal to 
+a human occurs, and the transmission is then amplified through close human-to-human 
+contact. Direct and unprotected contact with blood and other body fluids from viremic 
+patients or corpses is the chief means of transmission among humans, and transmission via 
+droplets and fomites is also possible [3, 4].
+Repeated detection of Marburg virus–specific RNA and isolation of virus from bats captured 
+in the wild has demonstrated that the reservoir of currently known Marburg viruses is the 
+Egyptian fruit bat (Rousettus aegyptiacus) [5]. Previous cases and several outbreaks of MVD 
+have been linked to exposure in caves and/or mines inhabited by Egyptian fruit bats [6–9]. 
+Previous outbreaks of MVD in Uganda occurred in 2007 and 2008, with 4 cases among 
+miners entering the Kitaka mine in Ibanda District [7] and 2 isolated cases among tourists 
+entering Python Cave in Queen Elizabeth National Park [8, 9]. Primates are also susceptible 
+to viruses in the Ebolavirus and Marburgvirus genera, which cause clinical signs of EVD 
+and MVD, respectively, and transmission to humans has occurred following exposure to sick 
+or dead primates [10–13].
+Previous EVD and MVD outbreaks with high case counts (315 cases of EVD were reported 
+in the Democratic Republic of the Congo during 1995, and 425 cases of EVD were reported 
+in Uganda during 2000) [4, 14] and high CFRs (88% among individuals with MVD in 
+Angola during 2005) [15] have led the international community to develop well-described 
+procedures for rapidly investigating and extinguishing confirmed outbreaks by halting the 
+chain of human-to-human transmission [16–19]. Outbreak measures coordinated by national 
+and subnational multisectoral, multidisciplinary outbreak coordination committees seek to 
+halt the chain of virus transmission by identifying all current cases, instituting barrier 
+nursing practices in hospital facilities designed to contain patients in isolation, and closely 
+following contacts of cases, with prompt isolation and testing of patients if clinical signs 
+develop. Engagement of the community through education and social mobilization are 
+essential for the success of responses. Community members must be aware of disease 
+transmission risks and comfortable with sending patients to treatment centers and providing 
+information to the investigation teams to ensure complete ascertainment of cases and 
+identification of all contacts [4, 17].
+The presence of real-time diagnostic capacity in the field is vital to providing rapid 
+information regarding patient infection status, prognosis, and risk of virus transmission. The 
+symptoms of EVD and MVD are frequently nonspecific, with fever, fatigue, and 
+gastrointestinal signs predominating, thus making mandatory laboratory confirmation of 
+infection necessary for discerning these diseases from other, more common causes of febrile 
+illness. Detection of virus RNA (via reverse transcription– polymerase chain reaction [RT-
+PCR]) or antigen (via enzyme-linked immunosorbent assay [ELISA]) in serum or blood 
+indicates that the patient is currently viremic and can be infectious to others [20], which is 
+Knust et al.
+Page 2
+J Infect Dis. Author manuscript; available in PMC 2017 October 20.
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+important for determining whether a patient should be placed in or remain under isolation 
+conditions. Quantitative RT-PCR (qRT-PCR) also provides a means to determine the relative 
+virus load, which can inform the survival prognosis [21].Immunoglobulin M(IgM) antibody 
+(detected via ELISA) is a marker of recent infection, owing to the disappearance of IgM 2–3 
+months after infection onset, whereas immunoglobulin G (IgG) can persist for ≥
+10 years 
+[22].
+On 16 October 2012, a cluster of illnesses and deaths was reported in Kabale District, 
+western Uganda. Blood specimens were collected from 3 affected individuals, and on 18 
+October, testing at the Uganda Virus Research Institute (UVRI)/Centers for Disease Control 
+and Prevention (CDC) hemorrhagic fever laboratory confirmed Marburg virus infection in 
+these patients. The outbreak response was led by the Uganda Ministry of Health, with 
+assistance from the World Health Organization, the CDC, Médecins sans Frontières, the 
+Uganda Peoples Defense Forces, the Uganda Red Cross, and the African Field 
+Epidemiology Network. In this article, we describe findings of the outbreak investigation 
+and diagnostic testing and review the clinical symptoms of cases.
+MATERIALS AND METHODS
+The case definitions for MVD in this outbreak were as follows (Figure 1). A suspected case 
+patient had either (1) fever (axillary temperature, ≥
+37.5°C) and ≥
+3 symptoms indicative of 
+MVD, (2) any unexplained bleeding, or (3) any unexplained or sudden death. A probable 
+case patient had illness meeting the suspected case definition and a history of contact with a 
+patient who had probable or confirmed MVD. A confirmed case patient was any suspected 
+or probable case patient with laboratory-confirmed evidence of acute or previous Marburg 
+virus infection, as detected by RT-PCR, antigen-capture ELISA, or IgM/IgG ELISA. 
+Suspected and probable case patients were reclassified as “not a case” if diagnostic test 
+results for a specimen collected during the appropriate period were negative.
+A standard case investigation form was used to collect epidemiologic and clinical 
+information about each potential case patient. In the initial phases of the investigation, 
+efforts were made to identify and test all persons who were currently ill and fit the suspected 
+case patient definition in designated hospital facilities with isolation precautions. Persons 
+who had direct or indirect contact with confirmed or probable case patients while they were 
+symptomatic were systematically identified and visited daily for 21 days after their last 
+contact. If they developed symptoms during the surveillance period, the contacts were 
+hospitalized under isolation precautions and tested for acute Marburg virus infection. Once 
+the current case patients and their contacts had been identified, a retrospective investigation 
+sought to identify cases that had occurred prior to the outbreak’s detection, and surviving 
+persons were tested for previous Marburg virus infection, through IgM and IgG serological 
+analysis. Symptoms were recorded at the time of admission to the isolation ward for current 
+cases or, for retrospective cases, were summarized throughout the illness.
+Blood and serum specimens from acutely ill patients were tested in the field by RT-PCR as 
+follows. Total RNA was extracted with the BeadRetriever system (Invitrogen), using the 
+MagMax Viral RNA isolation kit (Applied Biosystem). Marburg virus–specific qRT-PCR 
+Knust et al.
+Page 3
+J Infect Dis. Author manuscript; available in PMC 2017 October 20.
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+assays targeting the VP40 gene and polymerase gene were performed on each specimen. 
+Blood and serum specimens from patients with acute illness and patients who had recovered 
+were also tested for anti–Marburg virus IgM and IgG by ELISA, using previously described 
+methods [23].
+All confirmed case patients who were acutely ill (ie, those with positive qRT-PCR results) 
+were hospitalized in treatment centers, using barrier nursing techniques. Confirmed case 
+patients remained under isolation until Marburg virus RNA was not detected in their blood, 
+as measured by qRT-PCR. Suspected case patients who had clinically improved were 
+allowed to be discharged from the treatment center if they had negative blood qRT-PCR 
+results on day 3 or later after the onset of symptoms, and they were classified as “not a 
+case.” Case patients who died were buried by a trained team, using appropriate infection 
+control measures.
+Case investigation forms were tabulated in a computerized spreadsheet (Excel), and 
+summary statistics were calculated using statistical analysis software (Epi Info 7; SAS). A 
+bivariate χ2 comparison of symptoms was performed by classifying confirmed and probable 
+case patients as MVD case patients and by classifying patients with negative test results and 
+complete information as controls. P values were corrected for 32 simultaneous comparisons, 
+using the technique of Benjamini and Hochberg [24], to balance power and type 1 error. 
+Statistical significance was accepted at a P value of ≤
+.01. Similarly, recorded symptoms of 
+confirmed and probable cases were compared by the Fisher exact test and evaluated for 
+association with fatal outcome. Maps of affected regions were created using geospatial 
+information system software (ESRI ArcMap 10.0).
+RESULTS
+In total, 15 laboratory-confirmed cases of MVD were identified, with 9 detected during 
+acute illness (RT-PCR results were positive) and 6 detected during convalescence (RT-PCR 
+results were negative, and IgM/IgG ELISA results were positive). Four confirmed cases 
+were fatal. Eleven probable cases were identified, all of which were fatal cases. The total 
+count of confirmed and probable MVD cases was 26, of which 15 (58%) were fatal. Ages 
+ranged from newborn to 64 years; 16 case patients (62%) were female.
+Confirmed case patients resided in 3 districts of Uganda (Kabale, Ibanda, and Kamwenge; 
+Figure 2) and were hospitalized in treatment centers in 3 districts (Kabale, Ibanda, and 
+Mbarara) and Kampala. To facilitate rapid specimen testing, a field laboratory was set up in 
+Kabale to perform same-day qRT-PCR testing. Additional laboratory support was provided 
+by the viral hemorrhagic fever laboratory in UVRI (Entebbe), which performed ELISAs to 
+determine Marburg virus–specific IgM and IgG titers and qRT-PCR testing on specimens 
+from outside Kabale and Ibanda districts. During the outbreak investigation, 198 specimens 
+from 173 individuals were tested. In addition to the 3 affected districts, diagnostic specimens 
+from suspected case patients were submitted from 17 districts across Uganda.
+Serial blood specimens were collected from 3 MVD case patients who survived infection 
+(Figure 3). Among the specimens available for testing, qRT-PCR threshold cycle (CT) values 
+Knust et al.
+Page 4
+J Infect Dis. Author manuscript; available in PMC 2017 October 20.
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+were lowest (signifying the highest quantity of virus load) at the earliest point of sampling 
+(6–7 days after symptom onset) and declined to undetectable levels 16–22 days after 
+symptom onset. IgM antibody was first detected 7–16 days after onset of symptoms, while 
+IgG was first detected 13–23 days after onset. CT values from blood specimens collected <8 
+days after symptom onset from 4 surviving case patients were compared with values for 5 
+case patients who died (Figure 4). Average CT values from case patients who died were 
+significantly lower than those for surviving case patients (P = .02 by the t test, assuming 
+equal variances).
+The outbreak had 2 separate chains of transmission at the time of the investigation, in 
+October 2012 (Figure 5), which could not be directly linked to each other epidemiologically. 
+However, both chains occurred in Ibanda District contemporaneously, and molecular 
+analysis of isolates from each chain yielded nearly identical virus sequences [25], indicating 
+that the 2 chains were likely connected and originated from the same unidentified spillover 
+event. The earliest confirmed case patient (detected retrospectively via IgG ELISA) had an 
+estimated onset of illness in mid-July 2012, nearly 3 months before the outbreak was 
+detected, in mid-October 2012. Subsequent infections in family members occurred in Ibanda 
+and Kamwenge districts during August–October 2012, affecting 6 confirmed and 6 probable 
+case patients. The last case patient in this first detected chain of transmission was admitted 
+to a treatment center on 31 October 2012. The first case patient in the second chain of 
+transmission was a probable case patient who worked in Ibanda District and traveled to 
+Kabale District to be cared for by family when he became ill in mid-September 2012; the 
+infection spread to family members, close associates (a religious leader and her child), and 1 
+healthcare worker located in Kabale District, affecting 9 confirmed and 5 probable case 
+patients. The last case patient in this second chain of transmission was admitted to the 
+Kabale treatment center on 29 October 2012. No case patients in either transmission chain 
+reported activities that placed them in contact with bats or other potential wildlife sources.
+Symptoms recorded for all 26 confirmed and probable case patients and 125 controls are 
+reported in Table 1. Reported symptoms for confirmed and probable case patients were also 
+analyzed separately, and no significant differences were found in the proportions of 
+symptoms reported between these 2 groups. Nearly all confirmed and probable cases (96%) 
+had fever; anorexia, fatigue, headache, and vomiting were present in >75%. Half of 
+confirmed and probable case patients (13 [50%]) had hemorrhagic symptoms, which 
+included vaginal bleeding (4 female case patients [29%]), epistaxis (5 case patients [21%]), 
+bleeding gums (4 case patients [17%]), hematemesis (4 case patients [17%]), petechiae (2 
+case patients [11%]), hemoptysis (2 case patients [8%]), and hemorrhage indicative of 
+disseminated intravascular coagulation (1 case patient [6%]). Conjunctival hemorrhage or 
+“red eyes” were noted in 3 case patients (13%). Hiccups and anorexia had the strongest 
+associations with being a confirmed or probable case patient (OR, 22.9 and 19.3, 
+respectively; P < .0001 for both), and fatigue, vomiting, sore throat, and difficulty 
+swallowing were also significantly associated with being a confirmed or probable case 
+patient. Attending a funeral prior to illness onset (OR, 5.3; P = .0006) and having direct 
+contact with another confirmed, probable, or suspected case patient (OR, 33.4; P < .0001) 
+were risk factors significantly associated with being a confirmed or probable case patient 
+(Table 2). Fatal outcome was compared between confirmed case patients (n = 9) and 
+Knust et al.
+Page 5
+J Infect Dis. Author manuscript; available in PMC 2017 October 20.
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+controls, and this was significantly associated with being a case patient (OR, 6.9; P = .003). 
+No symptoms or risk factors were significantly associated with a fatal outcome among 
+confirmed and probable case patients (data not shown).
+Nine confirmed case patients were admitted to treatment centers, of whom 3 (33%) died, 
+compared with deaths among 12 of 15 confirmed and probable case patients (71%) who 
+were not cared for in an isolation facility (P = .1). Among confirmed case patients who died, 
+death occurred a mean of 9 days after onset of symptoms, while death among probable case 
+patients occurred a mean of 6.5 days after onset. For confirmed and probable case patients, 
+hospitalization occurred a mean of 4 days after symptom onset. The 6 surviving confirmed 
+case patients were discharged from isolation a mean of 22 days (range, 16–30 days) after 
+onset of symptoms and spent a mean of 14.3 days (range, 4–22 days) in isolation. Many of 
+the controls suspected of having MVD were hospitalized while laboratory testing was 
+performed, and of 11 with information on isolation duration available, discharge from 
+isolation occurred a mean of 4 days after admission (range, 0–12 days). For confirmed case 
+patients, the distribution of days after symptom onset that a patient was reported or detected 
+was bimodal: acutely detected cases were identified 0–6 days after onset, while convalescent 
+cases detected during the retrospective case investigation were identified 29–105 days after 
+onset.
+Once the outbreak was detected, 327 persons were listed as having had contact with 
+confirmed or probable case patients and were followed for 21 days after their last date of 
+contact. Only 1 direct contact that was under follow-up and the child of this case patient 
+developed MVD. All other case patients were discovered prior to the commencement of 
+contact tracing.
+DISCUSSION
+The outbreak described in this article represents the first epidemic of MVD with multiple 
+generations of human-to-human transmission to occur in Uganda, affecting 26 patients in 3 
+districts. This most likely resulted from low-level and undetected community transmission 
+from the outbreak’s beginning (late July or earlier) to early October 2012. Similar to the 
+MVD outbreak in Uige, Angola [26], full-length genome sequences of virus from 4 case 
+patients (2 from each transmission chain) in the 2012 Uganda MVD outbreak were nearly 
+identical (>99%), strongly suggesting a single spillover event from wildlife, with subsequent 
+human-to-human transmission [25]. This is in contrast with the occurrence of MVD in 
+Watsa, Democratic Republic of the Congo, where 9 different virus lineages were found in 
+case patients, demonstrating a rather different picture of multiple spillover events beginning 
+with gold miners who were exposed to bats in the Goroumbwa mine [6].
+The zoonotic spillover event initiating the 2012 Uganda MVD outbreak was not identified, 
+although the earliest confirmed case originated in Ibanda District, the same district housing 
+the Kitaka mine, where the 2007 MVD epidemic occurred and where a large R. aegyptiacus 
+population infected with Marburg virus was found [7]. The mine was closed following the 
+2007 outbreak but was reopened during 2009, and full mining activity had resumed in 2010. 
+No links were found between any case in the 2012 outbreak and mining activity or cave 
+Knust et al.
+Page 6
+J Infect Dis. Author manuscript; available in PMC 2017 October 20.
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+exposures, but the close proximity of the mine and its recent reopening is a striking 
+coincidence.
+Among 3 confirmed case patients who survived, we found that the highest viremia level, 
+based on the CT value determined by qRT-PCR, occurred approximately 5–7 days after onset 
+of symptoms and persisted to approximately 16–22 days after onset in survivors. IgM titers 
+were detectable 7–16 days after symptom onset, while IgG became detectable 13–16 days 
+after onset. While the number of case patients with serial blood specimens was quite limited 
+and specimens were collected at variable times, the timing of viral RNA detection in blood 
+and anti–Marburg IgM and IgG detection roughly corresponded to findings in previous case 
+reports of Ebola virus and Sudan virus infection [21, 22].Viral load in acute blood specimens 
+(ie, specimens obtained <8 days after symptom onset), as measured by the qRT-PCR CT 
+value, was also significantly associated with outcome, with case patients who died having 
+significantly lower CT values than surviving case patients, in agreement with findings for 
+patients infected with Sudan virus [21]. In this analysis, there were no associations between 
+the presence of particular clinical symptoms and fatal outcome, which may be related to the 
+small number of cases available for comparison. In the Watsa outbreak, hiccups, 
+conjunctival injection, and hemorrhagic symptoms were all associated with a fatal outcome 
+[6].
+The CFR for the outbreak described in this report was calculated in 2 different ways. If all 
+26 confirmed and probable cases were included, the CFR was 58%. However, inclusion of 
+probable and retrospectively confirmed case patients in this calculation had considerable 
+potential for bias, owing to the incomplete nature of retrospective investigations—fatal cases 
+occurring prior to the outbreak’s detection were not able to be confirmed, and not all cases 
+were able to be found. Therefore, we also calculated the CFR among confirmed case patients 
+in whom MVD was confirmed only after the detection of the outbreak (ie, only case patients 
+[4 of 9] with acute clinic disease), and we arrived at a CFR of 44%. However, this second 
+estimate of CFR also has potential for bias because nearly all of these patients (8 of 9) 
+received prompt care in isolation facilities, which may improve a patient’s chances for 
+survival. However, the ascertainment of case patients identified during acute infection was 
+complete, in that we were able to follow the clinical course of these patients from the time of 
+diagnosis to discharge or death.
+Regardless of which CFR calculation method is used, the case patients in the 2012 Uganda 
+MVD outbreak had a much lower CFR, and there were fewer cases than in the 2 previous 
+large-scale MVD outbreaks occurring in Africa—154 persons (CFR, 83%) during the 1998–
+2000 outbreak in Durba-Watsa, Democratic Republic of Congo [6], and 252 persons (CFR, 
+90%) during the 2005 outbreak in Uige, Angola (both calculated by including confirmed and 
+probable case patients). The reasons for the large differences in CFR are not clear. Among 
+extrinsic factors that could explain patient outcomes, both the Uige and Watsa outbreaks 
+occurred in areas with histories of civil unrest, which led to a reduction in the overall health 
+of the population and fewer resources for patient care at the affected hospitals. Access to 
+adequate health care could potentially contribute to worse survival rates. However, it is also 
+possible that recalculating the CFRs for these 2 outbreaks and including only confirmed 
+cases with acute infection may also demonstrate a reduced CFR.
+Knust et al.
+Page 7
+J Infect Dis. Author manuscript; available in PMC 2017 October 20.
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+The relative virulence of the virus strains is another potential explanation for differences in 
+CFR. The genome sequences that were described in the 2012 MVD outbreak (Ibanda-423 
+2012 and Kabale-422 2012) were most closely related to those of strains that were found in 
+bats in Uganda and 2 previous single cases in humans (Leiden 2008, 98% homology; and 
+Musoke 1980, 94% homology) [25], so it is difficult to draw conclusions about the relative 
+virulence of these strains in humans, compared with the virulence of the less closely related 
+strains that caused the Uige outbreak (Ang 1382 2005, 93% homology) and the Durba 
+outbreak (07DRC99 1999, 92% homology).
+Although the difference was not statistically significant, it is noteworthy that the CFR of 
+case patients admitted to an isolation ward (33%) was less than half the CFR of patients who 
+were sick prior to the institution of isolation wards (71%). This could be due to the imperfect 
+nature of retrospective case finding, in which recall bias may occur: interviewees may be 
+more likely to remember the persons who became sick and died than to remember the 
+persons who became sick and recovered [27]. Furthermore, we have no way to confirm that 
+the probable cases were indeed a part of the outbreak, beyond the presence of epidemiologic 
+links to confirmed cases; some of these cases may have died from unrelated causes, although 
+the timing and exposures fit the criteria for MVD transmission. Regardless, the relatively 
+low CFR of case patients treated in facilities with isolation precautions can hopefully be 
+used to encourage the community to embrace these facilities as places for quality care of 
+patients, rather than places for the community to fear [18].
+In addition to the differing CFRs when comparing the 2012 Uganda case patients to the Uige 
+and Watsa case patients, we also found differences in symptoms reported. While anorexia 
+(92%) was nearly universally reported by 2012 Uganda confirmed and probable case 
+patients, 66% and 77% of Uige and Watsa case patients, respectively, reported anorexia [6, 
+15]. The 2012 Uganda case patients were similar to Watsa case patients with respect to the 
+proportion reporting fever (96% and 93%, respectively), vomiting (76% and 76%), and 
+hiccups (36% and 40%), whereas 85% of Uige case patients reported fever, 34% reported 
+vomiting, and 5% had hiccups. The presence of hiccups was associated with being a case 
+patient in the 2012 Uganda outbreak and was associated with fatal outcome in the Watsa 
+outbreak. The 2012 Uganda case patients, however, had greater similarity to Uige case 
+patients with respect to the proportion reporting diarrhea (44% and 46%, respectively) and 
+any kind of hemorrhage (50% and 51%), whereas 57% of Watsa case patients reported 
+diarrhea and 69% reported any hemorrhage. Melena was also more frequent in Watsa case 
+patients (55%) than in case patients from the 2012 Uganda (0%) and Uige (17%) outbreaks. 
+Limitations exist in attempting to compare frequencies of symptoms across outbreaks, 
+because the data collection instruments and times at which symptoms were assessed may 
+differ. However, the clinical picture portrayed by these 3 outbreaks shows a variety of 
+nonspecific symptoms that can be present in case patients, further underlining the need for a 
+broad case definition and laboratory confirmation of MVD cases during ongoing outbreaks.
+Risk factors associated with being a confirmed or probable case patient were activities that 
+put a person in close contact with other sick persons, such as participating in a funeral or 
+having direct contact with another confirmed, probable, or suspected case patient prior to 
+illness onset. This association was also found with Uige case patients [15] and is supported 
+Knust et al.
+Page 8
+J Infect Dis. Author manuscript; available in PMC 2017 October 20.
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+by molecular evidence that, in this outbreak, a single strain of Marburg virus was transmitted 
+through several generations of case patients. The importance of halting chains of 
+transmission through institution of isolation precautions for all currently ill case patients and 
+through active surveillance of all potentially exposed case contacts cannot be overstated. 
+Following the institution of these public health measures, the outbreak was successfully and 
+rapidly contained only 14 days after its initial detection.
+In addition to MVD, Uganda has experience with several previous EVD outbreaks and cases 
+[2, 14, 28] and has a well-developed infrastructure for responding to these outbreaks quickly. 
+Scientific, logistic, and psychosocial support systems rapidly fell into place, leading to a 
+successful effort despite the challenging multidistrict nature of this outbreak response. It was 
+somewhat surprising in the retrospective investigation to find that case patients were 
+identified with dates of onset tracing back to July 2012, meaning that the outbreak had gone 
+undetected for >2 months, at a time when there was an EVD outbreak response occurring 
+<200 km to the north, in Kibaale District [29] (Shoemaker, unpublished data). Furthermore, 
+following the 2007 MVD outbreak in Ibanda, a district hospital had received specific 
+training on viral hemorrhagic fever detection, control, and reporting in an attempt to improve 
+disease detection. Clearly, identification of suspected MVD patients can be difficult, 
+especially when the initial clinical manifestation mimics other common febrile illnesses and 
+when hemorrhage and death is not universally observed.
+Since 2011, a permanent laboratory capable of safely identifying patients infected with the 
+region’s endemic hemorrhagic fever viruses (Ebola, Bundibugyo, Sudan, Marburg, Crimean- 
+Congo hemorrhagic fever, and Rift Valley fever viruses) has been functional in Uganda. This 
+is a joint effort through the UVRI and the CDC’s Viral Special Pathogens Branch, and it has 
+contributed greatly to the ability to rapidly detect and confirm viral hemorrhagic fever 
+outbreaks. During the MVD outbreak response described in this report, specimens from 
+districts all over the country were sent to the CDC/UVRI laboratory for detection of agents 
+responsible for viral hemorrhagic fever, including 2 specimens from individuals in Luwero 
+District who were confirmed as having acute infection with Sudan ebolavirus [30], thus 
+identifying the country’s third filovirus outbreak within 5 months. The 2012 Luwero 
+outbreak was very small, with only 6 cases, and may have not been detected if there were a 
+lower level of awareness of viral hemorrhagic fevers in general or if it had been more 
+difficult to pursue diagnostic testing. Alternatively, the Luwero outbreak might have 
+continued, with additional persons becoming ill and dying. Clearly, having laboratory 
+capacity present in Uganda contributed to the early detection and response and to the rapid 
+containment of these epidemics.
+In conclusion, the 2012 Marburg virus outbreak in Uganda occurred over multiple districts 
+but was traced back to Ibanda District. The origin of the outbreak could not be determined, 
+although contact with R. aegyptiacus fruit bats or other infected wildlife at least 3 months 
+prior to the outbreak’s detection was suspected. The CFR (58%) was lower than observed in 
+previous MVD outbreaks in Africa. Rapid response, including initiation of contact-tracing 
+activities, as soon as the outbreak was detected quickly brought the outbreak to a close.
+Knust et al.
+Page 9
+J Infect Dis. Author manuscript; available in PMC 2017 October 20.
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Acknowledgments
+We thank Patrick Tusiime (district health officer, Kabale District, Uganda) and Craig Manning (Viral Special 
+Pathogens Branch, Centers for Disease Control and Prevention [CDC]).
+The outbreak response was funded through emergency budgets of the CDC, the Uganda Ministry of Health, 
+Médecins sans Frontières, the World Health Organization, and other relevant responding agencies.
+References
+1. Kortepeter MG, Bausch DG, Bray M. Basic clinical and laboratory features of filoviral hemorrhagic 
+fever. J Infect Dis. 2011; 204:S810–6. [PubMed: 21987756] 
+2. MacNeil A, MacNeil E, Farnon J, et al. Proportion of deaths and clinical features in bundibugyo 
+Ebola virus infection, Uganda. Emerg Infect Dis. 2010; 16:1969–72. [PubMed: 21122234] 
+3. Dowell SF, Mukunu R, Ksiazek TG, Khan AS, Rollin PE, Peters CJ. Transmission of Ebola 
+hemorrhagic fever: a study of risk factors in family members, Kikwit, democratic Republic of the 
+Congo, 1995. J Infect Dis. 1999; 179:S87–91. [PubMed: 9988169] 
+4. Khan AS, Tshioko FK, Heymann DL, et al. The reemergence of Ebola hemorrhagic fever, 
+Democratic Republic of the Congo, 1995. Commission de Lutte contre les Epidémies à Kikwit. J 
+Infect Dis. 1999; 179(suppl 1):S76–86. [PubMed: 9988168] 
+5. Towner J, Amman B, Sealy T, et al. Isolation of genetically diverse Marburg viruses from Egyptian 
+fruit bats. PLoS Pathog. 2009; 5:e1000536. [PubMed: 19649327] 
+6. Bausch D, Nichol ST, Muyembe-Tamfum JJ, et al. Marburg hemorrhagic fever associated with 
+multiple genetic lineages of virus. N Engl J Med. 2006; 355:909–19. [PubMed: 16943403] 
+7. Adjemian J, Farnon EC, Tschioko F, et al. Outbreak of marburg hemorrhagic fever among miners in 
+Kamwenge and Ibanda Districts, Uganda, 2007. J Infect Dis. 2011; 204:S796–9. [PubMed: 
+21987753] 
+8. Timen A. Response to imported case of Marburg Hemorrhagic fever, the Netherlands. Emerg Infect 
+Dis. 2009; 15:1171–5. [PubMed: 19751577] 
+9. CDC. Imported case of Marburg hemorrhagic fever - Colorado, 2008. MMWR Morb Mortal Wkly 
+Rep. 2009; 58:1377–81. [PubMed: 20019654] 
+10. Georges A-J, Leroy EM, Renaut AA, et al. Ebola hemorrhagic fever outbreaks in Gabon, 1994–
+1997: epidemiologic and health control issues. J Infect Dis. 1999; 179:S65–75. [PubMed: 
+9988167] 
+11. Formenty P, Hatz C, Le Guenno B, et al. Human infection due to Ebola virus, subtype Côte 
+d’Ivoire: clinical and biologic presentation. J Infect Dis. 1999; 179(suppl 1):S48–53. [PubMed: 
+9988164] 
+12. Leroy EM, Rouquet P, Formenty P, et al. Multiple Ebola virus transmission events and rapid 
+decline of central African wildlife. Science. 2004; 303:387–90. [PubMed: 14726594] 
+13. Brauburger K, Hume AJ, Mühlberger E, Olejnik J. Forty-five years of marburg virus research. 
+Viruses. 2012; 4:1878–927. [PubMed: 23202446] 
+14. CDC. Outbreak of Ebola hemorrhagic fever Uganda, August 2000–January 2001. MMWR Morb 
+Mortal Wkly Rep. 2001; 50:73–7. [PubMed: 11686289] 
+15. Roddy P, Thomas SL, Jeffs B, et al. Factors associated with Marburg Hemorrhagic fever: analysis 
+of patient data from Uige, Angola. J Infect Dis. 2010; 201:1909–18. [PubMed: 20441515] 
+16. Sterk E. Filovirus Haemorrhagic Fever Guidelines. Barcelona: Medecins Sans Frontieres. 2008
+17. Roddy P, Weatherill D, Jeffs B, et al. The Medecins Sans Frontieres intervention in the Marburg 
+hemorrhagic fever epidemic, Uige, Angola, 2005. II. lessons learned in the community. J Infect 
+Dis. 2007; 196(suppl 2):S162–7. [PubMed: 17940945] 
+18. Jeffs B, Roddy P, Weatherill D, et al. The Medecins Sans Frontieres intervention in the Marburg 
+hemorrhagic fever epidemic, Uige, Angola, 2005. I. Lessons learned in the hospital. J Infect Dis. 
+2007; 196(suppl 2):S154–61. [PubMed: 17940944] 
+19. Raabe V, Borchert M. Infection control during filoviral hemorrhagic Fever outbreaks. J Glob Infect 
+Dis. 2012; 4:69–74. [PubMed: 22529631] 
+Knust et al.
+Page 10
+J Infect Dis. Author manuscript; available in PMC 2017 October 20.
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+20. Grolla A, Jones SM, Fernando L, et al. The use of a mobile laboratory unit in support of patient 
+management and epidemiological surveillance during the 2005 Marburg Outbreak in Angola. 
+PLoS Negl Trop Dis. 2011; 5:e1183. [PubMed: 21629730] 
+21. Towner JS, Rollin PE, Bausch DG, et al. Rapid diagnosis of Ebola hemorrhagic fever by reverse 
+transcription-PCR in an outbreak setting and assessment of patient viral load as a predictor of 
+outcome. J Virol. 2004; 78:4330–41. [PubMed: 15047846] 
+22. Ksiazek TG, Rollin PE, Williams AJ, et al. Clinical virology of Ebola hemorrhagic fever (EHF): 
+virus, virus antigen, and IgG and IgM antibody findings among EHF patients in Kikwit, 
+Democratic Republic of the Congo, 1995. J Infect Dis. 1999; 179(suppl 1):S177–87. [PubMed: 
+9988182] 
+23. Ksiazek TG, West CP, Rollin PE, Jahrling PB, Peters CJ. ELISA for the detection of antibodies to 
+Ebola viruses. J Infect Dis. 1999; 179:S192–8. [PubMed: 9988184] 
+24. Benjamini Y. Controlling the false discovery rate: a practical and powerful approach to multiple 
+testing. J R Stat Soc Series B Stat Methodol. 1995; 57:289–300.
+25. Albarino CG, Shoemaker T, Khristova ML, et al. Genomic analysis of filoviruses associated with 
+four viral hemorrhagic fever outbreaks in Uganda and the Democratic Republic of the Congo in 
+2012. Virology. 2013; 442:97–100. [PubMed: 23711383] 
+26. Towner JS, Khristova ML, Sealy TK, et al. Marburgvirus genomics and association with a large 
+hemorrhagic fever outbreak in Angola. J Virol. 2006; 80:6497–516. [PubMed: 16775337] 
+27. Francesconi P, Yoti Z, Declich S, et al. Ebola hemorrhagic fever transmission and risk factors of 
+contacts, Uganda. Emerg Infect Dis. 2003; 9:1430. [PubMed: 14718087] 
+28. Shoemaker T, Shoemaker A, MacNeil S, et al. Reemerging Sudan Ebola Virus Disease in Uganda, 
+2011. Emerg Infect Dis. 2012; 18:1480–3. [PubMed: 22931687] 
+29. WHO Outbreak news. Ebola haemorrhagic fever, Uganda. Wkly Epidemiol Rec. 2012; 87:339. 
+[PubMed: 22977950] 
+30. WHO Outbreak news. Ebola haemorrhagic fever, Uganda, update. Wkly Epidemiol Rec. 2012; 
+87:493. [PubMed: 23311004] 
+Knust et al.
+Page 11
+J Infect Dis. Author manuscript; available in PMC 2017 October 20.
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Figure 1. 
+Official case definitions that were used during the 2012 Marburg virus disease outbreak, as 
+approved by Uganda Ministry of Health. Abbreviations: ELISA, enzyme-linked 
+immunosorbent assay; IgG, immunoglobulin G; IgM, immunoglobulin M; MVD, Marburg 
+virus disease; RT-PCR, reverse transcription–polymerase chain reaction.
+Knust et al.
+Page 12
+J Infect Dis. Author manuscript; available in PMC 2017 October 20.
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Figure 2. 
+Map portraying the districts with MVD case-patients, districts who submitted specimens for 
+testing from suspect cases during the outbreak, hospitals who had isolation facilities, and 
+laboratories that performed diagnostic testing in support of the outbreak response. 
+Abbreviation: MVD, Marburg virus disease.
+Knust et al.
+Page 13
+J Infect Dis. Author manuscript; available in PMC 2017 October 20.
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Figure 3. 
+Reverse transcription-polymerase chain reaction cycle threshold (Ct) value (green line), 
+Immunoglobulin (Ig)G (black bar), and IgM (white bar) values from serial blood specimens 
+in three laboratory-confirmed case-patients.
+Knust et al.
+Page 14
+J Infect Dis. Author manuscript; available in PMC 2017 October 20.
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Figure 4. 
+Reverse transcription–polymerase chain reaction cycle threshold (Ct) values from the first 
+blood specimen collected (range: 4–7 days post onset) in laboratory-confirmed case-patients. 
+Circles: patients with fatal outcome (n = 4), Triangles: patients who recovered (n = 5). 
+Abbreviation: ND, not detected (ie, negative RT-PCR result).
+Knust et al.
+Page 15
+J Infect Dis. Author manuscript; available in PMC 2017 October 20.
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Figure 5. 
+A, Epidemic curve of confirmed and probable cases by district of symptom onset. Blue bars: 
+cases with onset in Ibanda district, Yellow bars: cases with onset. Kamwenge district, Green 
+bars: cases with onset in Kabale district. B, Transmission chains of confirmed and probable 
+cases by date and District of symptom onset. Pink boxes: confirmed cases, White boxes: 
+probable cases. The left boundary of the box is set at the case’s date of onset, and the right 
+boundary of the box is set at the approximate date of death or recovery. Solid arrows indicate 
+Knust et al.
+Page 16
+J Infect Dis. Author manuscript; available in PMC 2017 October 20.
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+contact between cases that suggest Marburg virus disease transmission, while dashed arrows 
+are a tentative suggestion of transmission. Black crosses indicate the case was fatal.
+Knust et al.
+Page 17
+J Infect Dis. Author manuscript; available in PMC 2017 October 20.
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Knust et al.
+Page 18
+Table 1
+Comparison of Symptoms in Case Patients With Confirmed or Probable Marburg Virus Disease (MVD) and 
+Test-Negative Controls Initially Suspected of Having MVD
+Symptom/
+Outcome
+Cases,
+%a
+Controls,
+%a
+P
+Value
+Odds Ratio
+(95% CI)
+Fever
+24 (96)
+75 (77)
+.03
+7.4 (.9, 57.4)
+Anorexia
+22 (92)
+44 (36)
+<.0001
+19.3 (4.3, 85.8)
+Fatigue
+19 (86)
+59 (50)
+.002
+6.3 (1.8, 22.6)
+Headache
+18 (86)
+79 (65)
+.06
+3.3 (.9, 11.7)
+Vomiting
+19 (76)
+52 (41)
+.002
+4.4 (1.6, 11.7)
+Abdominal pain
+14 (67)
+63 (52)
+.2
+1.8 (.7, 4.9)
+Muscle/joint pain
+11 (55)
+50 (42)
+.27
+1.7 (.7, 4.4)
+Any hemorrhagic condition
+13 (50)
+49 (40)
+.36
+1.5 (.64, 3.5)
+Deathc
+4 (44)
+13 (10)
+.003
+6.9 (1.9, 24.8)
+Diarrhea
+11 (44)
+52 (42)
+.87
+1.1 (.5, 2.5)
+Hiccups
+8 (36)
+3 (2)
+<.0001
+22.9 (5.4, 96.3)
+Sore throat
+4 (29)
+6 (5)
+.01
+7.3 (1.8, 30.1)
+Vaginal bleeding
+4 (29)
+6 (10)
+.09
+3.6 (.85, 15.1)
+Difficulty breathing
+6 (26)
+13 (11)
+.08
+3.0 (1.0, 8.9)
+Difficulty swallowing
+4 (21)
+3 (2)
+.01
+10.6 (2.2, 51.9)
+Nose bleeding
+5 (21)
+18 (15)
+.54
+1.5 (.5, 4.6)
+Gum bleeding
+4 (17)
+5 (4)
+.04
+4.9 (1.2, 19.8)
+Blood in vomit
+4 (17)
+25 (20)
+1.0
+0.8 (.25, 2.6)
+Conjunctivitis
+3 (14)
+15 (13)
+.74
+1.1 (.3, 4.4)
+Conjunctival bleeding
+3 (13)
+2 (2)
+.03
+8.9 (1.4, 56.3)
+Petechiae
+2 (11)
+1 (1)
+.05
+13.6 (1.2, 159)
+Rash
+1 (4)
+4 (3)
+.6
+1.4 (.1, 12.7)
+Conjuctival injection site bleeding
+0
+3 (2.5)
+1.0
+NA
+Melena
+0
+23 (19)
+.03
+NA
+Blood in urine
+0
+7 (6)
+.6
+NA
+Abbreviations: CI, confidence interval; NA, not applicable.
+aThere were 26 cases and 125 controls. Owing to varying response rates, statistical calculations were based on the number of responses for each 
+symptom; the number responding “yes” are reported.
+bBy χ2 analysis or the Fisher exact test. A P value of ≤
+ .01 is considered significantly significant.
+cCalculated only for case patients who were acutely ill when disease was confirmed by laboratory analysis (n = 9).
+J Infect Dis. Author manuscript; available in PMC 2017 October 20.
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Knust et al.
+Page 19
+Table 2
+Comparison of Risk Factors in Case Patients With Confirmed or Probable Marburg Virus Disease (MVD) and 
+Test-Negative Controls Initially Suspected of Having MVD
+Risk Factor
+Cases,
+%
+Controls,
+%
+P
+Valuea
+Odds Ratio
+(95% CI)
+Contact with a case
+24 (96)
+41 (42)
+<.0001
+33.4 (4.3, 256.7)
+Attending a funeral
+13 (62)
+20 (23)
+.0006
+5.3 (1.9, 14.8)
+Male sex
+10 (38)
+65 (55)
+.13
+0.5 (.3, 1.2)
+Travel before illness
+8 (36)
+22 (25)
+.30
+1.7 (.6, 4.6)
+Abbreviation: CI, confidence interval.
+aBy χ2 analysis or the Fisher exact test. A P value of ≤
+ .01 is considered significantly significant.
+J Infect Dis. Author manuscript; available in PMC 2017 October 20.
+

@@ -1,0 +1,710 @@
+S U P P L E M E N T A R T I C L E
+Filovirus Hemorrhagic Fever Outbreak Case
+Management: A Review of Current and Future
+Treatment Options
+Paul Roddy,1 Robert Colebunders,2,3 Benjamin Jeffs,1 Pedro Pablo Palma,1 Michel Van Herp,4 and Matthias Borchert5
+1Me
+´decins Sans Frontie
+`res—Spain, Barcelona, Spain; 2Institute of Tropical Medicine, and 3University of Antwerp, Antwerp, Belgium; 4Me
+´decins Sans
+Frontie
+`res—Belgium, Brussels; and 5Institute of Tropical Medicine and International Health, Charite
+´ Universita
+¨tsmedizin Berlin, Berlin, Germany
+Testing an innovative therapy for ﬁlovirus hemorrhagic fever (FHF) in an outbreak setting may be years away.
+Moreover, beyond anecdotal evidence, little is known about best practice for outbreak case management.
+Currently, Me
+´decins Sans Frontie
+`res and others provide FHF patients with basic supportive treatment.
+We describe and discuss treatment possibilities, challenges, and potential next steps for FHF outbreak case
+management. More comprehensive supportive treatment, including vital sign monitoring, intensive care
+components, and goal-directed interventions may contribute to improved clinical outcome; the feasibility and
+effectiveness of this more comprehensive supportive treatment should be assessed. Our outlined summary
+may assist future FHF outbreak case management teams to create collaborative platforms and develop relevant
+treatment protocols aimed at improving clinical outcome.
+Filovirus virions are ﬁlamentous, enveloped particles
+with a negative-sense, single-stranded RNA genome [1].
+Filoviruses are taxonomically separated into 2 genera,
+Ebolavirus and Marburgvirus, and comprise the family
+Filoviridae. Respectively, they cause Ebola hemorrhagic
+fever (EHF) and Marburg hemorrhagic fever (MHF) in
+human and nonhuman primates, and are characterized
+by person-to-person transmission and high case fatality
+[2]. To date, 34 ﬁlovirus hemorrhagic fever (FHF)
+outbreaks and laboratory-acquired infections are known
+to have occurred in humans (23 EHF and 11 MHF), all
+in or originating from sub–Saharan Africa and yielding
+approximately 2800 laboratory-conﬁrmed, suspect, or
+putative cases [3–7].
+Herein, we review treatment possibilities, challenges,
+and potential next steps for improving FHF outbreak
+case management during outbreaks. Topics include:
+(1) innovative treatment, (2) standard supportive
+treatment, (3) past and current challenges for outbreak
+case management, and (4) recommendations for im-
+proved case management. This review may assist future
+FHF outbreak case management teams to deliver im-
+proved treatment for patients.
+INNOVATIVE TREATMENT
+Efforts by researchers working in high-containment
+laboratories to address the absence of an effective, ap-
+proved, and available ﬁlovirus treatment in humans are
+ongoing. Evaluated in nonhuman primates (NHPs) and
+other animals, some postexposure prophylaxes have
+achieved promising results [8–10] and have the poten-
+tial to be innovative components of human treatment
+[8–12]. Innovative treatment can be divided into 2 cat-
+egories: (1) disease-modifying agents, and (2) inhibitors
+of viral replication [3].
+Disease-Modifying Agents
+The pathophysiology of FHF resembles sepsis and
+septic shock, with strong inﬂammatory responses and
+disseminated intravascular coagulation (DIC) [13]. This
+similarity served as the impetus for animal-model
+Potential conflicts of interest: none reported.
+Correspondence: Paul Roddy, MPH, Nou de la Rambla, 26 Barcelona 08001,
+Spain (paul.roddy@barcelona.msf.org).
+The Journal of Infectious Diseases
+2011;204:S791–S795
+ The Author 2011. Published by Oxford University Press on behalf of the Infectious
+Diseases Society of America. All rights reserved. For Permissions, please e-mail:
+journals.permissions@oup.com
+0022-1899 (print)/1537-6613 (online)/2011/204S3-0006$14.00
+DOI: 10.1093/infdis/jir297
+Review of Filovirus Treatment Options
+d JID 2011:204 (Suppl 3)
+d S791
+Downloaded from https://academic.oup.com/jid/article/204/suppl_3/S791/2192235 by Catherine Sharp user on 26 May 2024
+testing of recombinant human activated protein C (rhAPC;
+Xigris, Eli Lilly), a licensed therapy for severe sepsis in humans
+[14], which has been used with some success as postexposure
+prophylaxis for EHF in NHPs [15]. Coagulation abnormalities
+may occur earlier in the disease course than previously thought.
+Therefore,
+chemotherapeutic
+strategies
+controlling
+over-
+expression of tissue factor may also mitigate EHF in NHPs, as
+tissue factor can initiate DIC [16]. Recombinant nematode an-
+ticoagulant protein c2 (rNAPc2), a clotting inhibitor that blocks
+the action of the tissue factor-factor VIIa complex, has also been
+demonstrated to attenuate DIC and postinﬂammatory responses
+in NHPs [17].
+Inhibitors of Viral Replication
+Antisense phosphorodiamidate morpholino oligomers (PMOs)
+[9, 18–20] and short-interfering RNA (siRNA) [10, 21] mole-
+cules have been shown to interfere with ﬁlovirus replication.
+Building upon past PMO laboratory success [18–20], Warren
+et al [9] demonstrated that positively charged PMOs, when
+initiated 30–60 minutes after lethal challenge, protect .60% of
+rhesus macaques against Zaire ebolavirus (ZEBOV) infection
+and 100% of cynomolgus monkeys against Lake Victoria
+Marburgvirus (MARV) infection. Likewise, Geisbert et al [10]
+showed complete postexposure protection in rhesus macaques
+against hemorrhagic fever induced by ZEBOV by administering
+anti-ZEBOV siRNAs 30 minutes after lethal challenge and on
+6 subsequent days; these ﬁndings compare favorably with earlier
+successful postexposure prophylaxes [10, 15, 22, 23]. Positively
+charged PMOs and siRNAs, as well as the relative success of
+a recombinant vesicular stomatitis virus-based vaccine admin-
+istered to rhesus macaques 24 and 48 hours postexposure [8],
+bring the provision of effective ﬁloviral treatment to human
+patients closer. It is hoped that reﬁned targeting of speciﬁc viral
+genes and improvements in medication delivery to the host will
+improve the effectiveness of antiviral approaches to ﬁlovirus
+treatment.
+The Availability of Innovative Treatment
+Notwithstanding these experimental achievements [8–10], the
+availability of an effective and approved treatment for human
+testing in an outbreak setting may be years away. Reasons for
+this are 2-fold: (1) the development of an innovative treatment
+has been slow [8, 12, 24], and (2) researchers have yet to evaluate
+treatment success in NHPs later in the disease’s clinical course
+[8–10].
+Given the current time constraints in the NHP model
+(commencement of treatment 30 minutes [10], 30–60 minutes
+[9], or 24–48 hours postexposure [8]), the presently envisaged
+innovative treatment for humans would primarily beneﬁt those
+who know their time of exposure and seek and have access to
+immediate care, such as biosafety level 4 laboratory technicians
+and health care workers (HCWs). However, short of experi-
+encing an accidental needlestick, HCWs may not know when
+their exposure occurred and therefore may not seek early
+treatment. Furthermore, local populations in outbreak-prone
+regions of sub–Saharan Africa who are most ‘at risk’ for ﬁlovirus
+infection are typically unaware of the timing of their exposure
+and seek medical care only after experiencing severe symptoms.
+The 6 laboratory accidents since the 1967 discovery of ﬁlovirus
+constitute a diminutive percentage of all recorded infections
+(0.21%) [7, 12, 24–26] in comparison with the approximately
+2800 known ﬁlovirus infections acquired in sub–Saharan
+African outbreak settings [3–7].
+Recent achievements in postexposure prophylaxes [8–10]
+represent a major breakthrough in ﬁlovirus research. We com-
+mend the investigators’ germane questioning [8–10] of how
+long treatment can be delayed in NHPs and still have a beneﬁcial
+effect. Nonetheless, we remain far from administering an ef-
+fective, approved, and available therapy during a human FHF
+outbreak in a sub–Saharan African setting. In the meantime,
+early case identiﬁcation and contact tracing, with isolation and
+provision of supportive treatment in ﬁlovirus wards for in-
+dividuals with suspected or laboratory-conﬁrmed infections,
+remain the primary strategies for outbreak control and case
+management [2, 27–31].
+AN OVERVIEW OF STANDARD SUPPORTIVE
+TREATMENT
+Me
+´decins Sans Frontie
+`res (MSF), the relevant Ministry of Health
+(MoH), and other responding partners and organizations
+provide suspect and laboratory-conﬁrmed patients with sup-
+portive care when human ﬁlovirus outbreaks occur in their
+natural sub–Saharan African setting [28, 29, 32]. Supportive
+care, the current standard for FHF treatment, consists of oral
+medication, oral ﬂuid rehydration, nutritional supplementation,
+and psychosocial support. Oral medication includes drugs that
+alleviate FHF-related symptoms such as nausea and vomiting
+(eg, metoclopramide and promethazine), dyspepsia (eg, alu-
+minium hydroxide, cimetidine, ranitidine, and omeprazole),
+anxiety, agitation, or confusion (eg, diazepam, chlorpromazine),
+and pain (eg, paracetamol, tramadol, and morphine) when in-
+dicated. Due to the usual absence of an onsite laboratory capable
+of safely processing biological samples for alternative diagnoses,
+empiric oral artemisinin combination therapies for malaria and
+empiric oral antibiotics (amoxicillin, cotrimoxazole, ceﬁxime, or
+ciproﬂoxacin) are uniformly administered. In the sub–Saharan
+African outbreak setting, supportive care has also recently been
+expanded to include prevention and treatment of dehydration
+via intravenous (IV) ﬂuids, nasogastric delivery of nutritional
+and vitamin supplementation, and IV administration of medi-
+cation [30]. Administration routes for optimum drug delivery
+are determined clinically.
+S792
+d JID 2011:204 (Suppl 3)
+d Roddy et al
+Downloaded from https://academic.oup.com/jid/article/204/suppl_3/S791/2192235 by Catherine Sharp user on 26 May 2024
+PAST AND CURRENT CHALLENGES FOR
+OUTBREAK CASE MANAGEMENT
+Adverse Reaction to Disease Control and Case Management
+Strategies
+Filovirus outbreak response is a formidable undertaking, par-
+ticularly as locations are typically remote and fear of the disease
+is considerable among patients, communities, and outbreak
+response teams. Because of these and other inherent challenges,
+numerous errors have been made when implementing control
+and case management strategies during outbreaks [30, 33–38].
+Community resistance has resulted from dissatisfaction over the
+response teams’ poor communication with patients, families,
+and community leaders regarding response activities [33, 37,
+38], and, at times, refusal by HCWs to offer supportive treat-
+ment to infected patients for whom death was assumed to be
+certain [30]. Community members have been distressed by
+unidentiﬁable HCWs wearing personal protective equipment
+(PPE) and anguished by not being allowed to observe the area
+surrounding the ﬁlovirus ward, to visit their hospitalized rela-
+tives on the FHF ward, or to conﬁrm the deceased’s identity
+prior to interment [33, 38, 39].
+The resulting fear and anger has led some communities to
+refuse collaboration with outbreak response teams, thereby
+making case identiﬁcation, contact tracing, and case manage-
+ment difﬁcult or impossible. Events in Uganda, Gabon, Republic
+of the Congo, and Angola demonstrated that community re-
+sistance can become so severe and violent that outbreak re-
+sponse teams are prevented from accomplishing their mission
+[30, 33–38]. For example, during the 2005 Uige, Angola, MHF
+outbreak, verbal and physical aggression toward the team re-
+sulted in a temporary suspension of community-based activities
+[38], so that only a fraction of the reported cases was isolated
+and treated [30, 31]. Patient refusal of isolation and treatment
+on a ﬁlovirus ward not only defeated a crucial component of
+outbreak control [38], it impeded the establishment and
+improvement of outbreak case management [30, 31].
+During nearly every ﬁlovirus outbreak, the response team
+acknowledged errors and underwent a learning process that
+improved the effectiveness of that particular intervention.
+However, largely due to ﬁlovirus outbreaks being unpredictable
+in both timing and location within sub–Saharan Africa, the
+majority of individuals who undergo a learning process are not
+present at subsequent outbreaks. As a result, nearly every out-
+break response team has experienced a similar cycle of error and
+correction when implementing control and case management
+strategies. Outbreak response teams have continuously focused
+on improving their relations with the affected community while
+concurrently implementing measures to reduce secondary dis-
+ease transmission; less emphasis has been placed on the pro-
+vision of optimum patient care, which may, for some patients,
+improve the chance of survival [29–31; personal communication
+by ﬁlovirus ward clinicians: Benjamin Jeffs, Esther Sterk, and
+Jonas Torp].
+Administration and Expansion of Supportive Treatment
+Until recently, some ﬁlovirus clinicians were reluctant to
+provide components of supportive treatment that potentially
+exposed them to patient body ﬂuids, arguing that the risk of
+occupational infection outweighed the possible beneﬁt of
+increased chances of patient survival. For example, providers
+have been reluctant to give IV ﬂuids due to the potential danger
+of needlestick injuries. It is now recognized that the majority of
+these injuries occur while recapping a used needle rather than
+through the process of injection [2, 40], suggesting that paren-
+teral drug administration can be performed safely if clinicians
+and nurses adhere strictly to biosafety measures, which include
+staff training and supervision, safe venipuncture material, proper
+lighting, and adequate disposal of sharps [30, 41]. The provision
+of intravenous volume replenishment is a cornerstone of ef-
+fective sepsis treatment; insofar as pathophysiological processes
+in FHF mirror those of other sepsis syndromes, parenteral
+ﬂuids may improve clinical outcome for some patients.
+Filovirus clinicians’ recent willingness to expand supportive
+care reﬂects their increasing conﬁdence in establishing contact
+with patient body ﬂuids while wearing full PPE [30] (Figure 1).
+This behavioral change was also a response to anecdotal
+evidence suggesting that an expanded supportive treatment
+strategy favorably inﬂuences FHF patients’ clinical outcome [30,
+42]. Clinicians were also aware of the 3.8 times higher case
+fatality proportion observed during the 1998–2000 Durba
+and Watsa MHF (83%) outbreaks compared with the 1967
+MHF outbreaks in Germany and former Yugoslavia (22%).
+A disparity in the provision of supportive treatment was
+Figure 1.
+Filovirus ward clinicians extract a venipuncture-acquired
+blood sample for laboratory confirmation from a patient potentially
+infected with Ebola virus during the Bundibugyo, Uganda, 2007–08 Ebola
+hemorrhagic fever outbreak. When wearing full personal protective
+equipment, filovirus ward clinicians are increasingly confident to
+establish contact with patient body fluids and deliver a more expanded
+supportive treatment. Photo by Claude Mahoudeau.
+Review of Filovirus Treatment Options
+d JID 2011:204 (Suppl 3)
+d S793
+Downloaded from https://academic.oup.com/jid/article/204/suppl_3/S791/2192235 by Catherine Sharp user on 26 May 2024
+theorized to have been a contributing factor to the considerable
+difference in survival ratios [31].
+Though laudable, the recent expansion of supportive care is
+limited. To date, standard patient monitoring of vital signs
+(respiratory rate, blood pressure, and pulse), pulmonary signs
+(rales), and ﬂuid intake-output ratios are not systematically
+monitored and thus are not components of expanded sup-
+portive treatment. Furthermore, expanded supportive treatment
+lacks essential components of intensive care such as the cor-
+rection of electrolyte and metabolic derangement, goal-directed
+management of hemodynamics, oxygen supplementation, and
+immune modulating and other mitigation strategies for hyper-
+inﬂammatory responses and DIC [43]. A more comprehensive
+supportive treatment strategy, including vital sign monitoring
+and intensive care components, may contribute to improved
+clinical outcome; its feasibility and effectiveness should be
+assessed.
+Generating Evidence for Improved Case Management
+The collection and analysis of quality patient clinical data had
+low priority in the majority of past ﬁlovirus outbreaks. Little
+information has therefore been gathered about best practice for
+ﬁlovirus case management beyond anecdotal evidence [30, 31].
+Systematic collection of relevant data has also been hindered, in
+part, by safety concerns regarding transferring patient clinical
+records from inside the ﬁlovirus ward to outside. Records were
+often nonexistent, haphazardly logged, or destroyed as being
+potentially infected fomites. The standardization of data col-
+lection templates [44] and the prioritization of transferring
+clinical data from inside the ﬁlovirus ward to the outside [45]
+have, to some extent, helped to overcome these obstacles in
+recent outbreaks.
+RECOMMENDATIONS FOR IMPROVED CASE
+MANAGEMENT
+With clinical data collection now prioritized and the need for
+more comprehensive care obvious, the feasibility and effective-
+ness of a comprehensive supportive treatment strategy should be
+deﬁned, applied, and assessed. However, a study to assess
+treatment effectiveness has not been, to date, attempted in a ﬁ-
+lovirus outbreak setting.
+Detecting an association between comprehensive supportive
+treatment and clinical outcome would require the application of
+an appropriate study design to the collection and analysis of
+quality data. An appropriate study design may include a ran-
+domized, controlled trial (with respect for clinical equipoise) or
+an observational study; quality data must subsume patient
+demographics, clinical manifestations over the course of the
+illness, treatment regimen(s) administered, and clinical out-
+come. In concordance with an already suggested framework [3],
+institutions responsible for supporting ﬁlovirus outbreak case
+management, such as MSF and the World Health Organization
+(WHO), must create a collaborative platform aimed at de-
+veloping a comprehensive supportive treatment protocol ap-
+proved by institutional and outbreak-prone-country MoH
+ethical review boards. The collaborative platform should be
+functional prior to the occurrence of FHF outbreaks and be
+sufﬁciently agile and resilient to be deployed upon outbreak
+recognition. The protocol should incorporate ‘‘best available’’
+standards of care, and, if and when available for an outbreak
+setting, include innovative treatment under appropriate ethical
+and clinical supervision. Speciﬁcally, investigators (WHO, MSF,
+and others) must (1) develop a deﬁnition of a comprehensive
+supportive treatment that can be administered under ﬁeld
+conditions, (2) establish an appropriate evaluation scheme, (3)
+develop the protocol, and (4) implement the study protocol at
+a future ﬁlovirus outbreak in collaboration with the relevant
+MoH. Of note, MSF can ensure logistics, such as cold chain
+and relevant medical supplies, for the administration of an
+innovative treatment under ﬁeld conditions.
+A comprehensive and supportive treatment assessment
+initiative, coupled with the recording and analysis of quality
+epidemiological and clinical data, would contribute to the evi-
+dence base for ﬁlovirus case management. Pending the de-
+velopment of an innovative therapy, this may be the only way for
+future sub–Saharan African ﬁlovirus outbreak patients to receive
+care that may favorably inﬂuence their chance of survival.
+Acknowledgments
+We thank the anonymous reviewers for their helpful comments.
+References
+1. Feldmann H, Geisbert TW, Jahrling PB, et al. In: Filoviridae. Virus
+taxonomy, VIIIth report of the ICTV. London: Elsevier/Academic
+Press, 2004; 645–53.
+2. WHO, CDC. Infection control for viral haemorrhagic fevers in the African
+health care setting. Geneva: WHO, 1998. http://www.who.int/csr/resources/
+publications/ebola/WHO_EMC_ESR_98_2_EN/en/. Accessed 31 October
+2010.
+3. Bausch DG, Sprecher AG, Jeffs B, Boumandouki P. Treatment of
+Marburg and Ebola hemorrhagic fevers: a strategy for testing new
+drugs and vaccines under outbreak conditions. Antiviral Res 2008;
+78:150–61.
+4. WHO. Case of Marburg haemorrhagic fever imported into the Neth-
+erlands from Uganda. Geneva: WHO, 2008. http://www.who.int/csr/
+don/2008_07_10/en/index.html. Accessed 31 October 2010.
+5. WHO. Ebola haemorrhagic fever in the Democratic Republic of the
+Congo. Geneva: WHO, 2008. http://www.who.int/csr/don/2008_12
+_26a/en/index.html. Accessed 31 October 2010.
+6. CDC. Imported case of Marburg hemorrhagic fever—Colorado, 2008.
+Morbidity and Mortality Weekly Report 2009; 58:1377–81.
+7. Kuhn JH. Filoviruses: a compendium of 40 years of epidemiological,
+clinical, and laboratory studies. Wien: Springer. 2008; 411.
+8. Geisbert TW, Hensley LE, Geisbert JB, et al. Postexposure treatment of
+Marburg virus infection. Emerg Infect Dis 2010; 7:1119–22.
+9. Warren TK, Warﬁeld KL, Wells J, et al. Advanced antisense therapies
+for postexposure protection against lethal ﬁlovirus infections. Nat Med
+2010; 16:991–4.
+S794
+d JID 2011:204 (Suppl 3)
+d Roddy et al
+Downloaded from https://academic.oup.com/jid/article/204/suppl_3/S791/2192235 by Catherine Sharp user on 26 May 2024
+10. Geisbert TW, Lee ACH, Robbins M, et al. Postexposure protection of
+nonhuman primates against a lethal Ebola virus challenge with RNA
+interference: a proof-of-concept study. Lancet 2010; 375:1896–905.
+11. Bray M, Murphy FA. Filovirus research: knowledge expands to meet
+a growing threat. J Infect Dis 2007; 196(Suppl 2):S438–S443.
+12. Feldman H. Are we any closer to combating Ebola infections? Lancet
+2010; 375:1850–2.
+13. Mahanty S, Bray M. Pathogenesis of ﬁloviral haemorrhagic fevers.
+Lancet Infect Dis 2004; 4:487–98.
+14. Bernard GR, Vincent JL, Laterre PF, et al. Efﬁcacy and safety of
+recombinant human activated protein C for severe sepsis. New Engl
+J Med 2001; 344:699–709.
+15. Hensley LE, Stevens EL, Yan SB, et al. Recombinant human activated
+protein C for the postexposure treatment of Ebola hemorrhagic fever.
+J Infect Dis 2007; 196(Suppl 2):S390–S399.
+16. Geisbert TW, Young HA, Jahrling PB, et al. Mechanisms underlying
+coagulation abnormalities in Ebola hemorrhagic fever: overexpression
+of tissue factor in primate monocytes/macrophages is a key event.
+J Infect Dis 2003; 188:1618–29.
+17. Geisbert TW, Daddario-DiCaprio KM, Geisbert JB, et al. Marburg
+virus Angola infection of Rhesus macaques: pathogenesis and treat-
+ment with recombinant nematode anticoagulant protein c2. J Infect
+Dis 2007; 196:S372–S381.
+18. Warﬁeld KL, Swenson DL, Olinger GG, et al. Gene-speciﬁc counter-
+measures against Ebola virus based on antisense phosphorodiamidate
+morpholino oligomers. PLoS Pathog 2006; 2:e1.
+19. Enterlein S, Warﬁeld KL, Swenson DL, et al. VP35 knockdown inhibits
+Ebola virus ampliﬁcation and protects against lethal infection in mice.
+Antimicrob Agents Chemother 2006; 50:984–93.
+20. Swenson DL, Warﬁeld KL, Warren TK, et al. Chemical modiﬁcations of
+antisense morpholino oligomers enhance their efﬁcacy against Ebola
+virus infection. Antimicrob Agents Chemother 2009; 53:2089–99.
+21. Spurgers KB, Sharkey CM, Warﬁeld KL, Bavari S. Oligonucleotide
+antiviral therapeutics: antisense and RNA interference for highly
+pathogenic RNA viruses. Antiviral Res 2008; 78:26–36.
+22. Feldmann H, Jones SM, Daddario-DiCaprio KM, et al. Effective
+postexposure treatment of Ebola infection. PLoS Pathog 2007; 3:e2.
+23. Geisbert TW, Hensley LE, Jahrling PB, et al. Treatment of Ebola virus
+infection with a recombinant inhibitor of factor VIIa/tissue factor:
+a study in rhesus monkeys. Lancet 2003; 362:1953–8.
+24. Sanchez A, Geisbert TW, Feldmann H. Marburg and Ebola viruses. In:
+Knipe DM, Howley PM, et al., eds. Fields virology. Philadelphia:
+Wolters Kluwer/Lippincott Williams and Wilkins, 2007; 1409–48.
+25. International Society for Infectious Diseases. Ebola, lab accident
+death—Russia
+(Siberia)
+[cited
+2004
+May
+22].
+http://www.
+promedmail.org/pls/apex/f?p=2400:1202:2327768761862507::NO::F2400_
+P1202_CHECK_DISPLAY,F2400_P1202_PUB_MAIL_ID:X,25465.
+Accessed 31 October 2010.
+26. Kortepeter MG, Martin JW, Rusnak JM, et al. Managing potential lab-
+oratory exposure to Ebola virus by using a patient biocontainment care
+unit. Emerg Infect Dis 2008; 14:881–7DOI: 10.3201/eid1406.071489.
+27. Ndambi R, Akamituna P, Bonnet MJ, Tukadila AM, Muyembe-
+Tamfum JJ, Colebunders R. Epidemiologic and clinical aspects of the
+Ebola virus epidemic in Mosango, Democratic Republic of the Congo,
+1995. J Infect Dis 1999; 179(Suppl 1):S8–S10.
+28. Baert B. Ebola outbreak preparedness & management. Brussels,
+Belgium: Me
+´decins Sans Frontie
+`res Belgium, 2001; 1–124[Internal
+Me
+´decins Sans Frontie
+`res guideline available on request from corre-
+sponding author].
+29. Sterk E. Filovirus haemorrhagic fever guideline. Barcelona: Me
+´decins Sans
+Frontie
+`res Operational Center Barcelona – Athens, 2008; 1–138[Internal
+Me
+´decins Sans Frontie
+`res guideline available on request from corre-
+sponding author].
+30. Jeffs B, Roddy P, Weatherill D, et al. The Me
+´decins Sans Frontie
+`res
+intervention in the Marburg hemorrhagic fever epidemic, Uige/
+Angola, 2005. I. Lessons learned in the hospital. J Infect Dis 2007; 196
+(Suppl 2):S154–S161.
+31. Bausch DG, Feldmann H, Geisbert TW, et al. Outbreaks of ﬁlovirus
+hemorrhagic fever: time to refocus on the patient. J Infect Dis 2007;
+196(Suppl 2):S136–S141.
+32. Casillas A, Nyamathi A, Sosa A, Wilder CL, Sands H. A current review
+of Ebola virus: pathogenesis, clinical presentation, and diagnostic as-
+sessment. Biol Res Nurs 2003; 4:268–75.
+33. Hewlett BS, Amola RP. Cultural contexts of Ebola in Northern Uganda.
+Emerg Infect Dis 2003; 9:1242–8.
+34. Larkin M. Ebola outbreak in the news. Lancet Infect Dis 2003; 3:
+255.
+35. Formenty P, Libama F, Epelboin A, et al. L’e
+´pide
+´mie de ﬁe
+`vre he
+´m-
+orragique a virus Ebola en Re
+´publique du Congo, 2003: une nouvelle
+strate
+´gie? Me
+´decine Tropicale 2003; 63:291–5.
+36. WHO. Outbreak(s) of Ebola haemorrhagic fever, Congo and Gabon,
+October 2001–July 2002. Wkly Epidemiol Rec 2003; 78:223–8.
+37. Hewlett BS, Epelboin A, Hewlett BL, Formenty P. Medical anthro-
+pology and Ebola in Congo: cultural models and humanistic care. Bull
+Soc Pathol Exot 2005; 98:230–6.
+38. Roddy P, Weatherill D, Jeffs B, et al. The Me
+´decins Sans Frontie
+`res
+intervention in the Marburg hemorrhagic fever epidemic, Uige, An-
+gola, 2005. II. Lessons learned in the community. J Infect Dis 2007;
+196(Suppl 2):S162–7.
+39. Raabe V, Mutyaba I, Roddy P, et al. Infection control during ﬁloviral
+hemorrhagic fever outbreaks: preferences of community members and
+health workers in Masindi, Uganda. Trans R Soc Trop Med Hyg 2010;
+104:48–50.
+40. Tadesse M, Tadesse T. Epidemiology of needlestick injuries among
+health-care workers in Awassa City, Southern Ethiopia. Trop Doct
+2010; 40:111–3.
+41. Colebunders R, Sleurs H, Pirard P, et al. Organisation of health care
+during an outbreak of Marburg haemorrhagic fever in the Democratic
+Republic of Congo, 1999. J Infect Dis 2004; 48:347–53.
+42. Mupapa K, Massamba M, Kibadi K, et al. Treatment of Ebola hem-
+orrhagic fever with blood transfusions from convalescent patients.
+J Infect Dis 1999; 179(Suppl 1):S118–S123.
+43. Dellinger RP, Levy MM, Carlet JM, et al. Surviving Sepsis Campaign:
+international guidelines for management of severe sepsis and septic
+shock: 2008. Crit Care Med 2008; 36:296–327.
+44. Colebunders R, Tshomba A, Van Kerkhove M, et al. Marburg hem-
+orrhagic fever in Durba and Watsa, Democratic Republic of the Congo:
+clinical documentation, features of illness, and treatment. J Infect Dis
+2007; 196(Suppl 2):S148–S153.
+45. Buhler S. Health care workers’ experiences and preferences regarding
+documentation of clinical data and its transference from Ebola and
+Marburg wards [MSc thesis]. London: London School of Hygiene and
+Tropical
+Medicine,
+2008.
+[Thesis
+available
+on
+request
+from
+corresponding author.]
+Review of Filovirus Treatment Options
+d JID 2011:204 (Suppl 3)
+d S795
+Downloaded from https://academic.oup.com/jid/article/204/suppl_3/S791/2192235 by Catherine Sharp user on 26 May 2024
+CONFIDENCE IN DOVATO 
+ACROSS TREATMENT SETTINGS4–9
+PM-GBL-DLL-BNNR-240004 May 2024
+Treatment-
+naïve 
+resistance 
+rates, 
+with up to 
+REAL-
+WORLD 
+EVIDENCE
+0
+(n=0/1,885)*,4
+0.1
+(n=1/953)**,†,‡,§,5–7 
+RANDOMISED 
+CONTROLLED
+TRIALS
+years 
+of 
+evidence5–7
+3
+%
+%
+REAL-
+WORLD 
+EVIDENCE
+RANDOMISED 
+CONTROLLED 
+TRIALS
+0.03
+(n=10/35,888)*,4
+0
+(n=0/615)||,¶,#,8,9
+Treatment-
+experienced 
+resistance 
+rates,
+with up to 
+years 
+of 
+evidence1–3
+5
+%
+%
+EVIDENCE SUPPORTS THE HIGH BARRIER TO RESISTANCE 
+OF DOVATO UP TO 5 YEARS1-3 
+>300,000 PEOPLE LIVING WITH HIV 
+HAVE BEEN TREATED WITH DOVATO GLOBALLY10
+DOVATO is supported 
+by a wealth of evidence, 
+with the outcomes of 
+>40,000 people living 
+with HIV captured within 
+clinical trials and real-
+world evidence, 
+including those with:4–9,11,12
+NO BASELINE 
+RESISTANCE 
+TESTING13
+HIGH BASELINE 
+VIRAL LOAD
+(>100,000 copies/mL
+and even
+>1M copies/mL)6,13
+LOW CD4 + 
+COUNT 
+(≤200 cells/mm3)13
+NO PRIOR 
+TREATMENT
+EXPERIENCE13 
+2015
+>100
+>500
+>900
+>2,300
+>4,100
+>6,600
+>14,000
+>34,000
+>40,000
+2016
+2017
+2018
+2019
+Year
+2020
+2021
+2022
+2023
+2024
+Patients from phase III RCTs
+Patients from unique real-world cohorts 
+DOVATO is indicated for the treatment of Human Immunodeﬁciency Virus type 1 (HIV-1) 
+infection in adults and adolescents above 12 years of age weighing at least 40 kg, with no 
+known or suspected resistance to the integrase inhibitor class, or lamivudine.13
+Adverse events should be reported. Reporting forms and information can be found at 
+https://yellowcard.mhra.gov.uk/ or search for MHRA Yellowcard in the Google Play 
+or Apple App store. Adverse events should also be reported to GSK on 0800 221441
+ABBREVIATIONS
+3TC, lamivudine; CD4, cluster of diﬀerentiation 4; DTG, dolutegravir; FDA, United States 
+Food and Drug Administration; FTC, emtricitabine; HIV, human immunodeﬁciency virus; 
+ITT-E, intention-to-treat exposed; NRTI, nucleoside/nucleotide reverse transcriptase 
+inhibitor; RCT, randomised controlled trial; RNA, ribonucleic acid; TAF, tenofovir 
+alafenamide fumarate; TDF, tenofovir disoproxil fumarate; XTC, emtricitabine.
+FOOTNOTES
+*Data extracted from a systematic literature review of DTG+3TC real-world evidence. Overlap 
+between cohorts cannot be fully excluded.
+**The reported rate reﬂects the sum-total of resistance cases calculated from GEMINI I and 
+II (n=1/716, through 144 weeks), STAT (n=0/131, through 52 weeks), and D2ARLING (n=0/106, 
+through 24 weeks).5–7
+†GEMINI I and II are two identical 148-week, phase III, randomised, double-blind, multicentre, 
+parallel-group, non-inferiority, controlled clinical trials testing the eﬃcacy of DTG/3TC in 
+treatment-naïve patients. Participants with screening HIV-1 RNA ≤500,000 copies/mL were 
+randomised 1:1 to once-daily DTG/3TC (n=716, pooled) or DTG + TDF/FTC (n=717, pooled). The 
+primary endpoint of each GEMINI study was the proportion of participants with plasma HIV-1 
+RNA <50 copies/mL at Week 48 (ITT-E population, snapshot algorithm).13
+‡STAT is a phase IIIb, open-label, 48-week, single-arm pilot study evaluating the feasibility, 
+eﬃcacy, and safety of DTG/3TC in 131 newly diagnosed HIV-1 infected adults as a ﬁrst line 
+regimen. The primary endpoint was the proportion of participants with plasma HIV-1 RNA <50 
+copies/mL at Week 24.6
+§D2ARLING is a randomised, open-label, phase IV study designed to assess the eﬃcacy 
+and safety of DTG/3TC in treatment-naïve people with HIV with no available baseline HIV-1 
+resistance testing. Participants were randomised in a 1:1 ratio to receive DTG/3TC (n=106) or 
+DTG + TDF/XTC (n=108). The primary endpoint was the proportion of participants with plasma 
+HIV-1 RNA <50 copies/mL at Week 48.7 Results at week 24 of the study.
+||The reported rate reﬂects the sum-total of resistance cases calculated from TANGO (n=0/369, 
+through 196 weeks) and SALSA (n=0/246, through 48 weeks).8,9
+¶TANGO is a randomised, open-label, trial testing the eﬃcacy of DOVATO in virologically 
+suppressed patients. Participants were randomised in a 1:1 ratio to receive DOVATO (n=369) 
+or continue with TAF-containing regimens (n=372) for up to 200 weeks. At Week 148, 298 of 
+those on TAF-based regimens switched to DOVATO. The primary eﬃcacy endpoint was the 
+proportion of subjects with plasma HIV-1 RNA ≥50 copies/mL (virologic non-response) as per 
+the FDA Snapshot category at Week 48 (adjusted for randomisation stratiﬁcation factor).8,13
+#SALSA is a phase III, randomised, open-label, non-inferiority clinical trial evaluating the eﬃcacy 
+and safety of switching to DTG/3TC compared with continuing current antiretroviral regimens 
+in virologically suppressed adults with HIV. Eligible participants were randomised 1:1 to switch 
+to once-daily DTG/3TC (n=246) or continue current antiretroviral regimens (n=247). The primary 
+endpoint was the proportion of subjects with plasma HIV-1 RNA ≥50 copies/mL at Week 48 (ITT-E 
+population, snapshot algorithm).9
+REFERENCES
+1. Maggiolo F et al. BMC Infect Dis 2022; 22(1): 782.
+2. Taramasso L et al. AIDS Patient Care STDS 2021; 35(9): 342–353.
+3. Ciccullo A et al. JAIDS 2021; 88(3): 234–237.
+4. ViiV Healthcare. Data on File. REF-223795. 2024.
+5. Cahn P et al. AIDS 2022; 36(1): 39–48.
+6. Rolle C et al. Open Forum Infect Dis 2023; 10(3): ofad101.
+7. Cordova E et al. Poster presented at 12th IAS Conference on HIV Science. 23–26 July 2023. 
+Brisbane, Australia. TUPEB02.
+8. De Wit S et al. Slides presented at HIV Glasgow. 23–26 October 2022. Virtual and Glasgow, 
+UK. M041.
+9. Llibre J et al. Clin Infect Dis 2023; 76(4): 720–729.
+10. ViiV Healthcare. Data on File. REF-220949. 2024.
+11. Rolle C et al. Poster presented IDWeek. 11–15 October 2023. Virtual and Boston, USA. 1603.
+12. Slim J et al. Abstract presented IDWeek. 11–15 October 2023. Virtual and Boston, USA. 1593.
+13. DOVATO. Summary of Product Characteristics. June 2023.
+ViiV Healthcare, 980 Great West Road, Brentford, Middlesex, 
+London, UK.
+ViiV trademarks are owned by or licensed to the 
+ViiV Healthcare group of companies.
+Non-ViiV trademarks are owned by or licensed to their 
+respective owners or licensors.
+©2024 ViiV Healthcare group of companies or its licensor.
+All rights reserved.
+Intended for healthcare professionals only.
+PRESCRIBING INFORMATION
+Dovato Prescribing Information
+Legal Notices
+Privacy Policy
+Contact Us
+LEARN MORE
+

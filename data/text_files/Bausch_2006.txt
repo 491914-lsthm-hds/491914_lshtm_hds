@@ -1,0 +1,1339 @@
+The new engl and jour nal of medicine
+n engl j med 355;9 www.nejm.org august 31, 2006
+909
+Marburg Hemorrhagic Fever Associated 
+with Multiple Genetic Lineages of Virus
+Daniel G. Bausch, M.D., M.P.H., Stuart T. Nichol, Ph.D., 
+Jean Jacques Muyembe-Tamfum, M.D., Ph.D., Matthias Borchert, M.D., 
+Pierre E. Rollin, M.D., Hilde Sleurs, M.D., Patricia Campbell, M.D., 
+Florimund K. Tshioko, M.D., Catherine Roth, M.B.B.Ch., 
+Robert Colebunders, M.D., Ph.D., Patricia Pirard, M.D., 
+Simon Mardel, M.B., B.S., F.R.C.S., Loku A. Olinda, M.D., Hervé Zeller, Ph.D., 
+Antoine Tshomba, M.D., Amayo Kulidri, M.D., Modeste L. Libande, R.N., 
+Sabue Mulangu, M.D., Pierre Formenty, D.V.M., Thomas Grein, M.D., 
+Herwig Leirs, Ph.D., Leo Braack, Ph.D., Tom Ksiazek, D.V.M., Ph.D., 
+Sherif Zaki, M.D., Ph.D., Michael D. Bowen, Ph.D., Sheilagh B. Smit, B.Sc., 
+Patricia A. Leman, B.Sc., Felicity J. Burt, Ph.D., Alan Kemp, M.Sc., 
+and Robert Swanepoel, B.V.Sc., Ph.D., for the International Scientific 
+and Technical Committee for Marburg Hemorrhagic Fever Control 
+in the Democratic Republic of the Congo* 
+From the Centers for Disease Control and 
+Prevention, Atlanta (D.G.B., S.T.N., P.E.R., 
+T.K., S.Z., M.D.B.); Tulane School of Public 
+Health and Tropical Medicine, New Orleans 
+(D.G.B.); Ministry of Health (J.J.M.-T., 
+S. Mulangu) and Institut National de 
+Recherche Biomédicale (J.J.M.-T.), 
+Kinshasa, Democratic Republic of the 
+Congo; Institute of Tropical Medicine, 
+Antwerp, Belgium (M.B., R.C.); Médecins 
+sans Frontières, Belgium (M.B., H.S., R.C., 
+P.P.) and the Netherlands (P.C.); World 
+Health Organization, Kinshasa/Kisangani, 
+Democratic Republic of the Congo (F.K.T.) 
+and Geneva (C.R., S. Mardel, P.F., T.G.); the 
+Ministry of Health, Kisangani, Democratic 
+Republic of the Congo (L.A.O.); Institut 
+Pasteur, Paris (H.Z.); Offices de Mines 
+d’Or de Kilo Moto Hospital (A.T.) and 
+Ministry of Health (A. Kulidri, M.L.L.), 
+Watsa, Democratic Republic of the Congo; 
+Danish Pest Infestation Laboratory, 
+Lyngby, Denmark (H.L.); South African 
+National Parks Board, Pretoria (L.B.); and 
+National Institute for Communicable 
+Diseases, Johannesburg (S.B.S., P.A.L., 
+F.J.B., A. Kemp, R.S.).  Address reprint re-
+quests to Dr. Swanepoel at the National 
+Institute for Communicable Diseases, 
+Private Bag X4, Sandringham 2131, South 
+Africa, or at bobs@nicd.ac.za.
+*Additional participants in this study are 
+listed in the Appendix.
+N Engl J Med 2006;355:909-19.
+Copyright © 2006 Massachusetts Medical Society.
+Abstr act
+Background
+An outbreak of Marburg hemorrhagic fever was first observed in a gold-mining village 
+in northeastern Democratic Republic of the Congo in October 1998.
+Methods
+We investigated the outbreak of Marburg hemorrhagic fever most intensively in May 
+and October 1999. Sporadic cases and short chains of human-to-human transmis-
+sion continued to occur until September 2000. Suspected cases were identified on 
+the basis of a case definition; cases were confirmed by the detection of virus antigen 
+and nucleic acid in blood, cell culture, antibody responses, and immunohistochem-
+ical analysis.
+Results
+A total of 154 cases (48 laboratory-confirmed and 106 suspected) were identified 
+(case fatality rate, 83 percent); 52 percent of cases were in young male miners. Only 
+27 percent of these men reported having had contact with other affected persons, 
+whereas 67 percent of patients who were not miners reported such contact (P<0.001). 
+Most of the affected miners (94 percent) worked in an underground mine. Cessa-
+tion of the outbreak coincided with flooding of the mine. Epidemiologic evidence 
+of multiple introductions of infection into the population was substantiated by the 
+detection of at least nine genetically distinct lineages of virus in circulation during 
+the outbreak.
+Conclusions
+Marburg hemorrhagic fever can have a very high case fatality rate. Since multiple 
+genetic variants of virus were identified, ongoing introduction of virus into the 
+population helped perpetuate this outbreak. The findings imply that reservoir hosts 
+of Marburg virus inhabit caves, mines, or similar habitats.
+original article
+The New England Journal of Medicine
+Downloaded from nejm.org on May 26, 2024. For personal use only. 
+ No other uses without permission. Copyright © 2006 Massachusetts Medical Society. All rights reserved.
+The new engl and jour nal of medicine
+n engl j med 355;9 www.nejm.org august 31, 2006
+910
+T
+he filoviruses marburg and ebola 
+cause severe hemorrhagic fevers with high 
+case fatality rates. Marburg virus (Lake Vic-
+toria subtype) of the family Filoviridae was first 
+isolated and Marburg hemorrhagic fever first de-
+scribed in 1967 during outbreaks in Germany and 
+Yugoslavia. These outbreaks were linked to infect-
+ed monkeys imported from Uganda.1-4 Three mi-
+nor outbreaks involving one to three cases were 
+subsequently reported in Africa between 1975 and 
+1987.5-9 Transmission of the virus between humans 
+is poorly understood, and the natural reservoir re-
+mains unknown.
+In October 1998, the chief medical officer for 
+Watsa Zone in northeastern Democratic Republic 
+of the Congo reported the occurrence of a fatal 
+hemorrhagic syndrome in young men working in 
+gold mines in the village of Durba. Owing to con-
+tinued military activity of the civil war of 1997, it 
+was only after the doctor himself died of the dis-
+ease on April 23, 1999, that an investigative team 
+was able to enter the area. On May 6, a diagnosis of 
+Marburg hemorrhagic fever was confirmed from 
+samples sent to the National Institute for Commu-
+nicable Diseases (NICD) in Johannesburg, South 
+Africa.10,11
+At the request of Congo’s Ministry of Health, 
+an international team of experts, coordinated by 
+the World Health Organization, arrived in Durba 
+on May 8, 1999, to assist local officials in the in-
+vestigation and control efforts.12,13 The team found 
+that the outbreak had subsided, and they depart-
+ed after three weeks. However, continued reports 
+of sporadic cases prompted a follow-up mission in 
+October 1999. This report describes the laboratory 
+diagnosis, virus phylogeny, epidemiology, and clin-
+ical presentation of Marburg hemorrhagic fever 
+revealed by the two investigations, as well as by 
+sustained surveillance by local officials with in-
+termittent outside assistance.
+Methods
+Outbreak Area 
+The outbreak of Marburg hemorrhagic fever cen-
+tered on the mining village of Durba, which has 
+an estimated population of 25,000, and the near-
+by district capital Watsa (population, 60,000), ap-
+proximately 150 km from the borders of Uganda 
+and Sudan. At the time of the outbreak, the area 
+was held by Ugandan soldiers and Congolese reb-
+els in opposition to the government of Congo. Gold 
+mining is the major economic activity in the re-
+gion, supplemented by subsistence farming and 
+hunting. Organized commercial mining ceased 
+when the civil war reached Durba in 1997 and was 
+replaced by illegal, albeit open, mining involving 
+mainly young, untrained men.
+The government-sponsored Reference Health 
+Center in Durba was a rudimentary facility staffed 
+by a few nurses, and most seriously ill people 
+sought care 15 km away at the two hospitals in 
+Watsa: Watsa General Reference Hospital, a 56-bed 
+government regional reference center, and a 70-bed 
+private hospital affiliated with the mining com-
+pany, the Offices de Mines d’Or de Kilo Moto 
+(OKIMO). There were 16 additional small health 
+centers in the area of Durba and Watsa, but medi-
+cal supplies were severely limited at all facilities. 
+Toward the end of the outbreak, the Reference 
+Health Center in Durba was refurbished and used 
+as the main treatment center for Marburg hemor-
+rhagic fever.
+Case and Contact Definitions
+A confirmed diagnosis of the disease required 
+the following: acute illness for up to three weeks 
+in the absence of associated trauma, another fo-
+cal disease process, or a response to antibiotics or 
+antimalarial agents; at least three of the follow-
+ing signs and symptoms: fever, generalized body 
+pains, nausea and vomiting, headache, anorexia, 
+malaise, abdominal pain, diarrhea, dyspnea, dys-
+phagia, hiccups, conjunctivitis, rash or petechiae, 
+and abnormal bleeding from the nose, mouth, 
+gastrointestinal tract, or genitourinary tract; and 
+a positive laboratory test for Marburg virus infec-
+tion. Patients were suspected of having the dis-
+ease if they had the characteristic clinical syn-
+drome, even if they had no specimens available for 
+laboratory confirmation. A contact was defined 
+as someone who had had physical contact with a 
+patient with confirmed or suspected Marburg vi-
+rus infection during acute illness or after death, 
+or with fomites.
+Figure 1 (facing page). Cases of Marburg Hemorrhagic 
+Fever in the Area of Durba and Watsa, Democratic Re-
+public of the Congo, October 1998 to October 2000, 
+According to Whether the Case Was Suspected or Con-
+firmed (Panel A) and the Patients’ Occupations (Panel B).
+The date of onset was not precisely known for 27 pa-
+tients and was assumed to be seven days before either 
+death or hospitalization. In Panel B, patients listed as 
+family or community members included 31 house-
+wives, 15 children, 6 traders, 5 farmers, and 6 persons 
+in other assorted professions.
+The New England Journal of Medicine
+Downloaded from nejm.org on May 26, 2024. For personal use only. 
+ No other uses without permission. Copyright © 2006 Massachusetts Medical Society. All rights reserved.
+marburg hemorrhagic fever with multiple genetic lineages
+n engl j med 355;9 www.nejm.org august 31, 2006
+911
+A
+B
+No. of Patients
+20
+22
+18
+16
+12
+10
+2
+14
+4
+6
+8
+0
+October 1998
+November 1998
+December 1998
+January 1999
+February 1999
+March 1999
+April 1999
+May 1999
+June 1999
+July 1999
+August 1999
+September 1999
+October 1999
+November 1999
+December 1999
+January 2000
+February 2000
+March 2000
+April 2000
+May 2000
+June 2000
+July 2000
+August 2000
+September 2000
+October 2000
+Onset of Symptoms
+24
+Suspected
+Confirmed
+No. of Patients
+16
+18
+12
+10
+2
+14
+4
+6
+8
+0
+October 1998
+November 1998
+December 1998
+January 1999
+February 1999
+March 1999
+April 1999
+May 1999
+June 1999
+July 1999
+August 1999
+September 1999
+October 1999
+November 1999
+December 1999
+January 2000
+February 2000
+March 2000
+April 2000
+May 2000
+June 2000
+July 2000
+August 2000
+September 2000
+October 2000
+Onset of Symptoms
+Family or community member
+Health care worker
+Miner
+The New England Journal of Medicine
+Downloaded from nejm.org on May 26, 2024. For personal use only. 
+ No other uses without permission. Copyright © 2006 Massachusetts Medical Society. All rights reserved.
+The new engl and jour nal of medicine
+n engl j med 355;9 www.nejm.org august 31, 2006
+912
+Surveillance and Care of Patients
+We searched for patients by reviewing available rec-
+ords of patients and death registers at all health 
+facilities and pharmacies in the area of Durba and 
+Watsa dating back to October 1998. If clinical data 
+suggested a diagnosis of viral hemorrhagic fever, 
+the patient was seen and the hospital chart re-
+trieved, if possible. Investigators also attempted to 
+interview patients with suspected cases and sur-
+vivors or their family members and followed up 
+on rumors. Contacts of patients with confirmed 
+or suspected disease were followed daily for signs 
+of illness for the maximum incubation period (21 
+days) and placed in an isolation ward if they be-
+came ill.14 To gain insight into possible previous 
+transmission of Marburg virus in the area, we re-
+viewed hospital records as far back as possible and 
+conducted interviews with local medical person-
+nel, community leaders, and survivors of possible 
+previous outbreaks.
+Laboratory Analysis 
+Whole-blood samples drawn from patients with 
+suspected cases were shipped on dry ice to the 
+NICD or, on occasion, to the Centers for Disease 
+Control and Prevention (CDC), where they were 
+tested by enzyme-linked immunosorbent assay 
+(ELISA) for Marburg virus antigen and Marburg 
+virus–specific IgM and IgG antibodies and by re-
+verse-transcriptase–polymerase-chain-reaction 
+(RT-PCR) assay for Marburg virus nucleic acid and 
+were cultured in Vero 76 or Vero E6 cells in an ef-
+fort to isolate the virus, with the use of modifica-
+tions of techniques previously published for Ebo-
+la 
+hemorrhagic 
+fever.15-17 
+Punch-biopsy 
+specimens 
+of skin were obtained from deceased persons, fixed 
+in 10 percent formalin, and sent to the CDC for im-
+munohistochemical analysis, as described previ-
+ously.18 Primers used in RT-PCR assays included 
+published sequences targeting a filovirus-specific 
+segment of the polymerase (L) gene17 and nested 
+primers targeting the Marburg virus VP35 gene, 
+designed at the CDC. (The RT-PCR analysis, nucle-
+otide sequencing of amplicons, and sequence data 
+analysis are described in the Supplementary Ap-
+pendix, available with the full text of this article 
+at www.nejm.org.)
+A patient was considered to have Marburg hem-
+orrhagic fever if any of the following laboratory 
+tests was positive: ELISA antigen detection, RT-PCR 
+assay, virus culture, ELISA IgM antibody, ELISA 
+IgG antibody in a patient with a clinical or epide-
+miologic history compatible with Marburg hem-
+orrhagic fever, or immunohistochemical analysis.
+Environmental Assessment
+Investigators visited all mining sites in Durba with 
+members of the mining company. During the vis-
+it, they recorded the geographic location, the type 
+of mining (surface or underground), the working 
+conditions at the mine, and the number of work-
+ers at each site.
+Statistical Analysis
+Data that were collected in the field were record-
+ed on case-report and contact-tracing forms, en-
+tered into an Epi Info 6.0 database (CDC), and im-
+ported into SPSS version 10.0 (SPSS) for further 
+analysis, with use of the chi-square test, Fisher’s 
+exact test, and Student’s t-test, as appropriate. Two-
+sided P values were calculated with a P value of less 
+than 0.05 used to indicate statistical significance.
+Results
+Timeline and Demographic characteristics 
+of Patients
+From October 1998, when the first case was iden-
+tified, through September 2000, when the last case 
+was identified, there were 154 cases (48 confirmed 
+Table 1. Laboratory Confirmation of Marburg Hemorrhagic Fever in 48 Patients 
+in the Democratic Republic of the Congo, 1999–2000.
+Test
+Positive Results 
+no./total no. (%)
+Performed 1–15 days after onset
+Antigen-detection ELISA
+25/34 (74)
+L gene RT-PCR
+31/34 (91)
+Nested RT-PCR of VP35
+33/33 (100)
+Virus isolation
+31/32 (97)
+IgM-antibody ELISA
+8/34 (24)
+IgG-antibody ELISA
+7/34 (21)
+Immunohistochemical analysis
+7/14 (50)
+Performed post mortem 3–8 days after onset
+Immunohistochemical analysis
+8*
+Performed 31–1376 days after onset
+IgM-antibody ELISA
+1/6 (17)
+IgG-antibody ELISA
+6†
+* The results of immunohistochemical analysis were negative for 26 other pa-
+tients suspected of having Marburg hemorrhagic fever for whom data were 
+discarded as unconfirmed.
+† One patient consented to being tested 1376 days after the onset of illness. 
+Data could not be obtained for several other patients.
+The New England Journal of Medicine
+Downloaded from nejm.org on May 26, 2024. For personal use only. 
+ No other uses without permission. Copyright © 2006 Massachusetts Medical Society. All rights reserved.
+marburg hemorrhagic fever with multiple genetic lineages
+n engl j med 355;9 www.nejm.org august 31, 2006
+913
+and 106 suspected) (Fig. 1A). Of the 48 patients 
+with confirmed cases, 34 had positive test results 
+for ELISA antigen, RT-PCR, or virus isolation; 
+6 who were tested late in the course of the disease 
+were antibody-positive only; and 8 received a diag-
+nosis on the basis of positive results on immuno-
+histochemical analysis of postmortem skin sam-
+ples (Table 1).
+The RT-PCR assay was positive for the L gene in 
+blood samples from 31 of 34 patients with viro-
+logically confirmed cases (but positive on all cell-
+culture isolates), whereas the nested PCR assay for 
+Marburg virus protein 35 (VP35) protein was posi-
+tive in samples from all 33 patients tested. (One 
+sample had insufficient material to be tested for 
+VP35 protein.) Three blood samples that were 
+positive on PCR had no virus isolated in culture, 
+but one had been heat-inactivated before culture 
+and another had heavy bacterial contamination.
+Because of the initial delay in gaining access 
+to the area of Durba and Watsa, 52 percent of the 
+cases occurred before the arrival of the first in-
+ternational team and were identified retrospec-
+tively. Most cases were in young adult male min-
+ers residing in Durba, followed by housewives and 
+infants (Table 2). Of the 145 patients for whom 
+demographic data were available, 18 (12 percent) 
+were under the age of 15 years. Marburg hemor-
+rhagic fever was noted in members of at least eight 
+ethnic or linguistic groups. Although cases were 
+reported from Watsa and various surrounding vil-
+lages, further investigation invariably revealed a 
+link to Durba. Many patients who listed a place 
+of residence other than Durba were found to have 
+been living and working in Durba at the time of 
+their illness.
+Source of Primary Infection 
+and Transmission
+A seasonal pattern was noted during the two years 
+of observation, with transmission typically begin-
+ning in October or November and peaking in Janu-
+ary or February (Fig. 1A). On each occasion, the 
+upsurge in cases was primarily among miners and 
+was followed by spread to their families and oth-
+er members of the community and punctuated by 
+occasional nosocomial infections (Fig. 1B).
+Multiple short, apparently independent chains 
+of transmission were noted, with seven being the 
+largest number of cases noted in any single chain. 
+Incidences of secondary spread from at least 20 
+patients, tertiary spread from at least 3 patients, 
+and quaternary spread from at least 2 patients 
+were documented, most often related to the expo-
+sure of family members caring for a sick miner. 
+The conclusion that independent chains of infec-
+tion began in miners is supported by the finding 
+that only 20 of 75 miners (27 percent) reported 
+having had previous contact with someone with 
+Marburg hemorrhagic fever. This number contrasts 
+with 20 of 31 housewives (65 percent), 11 of 15 
+infants (73 percent), 6 of 7 health care workers (86 
+percent), and 10 of 17 members of other profes-
+sions (59 percent) for whom such contact was re-
+ported (P<0.001 for the comparison between min-
+ers 
+and 
+all 
+other 
+groups 
+collectively). 
+Furthermore, 
+33 of 49 female patients (67 percent), of whom 29 
+were housewives, reported having had previous 
+contact with someone with Marburg hemorrhagic 
+fever, as compared with 33 of 104 men (32 percent) 
+(P<0.001). This finding suggests that in contrast 
+to men, women frequently contracted the virus 
+through secondary transmission in their tradi-
+Table 2. Demographic Characteristics of Patients 
+with Marburg Hemorrhagic Fever in Durba, Democratic 
+Republic of the Congo, 1998–2000.*
+Characteristic
+Patients
+Male sex — no./total no. (%)
+104/153 (68)
+Age
+Mean — yr
+28
+Range
+7 days to 72 yr
+Occupation — no./total no. (%)
+Miner
+75/145 (52)
+Housewife
+31/145 (21)
+Infant
+15/145 (10)
+Health care worker
+7/145 (5)
+Trader
+6/145 (4)
+Farmer
+5/145 (3)
+Other†
+6/145 (4)
+Village of residence — no./total no. (%)
+Durba
+121/151 (80)
+Watsa
+24/151 (16)
+Other
+6/151 (4)
+* Data were not available for all patients in each category.
+† Patients in this category included two teachers, two stu-
+dents, an electrician in the Goroumbwa mine workshop, 
+and a retired nurse who had been out of the profession 
+for a long time. No occupation was recorded for nine 
+ 
+patients, but eight of the nine were young men, mostly 
+from Durba, who were probably miners.
+The New England Journal of Medicine
+Downloaded from nejm.org on May 26, 2024. For personal use only. 
+ No other uses without permission. Copyright © 2006 Massachusetts Medical Society. All rights reserved.
+The new engl and jour nal of medicine
+n engl j med 355;9 www.nejm.org august 31, 2006
+914
+tional roles as caretakers for sick persons in the 
+home. The association between mining and appar-
+ent primary infection remained significant after 
+controlling for the stage of the epidemic, the vil-
+lage of residence, and type of case (confirmed vs. 
+suspected).
+Unlike most filovirus outbreaks, nosocomial 
+infection did not play an important role in virus 
+transmission in the area of Durba and Watsa. Five 
+separate incidents at two health centers resulted 
+in six infections among health care workers (three 
+nurses, one doctor, one midwife, and one nurse–
+midwife).19 A case of the disease was also noted 
+in a traditional healer, but the circumstances of 
+infection were not available.
+The nucleotide sequences were determined 
+for amplified gene fragments of Marburg virus 
+(GenBank accession numbers DQ466108 through 
+DQ466195 and DQ447652). Maximum likelihood 
+analysis of sequence differences detected among 
+Marburg virus VP35 gene fragments from various 
+cases revealed that at least nine genetic lineages 
+of Marburg virus were in circulation during the 
+Durba outbreak. These lineages have been desig-
+nated 1 through 9 for convenience, with the num-
+bers bearing no taxonomic significance (Fig. 2). 
+Phylogenetic analysis of sequence data on L gene 
+fragments yielded the same nine lineages (results 
+not shown). The genetic stability of the lineages 
+and reproducibility of the findings are borne out 
+by the facts that identical results were obtained for 
+sequential samples from three patients and for 
+sequences determined directly from clinical spec-
+imens or on cultured virus isolates from all pa-
+tients. Moreover, identical results were obtained 
+for split samples from four patients that were se-
+quenced independently at the two participating 
+laboratories (CDC and NICD). Identical sequenc-
+es were also found within but not across clusters 
+of epidemiologically linked patients (Fig. 2), al-
+though there was a tendency for the same lineages 
+of virus to reappear at irregular intervals during 
+the two-year outbreak.
+Clinical Presentation and Case Fatality Rate
+Of the 150 patients with Marburg hemorrhagic 
+fever for whom information was available, 97 
+sought medical care (65 percent), and these patients 
+presented for treatment a median of 4.5 days (range, 
+0 to 24) after the onset of symptoms. Clinical in-
+formation was available for 129 patients: through 
+examination or review of medical records for 95 
+patients and retrospective interviews with the pa-
+tient or relatives for 34 patients (Table 3). At least 
+three pregnant women with Marburg hemorrhag-
+ic fever were reported, all of whom died; one had 
+a miscarriage, and one delivered an infant who died 
+seven hours after birth.
+The case fatality rate was 83 percent (125 of 150 
+patients) and did not vary significantly according 
+to age, sex, profession, medical treatment, place of 
+medical care (hospital vs. health center), time from 
+the onset of symptoms until admission, phase of 
+the outbreak, or status as a laboratory-confirmed 
+case (vs. a suspected case) or primary transmis-
+sion (vs. secondary transmission). Among patients 
+who died, the deaths occurred a median of 7.0 days 
+(range, 0 to 70) after the onset of symptoms. Mor-
+tality was significantly increased in persons with 
+conjunctival injection and hiccups and decreased 
+in those with chest pain (Table 3). Difficulty in 
+breathing and most bleeding signs were more fre-
+quent in patients who died than in survivors, al-
+though differences were not significant. Many of 
+the associations with fatal disease have been pre-
+viously noted as indicators of end-stage filovirus 
+infection.20
+Historical Review
+Interviews and reviews of hospital records revealed 
+that a disease called “syndrome hémorragique de 
+Durba,” which was always associated with mining, 
+was common knowledge among villagers and 
+health care workers in the area of Durba and Wat-
+sa. A doctor at OKIMO reportedly first recognized 
+the disease in a male miner in 1987, and it became 
+common practice in the 1990s for such patients 
+to be admitted to Watsa General Reference Hospi-
+tal. Many health care workers recalled past clusters 
+of the disease among miners, often with nosoco-
+mial transmission, and the disease was usually fa-
+tal. Outbreaks involving at least 50 patients in total 
+reportedly occurred in 1987, 1990, and 1992. An 
+outbreak in 1994 involved an estimated 20 pa-
+tients, including 1 doctor and 2 nurses, at least 
+8 of whom died. An outbreak in 1996 involved 
+two nurses, both of whom died, and an outbreak 
+in 1997 involved five patients, including one nurse, 
+all of whom died. A former nurse who was found 
+to be positive for Marburg IgG antibodies reported 
+that he, a doctor, and a fellow nurse had contracted 
+illnesses similar to Marburg hemorrhagic fever 
+after performing obstetric surgery on a patient 
+with probable disease in 1994. The doctor and one 
+The New England Journal of Medicine
+Downloaded from nejm.org on May 26, 2024. For personal use only. 
+ No other uses without permission. Copyright © 2006 Massachusetts Medical Society. All rights reserved.
+marburg hemorrhagic fever with multiple genetic lineages
+n engl j med 355;9 www.nejm.org august 31, 2006
+915
+nurse died of the disease. Hospital records dating 
+back to 1991 (the earliest available) corroborated 
+the existence of sporadic cases of the disease, par-
+ticularly at Watsa General Reference Hospital, in-
+cluding a larger outbreak in 1994 (Fig. 3). After a 
+doctor died in 1994, admissions to the hospital 
+remained at a low level for more than a year until 
+the arrival of his successor, the doctor who died 
+while investigating the outbreak reported here 
+(Fig. 3). Admissions again declined during the civil 
+war of 1997. No specific trends were apparent with 
+regard to age or sex, and no further information 
+was available on professional or other exposures 
+for these historical cases.
+0.005 Substitution per site
+ravKEN87aug10
+09DRC99may26
+hogZIM75feb12
+ozoZIM75feb19
+cruZIM75feb26
+11DRC99aug18
+10DRC99aug06
+03DRC99apr30
+04DRC99may01
+34DRC00aug23
+32DRC00aug13
+19DRC00feb23
+07DRC99may08
+06DRC99may01
+08DRC99may09
+01DRC99apr12
+30DRC00aug05
+14DRC00jan22
+23DRC00mar23
+24DRC00apr04
+33DRC00aug27
+31DRC00aug11
+05DRC99may08
+29DRC00jul14
+27DRC00jul03
+26DRC00may20
+22DRC00may05
+21DRC00feb24
+20DRC00feb12
+18DRC00feb14
+17DRC00feb02
+16DRC00feb11
+13DRC00jan15
+15DRC00feb13
+12DRC00jan08
+28DRC00jul10
+25DRC00apr22
+musKEN80jan24
+rycGER67aug
+poppGER67aug
+02DRC99apr26
+2
+3
+4
+5
+6
+7
+8
+9
+1
+100
+100
+82
+85
+79
+64
+Genetic Lineage
+Figure 2. Maximum Likelihood Analysis of Differences in Nucleotide Sequences.
+Differences were detected between Marburg virus VP35 gene fragments, amplified by RT-PCR from RNA extracted from clinical speci-
+mens or virus isolates from patients in the Durba outbreak (red), and those available for reference isolates (black). Sequence designa-
+tions (e.g., 09DRC99may26) consist of a two-digit case code (for the Durba outbreak) or abbreviated name (for reference isolates), fol-
+lowed by the country code (Democratic Republic of the Congo [DRC], Germany [GER], Kenya [KEN], and Zimbabwe [ZIM]) and the year, 
+month, and day of the onset of the illness. Nine genetic lineages of Marburg virus that were detected during the Durba outbreak are la-
+beled 1 through 9 on the right-hand margin of the phylogram. Patients are represented by single sequences, but identical results were 
+obtained for sequential samples from three patients and for sequences determined directly on clinical specimens or on cultured virus 
+isolates. Moreover, identical results were obtained for split samples from four patients that were sequenced independently at the two 
+participating laboratories (CDC and NICD). Isolates from patients in Durba that were epidemiologically linked (indicated by brackets) 
+also yielded identical sequences: 10DRC99 and 11DRC99 were from a husband and wife, respectively; 06DRC99, 07DRC99, and 
+08DRC99 were from a mother, grandmother, and daughter, respectively; 23DRC00 was from the son of a patient with suspected disease 
+who putatively also transmitted fatal infection to four other people, including a nurse who was the uncle of the patient with isolate 
+24DRC00; 31DRC00 and 33DRC00 were from a husband and wife, respectively; and 27DRC00 and 29DRC00 were from brothers. Boot-
+strap values (obtained from an analysis of 500 pseudoreplicates of the data set) are indicated at each branch point in which values ex-
+ceed 50 percent.
+The New England Journal of Medicine
+Downloaded from nejm.org on May 26, 2024. For personal use only. 
+ No other uses without permission. Copyright © 2006 Massachusetts Medical Society. All rights reserved.
+The new engl and jour nal of medicine
+n engl j med 355;9 www.nejm.org august 31, 2006
+916
+Environmental Assessment
+Mining was conducted at seven sites in Durba dur-
+ing the outbreak, and in addition, alluvial gold was 
+recovered by divers at a few sites along the Kibali 
+River. Five of the mining sites consisted of surface 
+diggings or small pits, and these were essentially 
+devoid of vertebrate fauna. A sixth site, the Durba 
+mine, consisted of short tunnels into a hillside 
+where the ore appeared to be depleted, and dig-
+ging occurred mainly on the hillside above the tun-
+nels. Most mining took place at the seventh site, the 
+Goroumbwa mine, where there was a large quarry 
+that had been exploited historically, plus two ver-
+tical shafts from which horizontal tunnels extend-
+ed at various levels to the ore body, at a maximum 
+depth of approximately 400 m. Miners gained un-
+authorized access to the underground workings 
+through an opening at the base of the quarry and 
+reportedly remained underground for up to a week 
+at a time. Owing to problems with drainage pumps, 
+flooding began in 1995, and the Goroumbwa mine 
+was completely inundated by September 2000. The 
+illegal and spontaneous nature of the mining ac-
+tivities precluded accurate estimates of the num-
+ber of miners who worked at each site.
+Of the 53 miners with Marburg hemorrhagic 
+fever for whom information was obtained, 50 (94 
+percent) worked in Goroumbwa, which suggested 
+that exposure to the fauna or flora of the mine was 
+a risk factor. Animals found in the Goroumbwa 
+mine included bats, rodents, shrews, frogs, snakes, 
+cockroaches, crickets, spiders, wasps, and moth 
+flies, although there was no history of direct expo-
+sure to animals or insect bites in any patient with 
+Marburg hemorrhagic fever. However, the envi-
+ronment was heavily soiled with human and bat 
+excrement, and the miners typically worked with 
+rudimentary hand tools and without protective 
+gear. The only other vertebrates that were detected 
+were small populations of bats in the short tunnels 
+of the Durba mine, where two patients with the 
+disease were known to have worked. However, the 
+implication that the Goroumbwa mine was the 
+principal site of infection is supported by the lack 
+of detection of a single case of the disease among 
+104 patients from the area of Durba and Watsa 
+who were suspected of having the disease and were 
+tested in continued surveillance from the time that 
+the mine closed in September 2000 through De-
+cember 2005.
+Discussion
+Despite the fact that Marburg virus is thought to 
+be maintained in nature exclusively in Africa, the 
+1998–2000 epidemic of Marburg hemorrhagic fe-
+ver in the area of Durba and Watsa was the first 
+outbreak recorded in a community setting in which 
+the presumed primary cases occurred in indige-
+nous Africans.1-7 Although the lack of infrastruc-
+ture in this remote, impoverished, and war-torn 
+Table 3. Recorded Signs and Symptoms for 129 Patients with Marburg 
+Hemorrhagic Fever in the Area of Durba and Watsa, Democratic Republic 
+of the Congo, 1998–2000.*
+Sign or Symptom
+All Patients 
+(N = 129)
+Survivors 
+(N = 22)
+Patients Who
+Died (N = 107)
+number (percent)
+Non-hemorrhagic 
+Fever
+120 (93)
+22 (100)
+98 (92)
+Malaise or fatigue
+108 (84)
+19 (86)
+89 (83)
+Headache
+101 (78)
+16 (73)
+85 (79)
+Nausea or vomiting
+98 (76)
+17 (77)
+81 (76)
+Anorexia
+94 (73)
+17 (77)
+77 (72)
+Abdominal pain
+74 (57)
+13 (59)
+61 (57)
+Diarrhea
+73 (57)
+13 (59)
+60 (56)
+Myalgia or arthralgia
+71 (55)
+12 (55)
+59 (55)
+Difficulty breathing
+70 (54)
+8 (36)
+62 (58)
+Difficulty swallowing or sore throat
+53 (41)
+7 (32)
+46 (43)
+Hiccups
+51 (40)
+4 (18)
+ 47 (44)†
+Conjunctival injection or red eyes
+48 (37)
+3 (14)
+ 45 (42)‡
+Lumbar pain
+10 (8)
+1 (5)
+9 (8)
+Chest pain
+8 (6)
+4 (18)
+ 4 (4)†
+Cough
+7 (5)
+2 (9)
+5 (5)
+Agitation
+2 (2)
+0 
+2 (2)
+Hemorrhagic
+Hematemesis
+96 (74)
+15 (68)
+81 (76)
+Melena
+71 (55)
+9 (41)
+62 (58)
+Gingival bleeding
+44 (34)
+5 (23)
+39 (36)
+Epistaxis
+40 (31)
+4 (18)
+36 (34)
+Petechiae
+9 (7)
+2 (9)
+7 (7)
+Bleeding from injection sites
+8 (6)
+0 
+8 (7)
+Hemoptysis
+6 (5)
+2 (9)
+4 (4)
+Hematoma
+3 (2)
+0 
+3 (3)
+Bleeding from any site
+89 (69)
+13 (59)
+76 (71)
+* Of the 129 patients, 40 had laboratory-confirmed disease and 89 had suspect-
+ed disease. 
+† P = 0.03 for the comparison between survivors and those who died.
+‡ P = 0.01 for the comparison between survivors and those who died.
+The New England Journal of Medicine
+Downloaded from nejm.org on May 26, 2024. For personal use only. 
+ No other uses without permission. Copyright © 2006 Massachusetts Medical Society. All rights reserved.
+marburg hemorrhagic fever with multiple genetic lineages
+n engl j med 355;9 www.nejm.org august 31, 2006
+917
+location hampered the collection of data, several 
+new features of the disease were revealed by the 
+investigation.
+Bleeding was more frequent and rash much less 
+common in the area of Durba and Watsa than in 
+previous outbreaks of the disease.2,3,5-8,21,22 Al-
+though mild nonhemorrhagic cases have been de-
+scribed that might escape detection, data regard-
+ing seroprevalence do not support the occurrence 
+of frequent subclinical infections in the area of 
+Durba and Watsa or elsewhere.23-25 Bleeding ap-
+pears to be more common in Marburg hemor-
+rhagic fever than in Ebola hemorrhagic fever, in 
+which it was noted in a minority of cases in some 
+outbreaks.26,27 Rash may have simply been more 
+difficult to detect in darker-skinned Africans in 
+the area of Durba and Watsa than in white patients 
+who were involved in past outbreaks of Marburg 
+hemorrhagic fever. Similar racial disparities have 
+been noted between expatriate missionaries and 
+Africans with Ebola hemorrhagic fever.20,28,29 Al-
+ternatively, true differences with respect to race or 
+geography may exist, perhaps related to genetic or 
+acquired differences in immune response.
+No. of Admissions
+120
+100
+20
+140
+40
+60
+80
+0
+January 1991
+May 1991
+September 1991
+January 1992
+May 1992
+September 1992
+January 1993
+May 1993
+September 1993
+January 1994
+May 1994
+September 1994
+January 1995
+May 1995
+September 1995
+January 1996
+May 1996
+September 1996
+January 1997
+May 1997
+September 1997
+January 1998
+May 1998
+September 1998
+January 1999
+May 1999
+September 1999
+160
+All admissions
+Hemorrhagic syndrome
+Civil war
+Arrival of
+new doctor
+Death of doctor
+and nurse
+Figure 3. Total Number of Admissions and Febrile Hemorrhagic Illnesses in the Watsa General Reference Hospital, January 1991 
+to September 1999.
+Diagnoses that were considered to be febrile hemorrhagic illnesses were “hemorrhagic fever,” “syndrome hémorragique de Durba” 
+(Durba hemorrhagic syndrome), and “hemorrhagic gastritis or gastroenteritis” if the symptoms included fever. Hospital admissions 
+declined after the only available local doctor and a nurse died with syndromes compatible with Marburg hemorrhagic fever in 1994 
+and again with the onset of the civil war in 1997.
+The New England Journal of Medicine
+Downloaded from nejm.org on May 26, 2024. For personal use only. 
+ No other uses without permission. Copyright © 2006 Massachusetts Medical Society. All rights reserved.
+The new engl and jour nal of medicine
+n engl j med 355;9 www.nejm.org august 31, 2006
+918
+The case fatality rate of Marburg hemorrhagic 
+fever was far greater in the area of Durba and 
+Watsa than in European outbreaks in 1967, in 
+which 7 of 32 patients died (22 percent), or cu-
+mulatively in the minor outbreaks in eastern and 
+southern Africa, in which 3 of 6 people died (50 
+percent), but was similar to rates reported for a 
+recent outbreak of Marburg hemorrhagic fever in 
+Angola and for outbreaks of the Zaire subtype of 
+Ebola virus infection.1-3,6,9,26,30 Possible explana-
+tions for the high case fatality rate in the area of 
+Durba and Watsa are limited access to sophisti-
+cated health care and the fact that many patients 
+had to be conveyed over 15 km of rough road from 
+Durba to a hospital in Watsa without motorized 
+transport. Other possible factors included a high 
+prevalence of underlying malnutrition, coinfections 
+(with malaria and human immunodeficiency vi-
+rus), and potential differences in infectious dose 
+or route of inoculation. (Most infections in Europe 
+were associated with contact with infected mon-
+keys.) Since infection with individual genetic lin-
+eages of virus could be confirmed in only a small 
+number of patients, a comparison of the virulence 
+of various strains cannot be made, but the high 
+overall death rate implies that the lineages were 
+uniformly lethal under the circumstances of the 
+outbreak.
+With the exception of recent outbreaks of Ebo-
+la hemorrhagic fever in Gabon and Congo, in 
+which multiple independent chains of transmis-
+sion resulted from contact with infected nonhu-
+man primates, molecular and epidemiologic data 
+from most filovirus outbreaks suggest the occur-
+rence of a single primary introduction or relatively 
+few primary introductions of infection into hu-
+mans, followed by propagation through human-
+to-human contact.31-37 In contrast, the evidence 
+from the area of Durba and Watsa suggests that 
+multiple, short, independent chains of human-
+to-human transmission occurred. This hypothe-
+sis is supported by evidence that at least nine 
+genetic lineages of virus circulated during the 
+outbreak, as well as the occurrence of identical 
+lineages within but not across clusters of epide-
+miologically linked cases (Fig. 2). Since labora-
+tory tests were applied to a minority of cases, 
+there could have been additional, undiscovered 
+lineages of virus.
+It is possible that mining was a confounding 
+variable for some other common exposure to in-
+fection. However, no other obvious commonality 
+between miners with Marburg hemorrhagic fever 
+could be elicited, and the association between 
+Marburg hemorrhagic fever and the Durba vil-
+lage, which extended over many years, ceased 
+abruptly with the closure of the Goroumbwa mine. 
+The perpetuation of multiple lineages of virus 
+over many years in a fixed location would require 
+a suitably large reservoir of a host population, 
+with constant recruitment of susceptible animals 
+through reproduction or migration. Generally, 
+only small vertebrate or invertebrate populations 
+fulfill these criteria. There were no large, wild 
+vertebrate populations in the vicinity of Durba, 
+and existing evidence suggests that large mam-
+mals are more likely to be dead-end hosts (or, 
+at most, intermediate hosts) for the filovirus-
+es.31,38-40 Primary infection with Marburg virus 
+was putatively linked to entry into the Kitum cave 
+on the slopes of Mt. Elgon in Kenya in two of the 
+four previously recorded outbreaks of Marburg 
+hemorrhagic fever.6,7 As in the Durba outbreak, 
+isolates in the 1980 and 1987 outbreaks in Kenya 
+span the known genetic diversity of Marburg vi-
+rus (Fig. 2), implying the existence of a long as-
+sociation of the virus with a reservoir host popu-
+lation in the cave. Thus, the cumulative evidence 
+suggests that the reservoir of Marburg virus in-
+habits or frequents caves and mines or similar 
+habitats.
+Supported by the Office of Foreign Disaster Assistance of the 
+U.S. Agency for International Development and the Department 
+of Communicable Disease Surveillance and Response, World 
+Health Organization, Geneva.
+No potential conflict of interest relevant to this article was 
+reported.
+This article is dedicated to Dr. Innocent Katenga Bonzali and 
+his family. Dr Bonzali died of Marburg hemorrhagic fever while 
+investigating the outbreak described here.
+We are indebted to the inhabitants, patients, families, health 
+care workers, leaders, and authorities of Durba–Watsa for their 
+invaluable contribution to the investigation and control of Mar-
+burg hemorrhagic fever in the area; to the administration of the 
+OKIMO mining company in Durba for their assistance during 
+the outbreak and subsequent investigations; and to Laura Mor-
+gan and Kent Wagoner for technical assistance in the prepara-
+tion of the manuscript. 
+appendix
+The following members of the International Scientific and Technical Committee for Marburg Hemorrhagic Fever Control in the Demo-
+cratic Republic of the Congo participated in the study: World Health Organization, Geneva — R. Arthur, A. Belli, G. Rodier; Institut de Méde-
+cine Tropicale du Service de Santé des Armées, Marseille, France — E. Bertherat; CDC, Atlanta — R. Downing, C.J. Peters, W.-J. Shieh; Barrick-OKIMO 
+Mining, Durba, Democratic Republic of the Congo — F. Chimbalanga, G. Kiza, C. Nakwa, P. Nbuluyo; World Health Organization, Kampala, 
+The New England Journal of Medicine
+Downloaded from nejm.org on May 26, 2024. For personal use only. 
+ No other uses without permission. Copyright © 2006 Massachusetts Medical Society. All rights reserved.
+marburg hemorrhagic fever with multiple genetic lineages
+n engl j med 355;9 www.nejm.org august 31, 2006
+919
+References
+Siegert R, Shu HL, Slenczka HL, Pe-
+ters D, Muller G. The aetiology of an un-
+known human infection transmitted by 
+monkeys (preliminary communication). 
+Ger Med Mon 1968;13:1-2.
+Martini GA, Knauff HG, Schmidt HA, 
+Mayer G, Baltzer G. A hitherto unknown 
+infectious disease contracted from mon-
+keys: “Marburg-virus” disease. Ger Med 
+Mon 1968;13:457-70.
+Todorovitch K, Mocitch M, Klasnja R. 
+Clinical picture of two patients infected 
+by the Marburg vervet virus. In: Martini 
+GA, Siegert R, eds. Marburg virus disease. 
+Berlin: Springer-Verlag, 1971:19-23.
+Feldmann H, Slenczka W, Klenk HD. 
+Emerging and reemerging of filoviruses. 
+Arch Virol Suppl 1996;11:77-100.
+Gear JS, Cassel GA, Gear AJ, et al. 
+Outbreak of Marburg virus disease in Jo-
+hannesburg. Br Med J 1975;4:489-93.
+Smith DH, Johnson BK, Isaacson M, 
+et al. Marburg-virus disease in Kenya. Lan-
+cet 1982;1:816-20.
+Johnson ED, Johnson BK, Silverstein D, 
+et al. Characterization of a new Marburg 
+virus isolated from a 1987 fatal case in 
+Kenya. Arch Virol Suppl 1996;11:101-14.
+Nikiforov VV, Turovskii Iu I, Kalinin 
+PP, et al. A case of a laboratory infection 
+with Marburg fever. Zh Mikrobiol Epide-
+miol Immunobiol 1994;3:104-6. (In Rus-
+sian.)
+Outbreak of Marburg virus hemor-
+rhagic fever — Angola, October 1, 2004–
+March 29, 2005. MMWR Morb Mortal 
+Wkly Rep 2005;54:308-9.
+Bertherat E, Talarmin A, Zeller H. 
+Democratic Republic of the Congo: be-
+tween civil war and the Marburg virus. Med 
+Trop (Mars) 1999;59:201-4. (In French.)
+Biot M. Tribute to Dr. Katenga Bon-
+zali. Trop Med Int Health 2000;5:384.
+Marburg fever, Democratic Republic 
+of the Congo. Wkly Epidemiol Rec 1999;
+74:145.
+Viral haemorrhagic fever/Marburg, 
+Democratic Republic of the Congo. Wkly 
+Epidemiol Rec 1999;74:157-8.
+Colebunders R, Sleurs H, Pirard P, et 
+al. Organisation of health care during an 
+outbreak of Marburg haemorrhagic fever 
+in the Democratic Republic of Congo, 
+1999. J Infect 2004;48:347-53.
+Ksiazek TG, West CP, Rollin PE, Jahr-
+ling PB, Peters CJ. ELISA for the detection 
+of antibodies to Ebola viruses. J Infect Dis 
+1999;179:Suppl 1:S192-S198.
+Ksiazek TG, Rollin PE, Williams AJ, et 
+al. Clinical virology of Ebola hemorrhagic 
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+11.
+12.
+13.
+14.
+15.
+16.
+fever (EHF): virus, virus antigen, and IgG 
+and IgM antibody findings among EHF 
+patients in Kikwit, Democratic Republic 
+of the Congo, 1995. J Infect Dis 1999;179:
+Suppl 1:S177-S187.
+Sanchez A, Ksiazek TG, Rollin PE, et 
+al. Detection and molecular characteriza-
+tion of Ebola viruses causing disease in 
+human and nonhuman primates. J Infect 
+Dis 1999;179:Suppl 1:S164-S169.
+Geisbert TW, Jaax NK. Marburg hem-
+orrhagic fever: report of a case studied by 
+immunohistochemistry and electron mi-
+croscopy. Ultrastruct Pathol 1998;22:3-17.
+Borchert M, Muyembe-Tamfum JJ, Cole-
+bunders R, Libande M, Sabue M, Van Der 
+Stuyft P. Short communication: a cluster 
+of Marburg virus disease involving an in-
+fant. Trop Med Int Health 2002;7:902-6.
+Bwaka MA, Bonnet MJ, Calain P, et al. 
+Ebola hemorrhagic fever in Kikwit, Dem-
+ocratic Republic of the Congo: clinical 
+observations in 103 patients. J Infect Dis 
+1999;179:Suppl 1:S1-S7.
+Stille W, Bohle E. Clinical course and 
+prognosis of Marburg virus (“green mon-
+key”) disease. In: Martini GA, Siegert R, 
+eds. Marburg virus disease. Berlin: Spring-
+er-Verlag, 1971:10-8.
+Egbring R, Slenczka W, Baltzer G. 
+Clinical manifestations and mechanism 
+of the haemorrhagic diathesis in Marburg 
+virus disease. In: Martini GA, Siegert R, 
+eds. Marburg virus disease. Berlin: Spring-
+er-Verlag, 1971:42-9.
+Bausch DG, Borchert M, Grein T, et al. 
+Risk factors for Marburg hemorrhagic fe-
+ver, Democratic Republic of the Congo. 
+Emerg Infect Dis 2003;9:1531-7.
+Monath TP. Ecology of Marburg and 
+Ebola viruses: speculations and directions 
+for future research. J Infect Dis 1999;179:
+Suppl 1:S127-S138.
+Borchert M, Mulangu S, Swanepoel R, 
+et al. Serosurvey on household contacts of 
+Marburg patients. Emerg Infect Dis 2006;
+12:433-9.
+Khan AS, Tshioko FK, Heymann DL, 
+et al. The reemergence of Ebola hemor-
+rhagic fever, Democratic Republic of the 
+Congo, 1995. J Infect Dis 1999;179:Suppl 
+1:S76-S86.
+Outbreak of Ebola hemorrhagic fe-
+ver, Uganda, August 2000–January 2001. 
+MMWR 
+Morb 
+Mortal 
+Wkly 
+Rep 
+2001;50:73-
+7.
+Ebola haemorrhagic fever in Sudan, 
+1976: report of a WHO/International Study 
+Team. Bull World Health Organ 1978;56:
+247-70.
+17.
+18.
+19.
+20.
+21.
+22.
+23.
+24.
+25.
+26.
+27.
+28.
+Pattyn S, van der Groen G, Courteille 
+G, Jacob W, Piot P. Isolation of Marburg-
+like virus from a case of haemorrhagic 
+fever in Zaire. Lancet 1977;1:573-4.
+Ebola haemorrhagic fever in Zaire, 
+1976. Bull World Health Organ 1978;56:
+271-93.
+Leroy EM, Rouquet P, Formenty P, et al. 
+Multiple Ebola virus transmission events 
+and rapid decline of central African wild-
+life. Science 2004;303:387-90. [Erratum, 
+Science 2004;303:628.]
+Bausch DG, Rollin PE. Responding to 
+epidemics of Ebola hemorrhagic fever: 
+progress and lessons learned from recent 
+outbreaks in Uganda, Gabon, and Congo. 
+In: Scheld WM, Murray BE, Hughes JM, 
+eds. Emerging infections 6. Washington, 
+D.C.: ASM Press, 2004:35-57.
+Rodriguez LL, De Roo A, Guimard Y, 
+et al. Persistence and genetic stability of 
+Ebola virus during the outbreak in Kikwit, 
+Democratic Republic of the Congo, 1995. 
+J Infect Dis 1999;179:Suppl 1:S170-S176.
+Georges AJ, Leroy EM, Renaut AA, et 
+al. Ebola hemorrhagic fever outbreaks in 
+Gabon, 1994-1997: epidemiologic and 
+health control issues. J Infect Dis 1999;
+179:Suppl 1:S65-S75.
+Leroy EM, Baize S, Mavoungou E, Ape-
+trei C. Sequence analysis of the GP, NP, 
+VP40 and VP24 genes of Ebola virus iso-
+lated from deceased, surviving and asymp-
+tomatically infected individuals during the 
+1996 outbreak in Gabon: comparative stud-
+ies and phylogenetic character 
+ization. J Gen 
+Virol 2002;83:67-73.
+Leroy EM, Souquiere S, Rouquet P, 
+Drevet D. Re-emergence of Ebola haemor-
+rhagic fever in Gabon. Lancet 2002;359:
+712.
+Towner JS, Rollin PE, Bausch DG, et 
+al. Rapid diagnosis of Ebola hemorrhagic 
+fever by reverse transcription-PCR in an 
+outbreak setting and assessment of pa-
+tient viral load as a predictor of outcome. 
+J Virol 2004;78:4330-41.
+Formenty P, Boesch C, Wyers M, et al. 
+Ebola virus outbreak among wild chim-
+panzees living in a rain forest of Cote 
+d’Ivoire. J Infect Dis 1999;179:Suppl 1:
+S120-S126.
+Walsh PD, Abernethy KA, Bermejo M, 
+et al. Catastrophic ape decline in western 
+equatorial Africa. Nature 2003;422:611-4.
+Peterson AT, Bauer JT, Mills JN. Eco-
+logic and geographic distribution of filo-
+virus disease. Emerg Infect Dis 2004;10:
+40-7.
+Copyright © 2006 Massachusetts Medical Society.
+29.
+30.
+31.
+32.
+33.
+34.
+35.
+36.
+37.
+38.
+39.
+40.
+Uganda — M. Grabowsky, K. Khantaway; Ministry of Health, Kinshasa, Democratic Republic of the Congo — M.N. Kassa; World Health Organiza-
+tion, Kinshasa/Kisangani, Democratic Republic of the Congo — L. Kinuani; World Health Organization, Harare, Zimbabwe — K.M. Kondé, O. To-
+mori; Médecins sans Frontières, Belgium — J.-P. Mustin; Institut Pasteur, Cayenne, French Guiana — A. Talarmin; and Uganda Virus Research Institute, 
+Entebbe, Uganda — B. Tugume.
+The New England Journal of Medicine
+Downloaded from nejm.org on May 26, 2024. For personal use only. 
+ No other uses without permission. Copyright © 2006 Massachusetts Medical Society. All rights reserved.
+

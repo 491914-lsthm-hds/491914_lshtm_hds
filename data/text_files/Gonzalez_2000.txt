@@ -1,0 +1,642 @@
+Ebola and Marburg virus antibody
+prevalence in selected populations of the Central
+African Republic
+Jean Paul Gonzaleza*, Emmanuel Nakouneb, Werner Slenczkac, Pierre Vidald, Jacques M. Morvanb
+aInstitut Français de Recherche Scientiﬁque pour le Développement en Coopération IRD-Orstom, Paris,
+France and Mahidol University at Salaya, Nakhonpathom 73170, Thailand
+bLaboratoire des Arbovirus et des virus des Fièvres Hemorragiques, Institut Pasteur,
+BP 923 Bangui, Central African Republic
+cInstitute für Virologie, Marburg, Germany
+dMinistère des Affaires Etrangères, Paris, France
+(Received 4 January 1999; accepted 30 September 1999)
+ABSTRACT – With the natural history of the ﬁlovirus family seemingly unknown, ﬁlovirus ecology
+in its natural environment remains a rudimentary ﬁeld of research. In order to investigate the
+maintenance cycle of ﬁlovirus in Central Africa, a study was conducted within the rain forest of the
+Central African Republic. The epidemiological study determines the frequency and distribution of
+ﬁlovirus seroprevalence in a selected human population. Using an ELISA, serum samples from Pygmy
+and non-Pygmy populations were tested for Ebola-Zaire virus and Marburg (MBG) virus antibody.
+Filovirus antibody reacting sera were found in all zones investigated, and in all populations studied
+(Ebola virus IgG 5.3%; Marburg virus IgG 2.4%). Pygmies appeared to have a signiﬁcantly higher
+seroprevalence (P < 0.03) against Ebola-Zaire virus (7.02%) than non-Pygmies (4.2%). MBG virus or
+related unknown ﬁlovirus strains also seem to be present in the western part of Central Africa. MBG
+virus antibodies were present in different Pygmy groups (ranging from 0.7 to 5.6%, mean 2.05%) and
+in several non-Pygmy populations (ranging from 0.0 to 3.9%, mean 3.4%) without an overall
+signiﬁcant difference between the two groups (P = 0.14). The potentialities of nonpathogenic ﬁlovirus
+strains circulating in the Central African Republic are discussed. © 2000 Éditions scientiﬁques et
+médicales Elsevier SAS
+Ebola virus / Marburg virus / Central African Republic / serology / ecology
+1. Introduction
+Since the discovery of the ﬁloviruses more than three
+decades ago, their natural maintenance cycle remains
+poorly deﬁned. Ebola (EBO) virus epidemics occurred in
+Sudan in 1976, 1979 and 1995, in the Democratic Repub-
+lic of the Congo (DRC, former Zaire) in 1976 and 1995 [1,
+2], and in Gabon in 1994 to 1996 [3]. These countries
+shared the same history of human migration and contem-
+porary lifestyle with their neighboring country, the Central
+African Republic (CAR). Up until now CAR has been
+spared, but it is exposed to EBO virus emergence: Nzara,
+the village and cotton factory where the ﬁrst Sudanese
+EBO outbreak occurred, lies 150 km from the CAR border,
+in the same savanna-forest mosaic zone that covers one
+third of CAR [4]. Less than 150 km south of the Oubangui
+River, which is the natural border between northern DRC
+and CAR, are the villages of Yambuku and Tandala, where
+the ﬁrst Zairian EBO infections took place [1, 5]. Both
+villages are part of the large phytogeographical zone of the
+Congolese rain forest that extensively covers the southern
+part of CAR. Cultural and environmental similarities,
+along with the proximity of previous EBO virus manifesta-
+tions, favored the choice of CAR as a study site for ﬁlovirus
+ecology. Another factor of the choice was the similarity of
+CAR’s ecological domain with that of Uganda, which was
+the country of origin of the monkeys exported to Europe in
+1967 and the source of the ﬁrst Marburg (MBG) virus
+outbreak and of the virus’ isolation [6]. It is clear that EBO
+* Correspondence and reprints
+Microbes and Infection, 2, 2000, 39−44
+© 2000 Éditions scientiﬁques et médicales Elsevier SAS. All rights reserved
+Microbes and Infection
+2000, 39-44
+39
+virus is present in CAR: as early as 1979, ﬁlovirus serologi-
+cal markers were detected by immunoﬂuorescence anti-
+body test and radioimmunoassay in the human population
+of CAR [7-10]. In the 1980s, several research programs on
+ﬁlovirus epidemiology were carried out in a collaborative
+effort between the Institut Pasteur, Bangui, the Centers for
+Disease
+Control,
+the
+United
+States
+Army
+Medical
+Research Institute for Infectious Diseases, in Fort Detrick
+and the Organisation de Coordination pour la lutte contre
+les grandes endémies en Afrique Centrale, Yaoundé [10-
+12].
+In order to investigate the potential of active circulation
+of ﬁlovirus in CAR, study sites and study populations were
+identiﬁed in the Lobaye district, where high ﬁlovirus sero-
+prevalence was previously detected [9, 12]. A three-phase
+strategy was then established for 1) determining the
+human population at risk of ﬁlovirus infection, 2) identify-
+ing the potential risks factors associated with subsistence
+activities such as hunting and gathering products from the
+forest, and 3) identifying potential reservoir hosts of the
+virus in nonprimates, rodents, bats and their ectoparasites.
+Here we report a ﬁrst phase of an ongoing research pro-
+gram for ﬁlovirus ecology in CAR, and present our ﬁndings
+on an ELISA serosurvey principally of the Lobaye district’s
+human populations as well as other pilot studies.
+2. Materials and methods
+2.1. Study area
+A mixture of preforest grassland and Congolese rain
+forest covers the Lobaye district (ﬁgure 1). It is a primary
+semi-deciduous, dense rain forest, which was long ago
+transformed by man, and is now partly exploited by man
+(logging, farming in clearings) and damaged along the
+roads and logging trails. The Pygmy camps (Sangoumbe,
+Sakoungbou and Mogboto) and non-Pygmy villages
+(Gouga village) we studied are located in a remote forest
+area (3°38 N, 18°03 E) 120 km south of Bangui, near the
+Oubangui River and south of one of its major tributaries,
+the Lobaye River. The Gouga villages are located about
+two km from the Oubangui River and the Congo’s (Braz-
+zaville) border.
+The sera were collected in November 1995 at the
+beginning of the dry season, which lasts about four
+months.
+In order to compare similar human populations and
+environments to that of Lobaye, four series of serum
+samples were also collected and tested. Sera were
+obtained from Belemboke (3°12 N, 16°15 E) in December
+1992 and November 1994, and from Nola (3°52 N 16°08
+E) in December 1995 – both located in the Dzanga-
+Sangha district, 400 km southwest of Bangui. The two
+locations are secondary forest areas degraded by agricul-
+tural activities. The other set of sera was collected in
+October 1996, in a non-Pygmy population from Bangas-
+sou (4°41 N, 22°48 E, Mbomou district), located 500 km
+east of Bangui. Bangassou belongs to the forested savanna,
+with forest galleries at the edge of the rain forest.
+2.2. Study population
+Residents of the study regions are for the most part
+either farmers belonging to Bantu, Banda, or Oubanguian
+language groups, or hunter-gatherers (Pygmies) called
+Figure 1. Map of the Oubangui and Lobaye River conﬂuent showing the main study sites, Central African Republic. The map insets show
+the location of Lobaye District within the Central African Republic.
+Original article
+Gonzalez et al.
+40
+Microbes and Infection
+2000, 39-44
+BaAka group (or Aka). This ethnic group distribution
+extends across the border of CAR into the northern part of
+the Congo and partially into southeastern Cameroon [13].
+In the Lobaye district, three groups of Pygmy Aka camps
+(Sangoumbe, Sakoungbou and Mogboto) and a village
+group (Gouga village) were investigated. Pygmy camps
+are seasonal (three to six months) but each campsite can
+be occupied for an interval throughout the year. Each
+primary camp is composed of three to ﬁve secondary
+camps units, each unit consisting of three to ﬁve primary
+families from the same lineage, living in huts made of
+leaves and lianas. Sangoumbe is located in a forest clear-
+ing, 3 km north of Gouga. Sakoungbou’s camps are along
+a logging trail, near the Lobaye River. Mogboto is 10 km
+west of Sakoungbou in a forest clearing. Despite increas-
+ing contact with the villagers living in the forest, most of
+the Pygmies from that area have preserved a characteristic
+seminomadic lifestyle based on hunting and gathering rain
+forest natural resources. Villagers belong to Mbati tribe
+(Bantu-speaking) and the remainder to the Mbanza and
+Ngbundu tribes (Banda-speaking). Less than one kilometer
+away, the Gouga village is a typical village of the Central
+African forest: 34 primary families (384 individuals) living
+in mud huts covered with woven palm tree leaves. Dwell-
+ings are located on both sides of a narrow dirt road on the
+shaded rain forest. They practice subsistence farming
+(manioc, banana, coffee, yam), hunting (monkey, duiker,
+antelope) and limited trapping (rodent, hedgehog) and
+ﬁshing.
+In Belemboke and Nola zones, a sedentary Pygmy
+population living nearby in a missionary compound
+seemed to have shifted from hunter-gatherers to subsis-
+tence farmers. In the region of Bangassou, only the non-
+Pygmy population was sampled.
+2.3. Blood collection
+A 10-cm3 blood specimen was obtained using vacu-
+tainer (Becton Dickinson, France) from each volunteer as
+previously described [9]. Blood was centrifuged on site
+and sera kept in cryovials in a liquid nitrogen tank. An
+interview form was completed which documented indi-
+vidual demographic data (name, estimated age, sex, par-
+ents, residence, ethnic group), occupation and means of
+subsistence.
+2.4. Filovirus antigen preparation
+ELISA antigens were prepared at the Institute für Virolo-
+gie, in Marburg. Virus strains and the techniques were
+those in use at the Institute für Virologie and described in
+detail elsewhere [14, 15]. Brieﬂy, EBO-Zaire virus (May-
+inga strain) and MBG virus (Musoke strain) were grown in
+E6-Vero cells. Centrifugation and ﬁltration (200-kDa ﬁlter)
+cleared supernatant from infected cell culture. Virus was
+then concentrated by precipitation and sucrose/tartrate
+gradient ultracentrifugation. The concentrated virus was
+then inactivated by B-propiolactone. The ﬁnal product
+was sonicated and used as positive antigen after dilution in
+carbonate buffer for coating microplates. The control anti-
+gen, uninfected E6-Vero cell supernatant, was prepared
+following
+an
+identical
+procedure
+(centrifugation,
+B-propiolactone inactivation, and sonication).
+2.5. ELISA
+Tests were performed at the Institut Pasteur of Bangui
+using a direct ELISA test for immunoglobulin G (IgG)
+detection as described by Ksiazek [16]. Brieﬂy: polysty-
+rene microplaques were used (Immulon II, Dynatech
+Laboratories, Alexandria, VA USA) and directly coated at
+4 °C overnight with a suspension of the EBO antigen and
+the control antigen. Sera were diluted 1:100 in 5% skim
+milk in 0.01 M phosphate-buffered saline with 0.5%
+Tween-20 and subsequently through 1:6 400 in fourfold
+dilution in microplates. Each sample was tested against
+EBO antigen and control antigen. Speciﬁc IgG binding
+was revealed by an antihuman immunoglobulin G
+(Kirkegaard and Perry, Gaithersburg, MD) conjugated to
+horseradish peroxydase. After adding a chromogenic sub-
+strate, the optical density was measured at 450 nm using a
+spectrophotometer (LP 2100, SanoﬁDiagnostics Pasteur).
+Differential optical density (DOD) for each dilution was
+calculated by subtracting the optical density (OD)
+obtained with the control antigen from the OD of the EBO
+antigen. The cutoff value was deﬁned by using a mean OD
++ 2 SD from known negative control sera. Any DOD
+greater than 0.300 was regarded as positive. Serum speci-
+mens were considered positive if their titer was ≥1:400
+and the sum of the OD of all four dilutions was greater
+than 1.000.
+3. Results
+Serological evidence of EBO virus and MBG virus
+circulation was found in all zones investigated: 5.3%
+(71/1331) of the population were seropositive for EBO
+virus IgG antibodies, while only 2.4% (33/1340) were
+seroreactive with MBG virus antigen.
+In the Lobaye district, EBO and MBG virus reacting
+antibodies were detected in each village and camp inves-
+tigated (tables I and II). Although the sample size was not
+always sufficient to obtain statistical signiﬁcance, some
+trends were still observed. The Aka Pygmy population
+including the three camps of Sakoungbou, Sangoumbe
+and Mogboto consistently showed higher antibody preva-
+lence against both EBO-Zaire (13.2%) and MBG (5.2%)
+viruses than the non-Pygmy villagers (respectively, 4.0 and
+0.0%). EBO virus antibody prevalence observed among
+Pygmy females was higher (15.3%) than that of males
+(10.9%) but not statistically signiﬁcant (Chi2, P = 0.15).
+However, among Pygmies, EBO virus antibody preva-
+lence was signiﬁcantly higher among the 21–30 age group
+(P < 0.05) (data not shown). MBG virus antibodies were
+found exclusively in the Pygmy population (5.2%). Among
+the Pygmies, males were more likely to present a higher
+rate of MBG antibody prevalence (7.5%) than females
+(3.1%) (P < 0.05).
+In the other investigated areas (table III), a higher EBO
+virus antibody seroprevalence was also observed in the
+Pygmy population than in villagers. Pygmies living in
+Belemboke presented an increasing EBO virus antibody
+prevalence between 1992 and 1994 (P = 0.003) without
+clinical manifestation. In the non-Pygmy population living
+Ebola and Marburg virus antibody prevalence
+Original article
+Microbes and Infection
+2000, 39-44
+41
+in Nola and Bangassou, EBO virus seroprevalence was
+similar to that of the same population group of the Lobaye
+district. MBG antibody prevalence was higher in farmers
+than in the Pygmy group of Belemboke.
+In this study, only 4/1331 serum samples had both EBO
+virus and MBG virus antibody (table IV), suggesting dual
+infections. As a control, 68 coded serum samples (14 EBO
+virus reactive and 54 nonreactive) were sent to the Centers
+for Disease Control (Special Pathogens Branch, Dr T.
+Ksiazek), Atlanta to be expertised and tested against EBO-
+Zaire, EBO-Sudan, and EBO-Ivory Coast antigens. All
+results were conﬁrmed, and only one serum sample was
+found double reacting EBO-Zaire-positive (1:1,600) and
+EBO-Sudan (1:400)-positive.
+4. Discussion
+Seroepidemiological studies help to understand the
+transmission cycle. A determining factor lies in the tech-
+niques used. The limitations of indirect immunoﬂuores-
+cent assay were recognized early [17]. ELISA technique
+for the detection of IgG EBO virus antibodies has recently
+been recommended by several authors [18, 19] and com-
+bined a better speciﬁcity and a high sensibility. In this
+study, we used EBO-Zaire as antigen in the ELISA tech-
+nique and we have observed a very low rate of cross-
+reactivity with the three other subtypes of EBO virus and
+only 0.3% of reactive sera showed a dual positivity EBO-
+MBG. These ﬁndings suggest that EBO virus circulating in
+CAR is more likely a Central African EBO-Zaire-like virus.
+From previous EBO virus clinical and serological sur-
+veys done in Central Africa [8–11] studying the geographi-
+cal distribution of EBO virus infection [14, 15, 17], and the
+present data, it appears that EBO viruses circulated in
+Africa between the 1 500 isohyet north and south of the
+equator, which corresponds to the limits of the rain forest/
+forested savanna domain. The EBO virus strain from the
+Taï forest of Ivory Coast has been found in the same
+Table I. Ethnic and sex distribution of Ebola virus reacting antibodies (IgG EBO, ELISA ≥1:400) in Lobaye district,
+CAR.
+Ethnic group and location
+Total samples
+Male
+Female
+Total (%)
+Pygmies
+Sangoumbe
+51
+2/23*
+4/28
+6(13.3)
+Sakoungbou
+48
+4/24
+4/24
+8(16.6)
+Mogboto
+91
+4/45
+7/46
+11(12.1)
+Subtotal
+190
+10/92 (10.9)**
+15/98 (15.3)
+25(13.2)
+Bantus
+Gouga
+50
+0/26
+2/24
+2(4.0)
+* pos/total; ** sexe; P = 0.15.
+Table II. Ethnic and sex distribution of MBG virus reacting antibodies (IgG MBG, ELISA ≥1:400) in Lobaye district,
+CAR.
+Ethnic group and location
+N sera
+Male
+Female
+Total (%)
+Pygmies
+Sangoumbe
+52
+2/24*
+2/28
+4(7.7)
+Sakoungbou
+48
+1/24
+0/24
+1(2.1)
+Mogboto
+91
+4/45
+1/46
+5(5.6)
+Subtotal
+191
+7/92 (7.5)*
+3/98 (3.1)
+10(5.2)
+Bantus
+Gouga
+50
+0/26
+0/24
+0(0.0)
+* pos/total (percentage).
+Table III. EBO virus and MBG virus antibody prevalence (ELISA ≥1:400) in inhabitants of Belemboke, Nola, and
+Bangassou.
+Location
+EBO
+MBG
+Pygmies
+Villagers
+Pygmies
+Villagers
+Belemboke 1992
+7/361(1.9)*
+–
+3/361(0.8)
+–
+Belemboke 1994
+16/132(12.1)
+3/98(3.1)
+1/130(0.7)
+2/98(2.0)
+Bangassou 1995
+–
+8/226(3.6)
+–
+9/236(3.9)
+Nola 1995
+–
+10/274(3.7)
+–
+8/274(3.3)
+* pos/total (percentage).
+Original article
+Gonzalez et al.
+42
+Microbes and Infection
+2000, 39-44
+ecological zone as its most closely genetically related
+EBO-Zaire strain [20]. The limited divergence between
+the two strains and their association within the same
+forested zone may suggest a common origin, since the
+Ivorian forested massif was at one time part of the Congo-
+lese rain forest from which it became separated during the
+last glaciation (16 000 years ago). Because of the phyto-
+geographical composition of CAR and its relatedness to
+the emergence zones of EBO virus, this country is believed
+to host a seat of ﬁlovirus circulation.
+Our present study done in human populations living in
+forested areas of CAR has bought to the fore two main
+observations: 1/ active circulation of ﬁlovirus without
+apparent clinical manifestations; 2/ potential association
+of ﬁlovirus infection and a speciﬁc lifestyle.
+This study performed in forested areas showed that the
+Pygmy population of CAR living in camps appeared to be
+more at risk to ﬁlovirus infection than sedentary villagers.
+However no trend of seropositivity was observed for Pyg-
+mies living in camps in the deep forest compared to those
+living near a road, where local trade with villagers resulted
+in reduced contact with the forest for subsistence activi-
+ties. Pygmies from Lobaye and Belemboke appeared to
+have the same seroprevalence over recent years. Each of
+the non-Pygmy sample population involved in subsistence
+farming and trading activities presented the same EBO
+virus antibody prevalence. One ﬁnding was the presence
+of signiﬁcant MBG virus antibodies in the population of
+CAR. In accordance with previous ﬁndings [9, 14, 15], this
+unusually high antibody prevalence suggests a circulation
+of MBG virus or MBG-like virus within that part of Central
+Africa situated in the same ecological zone as the sus-
+pected Ugandese origin of the MBG virus. MBG virus
+seroprevalence was signiﬁcantly higher (P > 0.05) for the
+Pygmy population of the Lobaye than for the one of
+Belemboke, a situation which remains unexplained.
+The forest origin of the potential reservoir of EBO virus
+is supported by serosurvey among human populations,
+although epidemic outbreak occurred in the forest-
+savanna ecotone in Sudan, DRC and Gabon. If the risk is
+present in two different ecosystems, research for detection
+of the reservoir must be not limited to rain forest but
+investigations need to be extended to forest-savanna eco-
+tone.
+Clinical cases of EBO virus infection are rare and could
+suggest that risk of human infection from the host reservoir
+is low, but serologic results indicate that exposure to EBO
+virus is not uncommon and didn’t always result in obvious
+human disease. Previous observations and studies using
+different laboratory techniques suggested that unknown
+ﬁloviruses with variable pathogenicity might exist in dif-
+ferent
+parts
+of
+the
+world [14].
+The
+hypothesis
+of
+Monath [21] is that pathogenic strains have independent
+transmission cycles involving host species rarely in con-
+tact with humans, or they emerge from nonpathogenic
+strains by mutational events. Humans could select virulent
+strain from the reservoir. On the basis of rates of EBO virus
+antibody seroprevalence observed, the hypothesis of the
+circulation of nonpathogenic EBO virus strains seems to
+be the more favorable one. It is possible that the ﬁloviruses
+represent a diverse complex of nonvirulent enzootic
+strains and virulent variants, which emerge from the
+enzootic cycle. Moreover, the existence of EBO-Reston
+and EBO-Ivory Coast viruses isolated from primates and
+highly pathogenic for chimpanzees but nonfatal for man
+(although the number of human infections is small), sug-
+gests that other ﬁloviruses with suspected lower human
+pathogenicity exist and infect primates in the natural envi-
+ronment [14, 20]. During a ﬁve-year project on clinical
+epidemiological survey in CAR, neither clinical syn-
+dromes nor outbreaks mimicking either EBO virus or MBG
+virus infection where recorded. Moreover during a four-
+year serosurvey of a cohort of 200 persons conducted in
+CAR, in fourteen instances seroconversions against EBO-
+Zaire virus without clinical manifestation were detected
+(J.P. Gonzalez and E.D. Johnson, unpublished data).
+Our observations suggest that populations of CAR have
+been in contact with EBO virus and MBG virus previously.
+EBO virus distribution in Central Africa appears limited to
+a distinct ecosystem geographically associated within the
+rain forest belt extending to forest-savanna ecotone. This
+observation will help to select animal collection sites to
+elucidate the EBO virus natural reservoir(s). Finally, epi-
+demics seem to be related more to human behavior, which
+increases risk of contact with the reservoir than to the
+emergence of a highly pathogenic strain. However EBO
+virus strains circulate in the rain forest and, with man’s
+intrusion, could led to infection. In a rare event, which has
+not been yet discovered, a highly pathogenic strain can
+strike
+and
+cause
+subsequent
+outbreak.
+Differences
+between communities living in forest regions, such as
+habitat, human activities, and agricultural practices, may
+modify the risk of infection.
+MBG virus antibodies were present in different Pygmy
+groups with an antibody seroprevalence ranging from 0.7
+to 5.6% (mean 2.05%), but also in several non-Pygmy
+populations (0.0 to 3.9%, mean 3.4%). No signiﬁcant
+difference was recorded between the two groups (P =
+0.14). MBG virus or related unknown ﬁlovirus strains also
+seem to be present in the western part of Central Africa and
+Table IV. Comparative antibody titer (ELISA) of EBO virus and MBG virus antigen dual reactive sera from the Lobaye
+district, CAR.
+Location
+Ref sera
+TiterEBO
+Titer MBG
+Belemboke 1994
+B33
+6400
+400
+Nola 1995
+229T08
+400
+400
+Lobaye
+LB33
+1600
+400
+Lobaye
+LB94
+6400
+400
+Ebola and Marburg virus antibody prevalence
+Original article
+Microbes and Infection
+2000, 39-44
+43
+infect humans. However it probably persists in a different
+selvatic cycle than EBO virus with respect to its apparent
+extension from Central to East Africa and a very low
+seroprevalence is encountered [9, 11].
+Acknowledgments
+Dr Joel Breman, Fogarty Fundation, and Dr E.D.
+Johnson for their advices and constant support. Drs T.
+Ksiazek and P. Rollin, Centers for Disease Control, Atlanta,
+for the control of sera. J.M. Diemer, CAR Health Ministry
+for his expertise and collaboration on the ﬁeld. B. Selekon,
+Institut Pasteur, Bangui, for his contribution in the labora-
+tory investigation. This work was supported by a grant of
+the European Union (STD-3/TS3CT94–0286), the Institut
+Pasteur de Bangui and by the IRD. Informed consent was
+obtained from the patients (NIH and CAR national ethic
+committee guidelines).
+References
+[1] Pattyn S.R. Ebola virus haemorrhagic fever, (Ed.), Elsevier/
+North Holland Biomedical Press, Amsterdam, 1978.
+[2] Muyembe-Tamfum J.J., Kipasa M . , International Scien-
+tiﬁc and Technical Committee, and WHO Collaborating
+Center for haemorrhagic fever in Kikwit, Zaire, Lancet 345
+(1995) 1448.
+[3] Georges A.J., Leroy, E.B., Renaut, A.A., Telvi-Benissan,
+C., Nabias, R.J., Ngoc, M.T., Obiang, P.I., Mba-Bekale, S.,
+Bertherat, E.J., Benoni, D.D., White, L.J.T., Wickings,
+E.J., Amblard, J.P., Lansound-Soukate, J.M., Baize, S.P.,
+Georges-Courbot, M., C ., Ebola hemorrhagic fever out-
+breaks in Gabon, 1994-1997. Epidemiologic and health
+control issues, J. Infect. Dis. 179 (1999) (suppl 1) S65–S75.
+[4] Boulvert Y., Notice explicative: Carte phytogéographique
+de la République Centrafricaine, Orstom, Paris, 1987.
+[5] Heymann D.L., Weisfeld J.S., Webb P.A., Johnson K.M.,
+Cairns T., Berquist H., Ebola hemorrhagic fever: Tandala,
+Zaire, 1977-1978, J. Infect. Dis. 182 (1980) 372–376.
+[6] Martini G.A., Siegert R., Marburg virus disease, 1st edn,
+Springer, New York, 1971.
+[7] Saluzzo J.F., Gonzalez J.P., Georges A.J., Johnson K.M.,
+Preliminary note on the presence of antibodies to Ebola
+virus in the human population in the eastern part of the
+Central African Republic, Bull. Soc. Path. Exo. 73 (1980)
+238–241.
+[8] Johnson K.M., Scribner C.L., McCormick J.B., Ecology of
+Ebola virus: a ﬁrst clue?, J. Infect. Dis. 143 (1981)
+749–751.
+[9] Gonzalez J.P., McCormick J.B., Saluzzo J.F., Georges A.J.,
+Les ﬁèvres hémorragiques africaines d’origine virale en
+République Centrafricaine, Cah Orstom, Ser. Ent. Med.
+Parasit. 21 (1983) 119–130.
+[10] Gonzalez J.P., Josse R., Johnson E.D., Merlin M., Georges
+A.J., Abanda J., Danyod M., Delaporte E., Dupont A.,
+Ghogomu A., Kouka-Bemba D., Madelon M.C., Sima A.,
+Meunier D.M.Y., Antibody prevalence against haemor-
+rhagic fever viruses in randomized representative central
+african populations, Res. Virol. (Ann. Inst. Pasteur) 140
+(1989) 319–331.
+[11] Johnson E.D., Gonzalez J.P., Georges A.J., Hemorrhagic
+fever virus activity in equatorial Africa: distribution of
+ﬁlovirus reactive antibody in the Central African Republic,
+Trans. Roy. Soc. Trop. Med. Hyg. 87 (1993) 530–532.
+[12] Johnson E.D., Gonzalez J.P., Georges A.J., Filovirus activ-
+ity among selected ethnic group inhabiting the tropical
+forest of equatorial Africa, Trans. Roy. Soc. Trop. Med.
+Hyg. 87 (1993) 532–535.
+[13] Bahuchet S., Food supply uncertainty among the Aka Pyg-
+mies (Lobaye, Central African Republic), in: Garine, Har-
+rison (Eds.), Coping with uncertainty in food supply, Clar-
+endon Press, Oxford, pp. 118–149.
+[14] Becker S.H., Feldmann H., Slenczka W., Evidence for
+occurence of ﬁlovirus antibodies in humans and imported
+monkeys, Med. Microbiol. Immunol. 184 (1992) 43–45.
+[15] Slenczka W., Rietschel M., Hoffmann C., Sixl W., Seropi-
+demiologische unteersuchungen über das vorkommen von
+antikörpen gegen Marburg und Ebola virus in Afrika, Mitt.
+Oesterr. Ges. Tropenmed. Parasitol. 6 (1984) 53–60.
+[16] Ksiazek T.G., West C.P., Rollin P.E., Jahrling P.B., Peters
+C.J., ELISA for the detection of antibodies to Ebola viruses,
+J. Infect. Dis. 179 S (1999)(suppl 1) 192–202.
+[17] Van DerGroen G., Johnson K.M., Webb P.A., Wulff H.,
+Lange J., Results of Ebola antibody surveys in various
+population groups, in: Pattern S.R. (Ed.) Ebola virus haem-
+orrhagic fever, Elsevier/North-Holland Biomedical Press,
+Amsterdam, 1978, 203–205.
+[18] Peters C.J., LeDuc J.W., An introduction to Ebola: The
+virus and the disease, J. Infect. Dis. 179 (1999) (suppl 1)
+ix–xvi.
+[19] Busico K.M., Marshall K.L., Ksiazek T.G., Roels T.H.,
+Fleerackers Y., Feldmann H., Khan A.S., Peters C.J., Preva-
+lence of IgG antibodies to Ebola virus in individuals during
+an Ebola outbreak, Democratic Republic of the Congo, J.
+Infect. Dis. 179 S (1999)(suppl 1) 102–107.
+[20] Leguenno B., Formenty P., Wyers M., Gounon P., Walker
+F., Boesch C., Isolation and partial characterisation of a new
+strain of Ebola virus, Lancet 345 (1995) 1271–1274.
+[21] Monath T.P., Ecology of Marburg and Ebola viruses: specu-
+lations and directions for future research, J. Infect. Dis. 179
+(1999) (suppl 1) 127–138.
+Original article
+Gonzalez et al.
+44
+Microbes and Infection
+2000, 39-44
+

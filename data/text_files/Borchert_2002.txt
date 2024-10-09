@@ -1,0 +1,479 @@
+Short communication: A cluster of Marburg virus disease
+involving an infant*
+Matthias Borchert1, Jean Jacques Muyembe-Tamfum2, Robert Colebunders3, Modeste Libande4,
+Mulangu Sabue2 and Patrick Van der Stuyft1
+1 Epidemiology Unit, Department of Public Health, Institute of Tropical Medicine, Antwerp, Belgium
+2 Institut de Recherche Biome
+´dicale, Kinshasa, Democratic Republic of Congo
+3 Department of Clinical Sciences, Institute of Tropical Medicine, Antwerp, Belgium
+4 Ministry of Health, Democratic Republic of Congo
+Summary
+A noteworthy cluster of six cases of Marburg haemorrhagic fever (MHF) was identiﬁed in the
+Democratic Republic of Congo. One of the cases is the ﬁrst infant Marburg fever patient ever
+documented. Three of six cases presented surprisingly mild symptoms. The results of epidemiological
+and virological investigations are compatible with person-to-person transmission through body ﬂuids
+and with mother-to-child transmission while nurturing. The ﬁndings show that mild cases of MHF have
+to be expected during an outbreak and point out the difﬁculty to base patient management decisions on
+clinical case deﬁnitions alone.
+keywords Marburg haemorrhagic fever, ﬁloviridae, active surveillance, outbreak control,
+Democratic Republic of Congo
+correspondence Matthias Borchert, Epidemiology Unit, Department of Public Health, Institute of
+Tropical Medicine, Nationalestraat 155, 2000 Antwerpen, Belgium. Fax: +32 3 24 76 258; E-mail:
+mborchert@itg.be
+Introduction
+Between October 1998 and May 1999, an outbreak of
+Marburg haemorrhagic fever (MHF) occurred in Durba
+and Watsa in the north-east corner of the Democratic
+Republic of Congo, a region marked by economic decline
+and the ongoing armed conﬂict. The outbreak caused 73
+cases and 61 deaths (own data) and was the ﬁrst MHF
+epidemic ever observed in a community setting; gold
+diggers appeared to be particularly affected (WHO 1999).
+In the past, Marburg virus had only been implicated in
+laboratory outbreaks in Germany and Yugoslavia (1967)
+among individuals who had handled monkeys imported
+from Uganda (Martini 1971; Stille & Bo
+¨hle 1971;
+Todorovitch et al. 1971; Slenczka 1999), and in isolated
+cases in East, Central and Southern Africa (Gear et al.
+1975; Smith et al. 1982; Johnson et al. 1996). During the
+Durba outbreak, we identiﬁed a particularly noteworthy
+family cluster of suspected and conﬁrmed cases, which we
+were able to document in detail.
+Methods
+Upon arrival of a team of national and international
+experts for the investigation and control of the epidemic in
+early May 1999 – several months after the beginning of the
+outbreak – an active surveillance system was set up in
+Durba and Watsa, with health workers and trained
+volunteers making house-to-house visits to look for inci-
+dent cases suspected to be MHF.
+The following case deﬁnitions were used by the surveil-
+lance teams: a clinical case was any severely ill person with
+acute fever and at least one of the following signs of
+haemorrhage: haematemesis, bloody diarrhoea or melaena,
+gingival bleeding. Clinical cases were taken to the isolation
+unit for assessment by a physician, who would decide on
+diagnosis and isolation on epidemiological and clinical
+grounds. Suspect cases were (a) ill persons with a risk
+proﬁle (being gold diggers or having had contact with
+another suspect case in the past 3 weeks) with acute fever
+*On behalf of the International Scientiﬁc and Technical Com-
+mittee for Marburg Haemorrhagic Fever Control in the Demo-
+cratic Republic of Congo.
+Tropical Medicine and International Health
+volume 7 no 10 pp 902–906 october 2002
+902
+ª 2002 Blackwell Science Ltd
+not responding to treatment with antibiotics and antima-
+larial drugs, or (b) ill persons with a risk proﬁle presenting
+at least three of the following symptoms: headache,
+vomiting, nausea, anorexia, diarrhoea, asthenia, abdom-
+inal pain, generalized pain, dysphagia, dyspnoea, cough,
+thoracic pain. Suspect cases were followed-up daily for
+3 days, had a blood sample taken and were transported to
+the isolation unit if their health status became worse or if
+signs of haemorrhage developed.
+Two serosurveys were conducted among the staff of the
+Watsa and Durba health facilities: the ﬁrst on 10 May
+1999 and the second on 21 July 2001.
+Blood samples of clinical and suspect cases were shipped
+to the National Institute of Virology, Johannesburg, where
+a range of tests was undertaken: polymerase chain reaction
+(PCR) (Sanchez & Feldmann 1995), antigen capture
+enzyme linked immunosorbent assay (ELISA) (Ksiazek
+et al. 1992), IgG and IgM ELISA (Ksiazek et al. 1999) and
+virus isolation. Because of the remoteness of the area and
+infrequent transport opportunities for the samples, labor-
+atory results often arrived in the ﬁeld too late to be relevant
+for case management. Serosurvey samples were tested for
+anti-Marburg IgG and IgM by ELISA.
+Results
+Like most cases of the outbreak, the ﬁrst two cases of the
+cluster were identiﬁed retrospectively after the arrival of
+the investigation team. A, a young gold digger, fell ill with
+fever, subsequently developed signs of haemorrhage and
+eventually died within days. His clothes, soiled with body
+ﬂuids, were washed by B, approximately 25 years old and
+4 months pregnant. On 22 April 1999, she became ill with
+high fever, headache, abdominal pain, nausea, vomiting
+and malaise. On 24 April, she was hospitalized, had a
+spontaneous abortion and died of vaginal haemorrhage. As
+A and B were retrospective cases, no biological samples
+could be taken; the case ascertainment was based on
+exposure factors and clinical symptoms reported by mem-
+bers of B’s family (for A: working as a gold digger; for B:
+prior contact with another case; for both: acute fever and
+haemorrhagic symptoms).
+On 15 May, the death of C, a 40-year-old female, was
+reported to the investigation team of the Marburg epi-
+demic; she had died at home the day before. C turned out
+to be the mother of B whom she had been nursing during
+the 3 days of her illness. From 1 May onwards, C had
+developed high fever, haematemesis, diarrhoea, headache,
+abdominal pain, myalgia, arthralgia, dysphagia, dyspnoea
+and conjunctivitis. A post-mortem cardiac puncture was
+undertaken. This sample, processed at the National Insti-
+tute of Virology, Johannesburg, South Africa (like all other
+samples reported here), was Marburg positive by PCR,
+antigen capture ELISA and virus isolation, but no Marburg
+antibodies were found by ELISA.
+Furthermore, when C’s case history and contacts were
+investigated, two more family members were found ill,
+although not severely: (1) D (age 22), B’s sister, had been ill
+since 1 May, with unspeciﬁc signs and symptoms. She was
+not sure whether she had seen traces of blood in the stool;
+slight signs of purpura could be found. (2) E (age 8 months),
+D’s daughter, who suffered from fever, diarrhoea and
+vomiting since 9 May. Splenomegaly, but no signs or
+haemorrhage were found in the child. Both D and E had
+reportedly not been seriously ill before the assessment by
+the investigation team. D had, like C, given nursing care to
+B. E received maternal care and was breastfed by D; E had
+not been in close contact with C. None of them had been in
+contact with another case of haemorrhagic fever outside the
+family. Venous blood was taken from D and E. While D
+fulﬁlled the ﬁeld-case deﬁnition (prior contact with another
+case, acute fever and haemorrhagic symptoms), E initially
+did not; when re-interviewed two and a half years later, the
+family claimed to have seen traces of blood in E’s stool. In
+the absence of laboratory results – which became available
+much later – E’s initial clinical diagnosis was malaria, and
+considerable doubt surrounded the diagnoses of D because
+of the mildness of her disease. So neither were hospitalized
+in the isolation unit that had been installed upon arrival of
+the international team. Both recovered within one more
+week and survived.
+Eventually, and somewhat surprisingly, Marburg
+genome was identiﬁed by PCR in the specimens of both D
+and E. Marburg virus could be isolated from D’s blood
+only, possibly because of high storage temperatures of E’s
+specimen. Antigen capture ELISA and serology were
+negative for both. The base pair sequences identiﬁed in
+specimens from D and E were identical with the one found
+in C. Two and a half years later, D and E were found
+healthy and positive for Marburg IgG.
+F, a midwife at Watsa General Hospital, was negative
+for Marburg IgG on 10 May 1999, but had seroconverted
+in July 2001. The hospital register revealed that she had
+assisted B during her abortion on 24 April 1999. F told us
+that only one glove was available to her. She does not recall
+having been ill after her contact with B, but claims to suffer
+from malaria (fever, arthralgia) frequently. F denies to
+have cared for Marburg cases after the 1998–1999
+outbreak.
+Discussion
+The diagnosis of MHF in the two retrospective cases A and
+B is based on strong epidemiological evidence and reported
+Tropical Medicine and International Health
+volume 7 no 10 pp 902–906 october 2002
+M. Borchert et al.
+Marburg disease involving infant
+ª 2002 Blackwell Science Ltd
+903
+ 13653156, 2002, 10, Downloaded from https://onlinelibrary.wiley.com/doi/10.1046/j.1365-3156.2002.00945.x by Test, Wiley Online Library on [01/07/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+clinical symptoms, without laboratory conﬁrmation; this is
+a limitation of the study. During an outbreak, the
+speciﬁcity of a case deﬁnition based on clinical and
+epidemiological evidence, as found in A and B, can be
+assumed to be reasonably high, particularly as no sample
+collected during the outbreak was found positive for
+another current viral haemorrhagic fever infection such as
+yellow fever, Crimean-Congo HF, etc. Diagnoses such as
+malaria for A or septic abortion for B, however, cannot be
+completely ruled out. For the incident cases C, D and E,
+there is no doubt about their diagnosis of Marburg HF. For
+F, epidemiological and serological evidence is also strong:
+her ﬁrst, negative blood sample was taken only 16 days
+after presumed transmission, probably too early to detect
+an IgG antibody response; 2 years later she was seropos-
+itive, the exposure to Marburg virus during B’s abortion
+being the only contact that could be identiﬁed.
+The description of symptoms in the fatal cases A, B and
+C, and of symptoms in surviving cases D and E prior to
+assessment by the investigation team relies on reports by
+patient D and by other family members. As no obvious
+advantage could be expected from being classiﬁed as a
+Marburg case, we assume that reported symptoms were
+not exaggerated or biased towards MHF-speciﬁc ones.
+There is more reason to suspect that they may have been
+downplayed, fearing hospitalization in the isolation ward.
+However, the concerned family was perceived as being
+trustworthy and we do not have speciﬁc reasons to doubt
+their reports. The mildness of disease in D and E before and
+after the encounter with the investigation team is plausible
+given that they both have survived. F was interviewed in
+depth 2.5 years after her Marburg infection. She may have
+been asymptomatic, or may have suffered from mild
+disease without remembering, but we assume that severe
+disease would not have escaped her memory.
+This cluster is interesting in several aspects: First, E is the
+ﬁrst conﬁrmed paediatric case of Marburg virus disease ever
+documented and also the only conﬁrmed paediatric case in
+the Durba outbreak. The fact that children are underrep-
+resented was found in other ﬁlovirus haemorrhagic fever
+epidemics too, e.g. the Ebola outbreaks in Kikwit (DRC)
+1995 (Dowell 1996), but it remains speculative whether this
+suggests that children are rarely infected, or whether
+paediatric cases are underreported, possibly because they
+tend to be less severe, are more easily confused with other
+differential diagnoses, or simply get less attention.
+Secondly, given an incubation period of 5–10 days
+(Centers of Disease Control and Prevention 2000), and
+including the two unconﬁrmed cases identiﬁed retrospec-
+tively, this cluster could correspond to four generations of
+Marburg cases (Figure 1), a number of generations that has
+not been documented before. It also constitutes the most
+important cluster of conﬁrmed cases in this major outbreak
+in Watsa and Durba.
+Thirdly, half of the cases had subjectively mild disease or
+may have been asymptomatic. These cases may easily be
+overlooked, even by active surveillance, if surveillance
+ofﬁcers concentrate on impressive cases with frank
+haemorrhage. Mild cases may play a role in transmission, as
+was the case in this cluster from D to her child E. On the
+other hand, mild MHF is particularly difﬁcult to distinguish
+from other, more frequent diagnoses on clinical grounds
+alone, without MHF-speciﬁc diagnostic tests in place. Lack
+of sensitivity of the case deﬁnition may lead to inappro-
+priate control of human-to-human transmission, lack of
+speciﬁcity may overburden health services already stretched
+to their limit and may increase the incidence of transmission
+from true to false MHF patients in the isolation ward.
+Fourthly, within this cluster, severity of disease and
+fatality appear to be decreasing with the number of
+passages through humans: the ﬁrst, second and one of the
+third generation cases died, while the other third genera-
+tion cases and the fourth generation case survived. For all
+earlier outbreaks together (referenced in the introduction),
+the case fatality proportion can be calculated to be 10 of 29
+in primary cases, but 0 of 9 in secondary cases (P ¼ 0.08,
+Fisher’s exact test). These observations are consistent with
+the speculation that the virus might become attenuated
+during its passage through humans.
+Fifthly, our epidemiological and virological data are
+compatible with the prevailing hypothesis, generated dur-
+ing the Durba outbreak, that gold diggers are – for
+unknown reasons – particularly at risk for primary infection
+(WHO 1999), and that they can be at the origin of
+subsequent person-to-person transmission within house-
+holds (and, to a lesser extent, in health facilities). We
+suspect that the index case in our cluster, A, had been
+infected in the gold mine. It seems plausible that the adult
+women B, C and D were infected because of contact with
+body ﬂuids while washing soiled cloths or providing nursing
+care. For the infant E, whose contacts were essentially
+limited to his mother, D, several routes of transmission via
+body ﬂuids, including breastfeeding, could be hypothesized.
+While not probable, co-primary infection from a perido-
+mestic reservoir like rodents, however, cannot be excluded
+for C, D and E, who all lived in the same household.
+Because of resource constraints, the collection of rodents,
+bats and other candidate reservoir hosts was limited to
+Gorumbwa gold mine and its surroundings, where the
+majority of primary transmission to man is hypothesized to
+have occurred; no trace of Marburg virus, however, could
+be found in the animals (Zeller 2000). F is one of the several
+cases of occupational Marburg infection during the out-
+break in Watsa and Durba.
+Tropical Medicine and International Health
+volume 7 no 10 pp 902–906 october 2002
+M. Borchert et al.
+Marburg disease involving infant
+904
+ª 2002 Blackwell Science Ltd
+ 13653156, 2002, 10, Downloaded from https://onlinelibrary.wiley.com/doi/10.1046/j.1365-3156.2002.00945.x by Test, Wiley Online Library on [01/07/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+In summary, our ﬁndings indicate that community
+outbreaks of MHF can affect infants, illustrate that during
+such outbreaks mild cases are likely to occur, as was the case
+in the non-community outbreaks in Europe. They also
+indicate that person-to-person transmission may be more
+common than ascertained by standard active surveillance.
+During an epidemic of MHF, one should also look out for
+mild cases fulﬁlling the case deﬁnition, whom one may have
+to isolate in order to avoid further secondary spread of the
+virus. The ﬁndings point out that it is difﬁcult to base patient
+management decisions on a clinical case deﬁnition alone:
+patients may correspond to it but have such mild symptoms
+that clinicians fail to adhere to the deﬁnition and decline
+isolation (case D), patients may refuse isolation given the
+mildness of disease, the deﬁnition itself may lack sensitivity
+(cases E and F). This underlines the advantage of having
+speciﬁc VHF diagnostics in the ﬁeld during an outbreak;
+that this is feasible, in principle, was demonstrated during
+the Ebola outbreak in Uganda 2000–2001 (WHO 2001).
+Acknowledgements
+MB and RC were part of the Me
+´decins Sans Frontie
+`res
+team during the Marburg Haemorrhagic Fever outbreak in
+Durba; their mission was funded by MSF. We are grateful
+to Prof. Robert Swanepoel and his team for carrying out all
+laboratory investigations at the National Institute for
+Virology, Johannesburg, South Africa.
+References
+Centers of Disease Control and Prevention (2000) Disease Infor-
+mation: Marburg Haemorrhagic Fever. http://www.cdc.gov/
+ncidod/dvrd/spb/mnpages/dispages/marburg.htm, accessed 27/
+02/02.
+Dowell SF (1996) Ebola haemorrhagic fever: why were children
+spared? Pediatric Infectious Disease Journal 15, 189–191.
+Gear JSS, Cassel GA, Gear AJ et al. (1975) Outbreak of Marburg
+virus disease in Johannesburg. British Medical Journal 4, 489–493.
+Generation of cases
+1
+A    , approx. 30, male
+Risk factor: gold digger in Durba
+Symptoms and outcome: fever, haematemesis; death
+2
+B  ,19, female, acquaintance of A.
+Risk factor: washed A's clothes soiled with body fluids
+Symptoms and outcome: fever, abortion, vaginal haemorrhage; death 
+3
+F, 50, female, midwife at Watsa General Hospital
+Risk factor: gave obstetric care to B. without appropriate protection
+Symptoms and outcome: possibly fever; survival
+C, 40, female, mother of B.
+Risk factor: nursed B.
+Symptoms and outcome: fever, haematemesis; death
+D, 22, female, sister of B.
+Risk factor: nursed B.
+Symptoms and outcome: fever, purpura, melaena?; survival
+4
+E, 8 months, female, daughter of D.
+Risk factor: cared for and breastfed by D.
+Symptoms and outcome: fever, traces of blood in stool?; survival
+21
+29 1
+5
+12
+19
+26
+1 3
+10
+17
+24
+April 1999
+May 1999
+C, D and E seen by investigation team on May 15
+¶
+*
+Period when transmission probably occurred
+Most likely route of transmission
+Not laboratory confirmed case
+Minimum incubation period
+Clinical disease
+Possible alternative route of transmission
+Approximate dates of onset and death
+¶* 
+¶
+Generation of cases
+1
+A    , approx. 30, male
+Risk factor: gold digger in Durba
+Symptoms and outcome: fever, haematemesis; death
+2
+B  ,19, female, acquaintance of A.
+Risk factor: washed A's clothes soiled with body fluids
+Symptoms and outcome: fever, abortion, vaginal haemorrhage; death 
+3
+F, 50, female, midwife at Watsa General Hospital
+Risk factor: gave obstetric care to B. without appropriate protection
+Symptoms and outcome: possibly fever; survival
+C, 40, female, mother of B.
+Risk factor: nursed B.
+Symptoms and outcome: fever, haematemesis; death
+D, 22, female, sister of B.
+Risk factor: nursed B.
+Symptoms and outcome: fever, purpura, melaena?; survival
+4
+E, 8 months, female, daughter of D.
+Risk factor: cared for and breastfed by D.
+Symptoms and outcome: fever, traces of blood in stool?; survival
+21
+29 1
+5
+12
+19
+26
+1 3
+10
+17
+24
+April 1999
+May 1999
+C, D and E seen by investigation team on May 15
+¶
+*
+Period when transmission probably occurred
+Most likely route of transmission
+Not laboratory confirmed case
+Minimum incubation period
+Clinical disease
+Possible alternative route of transmission
+Approximate dates of onset and death
+¶* 
+¶
+Figure 1 Cluster of Marburg haemorrhagic fever cases involving an infant, with possible ways of transmission.
+Tropical Medicine and International Health
+volume 7 no 10 pp 902–906 october 2002
+M. Borchert et al.
+Marburg disease involving infant
+ª 2002 Blackwell Science Ltd
+905
+ 13653156, 2002, 10, Downloaded from https://onlinelibrary.wiley.com/doi/10.1046/j.1365-3156.2002.00945.x by Test, Wiley Online Library on [01/07/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+Johnson ED, Johnson BK, Silverstein D et al. (1996)
+Characterization of a new Marburg virus isolated from a 1987
+fatal case in Kenya. Archives of Virology 11, 101–114.
+Ksiazek TG, Rollin PE, Jahrling PB et al. (1992) Enzyme
+immunosorbent assay for Ebola virus antigens in tissues of
+infected primates. Journal of Clinical Microbiology 30, 947–950.
+Ksiazek TG, West CP, Rollin PE, Jahrling P & Peters CJ (1999)
+ELISA for the detection of antibodies to Ebola virus. Journal of
+Infectious Diseases 179, S192–S198.
+Martini GA (1971) Marburg virus disease: clinical syndrome. In:
+Marburg Virus Disease (eds GA Martini & R Siegert), 1st edn.
+Springer, Berlin, pp. 1–9.
+Sanchez A & Feldmann H (1995) Detection of Marburg and Ebola
+virus infections by polymerase chain reaction assays. In: PCR:
+Protocols for Diagnosis of Human and Animal Virus Diseases
+(eds G Darai & Y Becker). Springer, Berlin, pp. 411–419.
+Slenczka WG (1999) The Marburg virus outbreak of 1967 and
+subsequent episodes. In: Marburg and Ebola Viruses (ed. HD
+Klenk). Springer, Berlin, pp. 49–75.
+Smith DH, Johnson BK, Isaacson M et al. (1982) Marburg virus
+disease in Kenya. Lancet i, 816–820.
+Stille W & Bo
+¨hle E (1971) Clinical course and prognosis of
+Marburg virus (Green-Monkey) disease. In: Marburg Virus
+Disease (eds GA Martini & R Siegert), 1st edn. Springer, Berlin,
+pp. 10–18.
+Todorovitch K, Mocitch M & Klasnja R (1971) Clinical picture of
+two patients infected by the Marburg Vervet virus. In: Marburg
+Virus Disease (eds GA Martini & R Siegert), 1st edn. Springer,
+Berlin, pp. 19–23.
+WHO (1999) Viral haemorrhagic fever/Marburg, Democratic
+Republic of the Congo. Weekly Epidemiological Record 74,
+157–158.
+WHO (2001) Outbreak of Ebola haemorrhagic fever, Uganda,
+August 2000–January 2001. Weekly Epidemiological Record
+76, 41–46.
+Zeller H (2000) Les lec
+¸ons de l’e
+´pide
+´mie a
+` virus Marburg a
+` Durba,
+Re
+´publique De
+´mocratique du Congo (1998–2000). Me
+´decine
+Tropicale 60, 23S–26S.
+Tropical Medicine and International Health
+volume 7 no 10 pp 902–906 october 2002
+M. Borchert et al.
+Marburg disease involving infant
+906
+ª 2002 Blackwell Science Ltd
+ 13653156, 2002, 10, Downloaded from https://onlinelibrary.wiley.com/doi/10.1046/j.1365-3156.2002.00945.x by Test, Wiley Online Library on [01/07/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+

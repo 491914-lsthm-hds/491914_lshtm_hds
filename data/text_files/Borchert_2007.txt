@@ -1,0 +1,1288 @@
+S168 • JID 2007:196 (Suppl 2) • Borchert et al.
+S U P P L E M E N T A R T I C L E
+Use of Protective Gear and the Occurrence of
+Occupational Marburg Hemorrhagic Fever in Health
+W
+orkers from Watsa Health Zone, Democratic
+Republic of the Congo
+Matthias Borchert,1,a Sabue Mulangu,2 Pierre Lefe
+`vre,1 Antoine Tshomba,4 Modeste L. Libande,3 Amayo Kulidri,3
+Jean-Jacques Muyembe-Tamfum,2 and Patrick Van der Stuyft1
+1Epidemiology and Disease Control Unit, Institute of Tropical Medicine, Antwerp, Belgium; 2Institut de Recherche Bio-me
+´dicale, Kinshasa,
+and 3Ministry of Health and 4Ho
+ˆpital Okimo, Watsa, Democratic Republic of the Congo
+Background.
+Occupational transmission to health workers (HWs) has been a typical feature of Marburg
+hemorrhagic fever (MHF) outbreaks. The goal of this study was to identify cases of occupational MHF in HWs
+from Durba and Watsa, Democratic Republic of the Congo; to assess levels of exposure and protection; and to
+explore reasons for inconsistent use of protective gear.
+Methods.
+A serosurvey of 48 HWs who cared for patients with MHF was performed. In addition, HWs were
+given a questionnaire on types of exposure, use of protective gear, and symptoms after contact. Informal and in-
+depth interviews with HWs were also performed.
+Results.
+We found 1 HW who was seropositive for MHF, in addition to 5 cases of occupational MHF known
+beforehand; 4 infections had occurred after the introduction of infection control. HWs protected themselves better
+during invasive procedures (injections, venipuncture, and surgery) than during noninvasive procedures, but the
+overall level of protection in the hospital remained insufﬁcient, particularly outside of isolation wards. The reasons
+for inconsistent use of protective gear included insufﬁcient availability of the gear, adherence to traditional ex-
+planatory models of the origin of disease, and peer bonding with sick colleagues.
+Conclusions.
+Infection control must not focus too exclusively on the establishment of isolation wards but
+should aim at improving overall hospital hygiene. Training of HWs should allow them to voice and discuss their
+doubts and prepare them for the peculiarities of caring for ill colleagues.
+Between October 1998 and September 2000, a major
+Marburg hemorrhagic fever (MHF) outbreak occurred
+in Durba and Watsa, northeastern Democratic Republic
+of the Congo (DRC). Repeated introductions of Mar-
+Potential conﬂicts of interest: none reported.
+Presented in part: Filoviruses: Recent Advances and Future Challenges,
+International Centre for Infectious Diseases Symposium, Winnipeg, Manitoba,
+Canada, 17–19 September 2006 (poster 22).
+Financial support: Fonds voor Wetenschappelijk Onderzoek—Vlaanderen,
+Framework Agreement between the Belgian Directorate for Development Co-
+operation and the Institute of Tropical Medicine, Antwerp.
+This article is dedicated to the health workers of Watsa Health Zone who
+risked their lives responding to the Marburg hemorrhagic fever outbreak.
+a Present afﬁliation: Infectious Disease Epidemiology Unit, London School of
+Hygiene and Tropical Medicine, London, United Kingdom.
+Reprints or correspondence: Dr. Matthias Borchert, London School of Hygiene
+and Tropical Medicine, EPH/IDEU, Keppel St., London WC1E 7HT, United Kingdom
+(matthias.borchert@lshtm.ac.uk).
+The Journal of Infectious Diseases
+2007;196:S168–75
+ 2007 by the Infectious Diseases Society of America. All rights reserved.
+0022-1899/2007/19610S2-0009$15.00
+DOI: 10.1086/520540
+burg virus (MARV) from the unknown animal reservoir
+are thought to have occurred in the Gorumbwa gold
+mine. Numerous primary cases occurred among illegal
+gold miners, who transmitted MARV to family mem-
+bers and health workers (HWs) [1, 2].
+Until May 1999, HWs in Durba and Watsa had
+worked with hardly any protection, because the eco-
+nomic crisis and armed conﬂict in eastern DRC had
+left health services with insufﬁcient supplies. This re-
+sulted in 2 cases of occupational MHF in HWs, in-
+cluding in the me
+´decin chef of Watsa Health Zone (HZ)
+[3]. After his death, outbreak control started, in early
+May 1999 [1]. Two isolation wards in Durba and Watsa
+were established; HWs were trained in the clinical di-
+agnosis and management of MHF, including barrier
+nursing; and supplies were provided for isolation wards
+[4, 5]. The outbreak investigation in May 1999 included
+a serosurvey of 103 HWs; all serum samples were neg-
+Downloaded from https://academic.oup.com/jid/article/196/Supplement_2/S168/858930 by Catherine Sharp user on 26 May 2024
+Occupational Marburg Hemorrhagic Fever • JID 2007:196 (Suppl 2) • S169
+ative for Marburg IgG [2]. Until September 2000, Durba and
+Watsa were visited repeatedly by experts from the World Health
+Organization (WHO) and Me
+´decins Sans Frontie
+`res (MSF),
+who reinforced training and replenished stocks of protective
+gear.
+Between May 1999 and September 2000, 3 more cases of
+occupational MHF occurred in HWs [1]. On the basis of the
+assumption that difﬁculties in supplying protective materialand
+in maintaining appropriate hospital hygiene could have resulted
+in further cases of occupational MHF, we conducted another
+HW serosurvey in 2001–2002 and explored the use of protective
+gear and reasons for any inconsistent use.
+METHODS
+Most patients with MHF were known through surveillance ini-
+tiated in May 1999 and our own investigations [6]. We targeted
+HWs who had had a professional contact with a patient with
+MHF or with his or her body ﬂuids. This patient had to have
+laboratory-conﬁrmed MHF (positive results of polymerase
+chain reaction, antigen-capture ELISA, or virus isolation), or,
+if laboratory conﬁrmation was not performed, the patient had
+to be epidemiologically linked to a conﬁrmed case (i.e., the
+patient had to fulﬁll the MHF clinical case deﬁnition and report
+physical contact with a laboratory-conﬁrmed case within 3 days
+to 3 weeks before onset of symptoms, while no attempt at
+laboratory conﬁrmation had been undertaken). HWs who had
+contact only with suspected cases were ineligible.
+Heads of health facilities provided lists of HWs who had
+treated patients with MHF. We approached these HWs unless
+we were prevented from doing so by distance or lack of security.
+After giving informed consent, HWs were asked which patients
+with MHF they had treated, to differentiate contacts before and
+after the outbreak response began, and they were asked whether
+they had given noninvasive (e.g., taking temperatures, blood
+pressure, nursing) or invasive (e.g., injections, venipuncture,
+surgery) care. For each type of activity, we asked whether gloves
+or full protective gear (FPG; gum boots, scrub suit, gown,
+apron, mask, goggles, headwear, and 2 pairs of gloves) had
+always, sometimes, or never been used, as well as whether pa-
+tients had started vomiting, having diarrhea, or bleeding when
+the activity was performed. Scores for glove use, FPG use, and
+overall protection were computed (table 1). We asked whether
+HWs had experienced symptoms corresponding to the clinical
+case deﬁnition (table 2) in the 4 weeks after contact.
+We collected 5–10 mL of venous blood, let the blood clot
+for ∼12 h, extracted serum, and kept it at 4C until arrival at
+the National Institute for Communicable Diseases, Johannes-
+burg, South Africa. ELISA [7] (with antigen derived from
+MARV Musoke) and indirect immunoﬂuorescence assay [8]
+(with antigen prepared by the National Institute for Com-
+municable Diseases) were used to detect IgG antibodies as
+markers for earlier MARV infection. Given their undeﬁned
+speciﬁcity, both test results had to be positive for serum to be
+considered positive for anti-Marburg IgG.
+Interview and serological data were double entered, validated
+using Epi Info (version 6.04; Centers for Disease Control and
+Prevention), and analyzed with STATA (version 9.0; StataCorp),
+using 2-sided Fisher exact tests for differences in proportions.
+We estimated the frequency of occupational MHF, using as
+the denominator the duration of the outbreak (7 vs. 16
+months), the number of all patients with MHF in the zone (80
+vs. 77 patients [1, 2, 6]), or the number of patients with MHF
+seeking health care (56 vs. 47 patients [M.B., unpublished
+data]), before and after the introduction of barrier nursing.
+Because most cases of MHF before the introduction of barrier
+nursing were ascertained retrospectively, the denominators in-
+cluded suspected cases.
+To explore the circumstances of transmission and the reasons
+for inconsistent use of gloves and FPG, we had informal dis-
+cussions with study participants and 2 in-depth interviews with
+key HW informants, both of whom were signiﬁcantly involved
+in MHF surveillance and clinical care of patients with MHF.
+The interviews were recorded and analyzed manually.
+This study was approved by the ethics committee of the
+Institute for Tropical Medicine in Antwerp, Belgium, and by
+the local representative of the Ministry of Health in Watsa.
+RESULTS
+Study participants.
+Sixty-three HWs were listed as having
+treated patients with MHF; 4 of them had died of conﬁrmed
+MHF, and 1 (Mr. C; see the Appendix, which appears only in
+the online edition of the Journal) had survived conﬁrmed MHF
+but was unavailable for interview. The whereabouts of 3 HWs
+were unknown, but they were reported to have survived the
+outbreak. Five HWs now worked outside of Watsa HZ; distance
+or lack of security prevented us from contacting them. All 8
+absentees had reportedly not had typical MHF symptoms. Of
+the 50 interviewed HWs, 2 were excluded from analysis because
+they lacked direct contact with a patient with MHF. Our study
+population, therefore, included 48 (84%) of the 57 eligible
+HWs, including 2 HWs from outside of Watsa HZ.
+Distributions of sex, age, workplace, and profession are re-
+ported in table 3. Six HWs had been assigned to an isolation
+ward during the outbreak; the others had treated patients with
+MHF before isolation wards were established or afterward but
+outside of isolation wards (either before MHF had been di-
+agnosed or after diagnosis but before referral to an isolation
+ward).
+Exposure and protection.
+In total, 96% of the participants
+had provided noninvasive health care, and 83% had provided
+invasive health care (table 1). Approximately 90% of these ac-
+tivities were performed on patients experiencing diarrhea,vom-
+Downloaded from https://academic.oup.com/jid/article/196/Supplement_2/S168/858930 by Catherine Sharp user on 26 May 2024
+Table 1.
+Health worker (HW) (
+) contacts of patients with Marburg hemorrhagic fever (MHF): level of protection by type of occupational activity.
+N p 48
+Activity
+Total
+Use of gloves
+Use of FPG
+Protection
+score,
+mean (% of
+maximum)b
+Never
+Sometimes Always
+Score,
+mean (% of
+maximum)a
+Never
+Sometimes Always
+Score,
+mean (% of
+maximum)a
+Noninvasivec
+Nursing, no. (%) of HWs
+27 (56)
+18 (67)
+3 (11)
+6 (22)
+0.56 (28)
+19 (70)
+3 (11)
+5 (19)
+0.48 (24)
+1.04 (26)
+Take temperature, no. (%) of HWs
+35 (73)
+16 (46)
+11 (31)
+8 (23)
+0.77 (39)
+22 (63)
+8 (23)
+5 (14)
+0.51 (26)
+1.29 (32)
+Measure BP
+, no. (%) of HWs
+30 (63)
+14 (47)
+9 (30)
+7 (23)
+0.77 (38)
+17 (57)
+7 (23)
+6 (20)
+0.63 (32)
+1.40 (35)
+Other noninvasive, no. (%) of HWsd
+10 (21)
+5 (50)
+0 (0)
+5 (50)
+1.00 (50)
+6 (60)
+1 (10)
+3 (30)
+0.70 (35)
+1.70 (43)
+Any noninvasive, no. (%) of activities
+102 (100) 53 (52)
+23 (23)
+26 (25)
+0.74 (37)
+64 (63)
+19 (19)
+19 (19)
+0.56 (28)
+1.29 (32)
+Invasivee
+Intramuscular injection, no. (%) of HWs
+31 (65)
+15 (48)
+6 (19)
+10 (32)
+0.84 (42)
+19 (61)
+4 (13)
+8 (26)
+0.65 (32)
+1.48 (37)
+Venipuncture, no. (%) of HWs
+35 (73)
+15 (43)
+8 (23)
+12 (34)
+0.91 (46)
+21 (60)
+5 (14)
+9 (26)
+0.66 (33)
+1.57 (39)
+Surgery, delivery, no. (%) of HWs
+5 (10)
+0 (0)
+1 (20)
+4 (80)
+1.80 (90)
+4 (80)
+0 (0)
+1 (20)
+0.40 (20)
+2.20 (55)
+Other invasive, no. (%) of HWsf
+6 (13)
+2 (33)
+0 (0)
+4 (67)
+1.33 (67)
+2 (33)
+0 (0)
+4 (67)
+1.33 (67)
+2.67 (67)
+Any invasive, no. (%) of activities
+77 (100) 32 (42)
+15 (19)
+30 (39)
+0.97 (49)
+46 (60)
+9 (12)
+22 (29)
+0.69 (34)
+1.66 (42)
+Overall (noninvasive and invasive), no. (%) of activities
+179 (100) 85 (47)
+38 (21)
+56 (31)
+0.84 (42)
+110 (61)
+28 (16)
+41 (23)
+0.61 (31)
+1.45 (36)
+NOTE.
+BP
+, blood pressure; FPG, full protective gear.
+a Score for use of gloves or FPG: 0, never; 1, sometimes; 2, always.
+b Protection score: 0, never gloves (hence never FPG); 1, sometimes gloves, never FPG; 2, sometimes gloves, sometimes FPG or always gloves, never FPG; 3, always gloves, sometimes FPG;
+4 (maximum), always FPG (hence always gloves).
+c A total of 46 HWs (96%) reported having performed a noninvasive procedure.
+d Wash dead body (3), touch dead body (3), disinfect dead body/body bag (2), clean rooms/items on isolation ward (2).
+e A total of 40 HWs (83%) reported having performed an invasive procedure.
+f Skin biopsy (4), cardiac puncture (2), lumbar puncture (1), examine blood slide (1). More than 1 “other invasive exposure” was possible per study participant.
+Downloaded from https://academic.oup.com/jid/article/196/Supplement_2/S168/858930 by Catherine Sharp user on 26 May 2024
+Occupational Marburg Hemorrhagic Fever • JID 2007:196 (Suppl 2) • S171
+Table 2.
+Symptoms experienced by seronegative health workers (HWs) in the 4 weeks after exposure to Marburg hemorrhagic fever
+(MHF) and symptoms and laboratory results in health workers with conﬁrmed cases of MHF.
+Symptom or result
+Seronegative
+HWs, no. (%)
+HWs with conﬁrmed MHF
+Dr. Aa
+Ms. Bb
+Mr. Cb
+Ms. Da
+Mr. Ea
+Mr. Fa
+Fever
+9 (19)
++
++
++
++
++
++
+General symptoms
+Headache
+13 (28)
++
+
++
++
++
++
+Fatigue
+12 (26)
++
+
++
++
++
++
+Loss of appetite
+8 (17)
++
+
++
++
++
+
+Joint or muscle pain
+8 (17)
++
+
++
++
++
++
+Back pain
+8 (17)
+
+
+
++
++
+
+Abdominal pain
+7 (15)
++
+
+
+
++
+
+Chest pain
+4 (9)
+
+
+
++
+
+
+Cough
+NI
+
+
+
++
+
+
+Nausea, vomiting
+5 (11)
++
+
+
++
+
++
+Diarrhea
+4 (9)
+
+
+
+
++
++
+Dyspnea
+3 (6)
++
+
++
++
+
+
+Sore throat
+2 (4)
++
+
+
++
++
+
+Hiccough
+1 (2)
++
+
++
+
+
+
+Conjunctivitis
++
+
++
+
+
++
+Any general symptom
+20 (43)
++
+
++
++
++
++
+Hemorrhage
+Bleeding gums
+NI
++
+
+
++
+
+
+Nosebleed
+0 (0)
++
+
+
+
+
+
+Petechiae
+NI
++
+
+
+
+
+
+Bloody/black stool
+0 (0)
++
+
+
+
++
++
+Coughing blood
+1 (2)
+
+
+
++
+
+
+Bloody vomit
+1 (2)
++
+
++
+
+
++
+Hematuria
+NI
+
+
+
+
+
+
+Vaginal bleeding
+0 (0)
+NA
+
+NA
+
+NA
+NA
+Any hemorrhage
+1 (2)
++
+
++
++
++
++
+Combinations
+Fever plus 3 general symptoms
+8 (17)
++
+
++
++
++
++
+Fever plus hemorrhage
+0 (0)
++
+
++
++
++
++
+Clinically suspected casec
+8 (17)
++
+
++
++
++
++
+Total
+47 (100)
+Laboratory results
+Antigen capture ELISA
+…
++
+ND
++
+ND
+ND
+ND
+PCR
+…
++
+ND
++
+ND
+ND
+ND
+Virus isolation
+…
++
+ND
++
+ND
+ND
+ND
+IgM ELISA
+…
+
+ND
++
+ND
+ND
+ND
+IgG ELISA
+…
+
++
++
+ND
+ND
+ND
+Immunohistochemical analysis (skin)
+…
+ND
+ND
+ND
+ND
++
++
+NOTE.
+NA, not applicable; ND, not done; NI, no information available; PCR, polymerase chain reaction.
+a Died.
+b Survived.
+c Fever plus 3 general symptoms or fever plus hemorrhage.
+iting, and/or bleeding. HWs reported consistent glove use for
+31% of activities and consistent FPG use for 23% of activities
+(table 1). The proportion of activities always performed using
+gloves or FPG for invasive versus noninvasive activities was
+39% versus 25% (
+) and 29% versus 19% (
+),
+P p .073
+P p .15
+respectively. Scores as a percentage of the maximum score for
+glove and FPG use were higher for invasive activities than for
+noninvasive activities (49% vs. 37% and 34% vs. 28%,
+respectively).
+The timing of exposure in relation to the launch of the
+outbreak response could be determined unambiguously for
+59% of HWs from Watsa HZ: 6 reported exposure only before
+Downloaded from https://academic.oup.com/jid/article/196/Supplement_2/S168/858930 by Catherine Sharp user on 26 May 2024
+S172 • JID 2007:196 (Suppl 2) • Borchert et al.
+Table 3.
+Characteristics of study participants.
+Characteristic
+No. (%)
+Age, median (range), years
+34 (23–62)
+Sex, male
+34 (71)
+Workplace during MHF outbreak
+Watsa General Hospital
+20 (42)
+Watsa Okimo Hospital (except isolation ward)
+8 (17)
+Watsa Okimo Hospital isolation ward
+2 (4)
+Watsa central ofﬁce/surveillance
+1 (2)
+Durba Referral Health Centre (except isolation ward)
+8 (17)
+Durba isolation ward
+4 (8)
+Other health centers in Watsa HZ
+3 (6)
+Subtotal, Watsa HZ
+46 (96)
+Outside of Watsa HZ
+2 (4)
+Profession
+Nurse
+34 (71)
+Laboratory technician
+5 (10)
+Midwife, birth attendant
+4 (8)
+Hygienist
+3 (6)
+Surgeon
+1 (2)
+Physician
+1 (2)
+Total
+48
+NOTE.
+Data are no. (%) of study participants, unless otherwise indicated.
+HZ, health zone; MHF
+, Marburg hemorrhagic fever.
+the launch and 21 only after the launch, and 19 reported ex-
+posure during both periods. The frequency of invasive activities
+remained unchanged, but consistent glove use increased sig-
+niﬁcantly, from 0% to 23% of all activities (
+) (table 4).
+P p .03
+The score for glove use (as a percentage of the maximum score)
+rose from 6% to 39%, but care was still provided to patients
+with MHF without ever using gloves (45%) or FPG (68%).
+Of 6 HWs assigned to isolation wards, 2 treated patients with
+MHF only after the introduction of barrier nursing. None of
+them reported consistent use of gloves and FPG.
+Circumstances of transmission of MARV to HWs.
+One
+HW (Ms. B) was seropositive, and all other participants were
+seronegative, including 4 whose serum samples had low IFA
+titers (1:8–1:16) unconﬁrmed by ELISA; no samples had both
+positive ELISA results and negative IFA results. Eight HWs
+(17%) reported fever plus at least 3 general symptoms and had
+conditions that fulﬁlled the clinical case deﬁnition of MHF;
+nobody reported fever plus hemorrhage (table 2). Adding Ms.
+B (who reported only fever) to the previously identiﬁed cases
+gives a total of 6 HWs with occupational MHF (for detailed
+symptoms and laboratory results, see table 2; for details of
+exposure, see the Appendix). All had direct contact with pa-
+tients with MHF, and 4 had contact with their blood. Five did
+not use gloves, 1 used gloves inconsistently, and none used
+FPG. Two cases occurred before barrier nursing was introduced,
+and 3 HWs acquired occupational MHF outside the isolation
+wards; these 5 infections were transmitted from patients who
+were not yet suspected to have MHF. The sixth HW acquired
+occupational MHF in the isolation ward, refusing to use pro-
+tective gear when caring for a relative.
+The frequency of occupational MHF among HWs before and
+after the launch of disease control, calculated using the 3 de-
+nominators described in Methods, was as follows: per year,
+cases versus
+cases; per 100 pa-
+2/7  12 p 3.4
+4/16  12 p 3.0
+tients with MHF,
+cases versus
+2/80  100 p 2.5
+4/77  100 p
+cases; and per 100 health care–seeking patients with MHF,
+5.2
+cases versus
+cases. These
+2/56  100 p 3.6
+4/47  100 p 8.5
+differences were not statistically signiﬁcant, suggesting that the
+frequency of occupational MHF remained, at best, unchanged
+by the introduction of barrier nursing.
+HWs became victims of the MHF outbreak even if they were
+spared from transmission of the virus. After the death of Dr.
+A, 2 HWs were accused of poisoning him (see the Appendix
+for details).
+Reasons for not using gloves and FPG.
+Interviewees
+reported that glove use was rare before the introduction of
+barrier nursing. After the introduction, protective gear was
+available in principle, with stocks being replenished by visiting
+WHO or MSF teams. However, temporary shortages of single-
+use items, including gloves, allegedly occurred. This protective
+material was meant to be used in isolation wards, and supplies
+outside of the isolation wards were reported to be insufﬁcient
+for systematic infection control. According to our interviewees,
+training focused on the use of protective gear when treating
+patients with suspected MHF in isolation wards; universal pre-
+cautions when caring for any patients were less well covered.
+The key informants reported that the “limited awareness of the
+need to protect oneself when treating patients not suspected to
+suffer from MHF, and the limited availability of gloves on the
+surgical ward may have contributed to the transmission of
+MARV to nurses E and F” (see the Appendix).
+We found that HWs sometimes chose not to use FPG, despite
+having awareness of the risks. One of our key informants, Dr.
+Z, reported that he embraced Dr. A at an advanced stage of
+his disease, without any protective gear. Although the exact
+nature of Dr. A’s disease was unknown to them at that time,
+both suspected human-to-human transmission and were aware
+of the high case fatality. Dr. Z usually took precautions to
+protect himself but, on this occasion, took the risk, “feeling
+compelled to make this gesture of encouragement and solidarity
+for a colleague and close friend.” He added that physicians in
+remote areas are few and far between and, therefore, form a
+family. The other key informant, Mr. Y, who was very expe-
+rienced in handling patients with MHF, reported that, when
+his colleague Mr. F became ill with MHF, he felt “it would be
+too cruel to use FPG, as this would have signaled Mr. F that
+there was little hope for survival.” Our informant “did not have
+the heart” to wear FPG and treated Mr. F without protection.
+Downloaded from https://academic.oup.com/jid/article/196/Supplement_2/S168/858930 by Catherine Sharp user on 26 May 2024
+Occupational Marburg Hemorrhagic Fever • JID 2007:196 (Suppl 2) • S173
+Table 4.
+Health worker contacts from Watsa Health Zone: use of gloves or full protective gear (FPG), by type of occupational activity
+and period of exposure.
+Period, activity
+Activities,
+no.
+Use of gloves
+Use of FPG
+Protection
+score,
+mean (% of
+maximum)b
+No. (%)
+Score,
+mean (% of
+maximum)a
+No. (%)
+Score,
+mean (% of
+maximum)a
+Never
+Sometimes Always
+Never
+Sometimes Always
+Only before introduction
+of BN
+Noninvasive
+12
+11 (92)
+1 (8)
+0 (0)
+0.08 (4)
+12 (100)
+0 (0)
+0 (0)
+0.00 (0)
+0.08 (2)
+Invasive
+6
+5 (83)
+1 (17)
+0 (0)
+0.17 (8)
+6 (100)
+0 (0)
+0 (0)
+0.00 (0)
+0.17 (4)
+Any activity
+18
+16 (89)
+2 (11)
+0 (0)
+0.11 (6)
+18 (100)
+0 (0)
+0 (0)
+0.00 (0)
+0.11 (3)
+Only after introduction
+of BN
+Noninvasive
+34
+17 (50)
+10 (29)
+7 (21)
+0.71 (35)
+23 (68)
+8 (24)
+3 (9)
+0.41 (21)
+1.12 (28)
+Invasive
+26
+10 (38)
+9 (35)
+7 (27)
+0.88 (44)
+18 (69)
+4 (15)
+4 (15)
+0.46 (23)
+1.35 (34)
+Any activity
+60
+27 (45)
+19 (32)
+14 (23)
+0.78 (39)
+41 (68)
+12 (20)
+7 (12)
+0.43 (22)
+1.22 (30)
+NOTE.
+BN, barrier nursing.
+a Maximum score, 2.
+b Protection score: 0, never gloves (hence never FPG); 1, sometimes gloves, never FPG; 2, sometimes gloves, sometimes FPG or always gloves, never FPG;
+3, always gloves, sometimes FPG; 4 (maximum), always FPG (hence always gloves).
+No transmission of MARV occurred on either occasion. Both
+informants underlined that, in general, patients do not like
+HWs to wear gloves and sometimes take offense, as if the use
+of gloves suggests that the patient is dirty.
+The key informants declared that HWs may not use FPG
+because they do not fully accept the biomedical explanatory
+model of human-to-human transmission of a pathogen but
+remain attracted to the traditional model of deliberate poison-
+ing; they suggested that the failure to clarify the etiology of the
+1994 MHF outbreak in time may have reinforced this attitude.
+HWs were reported to reason that “as not everybody with a
+high level of exposure became infected there must be something
+else to it than transmission by contact.” It was suggested that
+this may explain why Ms. D, despite warnings, refused to use
+FPG when caring for her relative or for her remains. Her med-
+ical background notwithstanding, Ms. D behaved like family
+members of other patients with MHF, who could not be pre-
+vented from embracing their loved ones or performing tradi-
+tional burial rites without protection.
+Interviewees emphasized the history of similar, albeit smaller,
+outbreaks in the area. The local population, including local
+HWs, had become used to this recurrent phenomenon, coining
+the term “Syndrome de Durba”; this habituation reportedly re-
+duced levels of concern and fear. The sociopolitical environ-
+ment was also put forward as an explanation. Watsa and Durba
+had seen years of economic decline and insecurity and wit-
+nessed a gold rush with an inﬂux of risk-taking orpailleurs.
+MHF was not necessarily the most important of the many risks
+people had to live with, and “HWs allowed themselves to be
+inﬂuenced by the prevailing risk-taking mentality” (Dr. Z).
+Finally, the key informants made the point that a protracted
+outbreak requires continuous nosocomial infection control,
+which would necessitate a sustained change of behavior in-
+grained by routine for many years—a challenge in any setting.
+DISCUSSION
+One year after the MHF outbreak in Watsa and Durba, we
+conducted a survey of HWs who had treated patients with MHF.
+This delay may have reduced the accuracy of the reporting of
+exposures and protection, and we lost some statistical power
+by no longer being able to establish the precise timing of ex-
+posure for some HWs. Nevertheless, the ﬁnding of grossly in-
+sufﬁcient levels of protection is clearly valid. It was corroborated
+by interviewing experienced and insightful key informants, who
+also provided possible reasons for nonuse of protectivematerial.
+In Durba and Watsa, 6 occupational MHF cases in HWs
+occurred in 1998–2000, and 3 occurred in 1994 [1]. This cor-
+roborates the observation that multiple cases among HWs are
+characteristic of ﬁloviral hemorrhagic fever outbreaks in Africa
+whenever there is a formal health system at the epidemic site.
+We found serological evidence for past MARV infection in 1
+HW, who reported only mild fever after the putative exposure.
+This is consistent with earlier ﬁndings that mild or asymptom-
+atic MHF cases are rare [6]. Interestingly, this HW had a pre-
+vious negative IgG test result 18 days after the putative expo-
+sure; the mildness of her disease and the delayed detectable
+IgG response may both have been due to a small infectious
+dose. Many seronegative HWs reported symptoms fulﬁlling the
+MHF case deﬁnition, which underlines the difﬁculty in diag-
+nosing early MHF on clinical grounds alone and the importance
+of swift laboratory conﬁrmation. The ranking of symptoms was
+Downloaded from https://academic.oup.com/jid/article/196/Supplement_2/S168/858930 by Catherine Sharp user on 26 May 2024
+S174 • JID 2007:196 (Suppl 2) • Borchert et al.
+almost the same as in seronegative community contacts [6],
+but symptoms were less frequent in HWs.
+Hospital hygiene and the use of protective gear were insuf-
+ﬁcient in Watsa and Durba, despite improvement compared
+with the period before disease control was in place. Glove use
+should have been universal. Universal FPG use cannot be re-
+alistically expected outside of isolation wards—but, then again,
+this calls into question the impact of barrier nursing on overall
+biosafety for HWs. The frequent use of invasive techniques,
+including IM injections, further suggests the absence of a com-
+prehensive infection control strategy.
+However, HWs used resources rationally: they used gloves
+and FPG more frequently for invasive than for noninvasive
+procedures. Given the need for protective material outside of
+the isolation wards, they bent the donor-imposed rules and
+employed multiple-use material in the operating theater.
+None of the 6 cases of occupational MHF occurred in HWs
+who used FPG at the time of exposure. Although the availability
+of protective material was inadequate before May 1999, stocks
+were later sufﬁcient to cover the isolation wards’ needs; all items
+were still available in 2001 (S.M., unpublished data). Outside
+of the isolation wards, the availability of protective material did
+not fundamentally improve. HWs, confronted with an unex-
+pected hemorrhage, were therefore tempted to handle the prob-
+lem without appropriate protection. Not surprisingly, we found
+no evidence that the frequency of occupational MHF in HWs
+decreased after the introduction of barrier nursing. In this set-
+ting, the availability of postexposure prophylaxis, which should
+be given within a half hour after exposure [9], would have
+made no difference either: the 6 HWs who became infected
+did not realize their exposure before the onset of symptoms.
+For these 6 “health-care workers in an outbreak of Marburg
+virus or Ebola virus,” the advent of postexposure prophylaxis
+was not really “good news” [10, p. 1374].
+Our results underline the importance of not focusing too
+narrowly on barrier nursing in isolation wards, which should
+be only 1 element of a wider strategy for infection control in
+health facilities. The clinical diagnosis of ﬁloviral hemorrhagic
+fever can be difﬁcult in the ﬁrst days of disease; unsuspecting
+HWs may not protect themselves sufﬁciently if universal pre-
+cautions are not ﬁrmly established in their daily routine. Gen-
+eral precautions (including the use of gloves, hand disinfection,
+and sharps management) need to be reinforced everywhere,
+alternatives to invasive therapies need to be established where
+possible, and a ﬁloviral hemorrhagic fever screeningmechanism
+needs to be set up at hospital entry. This task is logistically
+challenging and resource intensive, and conditions in Watsa
+and Durba were not conducive to implementing it. The task
+also suffered from the absence of a single protagonist with
+overall responsibility. As in past outbreaks, ﬁeld epidemiology
+was carried out by the WHO, the Centers for Disease Control
+and Prevention, and others, and isolation wards were estab-
+lished by MSF. Nosocomial infection control outside of isola-
+tion wards was, at least in Watsa, “no man’s land.” The MHF
+outbreak in Uige, Angola, in 2005 may have changed this for
+the good: nosocomial transmission of MARV fueled the out-
+break to such an extent that MSF took responsibility for in-
+fection control in the whole hospital, and nosocomial trans-
+mission was brought to an end [11]. Furthermore, the challenge
+for protracted outbreaks like the one in Watsa is not only to
+introduce but to maintain high standards of hospital hygiene.
+Innovative, more energizing training methods—for example,
+drills—could be tried as a complement to standard supervision
+approaches.
+However, a lack of resources or awareness does not fully
+explain the nonuse of protective gear. We identiﬁed 2 main
+reasons why HWs elected not to use available protective gear
+despite better knowledge or explicit warnings: peer bonding
+and traditional explanations.
+HWs are part of the local community and may share popular
+or traditional beliefs, like the explanatory model of “deliberate
+poisoning,” particularly if they have received little formal ed-
+ucation. The accusation that 2 HWs poisoned Dr. A was even
+followed by health authorities seeking their imprisonment. This
+illustrates how modern and traditional belief systems coexist.
+Trainers should address doubts about the biomedical model,
+and its acceptance by HWs should not be taken for granted.
+HWs were more inclined to take risks when the patients with
+MHF were HWs themselves. Rules may be bent in an open,
+controlled way, without increased risk; violated because of an
+impulse to peer bond with increased risk to the HW (Dr. Z
+and Mr. Y above); and broken in acts of resistance to hospi-
+talization (see the Appendix for examples). Peer bonding
+among HWs may be particularly pronounced when they enjoy
+a high social status, distancing them from other community
+members, and when they work in remote settings, fostering
+preparedness to support each other in coping. The open def-
+inition of “family” may even further promote peer bonding.
+Because care for peers with ﬁloviral hemorrhagic fever appears
+to constitute a particular occupational hazard, training should
+speciﬁcally address this emotional challenge.
+Although we certainly have not exhausted this topic in the
+present article, we have demonstrated that providing knowledge
+and materials may not sufﬁce to make HWs use protective gear
+with the rigor necessary for ﬁloviral hemorrhagic fever out-
+breaks. HWs need to be prepared and supported beyond this.
+Acknowledgments
+We thank the authorities of Watsa Health Zone, who supported our
+study; the participating health workers, for their commitment and trust;
+Julius Lutwama (Uganda Virus Research Institute), for temporarily storing
+the samples and facilitating their shipment to Johannesburg; Robert Swa-
+Downloaded from https://academic.oup.com/jid/article/196/Supplement_2/S168/858930 by Catherine Sharp user on 26 May 2024
+Occupational Marburg Hemorrhagic Fever • JID 2007:196 (Suppl 2) • S175
+nepoel and his team (National Institute for Infectious Diseases, Sandring-
+ham, South Africa), for performing the laboratory tests on blood samples;
+Heinz Feldmann and the anonymous reviewers, for helpful comments on
+an earlier draft of this article; and Sara Thomas, for proofreading the ﬁnal
+draft.
+Supplement sponsorship.
+This article was published as part of a sup-
+plement entitled “Filoviruses: Recent Advances and Future Challenges,”
+sponsored by the Public Health Agency of Canada, the National Institutes
+of Health, the Canadian Institutes of Health Research, Cangene, CUH2A,
+Smith Carter, Hemisphere Engineering, Crucell, and the International Cen-
+tre for Infectious Diseases.
+References
+1. Bausch DG, Nichol ST, Muyembe-Tamfum JJ, et al. Marburg hem-
+orrhagic fever associated with multiple genetic lineages of virus. New
+Engl J Med 2006; 355:909–19.
+2. Bausch DG, Borchert M, Grein T, et al. Risk factors for Marburg
+hemorrhagic fever, Democratic Republic of the Congo. Emerg Infect
+Dis 2003; 9:1531–7.
+3. Biot M. Tribute to Dr Katenga Bonzali. Trop Med Int Health 2000; 5:
+384.
+4. World Health Organization (WHO), Centers for Disease Control and
+Prevention. Infection control for viral haemorrhagic fevers in the Af-
+rican health care setting. 1st ed. Geneva: WHO, 1998.
+5. Colebunders R, Sleurs H, Pirard P, et al. Organisation of health care
+during an outbreak of Marburg haemorrhagic fever in the Democratic
+Republic of Congo, 1999. J Infect 2004;48:347–53.
+6. Borchert M, Mulangu S, Swanepoel R, et al. Serosurvey on household
+contacts of Marburg hemorrhagic fever patients. Emerg Infect Dis
+2006; 12:433–9.
+7. Ksiazek TG, West CP, Rollin PE, Jahrling P, Peters CJ. ELISA for the
+detection of antibodies to Ebola virus. J Infect Dis 1999; 179:S192–8.
+8. Johnson KM, Elliott LH, Heymann DL. Preparation of polyvalent viral
+immunoﬂuorescent intracellular antigens and use in human serosurv-
+eys. J Clin Microbiol 1981; 14:527–9.
+9. Daddario-DiCaprio KM, Geisbert TW, Stro
+¨her U, et al. Postexposure
+protection against Marburg haemorrhagic fever with recombinant ve-
+sicular stomatitis virus vectors in non-human primates: an efﬁcacy
+assessment. Lancet 2006; 367:1399–404.
+10. Becker S. Good news for Marburg virus workers. Lancet 2006; 367:
+1373–4.
+11. Jeffs B, Iscla M, Grovas I, et al. The Me
+´decins Sans Frontie
+`res inter-
+vention in the Marburg hemorrhagic fever epidemic, Uige, Angola,
+2005. I. Lessons learned in the hospital. J Infect Dis 2007; 196(Suppl
+2):S154–61 (in this supplement).
+12. Borchert M, Muyembe-Tamfum JJ, Colebunders R, Libande M, Sabue
+M, Van der Stuyft P. A cluster of Marburg virus disease, involving an
+infant. Trop Med Int Health 2002; 7:902–6.
+13. Coulter JBS. Dr Matthew Lukwiya, Medical Superintendent, St Mary’s
+Hospital, Lacor, Uganda, died of Ebola virus, December 2000. Ann
+Trop Paediatr 2001; 21:101–3.
+14. Bausch DG, Sesay SSS, Oshin B. On the front lines of Lassa fever.
+Emerg Infect Dis 2004; 10:1889–90.
+15. Balasegaram M, Dejene S, Tinnemann P, Perkins S, Davidson R. Ex-
+amples of tropical disease control in the humanitarian medical pro-
+grammes of MSF and Merlin. Trans R Soc Trop Med Hyg 2006; 100:
+327–34.
+Downloaded from https://academic.oup.com/jid/article/196/Supplement_2/S168/858930 by Catherine Sharp user on 26 May 2024
+CONFIDENCE IN DOVATO 
+ACROSS TREATMENT SETTINGS4–9
+PM-GBL-DLL-BNNR-240004 May 2024
+Treatment-
+naïve 
+resistance 
+rates, 
+with up to 
+REAL-
+WORLD 
+EVIDENCE
+0
+(n=0/1,885)*,4
+0.1
+(n=1/953)**,†,‡,§,5–7 
+RANDOMISED 
+CONTROLLED
+TRIALS
+years 
+of 
+evidence5–7
+3
+%
+%
+REAL-
+WORLD 
+EVIDENCE
+RANDOMISED 
+CONTROLLED 
+TRIALS
+0.03
+(n=10/35,888)*,4
+0
+(n=0/615)||,¶,#,8,9
+Treatment-
+experienced 
+resistance 
+rates,
+with up to 
+years 
+of 
+evidence1–3
+5
+%
+%
+EVIDENCE SUPPORTS THE HIGH BARRIER TO RESISTANCE 
+OF DOVATO UP TO 5 YEARS1-3 
+>300,000 PEOPLE LIVING WITH HIV 
+HAVE BEEN TREATED WITH DOVATO GLOBALLY10
+DOVATO is supported 
+by a wealth of evidence, 
+with the outcomes of 
+>40,000 people living 
+with HIV captured within 
+clinical trials and real-
+world evidence, 
+including those with:4–9,11,12
+NO BASELINE 
+RESISTANCE 
+TESTING13
+HIGH BASELINE 
+VIRAL LOAD
+(>100,000 copies/mL
+and even
+>1M copies/mL)6,13
+LOW CD4 + 
+COUNT 
+(≤200 cells/mm3)13
+NO PRIOR 
+TREATMENT
+EXPERIENCE13 
+2015
+>100
+>500
+>900
+>2,300
+>4,100
+>6,600
+>14,000
+>34,000
+>40,000
+2016
+2017
+2018
+2019
+Year
+2020
+2021
+2022
+2023
+2024
+Patients from phase III RCTs
+Patients from unique real-world cohorts 
+DOVATO is indicated for the treatment of Human Immunodeﬁciency Virus type 1 (HIV-1) 
+infection in adults and adolescents above 12 years of age weighing at least 40 kg, with no 
+known or suspected resistance to the integrase inhibitor class, or lamivudine.13
+Adverse events should be reported. Reporting forms and information can be found at 
+https://yellowcard.mhra.gov.uk/ or search for MHRA Yellowcard in the Google Play 
+or Apple App store. Adverse events should also be reported to GSK on 0800 221441
+ABBREVIATIONS
+3TC, lamivudine; CD4, cluster of diﬀerentiation 4; DTG, dolutegravir; FDA, United States 
+Food and Drug Administration; FTC, emtricitabine; HIV, human immunodeﬁciency virus; 
+ITT-E, intention-to-treat exposed; NRTI, nucleoside/nucleotide reverse transcriptase 
+inhibitor; RCT, randomised controlled trial; RNA, ribonucleic acid; TAF, tenofovir 
+alafenamide fumarate; TDF, tenofovir disoproxil fumarate; XTC, emtricitabine.
+FOOTNOTES
+*Data extracted from a systematic literature review of DTG+3TC real-world evidence. Overlap 
+between cohorts cannot be fully excluded.
+**The reported rate reﬂects the sum-total of resistance cases calculated from GEMINI I and 
+II (n=1/716, through 144 weeks), STAT (n=0/131, through 52 weeks), and D2ARLING (n=0/106, 
+through 24 weeks).5–7
+†GEMINI I and II are two identical 148-week, phase III, randomised, double-blind, multicentre, 
+parallel-group, non-inferiority, controlled clinical trials testing the eﬃcacy of DTG/3TC in 
+treatment-naïve patients. Participants with screening HIV-1 RNA ≤500,000 copies/mL were 
+randomised 1:1 to once-daily DTG/3TC (n=716, pooled) or DTG + TDF/FTC (n=717, pooled). The 
+primary endpoint of each GEMINI study was the proportion of participants with plasma HIV-1 
+RNA <50 copies/mL at Week 48 (ITT-E population, snapshot algorithm).13
+‡STAT is a phase IIIb, open-label, 48-week, single-arm pilot study evaluating the feasibility, 
+eﬃcacy, and safety of DTG/3TC in 131 newly diagnosed HIV-1 infected adults as a ﬁrst line 
+regimen. The primary endpoint was the proportion of participants with plasma HIV-1 RNA <50 
+copies/mL at Week 24.6
+§D2ARLING is a randomised, open-label, phase IV study designed to assess the eﬃcacy 
+and safety of DTG/3TC in treatment-naïve people with HIV with no available baseline HIV-1 
+resistance testing. Participants were randomised in a 1:1 ratio to receive DTG/3TC (n=106) or 
+DTG + TDF/XTC (n=108). The primary endpoint was the proportion of participants with plasma 
+HIV-1 RNA <50 copies/mL at Week 48.7 Results at week 24 of the study.
+||The reported rate reﬂects the sum-total of resistance cases calculated from TANGO (n=0/369, 
+through 196 weeks) and SALSA (n=0/246, through 48 weeks).8,9
+¶TANGO is a randomised, open-label, trial testing the eﬃcacy of DOVATO in virologically 
+suppressed patients. Participants were randomised in a 1:1 ratio to receive DOVATO (n=369) 
+or continue with TAF-containing regimens (n=372) for up to 200 weeks. At Week 148, 298 of 
+those on TAF-based regimens switched to DOVATO. The primary eﬃcacy endpoint was the 
+proportion of subjects with plasma HIV-1 RNA ≥50 copies/mL (virologic non-response) as per 
+the FDA Snapshot category at Week 48 (adjusted for randomisation stratiﬁcation factor).8,13
+#SALSA is a phase III, randomised, open-label, non-inferiority clinical trial evaluating the eﬃcacy 
+and safety of switching to DTG/3TC compared with continuing current antiretroviral regimens 
+in virologically suppressed adults with HIV. Eligible participants were randomised 1:1 to switch 
+to once-daily DTG/3TC (n=246) or continue current antiretroviral regimens (n=247). The primary 
+endpoint was the proportion of subjects with plasma HIV-1 RNA ≥50 copies/mL at Week 48 (ITT-E 
+population, snapshot algorithm).9
+REFERENCES
+1. Maggiolo F et al. BMC Infect Dis 2022; 22(1): 782.
+2. Taramasso L et al. AIDS Patient Care STDS 2021; 35(9): 342–353.
+3. Ciccullo A et al. JAIDS 2021; 88(3): 234–237.
+4. ViiV Healthcare. Data on File. REF-223795. 2024.
+5. Cahn P et al. AIDS 2022; 36(1): 39–48.
+6. Rolle C et al. Open Forum Infect Dis 2023; 10(3): ofad101.
+7. Cordova E et al. Poster presented at 12th IAS Conference on HIV Science. 23–26 July 2023. 
+Brisbane, Australia. TUPEB02.
+8. De Wit S et al. Slides presented at HIV Glasgow. 23–26 October 2022. Virtual and Glasgow, 
+UK. M041.
+9. Llibre J et al. Clin Infect Dis 2023; 76(4): 720–729.
+10. ViiV Healthcare. Data on File. REF-220949. 2024.
+11. Rolle C et al. Poster presented IDWeek. 11–15 October 2023. Virtual and Boston, USA. 1603.
+12. Slim J et al. Abstract presented IDWeek. 11–15 October 2023. Virtual and Boston, USA. 1593.
+13. DOVATO. Summary of Product Characteristics. June 2023.
+ViiV Healthcare, 980 Great West Road, Brentford, Middlesex, 
+London, UK.
+ViiV trademarks are owned by or licensed to the 
+ViiV Healthcare group of companies.
+Non-ViiV trademarks are owned by or licensed to their 
+respective owners or licensors.
+©2024 ViiV Healthcare group of companies or its licensor.
+All rights reserved.
+Intended for healthcare professionals only.
+PRESCRIBING INFORMATION
+Dovato Prescribing Information
+Legal Notices
+Privacy Policy
+Contact Us
+LEARN MORE
+

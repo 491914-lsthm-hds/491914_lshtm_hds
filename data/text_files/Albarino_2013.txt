@@ -1,0 +1,299 @@
+Genomic analysis of ﬁloviruses associated with four viral hemorrhagic
+fever outbreaks in Uganda and the Democratic Republic of the Congo
+in 2012
+C.G. Albariño a, T. Shoemaker b, M.L. Khristova a, J.F. Wamala c, J.J. Muyembe d, S. Balinandi b,
+A. Tumusiime b, S. Campbell a, D. Cannon a, A. Gibbons a, E. Bergeron a, B. Bird a, K. Dodd a,
+C. Spiropoulou a, B.R Erickson a, L. Guerrero a, B. Knust a, S.T. Nichol a, P.E. Rollin a,
+U. Ströher a,n
+a Centers for Disease Control and Prevention, Atlanta, USA
+b Centers for Disease Control and Prevention, Entebbe, Uganda
+c Ministry of Health, Kampala, Uganda
+d Institut National de Recherche Biomédicale, Kinshasa, Democratic Republic of the Congo
+a r t i c l e i n f o
+Article history:
+Received 22 March 2013
+Returned to author for revisions
+7 April 2013
+Accepted 18 April 2013
+Available online 25 May 2013
+Keywords:
+Filoviridae
+Bundibugyo virus
+Sudan virus
+Marburg virus
+Ebola virus
+a b s t r a c t
+In 2012, an unprecedented number of four distinct, partially overlapping ﬁlovirus-associated viral
+hemorrhagic fever outbreaks were detected in equatorial Africa. Analysis of complete virus genome
+sequences conﬁrmed the reemergence of Sudan virus and Marburg virus in Uganda, and the ﬁrst
+emergence of Bundibugyo virus in the Democratic Republic of the Congo.
+Published by Elsevier Inc.
+Results and discussion
+Several viruses within the Filoviridae family, including Ebola
+virus (EBOV), Sudan virus (SUDV), Taï Forest virus (TAFV), Bundi-
+bugyo virus (BDBV), Marburg virus (MARV) and Ravn virus (RAVV),
+cause severe viral hemorrhagic fevers (VHFs) with high case-
+fatality (Hartman et al., 2010) in several equatorial African coun-
+tries. A surveillance program to detect VHFs in Uganda was
+formally established in 2010 by the Centers for Disease Control
+and Prevention (CDC), Atlanta, USA, in collaboration with the
+Uganda Virus Research Institute (UVRI) and the Uganda Ministry
+of Health (UMoH) (MacNeil et al., 2011). Routine serologic and
+molecular diagnostic tests for various causative agents of VHF are
+performed on suspected case specimens submitted to the VHF
+reference laboratory located at UVRI, Entebbe. Between July and
+October 2012, alert cases were identiﬁed in Uganda or reported
+from the Democratic Republic of the Congo (DRC), and specimens
+were received by the CDC/UVRI VHF Program (Table 1). Four
+different ﬁlovirus disease outbreaks were initially identiﬁed by
+testing clinical samples via antigen capture, IgM ELISA, and/or qRT-
+PCR, using methods that were described before (Shoemaker et al.,
+2011; Towner et al., 2006, 2008). Subsequent virus isolation and
+complete viral genome sequencing studies were carried out at the
+CDC in Atlanta. Samples from patients with fatal and nonfatal
+outcomes that tested positive by qRT-PCR and showed low Ct
+values were chosen randomly for sequencing full viral genomes.
+After each ﬁlovirus disease outbreak was identiﬁed, many
+partner organizations were involved in outbreak response, includ-
+ing UVRI, UMoH, CDC, Médecins Sans Frontières (MSF), DRC
+Ministry of Health (DRCMoH), Public Health Agency of Canada
+(PHAC) and World Health Organization (WHO). These organiza-
+tions collaborated to establish epidemiological investigations,
+contact tracing, case management, logistical support, and patient
+isolation facilities. A mobile laboratory was established by CDC for
+the Ebola VHF outbreak in Isiro, DRC (this laboratory was main-
+tained in the late stages of the outbreak by the staff from the
+Public Health Agency of Canada). Similarly, CDC established a
+mobile laboratory in Kabale, Uganda, during the Marburg virus
+Contents lists available at SciVerse ScienceDirect
+journal homepage: www.elsevier.com/locate/yviro
+Virology
+0042-6822/$ - see front matter Published by Elsevier Inc.
+http://dx.doi.org/10.1016/j.virol.2013.04.014
+n Corresponding author.
+E-mail address: ixy8@cdc.gov (U. Ströher).
+Virology 442 (2013) 97–100
+disease outbreak. These ﬁeld laboratories were necessary because
+of the considerable distance between the outbreak epicenters and
+the VHF laboratory in Entebbe. The mobile laboratories performed
+daily molecular testing on acute suspect cases and on conﬁrmed
+cases in isolation wards to ensure patients were not viremic when
+they were discharged. The dates of laboratory conﬁrmation of
+outbreaks, and time to the last acute case being laboratory
+conﬁrmed are shown in Table 1. Once identiﬁed, these outbreaks
+were kept relatively small and quickly brought under control,
+relative to many of the past ﬁlovirus disease outbreaks. The ability
+to rapidly identify acute cases due to the availability of in-country
+ﬁlovirus diagnostics likely contributed to these successful control
+efforts. Complete reports on the epidemiologic and clinical aspects
+of the outbreaks will be presented elsewhere.
+Samples from VHF alert cases in the Kibaale District of western
+Uganda were received at the CDC/UVRI laboratory in July 2012
+(Fig. 1). Differential molecular testing of clinical samples identiﬁed
+the outbreak as Ebola virus disease associated with SUDV. Precise
+identiﬁcation of the virus as SUDV was achieved at CDC in Atlanta
+by sequencing the complete genome of the virus directly from the
+clinical samples. Genomic analysis showed ∼99.9% sequence iden-
+tity among the virus genomes detected in the four acute case
+serum samples. Finding of nearly identical virus sequences is
+compatible with a single spillover event from the virus reservoir
+into the human population, with subsequent limited waves of
+human-to-human transmission. Interestingly, these sequences
+also showed a high identity (∼99.2%) with the SUDV Nakisimata
+isolate (Shoemaker et al., 2011), detected in 2011 in the Luwero
+District, Uganda, and with the SUDV Gulu isolate (Towner et al.,
+2004) found in the Gulu District of northern Uganda in 2000
+(Fig. 2). By the end of the outbreak (ofﬁcially declared on October
+4th, 2012) a total of 11 cases had been conﬁrmed by molecular and
+serological testing.
+In mid-August 2012, samples from VHF alert cases in Isiro and
+Dungu Health Zones, Province Orientale in northeastern DRC, were
+dispatched to CDC/UVRI by MSF Switzerland staff working in that
+region (Fig. 1). The initial diagnostics and subsequent full genome
+sequence analysis conﬁrmed the presence of BDBV in the clinical
+samples from the Isiro Health Zone, but not the Dungu area. The
+analysis showed that the virus genomes present in the Isiro
+clinical samples were ∼98.6% identical to those of the original
+BDBV isolated in the Bundibugyo District of western Uganda in
+2007 (Towner et al., 2008). The high degree of sequence identity
+(∼99.2%) found among the viruses detected in four serum samples
+from acute cases was again suggestive of a single spillover event
+into the human population with subsequent human-to-human
+transmission. A total of 36 cases were conﬁrmed by the end of the
+outbreak (ofﬁcially declared on November 26th, 2012).
+In October 2012, samples were received by CDC/UVRI from VHF
+alert cases in the Kabale and Ibanda Districts of southwestern
+Table 1
+Locations of outbreaks, dates outbreaks were conﬁrmed and number of conﬁrmed cases.
+Location
+Virus
+Date of laboratory
+conﬁrmation
+Last positive laboratory test
+(RT-PCR)
+♯of days from detection of 1st case to
+last case
+♯of laboratory conﬁrmed cases (♯of
+deaths)
+Kibaale, UGA
+SUDV
+July 26th, 2012
+Aug 5th, 2012
+11
+11 (4)
+Isiro, DRC
+BDBV
+Aug 16th, 2012
+Oct 11th, 2012
+57
+36 (13)
+Kabale, UGA;
+Ibanda, UGA
+MARV Oct 18th, 2012
+Nov 7th, 2012
+21
+15 (4)
+Luwero, UGA
+SUDV
+Nov 13th, 2012
+Nov 17th, 2012
+5
+6 (3)
+Fig. 1. Map of the Democratic Republic of the Congo (DRC) and Uganda showing the locations of ﬁlovirus-caused viral hemorrhagic fever (VHF) outbreaks in 2012. Isolation
+sites of the most genetically similar viruses from previous years are also shown.
+C.G. Albariño et al. / Virology 442 (2013) 97–100
+98
+Uganda (Fig. 1). Initial testing at CDC/UVRI identiﬁed this as a
+Marburg virus disease outbreak. During the following 3 weeks, a
+total of 15 additional cases were conﬁrmed in the districts of
+Kabale, Ibanda, Mbarara, and Kampala (Fig. 1, Table 1) based on
+testing at the CDC mobile laboratory in Kabale and/or serology at
+the VHF laboratory at CDC/UVRI. Preliminary epidemiological
+investigations identiﬁed two chains of transmission: (1) a case
+infected in Ibanda and spread to persons in Kabale, some of whom
+sought care in Kampala, and (2) cases in Ibanda, some of whom
+sought care in Mbarara. No epidemiologic data could be found to
+link these two clusters, however, sequence analysis of complete
+viral genomes in serum samples from one acute case from each
+cluster showed nearly identical sequences (∼99.9%) indicating that
+these cases were likely part of the same human-to-human
+transmission chain. Moreover, these viral genome sequences were
+highly similar (∼99.3%) to two MARV isolates previously found in
+Rousettus aegyptiacus bats (Fig. 2) captured in 2008 and 2009 in
+the nearby Python Cave in Queen Elizabeth National Park,
+southwest Uganda (Amman et al., 2012). UMoH ofﬁcially declared
+the end of the outbreaks in Kabale and Ibanda Districts on
+December 21st, 2012.
+In November 2012, the UVRI/CDC laboratory received samples
+from VHF alert cases in the Luwero District, Uganda and identiﬁed
+this as another SUDV outbreak. Over the next few weeks, a total of
+six cases were conﬁrmed from the relatively close districts of
+Luwero, Jinja, and Nakasongola. There were only 5 days between
+the laboratory diagnosis of the ﬁrst and last acute cases (Table 1).
+Nearly identical (∼100%) virus NP gene sequences were found for
+the viruses detected in three serum samples, suggesting a single
+chain of human-to-human transmission. Moreover, the full-length
+genomic sequence obtained from a viral isolate showed a closest
+identity to the SUDV Gulu strain isolated in Uganda in 2000
+(Towner et al., 2004), with the SUDV Kibaale isolates identiﬁed
+earlier in 2012 being more distant. The end of the outbreak was
+ofﬁcially declared on Jan 16th, 2013.
+Conclusions
+In summary, continuous VHF surveillance, established by CDC,
+UVRI, and UMoH, combined with rapid laboratory testing, allowed
+the identiﬁcation and conﬁrmation of four ﬁlovirus disease out-
+breaks during the second half of 2012. Following initial ﬁlovirus
+identiﬁcation by conventional serological methods and qRT-PCR,
+sequence characterization of complete viral genomes from clinical
+samples conﬁrmed the reemergence of SUDV and MARV in
+Uganda, and the ﬁrst emergence of BDBV in DRC. Prior to 2012,
+BDBV had only been detected in a single outbreak in western
+Uganda in 2007 (Towner et al., 2008).
+Several lines of evidence strongly indicate that bats are a likely
+natural reservoir for EBOV and MARV (Amman et al., 2012; Leroy
+et al., 2005; Pourrut et al., 2007; Towner et al., 2007, 2009). Indeed,
+MARV and Ravn viruses have been repeatedly isolated from the
+common African fruit bat, R. aegyptiacus (Amman et al., 2012;
+Towner et al., 2009). Moreover, the seasonal pattern of MARV
+circulation in R. aegyptiacus bats has been tentatively linked to a
+high risk of infection in humans (Amman et al., 2012). Interestingly,
+the timing of this Marburg virus disease outbreak in Uganda
+coincides with the second annual virus pulse in bat populations.
+Ongoing ecological investigations are currently underway to exam-
+ine the potential origins of the virus spillover events initiating these
+recent outbreaks. Furthermore, our sequence analysis indicated the
+reemergence of SUDV as two single, but independent chains of
+transmission events in July and October 2012.
+Acknowledgments
+We thank all people who participated in the international
+multi-agency outbreak response in Uganda and DRC in 2012,
+including the staff from MSF Spain, Belgium, Switzerland, and
+France; WHO; UMoH; DRCMoH; Public Health Agency of Canada,
+and CDC-Atlanta. We also thank Edmund Newman (Health Protec-
+tion Agency, Porton Down) for supporting the mobile laboratory in
+Kabale. We acknowledge the medical staff that provided care for
+patients. We also thank Tatyana Klimova for her assistance during
+the editing process of this manuscript, Craig Manning for the map
+design, and Joel Vincent for the assistance during the sequence
+assembly.
+The ﬁndings and conclusions in this report are those of the
+authors and do not necessarily represent the views of the Centers
+for Disease Control and Prevention.
+Fig. 2. Phylogenetic trees comparing representative full-length genomes of ebola-
+virus (A) and marburgvirus (B). Evolutionary analyses were conducted in MEGA5
+(Tamura et al., 2011), using the neighbor-joining method. Bootstrap values listed at
+the nodes provide statistical support for 500 replicates. Scale bar indicates the
+number of substitutions per site.
+Genomes from 2012 are in red; † indicates fatal cases. Genbank accession numbers
+used in A are: FJ968794, EU338380, NC_014373, FJ217162, NC_004161, JN638998,
+NC_006432, AF086833, AY354458, and KC242783. SUDV sequences from 2012
+outbreaks are: KC545389, KC545390, KC545391, KC545392 and KC589025. BDBV
+sequences from 2012 outbreaks are: KC545393, KC545394, KC545395, and
+KC545396. Genbank accession numbers used in B are: DQ447654, JX458858,
+FJ750958, JX458853, JN408064, FJ750957, DQ447649, DQ217792, DQ447658,
+DQ447650, DQ447651, and FJ750953. MARV sequences from 2012 outbreaks are:
+KC545387 and KC545388.
+C.G. Albariño et al. / Virology 442 (2013) 97–100
+99
+References
+Amman, B.R., Carroll, S.A., Reed, Z.D., Sealy, T.K., Balinandi, S., Swanepoel, R., et al.,
+2012. Seasonal pulses of Marburg virus circulation in juvenile Rousettus
+aegyptiacus bats coincide with periods of increased risk of human infection.
+PLoS Pathog. 8 (10), e1002877.
+Hartman, A.L., Towner, J.S., Nichol, S.T., 2010. Ebola and Marburg hemorrhagic fever.
+Clin. Lab. Med. 30 (1), 161–177.
+Leroy, E.M., Kumulungui, B., Pourrut, X., Rouquet, P., Hassanin, A., Yaba, P., et al.,
+2005. Fruit bats as reservoirs of Ebola virus. Nature 438 (7068), 575–5761 438
+(7068), 575–576.
+MacNeil, A., Farnon, E.C., Morgan, O.W., Gould, P., Boehmer, T.K., Blaney, D.D., et al.,
+2011. Filovirus outbreak detection and surveillance: lessons from Bundibugyo.
+J. Infect. Dis. 204 (Suppl 3), S761–S767.
+Pourrut, X., Delicat, A., Rollin, P.E., Ksiazek, T.G., Gonzalez, J.P., Leroy, E.M., 2007.
+Spatial and temporal patterns of Zaire ebolavirus antibody prevalence in the
+possible reservoir bat species. J. Infect. Dis. 196 (Suppl 2), S176–S183.
+Shoemaker, T., MacNeil, A., Balinandi, S., Campbell, S., Wamala, J.F., McMullan, L.K.,
+et al., 2011. Reemerging Sudan Ebola virus disease in Uganda. Emerg. Infect. Dis.
+18 (9), 1480–1483.
+Tamura, K., Peterson, D., Peterson, N., Stecher, G., Nei, M., Kumar, S., 2011. MEGA5:
+molecular evolutionary genetics analysis using maximum likelihood, evolu-
+tionary distance, and maximum parsimony methods. Mol. Biol. Evol. 28 (10),
+2731–2739.
+Towner, J.S., Rollin, P.E., Bausch, D.G., Sanchez, A., Crary, S.M., Vincent, M., et al.,
+2004. Rapid diagnosis of Ebola hemorrhagic fever by reverse transcription-PCR
+in an outbreak setting and assessment of patient viral load as a predictor of
+outcome. J. Virol. 78 (8), 4330–4341.
+Towner, J.S., Khristova, M.L., Sealy, T.K., Vincent, M.J., Erickson, B.R., Bawiec, D.A.,
+et al., 2006. Marburgvirus genomics and association with a large hemorrhagic
+fever outbreak in Angola. J. Virol. 80 (13), 6497–6516.
+Towner, J.S., Pourrut, X., Albarino, C.G., Nkogue, C.N., Bird, B.H., Grard, G., et al.,
+2007. Marburg virus infection detected in a common African bat. PLoS ONE 2
+(1), e764.
+Towner, J.S., Sealy, T.K., Khristova, M.L., Albarino, C.G., Conlan, S., Reeder, S.A., et al.,
+2008. Newly discovered ebola virus associated with hemorrhagic fever out-
+break in Uganda. PLoS Pathog. 4 (11), e1000212.
+Towner, J.S., Amman, B.R., Sealy, T.K., Carroll, S.A., Comer, J.A., Kemp, A., et al., 2009.
+Isolation of genetically diverse Marburg viruses from Egyptian fruit bats. PLoS
+Pathog. 5 (7), e1000536.
+C.G. Albariño et al. / Virology 442 (2013) 97–100
+100
+

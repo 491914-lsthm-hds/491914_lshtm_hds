@@ -1,0 +1,872 @@
+We conducted two antibody surveys to assess risk fac-
+tors for Marburg hemorrhagic fever in an area of confirmed
+Marburg virus transmission in the Democratic Republic of
+the Congo. Questionnaires were administered and serum
+samples tested for Marburg-specific antibodies by enzyme-
+linked immunosorbent assay. Fifteen (2%) of 912 partici-
+pants in a general village cross-sectional  antibody survey
+were positive for Marburg immunoglobulin G antibody.
+Thirteen (87%) of these 15 were men who worked in the
+local gold mines. Working as a miner (odds ratio [OR] 13.9,
+95% confidence interval [CI] 3.1 to 62.1) and receiving
+injections (OR 7.4, 95% CI 1.6 to 33.2) were associated
+with a positive antibody result. All 103 participants in a tar-
+geted antibody survey of healthcare workers were antibody
+negative. Primary transmission of Marburg virus to humans
+likely occurred via exposure to a still unidentified reservoir
+in the local mines. Secondary transmission appears to be
+less common with Marburg virus than with Ebola virus, the
+other known filovirus.
+M
+arburg hemorrhagic fever (MHF) is a severe illness
+caused by Marburg virus, a member of the
+Filoviridae family. MHF was first described in 1967 dur-
+ing outbreaks in Germany and the former Yugoslavia that
+were linked to monkeys imported from Uganda (1–3).
+Since then, only a few sporadic cases in East Africa and
+southern Africa and one laboratory infection have been
+identified (4–7). Serosurveys for Marburg antibodies in the
+general population generally have shown prevalences of
+<2%, indicating it to be a rare and highly lethal disease
+(8–25).
+The largest outbreak of MHF recorded to date began in
+late 1998 in northeastern Democratic Republic of the
+Congo (DRC) (26,27). Although the remoteness of the area
+and the civil war in eastern DRC delayed access and eval-
+uation, in May 1999 a team of international investigators
+identified 73 cases (8 laboratory-confirmed and 65 sus-
+pected cases retrospectively identified) (28). Follow-up
+surveillance subsequently identified >150 cases through
+December 2000. 
+The natural reservoir for Marburg virus remains
+unknown, although it is presumed to be of zoonotic origin.
+Primary transmission of the virus from the natural reser-
+voir appears to occur only in sub-Saharan Africa and is
+sometimes followed by secondary person-to-person trans-
+mission in both community and nosocomial settings
+(4–6,29). Because of the disease’s rarity and lethality, risk
+factors for transmission of Marburg virus have not been
+extensively investigated. We therefore performed two anti-
+body surveys in the wake of the 1998–99 outbreak in DRC
+to explore risk factors for Marburg virus exposure and
+transmission. One antibody survey was a cross-sectional
+study of the general village populations; the other was a
+focused investigation of healthcare workers (HCWs). 
+Emerging Infectious Diseases • www.cdc.gov/eid • Vol. 9, No. 12, December 2003
+1531
+RESEARCH
+Risk Factors for Marburg
+Hemorrhagic Fever, Democratic
+Republic of the Congo
+Daniel G. Bausch,*1 Matthias Borchert,†2 Thomas Grein,‡ Cathy Roth,‡ Robert Swanepoel,§ 
+Modeste L. Libande,¶ Antoine Talarmin,#3 Eric Bertherat,**4 Jean-Jacques Muyembe-Tamfum,¶ 
+Ben Tugume,†† Robert Colebunders,† Kader M. Kondé,‡‡5 Patricia Pirard,§§ Loku L. Olinda,¶
+Guénaël R. Rodier,‡ Patricia Campbell,¶¶ Oyewale Tomori,‡‡ Thomas G. Ksiazek,* 
+and Pierre E. Rollin*
+*Centers for Disease Control and Prevention, Atlanta Georgia,
+USA; †Institute of Tropical Medicine, Antwerp, Belgium; ‡World
+Health Organization, Geneva, Switzerland; §National Institute for
+Communicable Diseases, Johannesburg, South Africa; ¶Ministry
+of Health, Kinshasa, Democratic Republic of the Congo; #Institut
+Pasteur, Cayenne, French Guiana;  **Le Pharo, Marseille, France;
+††Uganda Virus Research Institute, Entebbe, Uganda; ‡‡World
+Health Organization, AFRO, Harare, Zimbabwe; §§Doctors with-
+out Borders, Brussels, Belgium; and ¶¶Doctors without Borders,
+Amsterdam, the Netherlands
+1Present address: Tulane School of Public Health and Tropical
+Medicine, New Orleans, LA, USA.
+2Present address: London School of Hygiene and Tropical Medicine,
+London, England.
+3Present address: Institut Pasteur, Bangui, Central African Republic.
+4Present address: World Health Organization, Geneva, Switzerland.
+5Present address: World Health Organization, AFRO, Ouagadougou,
+Burkina Faso.
+Methods
+Area of Study
+The studies we describe were performed as an adjunct
+to the investigation of an outbreak of MHF in May 1999.
+The epicenter of the outbreak was the village of Durba in
+the Haut-Uélé District, Oriental Province, in northeastern
+DRC, an isolated region approximately 200 km from the
+borders of Uganda and Sudan (Figure). Although no offi-
+cial population count for Durba is available, unofficial
+estimates are approximately 25,000. Watsa, a larger town
+of approximately 60,000 and the administrative seat of the
+zone, lies 14 km away. Although the Yogo ethnic group
+predominates, the population of Durba/Watsa is quite het-
+erogeneous, as many people have migrated to the area to
+work in the local gold mines. Most are Catholic. The area
+has had intermittent armed conflict since the beginning of
+the Congolese civil war in 1996, a situation that has
+severely limited travel and economic growth. 
+The livelihood of most of the population in the
+Durba/Watsa area is associated with gold mining, conduc-
+ted almost exclusively by young men and most often with-
+out professional training or equipment. Some older men,
+women, and children are involved in the extraction of gold
+from ore and its sale. Subsistence farming and hunting are
+also common. Although various mines exist in the area,
+most mining appears to take place in the Goroumbwa mine
+a few kilometers from the village of Durba. In addition,
+some miners dive in local rivers in search of gold. The
+existence of a hemorrhagic illness in the region appeared
+to be common knowledge and was labeled “Durba hemor-
+rhagic syndrome” or “Durba syndrome” by the villagers,
+who often associated it with working in the mines. 
+Because of the remoteness of the region and the war,
+supplies are severely limited in all the health facilities in
+the region. The major facility in Durba is a small rudimen-
+tary government health center staffed by a few nurses. In
+Watsa, there is a larger government hospital, a hospital
+affiliated with the mining company, and two government
+health centers. In addition, at least 14 small private health
+centers operate collectively in Durba and Watsa.
+Study Population
+Two surveys were undertaken. The first was a cross-
+sectional survey on a convenience sample of the general
+population of Durba township. It was performed by estab-
+lishing a post in the center of the village. With the aid of
+local HCWs and a village loud-speaker system, residents
+of sequential “quartiers” of the village were requested to
+come for evaluation over a 3-day period. Persons <15
+years of age were excluded. The second survey focused on
+HCWs at all health centers in Durba and Watsa. All HCWs
+were surveyed at their place of employment. 
+Questionnaire
+The rationale for conducting the study was explained to
+all participants, and verbal consent was obtained.
+Questionnaires were pretested on local villagers not
+included in the final study. For the general population, a 2-
+page questionnaire was administered. Supervisors at the
+local mining company were consulted about appropriate
+questions regarding exposures in the mines. Persons were
+first evaluated by local village HCWs, who determined
+their ability to speak and understand French. If deemed
+able to do so, the person was then interviewed by either a
+local HCW or a French-speaking member of the interna-
+tional investigative team. For those persons who did not
+understand French, the questionnaire was administered by
+a local HCW
+in the appropriate local language.
+Participants were asked about their entry into and activities
+within the mines, exposures to persons presumably sick
+with Durba syndrome (defined as a severe illness with high
+fever and bleeding from the nose, mouth, and/or anus) in
+the hospital and at home, and exposures to various animals
+thought to possibly transmit Marburg virus (rodents, bats,
+and monkeys). Participants were given a small bag of
+peanuts as a token of appreciation for their cooperation.
+For the study of HCWs, a 1-page questionnaire was
+administered; HCWs were asked about exposure to per-
+sons with suspected Durba syndrome at work and at home,
+as well as any history of a compatible illness in the HCWs
+themselves. HCWs were also asked if they had ever
+entered the mines. Interviews were conducted in French. 
+Phlebotomy and Serologic Testing
+After administration of the questionnaire, 5 mL of
+blood was obtained and stored out of the sunlight. At the
+1532
+Emerging Infectious Diseases • www.cdc.gov/eid • Vol. 9, No. 12, December 2003
+RESEARCH
+Figure. Map of the Democratic Republic of the Congo indicating
+the neighboring villages of Durba and Watsa, the epicenter of the
+1998–1999 outbreak of Marburg hemorrhagic fever. 
+end of the day, the serum and clot were separated, labeled,
+and stored in liquid nitrogen. Aliquots were sent on dry ice
+for analysis at both the Centers for Disease Control and
+Prevention (CDC) in Atlanta, Georgia, USA, and the
+National Institute for Communicable Diseases in
+Johannesburg, South Africa.
+Testing for Marburg-specific immunoglobulin (Ig) M
+and IgG antibodies by the enzyme-linked immunosorbent
+assay (ELISA) was conducted with a technique analogous
+to that reported for detecting antibody to Ebola virus,
+except for the substitution of an antigen made from the
+Musoke strain of Marburg virus (30,31). The cut-off value
+for a positive ELISA result was set to 3 standard devia-
+tions from the mean control-adjusted optical density (OD)
+of 410 nm found on a panel of normal serum samples. This
+value generally corresponds to an OD of approximately
+0.1 at a dilution of 1:100 for the IgM assay, and 0.2 at
+1:400 for the IgG assay, which generally has a higher
+background. Positive and negative controls were included
+with each run and consisted of serum from African
+patients with and without a laboratory-confirmed history
+of MHF. Because the rarity of MHF has precluded rigor-
+ous field testing of the ELISA for Marburg antibody, all
+ELISA-positive serum samples were also examined by the
+immunofluorescent antibody assay (IFA), as previously
+described (32). The cut-off titer for a positive IFA result
+was 1:50. Serum samples were considered positive only if
+positive results were obtained by both ELISA and IFA.
+Study participants were directed to seek the serologic
+results (free of charge) 1 month after testing from the
+nurse in charge of the local health center. The nurse was
+provided the results along with details on how to interpret
+antibody status.
+Data Analysis
+Questionnaires were created by using EpiInfo version
+6.04 (CDC, Atlanta, GA). Data were initially recorded on
+the questionnaires by hand, then entered into EpiInfo 6.04,
+and finally imported into SPSS version 10.0 statistical
+software (SPSS, Chicago, IL) for further analysis. The chi-
+square test, Fisher exact test, and Student t test with
+Levene’s test for equality of variances were employed,
+where appropriate. Data found to be non-normally distrib-
+uted were normalized by a log 10 transformation before
+statistical analysis. Statistical tests were two-sided, and
+significance was set at p < 0.05. Variables with signifi-
+cance values of p < 0.1 in the univariate analysis were
+examined in a multivariate model using forward stepwise
+maximum likelihood logistic regression. 
+Results
+General Population
+A total of 912 participants were surveyed. Another
+seven persons were initially enrolled but did not stay to
+complete their questionnaires or to have a blood sample
+drawn. No further information is available regarding these
+seven or their reasons for withdrawal. Demographic data
+are presented in Table 1. Since the gold deposits in Durba
+attract young male miners from the surrounding region,
+most participants were men (65%), and 347 (38%) listed
+their occupation as miner, although only 281 (81%) of
+these 347 were currently working in the mines. Virtually
+all (99%) of the miners were male. Marburg-specific IgG
+antibodies were found in 15 (2%) of the 912 study partici-
+pants. All were IgM antibody–negative. Thirteen (87%) of
+the 15 IgG antibody–positive participants were male min-
+ers. The other two were women who had never entered into
+the mines and whose profession was listed as “other”
+(most likely housewives). 
+All 13 of the antibody-positive miners were currently
+working: 10 (77%) at Goroumbwa, 2 (15%) at another
+mine in Durba, and 1 (8%) at an unspecified site. None
+reported river-diving for gold. Compared with those who
+were antibody-negative, antibody-positive miners tended
+to have worked fewer years at their present mine site but to
+have spent more time in the mines, although the differ-
+ences were not statistically significant (Table 2). Antibody-
+positive miners were significantly younger than their anti-
+body-negative counterparts (Table 1). This finding perhaps
+reflects the longer exposure time in the mines of younger
+miners (age <30 years) relative to older miners (mean +
+standard error of the mean [SEM] consecutive hours per
+week 17.7 + 1.2 vs. 13.7 + 1.3, respectively, p = 0.006;
+Emerging Infectious Diseases • www.cdc.gov/eid • Vol. 9, No. 12, December 2003
+1533
+RESEARCH
+Table 1. Demographic characteristics and Marburg immunoglobulin G antibody results of the study population in Durba, Democratic 
+Republic of the Congo, 1999a   
+Characteristic 
+All participants 
+n = 912 (%) 
+IgG antibody  
+positive n = 15 (%) 
+IgG antibody  
+negative n = 897 (%) 
+OR (95% CI) 
+p value 
+Male 
+594 (65) 
+13 (87) 
+581 (65) 
+3.5 (0.8 to 15.4) 
+0.10 
+Mean age, y (range) 
+31 (14–79) 
+27 (21–42) 
+31 (14–79) 
+- 
+0.04 
+Profession 
+ 
+ 
+ 
+- 
+ 
+Miner 
+347 (38) 
+13 (87) 
+334 (37) 
+11.0 (2.5 to 48.9) 
+< 0.001 
+Merchant 
+141 (15) 
+0 (-) 
+141 (16) 
+- 
+0.15 
+Other/unknown 
+424 (46) 
+2 (13) 
+422 (47) 
+- 
+- 
+aOdds ratios (OR) and p values are for the comparison between antibody-positive and -negative participants. CI, confidence interval; Ig, immunoglobulin. 
+mean + SEM longest stint: 34.7 + 2.3 vs. 23.5 + 2.1,
+respectively, p < 0.001). 
+We examined associations between antibody to
+Marburg virus and various practices while working in the
+mines, as well as exposures related to sick persons in the
+home, healthcare services, and animals. In a univariate
+analysis, significant positive associations were found
+with having touched the corpse of someone who died
+from Durba syndrome, having had Durba syndrome one-
+self, and having received injections in the past year (Table
+3). Touching the blood, feces, or urine of someone with
+Durba syndrome was of borderline statistical signifi-
+cance. Consumption of rodents was associated with a bor-
+derline significant protective effect, which was probably
+a spurious association. Of the four antibody-positive sur-
+vey participants who said they had had Durba syndrome
+themselves, three dated the illness to the 5 months imme-
+diately before the study. The fourth, although uncertain,
+dated his illness to September 1998, 9 months before the
+investigation. 
+Receiving an injection as part of medical treatment was
+common in Durba: 505 (56%) of 907 of the participants in
+our cross-sectional village survey reported receiving an
+injection in the previous year, including 13 (87%) of the 15
+antibody-positive participants (11 miners and both female
+nonminers). Overall, however, receiving injections was
+significantly more common among nonminers than miners
+(62 [368/596] vs. 47 [162/348], respectively, OR 1.9, 95%
+CI 1.4 to 2.4, p < 0.001) and among women than men
+(71% [221/312] vs. 49% [305/626], respectively, OR 2.6,
+95% CI 1.9 to 3.4, p < 0.001). 
+In a multivariate model, the only variables that
+remained significantly associated with a positive Marburg
+antibody result were being a miner (OR 13.8, 95% CI 3.1
+to 62.1) and having received injections (OR 7.4, 95% CI
+1.6 to 33.2). Having previously had Durba syndrome was
+not added to the model, as it was not an independent risk
+factor for acquiring MHF. The associations between
+Marburg antibody, mining, and receiving injections
+remained essentially unaltered when men were looked at
+independently. The number of antibody-positive women
+(two) was too small to permit meaningful statistical analy-
+sis. However, both positive women were among the rela-
+tively few survey participants with extensive secondary
+contact in the household. Both reported having someone in
+the household sick with Durba syndrome, having contact
+with their body fluids, and participating in their burial,
+although only one of the two women reported direct con-
+tact with the corpse. In contrast, 4 (31%) of the 13 anti-
+body-positive male miners reported any type of household
+exposure.
+Healthcare Workers
+One hundred three HCWs were enrolled from 15 differ-
+ent health centers, including 73 (71%) nurses, 13 (13%)
+clerical or administrative staff, 10 (10%) midwives, 5 (5%)
+laboratory workers, and 2 (2%) doctors. These figures are
+thought to represent virtually all of the active HCWs in the
+two villages except those practicing traditional medicine.
+HCWs had a mean of 9 years (range 0–42) of experience.
+All were negative for both Marburg IgM and IgG antibod-
+ies, despite the fact that 67 (65%) reported caring for a
+patient with Durba syndrome, and 5 (5%) reported having
+had Durba syndrome themselves. Types of patient contact
+included administering injections (38%); cleaning up
+blood, vomitus, urine, or feces (28%); washing bed clothes
+(7%); washing corpses (6%); and receiving a needlestick
+injury (2%). 
+Discussion
+Despite conclusive evidence of circulation of Marburg
+virus in the Durba/Watsa area in the months and years pre-
+ceding our antibody surveys, we found few persons with
+serologic evidence of previous infection (26,27). This like-
+ly reflects a combination of the rarity of MHF and the high
+case-fatality ratio (83%) associated with the disease in
+Durba/Watsa, leaving few survivors for study.
+Most previous observations on risk factors for MHF
+have been of an anecdotal nature. Despite the small num-
+ber of antibody-positive survey participants found in
+Durba, we were able to systematically identify and quan-
+tify several risk factors for MHF. The preponderance of
+antibody in male miners without obvious evidence for per-
+son-to-person transmission suggests that the local mines
+are a site of primary infection with Marburg virus, most
+likely through exposure to the primary zoonotic reservoir.
+Various previous findings support the conclusion of an
+association between MHF and exposure in mines and
+caves, including the following: 1) most cases of MHF
+identified in Durba/Watsa through December 2000
+occurred in miners (J.J. Muyembe-Tamfum et al., unpub.
+data); 2) molecular epidemiologic data demonstrate the
+1534
+Emerging Infectious Diseases • www.cdc.gov/eid • Vol. 9, No. 12, December 2003
+RESEARCH
+Table 2. Duration of time spent working in mines and Marburg immunoglobulin G antibody status among 281 active miners in Durba, 
+Democratic Republic of the Congo, 1999 
+Time in mines 
+Antibody positive  (+ SEM) (n = 13) 
+Antibody negative (+ SEM) (n = 268) 
+p value 
+At present mine site (y) 
+Usual h/wk working in mine  
+Usual h in mine without exiting 
+6.6 + 1.0 
+58.2 + 9.2 
+24.2 + 6.1 
+10.3 + 0.6 
+49.5 + 1.7 
+16.0 + 0.9 
+0.52 
+0.36 
+0.07 
+Longest stint in mine (h) 
+38.8 + 10.2 
+28.8 + 1.8 
+0.16 
+circulation of numerous distinct genotypes of Marburg
+virus in Durba/Watsa, consistent with multiple parallel pri-
+mary introductions rather than a single one amplified by
+secondary spread (R. Swanepoel et al., unpub. data); and
+3) previous cases of MHF have been associated with entry
+into caves (5,6).
+As expected, close contact with case-patients with
+MHF or corpses were risk factors for secondary transmis-
+sion of Marburg virus. Although injection with contami-
+nated syringes has been previously shown to be associated
+with filovirus transmission, the retrospective nature of our
+study makes it impossible to discern whether the use of
+Marburg virus-contaminated syringes resulted in virus
+transmission in Durba/Watsa or whether patients sick with
+MHF, usually a severe disease, were simply more likely to
+seek and receive medical care, including injections
+(33,34). That the general profile of the antibody-positive
+persons who received injections (male miners) contrasted
+with that of the general population (female, nonminer)
+suggests that the latter explanation may be more likely.  
+Although at least seven HCW infections have been con-
+firmed in Durba/Watsa since 1998, we found no antibody-
+positive HCWs, despite what would appear to be frequent
+high-risk exposures (35, J.J. Muyembe-Tamfum et al.,
+unpub. data). The high case-fatality ratio may again
+explain the absence of antibody-positive HCWs, although
+historical review does not suggest the existence of previ-
+ous large nosocomial epidemics in Durba/Watsa (D.
+Bausch et al., unpub. data). Sound barrier nursing practices
+on behalf of local HCWs may have helped prevent noso-
+comial transmission but, given the severely limited avail-
+ability of protective material in the area, this is unlikely to
+be the sole explanation. 
+The low prevalence of Marburg antibody found in
+Durba/Watsa, despite what would be considered signifi-
+cant risk factors for person-to-person transmission, sug-
+Emerging Infectious Diseases • www.cdc.gov/eid • Vol. 9, No. 12, December 2003
+1535
+RESEARCH
+Table 3. Antibody to Marburg virus and possible risk factors for Marburg hemorrhagic fever in Durba, Democratic Republic of the 
+Congo, 1999a    
+Characteristic 
+All participants  
+(%) 
+Antibody 
+positive (%) 
+Antibody 
+negative (%) 
+OR (95% CI) 
+p value 
+Behavior in the minesb 
+ 
+ 
+ 
+ 
+ 
+Wear mask 
+4/289 (1) 
+1/13 (8) 
+3/276 (1) 
+7.6 (0. to 78.4) 
+0.17 
+Drink water from sources in the mine 
+160/289 (55) 
+9/13 (69) 
+151/276 (55) 
+1.9 (0.6 to 6.2) 
+0.40 
+Use explosives 
+129/289 (45) 
+7/13 (54) 
+122/276 (44) 
+1.5 (0.5 to 4.5) 
+0.57 
+Wear boots 
+46/289 (16) 
+2/13 (15) 
+44/276 (16) 
+1.0 (0.2 to 4.5) 
+1.00 
+Household/village exposures to someone with Durba syndromec 
+Touched corpse 
+88/905 (10) 
+4/15 (27) 
+84/890 (9) 
+3.5 (1.1 to 11.2) 
+0.05 
+Touched blood, feces, or urine 
+60/903 (7) 
+3/15 (20) 
+57/888 (6) 
+3.6 (1.0 to 13.3) 
+0.07 
+Worked with someone with syndrome 
+248/906 (27) 
+7/15 (47) 
+241/891 (27) 
+2.4 (0.8 to 6.6) 
+0.15 
+Been in the same room with someone with syndrome 
+179/902 (20) 
+4/15 (27) 
+175/887 (20) 
+1.5 (0.5 to 4.7) 
+0.51 
+Touched skin of person during illness 
+286/903 (32) 
+6/15 (40) 
+280/888 (32) 
+1.4 (0.5 to 4.1) 
+0.58 
+Someone in the household sick with syndrome 
+210/906 (23) 
+4/15 (27) 
+206/891 (23) 
+1.2 (0.4 to 3.8) 
+0.76 
+Participated in burial 
+393/904 (43) 
+6/15 (40) 
+387/889 (44) 
+0.9 (0.3 to 2.5) 
+1.00 
+Healthcare-related exposures 
+ 
+ 
+ 
+ 
+ 
+Had Durba syndrome yourself 
+60/912 (7) 
+4/15 (27) 
+56/897 (6) 
+5.4 (1.7 to 17.7) 
+0.01 
+Received injections in the last year 
+505/907 (56) 
+13/15 (87) 
+492/892 (55) 
+5.2 (1.2 to 23.6) 
+0.02 
+Underwent surgery in the last year 
+85/905 (9) 
+2/15 (13) 
+83/890 (9) 
+1.5 (0.3 to 6.7) 
+0.64 
+Received scarificationd in the last year 
+209/906 (23) 
+4/15 (27) 
+205/891 (23) 
+1.2 (0.4 to 3.9) 
+0.76 
+Animal exposures 
+ 
+ 
+ 
+ 
+ 
+Rodents 
+ 
+ 
+ 
+ 
+ 
+Touched 
+437/897 (49) 
+4/14 (29) 
+433/883 (49) 
+0.4 (0.1 to 1.3) 
+0.18 
+Ate 
+271/892 (30) 
+1/15 (7) 
+270/877 (31) 
+0.2 (0.0 to 1.2) 
+0.05 
+Bitten by 
+200/896 (22) 
+3/15 (20) 
+197/881 (22) 
+0.9 (0.2 to 3.1) 
+1.00 
+Bats 
+ 
+ 
+ 
+ 
+ 
+Touched 
+169/901 (19) 
+4/14 (29) 
+165/887 (19) 
+1.8 (0.5 to 5.6) 
+0.31 
+Ate 
+31/898 (3) 
+0/15 (-) 
+31/883 (4) 
+- 
+1.00 
+Bitten by 
+8/896 (1) 
+0/15 (-) 
+8/881 (1) 
+- 
+1.00 
+Monkeys 
+ 
+ 
+ 
+ 
+ 
+Touched 
+502/892 (56) 
+6/14 (43) 
+496/878 (57) 
+0.6 (0.2 to 1.7) 
+0.42 
+Atee 
+682/895 (76) 
+11/14 (79) 
+671/881 (76) 
+1.1 (0.3 to 4.2) 
+1.00 
+Bitten by  
+76/895 (8) 
+1/15 (7) 
+75/880 (9) 
+0.8 (0.1 to 5.9) 
+1.00 
+aOdds ratios (OR) and p values are for the comparison between antibody-positive and -negative participants. CI, confidence interval. 
+bIncludes only responses from persons who stated that they currently worked in the mines. 
+cBefore questioning began, Durba syndrome was described to the participant as “a severe illness with high fever and bleeding from the nose, mouth, and/or anus.” 
+dScarification is the practice of intentionally scarring the skin with sharp instruments. It may be done for aesthetic reasons or because of a belief that it has medicinal or 
+spiritual value. 
+eMany participants reported the meat was smoked or cured at the time of purchase, so potential exposure to viable virus may have been limited. 
+gests that secondary transmission of Marburg virus may be
+relatively infrequent compared with transmission of the
+other known member of the filovirus family, Ebola virus.
+In contrast to Ebola hemorrhagic fever (33,34), no large
+nosocomially amplified outbreaks of MHF have been
+noted. Only six secondary infections (five nosocomial and
+one sexually transmitted) were noted of the 32 cases
+reported during the original MHF outbreak in 1967 in
+Europe, despite the fact that the etiologic agent was
+unknown at the time of the outbreak and thus appropriate
+barrier nursing measures were unlikely to have been rap-
+idly implemented (1–3,36–38). Smith et al. reported that
+1 of 207 close contacts of a case-patient with MHF con-
+tracted the virus (5). Neither MHF nor antibody devel-
+oped in a nurse in Durba who suffered a needlestick injury
+while caring for a case-patient with laboratory-confirmed
+and subsequently fatal MHF during the 1999 outbreak in
+DRC; however, the needle and IV line may have been
+flushed before the accident. Finally, immunohistochemi-
+cal studies of skin biopsy specimens from patients with
+fatal MHF generally show that Marburg virus antigen is
+more sparsely distributed relative to Ebola antigen in fatal
+cases of Ebola hemorrhagic fever, which suggests that
+there may be less cutaneous shedding of Marburg virus
+and thus lower person-to-person communicability in
+MHF (S. Zaki et al., pers. commun.).
+Our study had several limitations. As participants were
+not randomly selected, disproportionate participation from
+specific subpopulations could have skewed our results.
+Selective participation could have occurred because of fear
+of stigmatization or selective migrations of persons into or
+out of Durba/Watsa. Social stigmas could have also result-
+ed in recall bias. The small number of Marburg
+antibody–positive participants limits our statistical power
+to identify all possible risk factors for MHF. Although
+ELISA testing for Marburg antibody has not undergone
+rigorous field testing, we believe that our conservative cri-
+terion of positive results on both ELISA and IFA for a par-
+ticipant to be considered Marburg antibody–positive lends
+credence to our conclusions. The precise duration of anti-
+body persistence after Marburg infection is unknown for
+both tests. If reversion to antibody-negative status appears
+after a relatively short time, some previously infected per-
+sons may have escaped detection. However, most of the
+aforementioned limitations would likely result in false-
+negative results, with the ultimate effect of underestimat-
+ing the magnitude of any recognized associations. 
+In defining risk factors for primary transmission of
+Marburg virus in Durba/Watsa, our study helps orient the
+hunt for the reservoir for the filoviruses. If primary infec-
+tion to humans is indeed occurring in the mines around
+Durba/Watsa, future investigations of the reservoir for
+Marburg virus should focus on fauna present in such habi-
+tats. Bats, rodents, arthropods, and plant life within
+cave/mine habitats would be the prime suspects. Samples
+taken from small mammals captured in and around mines
+in Durba are being analyzed for possible Marburg virus
+infection (R. Swanepoel, pers. commun.). Only a combina-
+tion of the use of epidemiologic and epizootiologic inves-
+tigations along with direct observations made during
+outbreaks is likely to shed light on the still-cryptic natural
+history of the filoviruses. 
+Acknowledgments
+We thank the following for their assistance in this study:
+Ray Arthur, Angelo Belli, Leo Braack, Michel Noureddine
+Kassa, Alan Kemp, Leon Kinuani, Herwig Leirs, Laura Morgan,
+Jean-Pierre Mustin, Camille Nakwa, C.J. Peters, Antoine
+Tshomba, Florimond Tshioko, Kent Wagoner, Hervé Zeller, and
+the administration of the Kilo-Moto (OKIMO) mining company
+in Durba, Democratic Republic of the Congo.
+Financial support for the investigation of Marburg hemor-
+rhagic fever in the Democratic Republic of the Congo, of which
+this study was a part, was received from the Office of Foreign
+Disaster Assistance of the United States Agency for International
+Development.
+Dr. Bausch is a medical epidemiologist specializing in the
+investigation and control of viral hemorrhagic fevers.
+References
+1. Siegert R, Shu HL, Slenczka W, Peters D, Muller G. The aetiology of
+an unknown human infection transmitted by monkeys. German
+Medical Monthly 1968;13:1–3.
+2. Martini GA, Knauff HG, Schmidt HA, Mayer G, Baltzer G. A hither-
+to unknown infectious disease contracted from monkeys. “Marburg-
+virus” disease. German Medical Monthly 1968;13:457–70.
+3. Todorovitch K, Mocitch M, Klasnja R. Clinical picture of two
+patients infected by the Marburg vervet virus. In: Martini GA, Siegert
+R, editors. Marburg virus disease. New York: Springer-Verlag; 1971.
+p. 19–23.
+4. Gear JS, Cassel GA, Gear AJ, Trappler B, Clausen L, Meyers AM, et
+al. Outbreak of Marburg virus disease in Johannesburg. Br Med J
+1975;4:489–93.
+5. Smith DH, Johnson BK, Isaacson M, Swanepoel R, Johnson KM,
+Killey M, et al. Marburg-virus disease in Kenya. Lancet
+1982;1:816–20.
+6. Johnson ED, Johnson BK, Silverstein D, Tukei P, Geisbert TW,
+Sanchez AN, et al. Characterization of a new Marburg virus isolated
+from a 1987 fatal case in Kenya. Arch Virol 1996;11:101–14.
+7. Nikiforov VV, Turovskii II, Kalinin PP, Akinfeeva LA, Katkova LR,
+Barmin VS, et al. A case of laboratory infection with Marburg fever.
+Zh Mikrobiol Epidemiol Immunobiol 1994;3:104–6.
+8. Johnson ED, Gonzalez JP, Georges A. Haemorrhagic fever virus
+activity in equatorial Africa—distribution and prevalence of filovirus
+reactive antibody in the Central African Republic. Trans R Soc Trop
+Med Hyg 1993;87:530–5.
+9. Johnson ED, Gonzalez JP, Georges A. Filovirus activity among
+selected ethnic groups inhabiting the tropical forest of equatorial
+Africa. Trans R Soc Trop Med Hyg 1993;87:536–8.
+1536
+Emerging Infectious Diseases • www.cdc.gov/eid • Vol. 9, No. 12, December 2003
+RESEARCH
+10. Gonzalez JP, Josse R, Johnson ED, Merlin M, Georges AJ, Abandja
+J, et al. Antibody prevalence against haemorrhagic fever viruses in
+randomized representative Central African populations. Res Virol
+1989;140:319–31.
+11. Rodhain F, Gonzalez JP, Mercier E, Helynck B, Larouze B, Hannoun
+C. Arbovirus infections and viral haemorrhagic fevers in Uganda: a
+serological survey in Karamoja district, 1984. Trans R Soc Trop Med
+Hyg 1989;83:851–4.
+12. Mathiot CC, Fontenille D, Georges AJ, Coulanges P. Antibodies to
+haemorrhagic fever viruses in Madagascar populations. Trans R Soc
+Trop Med Hyg 1989;83:407–9.
+13. Salah S, Fox E, Abbatte EA, Constantine NT, Asselin P, Soliman AK.
+A negative human serosurvey of haemorrhagic fever viruses in
+Djibouti. Ann Inst Pasteur Virol 1988;139:439–42.
+14. Paix MA, Poveda JD, Malvy D, Bailly C, Merlin M, Fleury HJ. A
+sero-epidemiological study of hemorrhagic fever viruses in a urban
+population of Cameroon. Bull Soc Pathol Exot 1988;81:679–82.
+15. Tomori O, Fabiyi A, Sorungbe A, Smith A, McCormick JB. Viral
+hemorrhagic fever antibodies in Nigerian populations. Am J Trop
+Med Hyg 1988;38:407–10.
+16. Tessier SF, Rollin PE, Sureau P. Viral haemorrhagic fever survey in
+Chobe (Botswana). Trans R Soc Trop Med Hyg 1987;81:699–700.
+17. Meunier DM, Johnson ED, Gonzalez JP, Georges-Courbot MC,
+Madelon MC, Georges AJ. Current serological data on viral hemor-
+rhagic fevers in the Central African Republic. Bull Soc Pathol Exot
+1987;80:51–61.
+18. Van der Waals FW, Pomeroy KL, Goudsmit J, Asher DM, Gajdusek
+DC. Hemorrhagic fever virus infections in an isolated rainforest area
+of central Liberia. Limitations of the indirect immunofluorescence
+slide test for antibody screening in Africa. Trop Geogr Med
+1986;38:209–14.
+19. Johnson BK, Ocheng D, Gichogo A, Okiro M, Libondo D, Tukei PM,
+et al. Antibodies against haemorrhagic fever viruses in Kenya popu-
+lations. Trans R Soc Trop Med Hyg 1983;77:731–3.
+20. Gonzalez JP, McCormick JB, Saluzzo JF, Georges AJ. Les fièvres
+hémorragiques africaines d’origine virale. Contribution à leur étude
+en République Centrafricaine. Entomologie Médicale et Parasitologie
+1983;21:119–30.
+21. Bourée P, Bergmann JF. Ebola virus infection in man: a serological
+and epidemiological survey in the Cameroons. Am J Trop Med Hyg
+1983;32:1465–6.
+22. Saluzzo JF, Gonzalez JP, Georges A-J, Johnson KM. Mise en evi-
+dence d’anticorps vis a vis du virus Marburg parmi les populations
+humaines du sud-est de la République Centrafricaine. Comptes
+Rendus de L’Académie des Sciences (Paris) 1981;292:29–31.
+23. Blackburn NK, Searle L, Taylor P. Viral haemorrhagic fever antibod-
+ies in Zimbabwe schoolchildren. Trans R Soc Trop Med Hyg
+1982;76:803–5.
+24. Ivanoff B, Duquesnoy P, Languillat G, Saluzzo JF, Georges A,
+Gonzalez JP, et al. Haemorrhagic fever in Gabon. I. Incidence of
+Lassa, Ebola and Marburg viruses in Haut-Ogooue. Trans R Soc Trop
+Med Hyg 1982;76:719–20.
+25. Bowen ETW, Platt G, Lloyd G, McArdell LB, Simpson DIH, Smith
+DH, et al. Viral haemorrhagic fever in the Sudan 1976: human viro-
+logical and serological studies. In: Pattyn SR, editor. Ebola virus
+hemorrhagic fever. Amsterdam: Elsevier/North Holland Biomedical
+Press; 1978. p. 143–51.
+26. World Health Organization. Marburg fever, Democratic Republic of
+the Congo. Wkly Epidemiol Rec 1999;74:145.
+27. World Health Organization. Viral haemorrhagic fever/Marburg,
+Democratic Republic of the Congo. Wkly Epidemiol Rec
+1999;74:157–8.
+28. Bertherat E, Talarmin A, Zeller H. Democratic Republic of the
+Congo: between civil war and the Marburg virus. International
+Committee of Technical and Scientific Coordination of the Durba
+Epidemic. Med Trop (Mars) 1999;59:201–4.
+29. Gear JHS. The hemorrhagic fevers of Southern Africa with special
+reference to studies in the South African Institute for Medical
+Research. Yale J Biol Med 1982;55:207–12.
+30. Ksiazek TG, West CP, Rollin PE, Jahrling PB, Peters CJ. ELISA for
+the detection of antibodies to Ebola viruses. J Infect Dis
+1999;179:S192–8.
+31. Ksiazek TG, Rollin PE, Williams AJ, Bressler DS, Martin ML,
+Swanepoel R, et al. Clinical virology of Ebola hemorrhagic fever
+(EHF): virus, virus antigen, IgG and IgM antibody findings among
+EHF patients in Kikwit, 1995. J Infect Dis 1999;179:S177–87.
+32. Johnson KM, Elliott LH, Heymann DL. Preparation of polyvalent
+viral immunofluorescent intracellular antigens and use in human
+serosurveys. J Clin Microbiol 1981;14:527–9.
+33. Khan AS, Kweteminga TF, Heymann DH, LeGuenno B, Nabeth P,
+Kerstiens B, et al. The reemergence of Ebola hemorrhagic fever
+(EHF), Democratic Republic of the Congo, 1995. J Infect Dis
+1999;179:S76–86.
+34. Baron RC, McCormick JB, Zubeir OA. Ebola virus disease in south-
+ern Sudan: hospital dissemination and intrafamilial spread. Bull
+World Health Organ 1983;61:997–1003.
+35. Borchert M, Muyembe-Tamfum JJ, Colebunders R, Libande M,
+Sabue M, Van de Stuyft P. A cluster of Marburg virus disease involv-
+ing an infant. Trop Med Int Health 2002;7:902–6.
+36. Slenczka WG. The Marburg virus outbreak of 1967 and subsequent
+episodes. In: Klenk HD, editor. Current topics in microbiology and
+immunology. New York: Springer Verlag; 1999. p. 49–75.
+37. Martini GA. Marburg agent disease: in man. Trans R Soc Trop Med
+Hyg 1969;63:295–302.
+38. Kissling RE. Epidemiology of Marburg disease. In: Sanders M, edi-
+tor. Viruses affecting man and animals. St. Louis: Warren H. Green,
+Inc.; 1985. p. 327–38.
+Address for correspondence: Daniel G. Bausch, Tulane School of Public
+Health and Tropical Medicine, Department of Tropical Medicine, SL-17,
+J. B. Johnston Building, Rm. 511, 11430 Tulane Avenue, New Orleans,
+LA 70112-2699 USA; fax: 504-988-6686; email: dbausch@Tulane.edu
+Emerging Infectious Diseases • www.cdc.gov/eid • Vol. 9, No. 12, December 2003
+1537
+RESEARCH
+

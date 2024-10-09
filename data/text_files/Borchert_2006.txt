@@ -1,0 +1,520 @@
+Emerging Infectious Diseases • www.cdc.gov/eid • Vol. 12, No. 3, March 2006
+433
+The first major outbreak of Marburg hemorrhagic fever
+(MHF) outside a laboratory environment occurred in the
+subdistrict of Watsa, Democratic Republic of Congo, from
+October 1998 to August 2000. We performed a serosurvey
+of household contacts of MHF patients to identify undetect-
+ed cases, ascertain the frequency of asymptomatic Marburg
+infection, and estimate secondary attack risk and postinter-
+vention reproduction number. Contacts were interviewed
+about their exposure and symptoms consistent with MHF.
+Blood samples were tested for anti–Marburg immunoglobu-
+lin G (IgG). One hundred twenty-one (51%) of 237 identified
+contacts participated; 72 (60%) were not known to the
+health authorities. Two participating contacts were seropos-
+itive and reported becoming ill after the contact; no serolog-
+ic evidence for asymptomatic or mild Marburg infection was
+found. The secondary attack risk was 21%; the postinter-
+vention reproduction number was 0.9, consistent with an
+outbreak sustained by repeated primary transmission,
+rather than large-scale secondary transmission.
+M
+arburg hemorrhagic fever (MHF) is a rare disease
+caused by the Marburg filovirus; it occurs in central,
+east, and southern Africa. MHF is characterized by sudden
+onset of fever, headache, myalgia, arthralgia, and frequent-
+ly progresses to diarrhea and vomiting, hemorrhagic
+diathesis (petechiae, hematemesis, melena), and death (1).
+Case fatality reached 88% in a community outbreak in
+Uige, Angola (2). No vaccine or antiviral therapy is avail-
+able; supportive treatment consists primarily of correcting
+fluid and electrolyte imbalances. The putative diagnosis is
+established on clinical and epidemiologic grounds and
+confirmed by polymerase chain reaction (PCR), antigen-
+capture enzyme-linked immunosorbent assay (ELISA),
+immunoglobulin M (IgM) ELISA, or virus isolation.
+The reservoir animal species capable of surviving
+Marburg infection and sustaining the virus’s lifecycle has
+not been discovered (3); thus, transmission patterns from
+the reservoir to humans are not known. Transmission
+between humans occurs through direct contact with symp-
+tomatic MHF patients or with their body fluids or remains
+(4). The risk for transmission of Marburg virus is assumed
+to increase with the intensity of physical contact and the
+amount of body fluids shed, as shown for Ebola virus (5).
+The first major community outbreak of MHF described
+(>150 putative cases, case fatality 83%) was in the mining
+village of Durba and the neighboring town, Watsa, in the
+northeast of the Democratic Republic of Congo (DRC), in
+1999. The outbreak probably started in October 1998, had
+several peaks alternating with latent periods, and ended in
+August 2000, when the last confirmed MHF cases
+occurred (6). Primary cases were predominantly in
+orpailleurs (unofficial gold miners), while secondary cases
+were predominantly in household contacts and healthcare
+workers. Response activities similar to those for Ebola out-
+breaks were started in May 1999 with temporary assistance
+from expert teams. These measures included active and
+passive surveillance, follow-up of contacts, isolation of
+cases, barrier nursing, and safe burials (7).
+The surveillance system likely did not identify all MHF
+cases because surveillance officers did not make sufficient
+efforts to approach families of primary case-patients,
+patients with mild cases were not referred to an experi-
+enced clinician for assessment (8), or contacts concealed
+symptoms compatible with MHF to avoid isolation. We
+carried out a serosurvey of household contacts to ascertain
+unidentified MHF cases and to estimate the secondary
+attack risk and postintervention reproduction number.
+Serosurvey on Household 
+Contacts of Marburg Hemorrhagic
+Fever Patients
+Matthias Borchert,* Sabue Mulangu,† Robert Swanepoel,‡ Modeste Lifenya Libande,§ 
+Antoine Tshomba,¶ Amayo Kulidri,§ Jean-Jacques Muyembe-Tamfum,† and Patrick Van der Stuyft*
+*Institute of Tropical Medicine, Antwerp, Belgium; †Institut de
+Recherche Biomédicale, Kinshasa, Democratic Republic of
+Congo; ‡National Institute for Communicable Diseases,
+Johannesburg, South Africa; §Ministry of Health, Democratic
+Republic of Congo; and ¶Hôpital Général de Kilo-Moto, Watsa,
+Democratic Republic of Congo
+Methods
+Study Area and Population
+The epicenter of the 1998–2000 MHF outbreak, Durba,
+is 14 km from Watsa town, the administrative center of the
+subdistrict of Watsa. Watsa Subdistrict is located near the
+border with Uganda and Sudan. Watsa’s health system was
+seriously compromised during the outbreak by economic
+decline and the ongoing war in eastern DRC.
+Our survey was of lay persons, referred to as household
+contacts, whose contact with an MHF patient occurred
+during lay activities, such as nursing a patient (supporting,
+feeding, washing, and the like, whether at home or in
+health facilities), transporting a patient or body, or prepar-
+ing a body for burial. Healthcare workers whose contact
+occurred during their professional duties were not eligible. 
+Cases of MHF were either laboratory confirmed (posi-
+tive by PCR, antigen-capture ELISA, virus isolation, or a
+combination of IgG ELISA, IgG indirect immunofluores-
+cence assay [IFA], and clinical and epidemiologic evi-
+dence [48 cases]) or epidemiologically linked (persons for
+whom laboratory confirmation was not attempted who had
+acute fever, hemorrhage, and contact with a laboratory-
+confirmed patient [25 cases]). Forty-five cases were
+known from surveillance during the outbreak; we identi-
+fied 28 retrospectively. Contacts of suspected case-patients
+whose conditions were not laboratory confirmed or epi-
+demiologically linked as defined above were not eligible
+because their diagnosis lacked certainty.
+We attempted to visit the households of all 73 MHF
+patients and to prepare a list of persons who had direct
+contact with the patient or his or her body fluids or
+remains. If contacts were temporarily absent, we under-
+took at least 2 repeat visits. If they had moved away, we
+tried to locate them at their new address, unless distance or
+lack of security (e.g., rebel activity, bandits) hindered us,
+in which case we interviewed former neighbors about the
+contacts’ disease episodes in the 4 weeks after the patient’s
+illness. We asked all contacts we met to give verbal
+informed consent; if they agreed, we interviewed them and
+took blood samples. This study was approved by the ethics
+committee of the Antwerp Institute for Tropical Medicine
+and the representative of the Ministry of Health in Watsa.
+Interviews
+After establishing the identity of the contact and the
+relationship to the patient, we asked an open-ended ques-
+tion about the role the contact played during the patient’s
+illness. We also asked closed-ended questions on whether
+the contact had touched, carried, or embraced the patient
+(and whether the patient at that point had diarrhea, vomit-
+ing, or bleeding) and whether the contact had touched the
+patient’s clothes or linen (and whether these were soiled
+with stool, vomitus, or blood). Since patients who died
+often had had diarrhea, vomiting, and bleeding in the final
+stages of disease, we also asked whether the contact had
+touched, carried, embraced, or washed the person after
+death. While field testing the questionnaire, we found that
+protective gear such as gloves was unavailable to lay per-
+sons; thus, all contacts were assumed to be unprotected. We
+asked about symptoms the contact had experienced during
+the 4 weeks after exposure; these symptoms (Table 1) cor-
+respond to the ones used during the epidemic to define a
+clinically suspected case.
+Blood Sampling and Testing
+After the interview, 5–10 mL venous blood was taken
+from contacts. After 12 to 24 hours, serum was separated
+from the blood clot, refrigerated at ≈4°C, and transported
+to the Uganda Virus Research Institute (within 1 to 2
+weeks). There it was frozen at –70°C and shipped on dry
+ice to the National Institute for Communicable Diseases,
+Johannesburg. Serum was examined by ELISA and IFA
+and considered positive if anti-Marburg IgG was found in
+both tests.
+Data Analysis
+Data were entered with EpiInfo version 6.0 (Centers for
+Disease Control and Prevention, Atlanta, GA, USA), and
+analyzed with Stata version 8.2 software (StataCorp LP,
+College Station, TX, USA). Depending on symptoms asso-
+ciated with increased virus shedding and on the intensity of
+the contact, level of exposure was categorized. Low-level
+contact included any direct contact with a living case-
+patient without diarrhea, vomiting, or bleeding; or touching
+clothes or sheets not soiled with stool, vomitus, or blood.
+Medium-level contact was defined as touching a living
+case-patient with diarrhea, vomiting, or bleeding; touching
+clothes or sheets soiled with stool, vomitus, or blood; or
+touching remains. High-level contact included carrying or
+embracing a living patient who had diarrhea, vomiting, or
+bleeding; or carrying, embracing, or cleaning remains.
+We established transmission chains and generations for
+all patients, taking into account work as a gold digger,
+exposure to other patients, incubation period, and date of
+onset (M. Borchert, unpub. data). When a patient had been
+working as a gold digger and had been exposed to another
+patient, we gave priority to the confirmed human-to-
+human exposure over the possible primary exposure and
+classified these cases as nonprimary ones.
+We calculated the secondary attack risk as the propor-
+tion of household contacts of primary case-patients who
+then became secondary case-patients themselves, includ-
+ing only primary case-patients whose contact list could be
+established fully and who did not share contacts with
+another case-patient; we used the analogous approach to
+RESEARCH
+434
+Emerging Infectious Diseases • www.cdc.gov/eid • Vol. 12, No. 3, March 2006
+estimate the tertiary attack risk. We computed the repro-
+duction number (Rp) as the product of the secondary attack
+risk and the average number of contacts per primary case-
+patient. As most cases in our survey had occurred after
+control measures were implemented, we consider this
+number to be the postintervention Rp, not the basic repro-
+duction number R0.
+Results
+Completeness of Data
+Household contacts of 73 MHF patients were eligible to
+participate in the survey. We completed contact lists for 48
+patients (66%). For 7 patients, Watsa health authorities had
+listed some contacts during the epidemic. Because we
+could not meet these patients, their contacts, or others who
+could verify the list’s completeness we likely missed some
+contacts. For 18 patients, no contacts had been listed by the
+health authorities. Since we did not speak to anyone who
+had witnessed the case during the epidemic, contacts have
+also probably been missed for these cases.
+Existing surveillance records listed 141 contacts. For
+the 48 cases we could investigate fully, 96 additional con-
+tacts were found. Seventy-one of these were contacts of
+patients identified by surveillance during the outbreak. The
+total number of identified contacts therefore was 237 (141
++ 96), relating to 55 (48 + 7) of 73 cases.
+A patient whose case was fully investigated had, on
+average, 4.46 contacts; on this basis, one would expect 326
+contacts for all 73 patients. The 237 identified contacts
+correspond to 73% of this expected number. A total of 143
+contacts could be traced, and 124 consented to being inter-
+viewed and giving a blood sample, representing 52% of
+the 237 identified contacts and 38% of the 326 expected
+contacts. Three persons listed by surveillance denied any
+physical contact with the patient and were excluded from
+analysis. Therefore, results refer to 121 study participants.
+Characteristics of Contacts
+The median interval between the onset of the patient’s
+disease and the contact’s interview and blood sample col-
+lection was 24 months (range 11–48). Half of the contacts
+were female, and three fourths were 15–49 years of age.
+Most contacts were family members (88%), while col-
+leagues accounted for 11% (Table 2). 
+Half of the contacts held or carried a patient, a third fed
+or washed a patient, and a tenth reported sharing a bed with
+a patient (Table 3). Exposure to a living patient was almost
+Emerging Infectious Diseases • www.cdc.gov/eid • Vol. 12, No. 3, March 2006
+435
+Serosurvey on Household Contacts of Marburg Patients
+universal; three quarters of contacts had exposure to body
+fluids and excreta. Forty-three percent of contacts had
+exposure to remains. The exposure level was low in 13%,
+medium in 19%, and high in 68% of contacts and did not
+differ between the sexes.
+For 43 of the 50 contacts known to surveillance, we
+compared exposure reported in our survey with exposure
+documented by surveillance officers during the outbreak.
+For 88% of contacts, surveillance and study information
+agreed.
+Two study participants were positive for anti–Marburg
+IgG: a 21-year-old brother and a 27-year-old male neigh-
+bor of MHF patients. Both contacts were highly exposed to
+their respective primary case-patients. These contacts were
+also, as unofficial gold miners, at risk for primary trans-
+mission themselves (6). The 21-year-old reported 6 gener-
+al symptoms within 4 weeks after exposure, including
+fatigue, abdominal pain, nausea/vomiting, hiccoughs,
+chest pain, and difficulty breathing, but he did not fulfill
+the definition of a suspected case because he did not exhib-
+it fever or bleeding. The 27-year-old reported a hemor-
+rhagic fever syndrome, including vomiting and coughing
+blood and bloody or black stool. Neither contact sought
+medical care. We consider them to be additional confirmed
+patients and classified them as secondary cases because of
+the combination of high exposure and postexposure symp-
+toms compatible with MHF. The 119 seronegative contacts
+were considered nonpatients. Thus, the overall seropreva-
+lence in our study population is 1.65% (95% confidence
+interval [CI] 0.2%–5.8%), the same as in the general pop-
+ulation (1.64%) (6). 
+Although almost all contacts were seronegative, one
+third reported fever within 4 weeks of contact with a
+patient (Table 1), more than one half reported a general
+symptom (headache, fatigue, and loss of appetite most fre-
+quently), and 3.3% reported hemorrhage. Thirty-three
+(27%) contacts would have qualified as clinically suspect-
+ed case-patients during the epidemic and should have been
+taken to an isolation ward for assessment by an experi-
+enced healthcare worker. This did not happen, and 23 of
+these persons were not even known by authorities to be
+contacts. 
+On the basis of surveillance records and interviews with
+family members, neighbors, or colleagues of the 113 eligi-
+ble contacts we could not interview or obtain blood sam-
+ples from, we identified 1 epidemiologically linked
+patient, 1 suspected MHF case-patient, and 13 noncases;
+for the 98 remaining contacts, information was insufficient
+RESEARCH
+436
+Emerging Infectious Diseases • www.cdc.gov/eid • Vol. 12, No. 3, March 2006
+to classify them. The total of MHF cases thus increased to
+76 (50 laboratory-confirmed, 26 epidemiologically
+linked).
+Secondary Attack Risk and Postintervention Rp
+Thirty-one of 76 cases were identified as primary, 21 as
+secondary, 15 as tertiary, and 5 as quaternary. Four cases
+could not be classified. Eleven patients with secondary
+cases acquired their infection as a household contact and
+had only 1 patient with a fully investigated primary case as
+a possible source. These constituted the numerator for the
+secondary attack risk and contributed to the denominator.
+Forty-two healthy contacts with only 1 patient with a fully
+investigated primary case as possible source also con-
+tributed to the denominator. The secondary attack risk was
+thus estimated as 21% (11/[11 + 42], 95% CI 11–34) for
+household contacts. Restricting the calculation to con-
+firmed primary cases did not significantly change the sec-
+ondary attack risk estimate. The average number of
+household contacts per fully investigated primary case was
+4.46, so that Rp for household contacts was estimated as
+0.93. The tertiary attack risk (6/32 = 19%, CI 7–36) did not
+differ from the secondary one.
+Discussion
+Most of the 121 household and community contacts of
+MHF patients reported substantial unprotected exposure to
+Marburg virus through physical contact with patients, their
+body fluids, or remains. In addition to the secondary cases
+identified through surveillance, we found serologic evi-
+dence for Marburg infection in 2 persons and epidemiolog-
+ic evidence in 1 person. For all 3 persons, substantial
+clinical disease after the exposure was reported. As most
+patients identified during the Watsa outbreak showed signs
+of disease (D.G. Bausch et al., unpub. data), we conclude
+that mild or asymptomatic Marburg infection, albeit possi-
+ble (8), was a rare event.
+One fourth of the seronegative contacts reported symp-
+toms within 4 weeks of exposure, which fulfilled the defi-
+nition for a suspected case. This figure illustrates the
+Emerging Infectious Diseases • www.cdc.gov/eid • Vol. 12, No. 3, March 2006
+437
+Serosurvey on Household Contacts of Marburg Patients
+difficulty in deciding whether to isolate patients on the
+basis of clinical and epidemiologic data alone. The risk for
+cross-contamination on the isolation ward, if persons are
+incorrectly hospitalized, and the risk for continued com-
+munity transmission, if true cases are not isolated, show
+the necessity of having a laboratory diagnosis available
+within 1 or 2 days.
+Our secondary attack risk estimate of 21% is within the
+range reported for Ebola outbreaks for comparable types of
+contacts: Ebola-Zaire, Kikwit, 1995, household contacts
+16% (5); Yambuku, 1976, close relatives, 20% (9); Ebola-
+Sudan, Nzara, 1979, family members with physical contact
+including nursing 31% (10) Our estimate is much higher
+than the 2.5% reported for Ebola-Sudan, Uganda, 2000
+(11); however, the Ugandan estimate may have included
+persons who merely stayed in the same house as a patient
+without reporting physical contact. The secondary and ter-
+tiary attack risks in our study were found to be virtually
+identical, 21% and 19%, respectively; thus no evidence
+suggested that Marburg virus loses infectivity by repeated
+passages through humans. 
+We found the postintervention reproduction number Rp
+to be <1; after the implementation of control measures,
+secondary transmission was not sustainable in the commu-
+nity. This finding is consistent with our observations dur-
+ing the outbreak, whose prolonged duration of almost 16
+months after control measures were initiated in May 1999
+was due to repeated primary transmission into the human
+population and not to sustained secondary transmission.
+The outbreak ended when the dominant location of pri-
+mary transmission, the Gorumbwa gold mine, ceased to be
+accessible (D.G. Bausch et al., unpub. data). Our data do
+not allow computing the preintervention basic reproduc-
+tion number R0, so we cannot be certain how much of a dif-
+ference the control measures made, but we think they had
+some effect.
+The proportion of contacts (71/212) and the number of
+clinically suspected cases (33) missed by surveillance
+were high. Two of 3 retrospectively identified MHF
+patients were contacts of patients known to the health
+authorities. These contacts reported symptoms that quali-
+fied them as having suspected cases, but they were missed
+nevertheless. Given the importance of early recognition
+and isolation of MHF patients for outbreak control, this
+finding raises the question of how the Watsa health author-
+ities could have been better supported in their surveillance
+activities. After Watsa’s chief medical officer died from
+MHF in May 1999 (12), the post remained vacant for
+many months. We suggest that continuous support to the
+health zone by training and deploying a Congolese epi-
+demiologist might have been more cost-effective than the
+intermittent support provided by experts from May 1999 to
+October 2000. This strategy would also have strengthened
+DRC’s capacity to deal with future viral hemorrhagic fever
+outbreaks.
+The survey’s setting was characterized by high mobili-
+ty because of the war and the flooding of the Gorumbwa
+gold mine, and we could not investigate all cases fully
+because of lack of available sources. For these reasons, we
+located at best half of all contacts and probably fewer. We
+could not make firm conclusions about those whom we
+could not interview or obtain blood from: a few may have
+contracted or even died from MHF. However, contacts for
+whom no information was available were no more likely to
+contract MHF than those we could study. In settings where
+families are isolated from their surroundings, a filovirus
+may wipe out a household, leaving no witness to report the
+event. In Durba and Watsa, where households are physical-
+ly and socially close, such a tragedy is unlikely to have
+happened without anyone noticing, remembering, and
+reporting; we therefore believe that a substantial survival
+bias is unlikely.
+The accuracy of reported exposure and symptoms may
+have had recall bias, given the average interval of 2 years
+between the patient’s disease and the survey. When our
+data were compared with exposure information recorded
+by surveillance officers during the outbreak, agreement
+was satisfactory, however. Exposure patterns reflected tra-
+ditional female and male roles in caring for diseased rela-
+tives. Since no material gains were offered to newly
+identified patients, we did not provide incentives to over-
+report exposure or symptoms. Giving a blood sample is
+unpopular in the study setting; to avoid underreporting
+exposure and symptoms, study participants were informed
+before the interview that a blood sample would be request-
+ed, regardless of their answers to interview questions.
+Those who did not wish to be interviewed or provide a
+blood sample refused overtly. In summary, we believe the
+interview data are valid.
+If anti–Marburg IgG antibodies were transitory after
+infection with Marburg virus, they might have fallen
+below detectable levels in the interval between exposure
+and blood collection. However, samples taken from 17
+MHF survivors after 22 to 102 months of follow-up that
+were stored, transported, and analyzed in the same way as
+the samples of this survey showed that none became
+seronegative. These persons from the 1994 or 1998–2000
+MHF outbreaks became seropositive during or shortly
+after disease and included 2 with mild Marburg disease
+(M. Borchert, unpub. data). We conclude that Marburg
+antibodies persisted sufficiently to be detected in our sero-
+survey.
+If some of our epidemiologically linked case-patients
+did not have MHF, this result could have diluted the sec-
+ondary attack risk. However, restricting the analysis to
+confirmed cases did not increase, but rather reduced, the
+RESEARCH
+438
+Emerging Infectious Diseases • www.cdc.gov/eid • Vol. 12, No. 3, March 2006
+secondary attack risk, albeit not significantly. We report
+the secondary attack risks on the basis of confirmed and
+epidemiologically linked cases, which is equally valid and
+more stable because of the larger number of observations.
+Calculation of secondary attack risk and Rp depends on
+determining the transmission generations correctly. We are
+confident that our data are of sufficient quality to allow
+this, but an inherent uncertainty exists regarding patients
+who worked as unofficial gold miners and reported sub-
+stantial exposure to another patient. We think these persons
+could be classified as having secondary cases, given the
+confirmed secondary, but uncertain primary, exposure. In
+the unlikely event that these were all primary cases, the
+secondary attack risk would be reduced to 16%, which
+would not change our conclusions substantially.
+Conclusion
+We found that asymptomatic or very mild Marburg
+infection was a rare event in the Watsa outbreak. The
+postintervention reproduction number Rp was <1, which
+suggests that the MHF outbreak in Watsa and Durba was
+sustained through repeated introduction of the virus into
+the human population and not through secondary spread.
+We showed that the identification and follow-up of con-
+tacts during the outbreak were incomplete and raised the
+question of how support for surveillance efforts in a health
+zone such as Watsa could be improved.
+Acknowledgments
+We thank the authorities, health workers, and volunteers of
+Watsa Health Zone, without whose support this study would have
+been impossible; the study participants for their trust and avail-
+ability; Julius Lutwama for temporarily storing the samples and
+facilitating their shipment to Johannesburg; Oona Campbell and
+Nicole Best for editing the manuscript; and the anonymous
+reviewers for their useful comments.
+This study was funded by Fonds voor Wetenschappelijk
+Onderzoek–Vlaanderen (1.5.188.01) and the Framework
+Agreement between the Belgian Directorate for Development
+Co-operation and the Institute of Tropical Medicine, Antwerp.
+Dr Borchert is a medical epidemiologist with the London
+School of Hygiene and Tropical Medicine. His interests include
+the control and investigation of viral hemorrhagic fevers.
+References
+1. World Health Organization. Marburg haemorrhagic fever fact sheet.
+[cited 2005 April 30]. Available from http://www.who.int/csr/dis-
+ease/marburg/factsheet/en/index.html  
+2. World Health Organization. Marburg haemorrhagic fever—update
+25. [cited 2005 Sep 20]. Available from http://www.who.int/csr/don/
+2005_08_24/en/index.html 
+3. Monath TP. Ecology of Marburg and Ebola viruses: speculations and
+directions for future research. J Infect Dis.1999;179(Suppl 1):
+S127–38.
+4. Centers of Disease Control and Prevention. Marburg hemorrhagic
+fever. [cited 2005 Apr 30]. http://www.cdc.gov/ncidod/dvrd/spb/
+mnpages/dispages/marburg.htm
+5. Dowell SF, Mukunu R, Ksiazek TG, Khan AS, Rollin PE, Peters CJ,
+et al. Transmission of Ebola hemorrhagic fever: a study of risk fac-
+tors in family members, Kikwit, Democratic Republic of the Congo,
+1995. J Infect Dis. 1999;179(Suppl 1):S87–91.
+6. Bausch DG, Borchert M, Grein T, Roth C, Swanepoel R, Libande
+ML, et al. Risk factors for Marburg hemorrhagic fever, Democratic
+Republic of the Congo. Emerg Infect Dis. 2003;9:1531–7.
+7. Zeller H. Les leçons de l’épidémie à virus Marburg à Durba,
+République Démocratique du Congo (1998–2000). Med Trop (Mars).
+2000;60(Suppl 2):23–6.
+8. Borchert M, Muyembe-Tamfum JJ, Colebunders R, Libande M,
+Sabue M, Van der Stuyft P. A cluster of Marburg virus disease,
+involving an infant. Trop Med Int Health. 2002;7:902–6.
+9. World Health Organization/International Study Team. Ebola haemor-
+rhagic fever in Zaire, 1976. Bull World Health Organ.
+1978;56:271–93.
+10. Baron RC, McCormick JB, Zubeir OA. Ebola virus disease in south-
+ern Sudan: hospital dissemination and intrafamilial spread. Bull
+World Health Organ. 1983;61:997–1003.
+11. Okware SI, Omaswa FG, Zaramba S, Opio A, Lutwama JJ,
+Kamugisha J, et al. An outbreak of Ebola in Uganda. Trop Med Int
+Health. 2002;7:1068–75.
+12. Biot M. Tribute to Dr Katenga Bonzali. Trop Med Int Health.
+2000;5:384.
+Address for correspondence: Matthias Borchert, London School of
+Hygiene and Tropical Medicine, Infectious Diseases Epidemiology Unit,
+Keppel St, London WC1E 7HT, UK; fax: 44-20-7637-4314; email:
+matthias.borchert@lshtm.ac.uk
+Emerging Infectious Diseases • www.cdc.gov/eid • Vol. 12, No. 3, March 2006
+439
+Serosurvey on Household Contacts of Marburg Patients
+

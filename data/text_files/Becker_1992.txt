@@ -1,0 +1,697 @@
+Med Microbiol 
+Immunol 
+(1992) 181:43-55 
+9 Springer-Verlag 1992 
+Evidence for occurrence of filovirus antibodies 
+in humans and imported monkeys: 
+do subclinical filovirus infections occur worldwide? 
+S. Becker, H. Feldmann, C. Will, and W. Slenczka 
+Institut 
+fiir Virologie, 
+Philipps-Universit~t, 
+Robert-Koch-Strasse 
+17, W-3350 
+Marburg, 
+Federal Republic 
+of Germany 
+Received 
+August 
+29, 1991 
+Abstract. In the present serologocal study 120 monkey sera from different species 
+originating from the Philippines, China, Uganda and undetermined sources and 
+several groups of human sera comprising a total of 1288 specimens from people 
+living in Germany were examined for the presence of antibodies directed against 
+filoviruses (Marburg virus, strain Musoke/Ebola virus, subtype Zaire, strain 
+Mayinga/Reston virus). Sera were screened using a filovirus-specific enzyme- 
+linked immunosorbent assay (ELISA). ELISA-positive sera were then confirmed 
+by the indirect immunofluorescence technique, Western blot technique, and a 
+blocking assay, and declared positive when at least one cornfirmation test was 
+reactive. Altogether 43.3 % of the monkey s 
+era and 6.9 % of the human sera reacted 
+positively with at least one of the three different filovirus antigens. The blocking 
+assays show that antibodies, detected in the sera, are directed to specific filovirus 
+antigens and not caused by antigenic cross-reactivity with hitherto unknown 
+agents. Data presented in this report suggest that subclinical filovirus infections 
+may also occur in humans and in subhuman primates. They further suggest that 
+filoviruses are not restricted to the African continent. 
+Introduction 
+The prototypes of the family Filoviridae [22] are Marburg virus (MBG) and Ebola 
+virus (EBO) which both cause severe hemorrhagic disease. Filovirus infections 
+were unknown until 1967, when 25 persons in Germany (cities of Marburg and 
+Frankfurt) and Yugoslavia (city of Belgrad) became infected with MBG after 
+contact with tissues and blood from African green monkeys (Cercopithecus 
+aethiops) imported from Uganda. Seven of these cases resulted in death. In 
+addition, six secondary non-lethal cases of infection occurred [26, 30]. All African 
+Offprint requests to: W. Slenczka 
+44 
+green monkey infected experimentally with the virus died [29, 35]. Suprisingly, no 
+specific antibodies were found in sera from monkeys captured in the same area 
+where the shipment to Germany and Yugoslavia had originated. Since then, 
+sporadic, virologically confirmed Marburg disease cases have occurred in various 
+parts of Africa: South Africa, 1975 [12], Kenya, 1980 [39], and Kenya, 1987 [24]. 
+The geographically and temporally distinct MBG outbreaks appear to have been 
+due to genetically distinguishable, but antigenetically closely related virus strains 
+[24]. 
+EBO first emerged in two major outbreaks which occurred almost simul- 
+taneously in Zaire and Sudan in 1976 [41, 42]. There were more than 550 cases 
+and more than 430 resulted in death [2, 18]. Two subtypes were isolated which 
+differ in pathogenicity, antigenicity, and genomic composition [3, 9]. They were 
+morphologically identical with, but serologically distinct from MBG. The case 
+fatality rate of the Zaire and Sudan subtypes was 88% and 53%, respectively. 
+However, secondary and tertiary cases had lower fatality rates, suggesting 
+attenuation of the virulence with human-to-human pasasages. In 1977, another 
+fatal case was reported from Zaire [13], and in 1979, EBO hemorrhagic disease 
+occurred again in Sudan with 34 cases of which 22 resulted in death [1, 43]. 
+Serological studies suggest that infections with EBO or related viruses have 
+occurred in several African countries [15]. No antibodies have ever been found in 
+specimens of feral animals, including more than 200 monkeys collected in Zaire 
+and Sudan. 
+In 1989, a third filovirus, serologically related to EBO, was isolated when an 
+explosive epizootic occurred in monkeys (Maccaca 
+fascicularis) imported to the 
+United States from the Philippines [16]; most of the monkeys died. The agent, 
+called Reston virus (RES), is infectious to humans but does not seem to cause 
+serious human disease [5, 15]. 
+Filoviruses are enveloped, nonsegmented negative-stranded RNA viruses. The 
+genome has a molecular weight of approximately 4.2 X 106 [31]. Virions contain at 
+least seven structural proteins, nonstructural proteins have not yet been detected. 
+The structural proteins are: an RNA-dependent RNA polymerase (L protein), a 
+glycoprotein (GP), a major (NP) and a minor (VP30) nucleoprotein, two proteins 
+(VP40, VP24) associated with the viral membrane, and VP35 which is thought to be 
+the P (NS)protein equivalent of paramyxo- and rhabdoviruses [10, 11, 24, 27, 33, 
+34]. 
+The natural reservoirs for human infection with MBG and EBO and the 
+natural reservoir of RES are unknown. Serological studies employing enzyme- 
+linked immunosorbent assay (ELISA) or immunofluorescence assay have suggest- 
+ed that EBO antibodies are present in a number of human and animal populations 
+in parts of Africa [17, 37, 40]. Recent serological investigations using indirect 
+immunofluorescence assay (IFA) and Western blot were performed in connection 
+with the RES epizootic in the Unites States on sera of persons with varying levels of 
+exposure to monkeys. Of these sera 7.6% reacted positively with one or more of the 
+different filovirus antigens. In addition, randomely selected sera of persons 
+without known exposure were tested by the same assays resulting in 2.7 % positives 
+[6-8]. 
+In this study we analyzed sera of monkeys from different species and countries 
+as well as human sera from different parts of Germany. All sera were examined 
+using IFA, ELISA, and Western blot techniques. Sera positive to one of the 
+filovirus antigens were further analyzed in a blocking assay. 
+45 
+Materials and methods 
+Viruses and cell line 
+The Musoke strain of MBG isolated 1980 in Kenya [39], the Mayinga strain of EBO, a Zaire 
+subtype isolated in 1976 [42], and the RES [6, 16] were used. The viruses were grown in E6 cells, a 
+cloned cell line of Vero cells (American Type Culture Collection CRL 1586). 
+Growth and purification of viruses 
+E6 cells were infected with the different viruses at a multiplicity of infection of 10 
+-2 plaque- 
+forming units/cell. Following an adsorption period of 30min at 37~ 
+infected cells were 
+incubated in Dulbecco medium containing 2% fetal calf serum. Virus was harvested 8 days post 
+infection (cytopathic effect approximately 85 %) for MBG and EBO. RES was harvested 14 days 
+post infection, and the medium was changed at day 7 post infection. Virus purification was 
+performed as described previously [10, 23, 27, 32]. 
+Serum samples 
+Monkey sera were obtained from healthy animals imported to Germany and Switzerland from 
+the Philippines (Macacafascicularis, imported in November 1989 and January 1990; 31 sera), 
+China (Macaca 
+mulatta, imported in September 1990; 37 sera), Uganda (Cercopithecus 
+aethiops; 
+colonies founded in 1978; 43 sera) and species from undetermined origin and date of import 
+(Macaca 
+nemestrina, 
+2 sera; Macaca 
+mulatta, 7 sera). Human sera were obtained from following 
+sources: 673 sera sent for routine diagnostics to the department of Virology at the University of 
+Marburg, 475 sera of persons undergoing routine health control, 89 sera from blood donors, 56 
+sera from persons (taken in 1972) with contact to patients suffering of Marburg hemorrhagic 
+disease, and 32 sera from persons, living in the surrounding of Greifswald (former GDR). 
+Western blot analysis 
+Viral proteins were separated on 10% sodium dodecyl sulfate-polyacrylamide slabgels (SDS- 
+PAGE) as described by Laemmli [25]. Preparative gels were loaded with 20 lag viral proteins and 
+were run at 30 mA for 1.5 h. After electrophoresis proteins were blotted onto PVDF-membranes 
+(Millipore, #P-15552) by semi-dry blot technique. The PVDF-blots were cut into stripes which 
+then were incubated with human and monkey sera at a dilution of 1 
+: 100 in phosphate-buffered 
+saline (PBS)/0.2% Tween20. Horseradish peroxidase(HRP)-coupled rabbit anti-human IgG 
+was used at a dilution of 1:300 in PBS/0.2% Tween 20 for detecting bound antibodies. 
+Enzyme-linked immunosorbent assay 
+96-well polystyrene plates (Flacon, #3072) were coated overnight with suspensions of SDS- 
+inactivated virus at a concentration of 1 lag/ml. The coating buffer contained 2.93g sodium 
+hydrogen carbonate and 1.59g dihydrogen sodium carbonate/IH20 , pH9.8. Subsequently, 
+plates were washed three times with PBS/0.2% Tween20 and nonspecifie binding sites were 
+blocked by incubation in PBS containing 3 % bovine serum albumin for 16 h at 4~ 
+Plates were 
+washed again (see above) and incubated with human and monkey sera ta a dilution of 1 
+: 100 in 
+PBS/0.2% Tween20 for 1 h. After further washing bound antibody was detected with HRP- 
+labelled anti-human-IgG antibodies at a dilution of 1:500 in PBS/0.2% Tween20. The 
+absorbance was measured at 492 nm with 650 nm reference wavelength. 
+46 
+Blocking assay 
+Human and monkey sera positive to antigens from one of the three different filoviruses (MBG, 
+EBO, RES) were incubated in 96-well polystyrone plates coated with either the homologous (e.g., 
+MBG-positive sera with MBG antigen) or heterologous antigen preparation (MBG-positive sera 
+with RES antigen, EBO-positive sera with MBG antigen and RES-positive sera with EBO 
+antigen) for 16 h at 4~ 
+Subsequently, the preincubated sera were removed and examined on 
+ELISA plates coated with the homologous antigen (e.g., MBG-positive sera with MBG antigen) 
+or in Western blot analysis as described above. 
+Indirect immunofluorescence 
+Monolayers of virus-infected cells (3 days post infection) were dispersed with trypsin, washed 
+with PBS, and applicated to uncoated areas of epoxy-coated slides (Bio Merieux). Infected 
+cells were incubated for further 24h at 37~ 
+washed with PBS, fixed with cold (--20~ 
+acetone for 20min, and air-dried (can be stored at --20~ for several months). For antibody 
+screeening slides were incubated with human and monkey sera at dilutions of 1:40 and 1:10, 
+respectively, in a buffer containing 145 mM NaC1, 0.1 mM CaC12, 0.5 mM MgC12, 7 mM sodium 
+barbital; 10 mM sodium azide, pH 7.2. Detection was performed using FITC-conjugated anti- 
+human IgG antibodies (DAKO). 
+Results 
+Monkey sera 
+A total of 120 monkey sera from different species originating from different 
+countries were tested for the presence of antibodies directed against filoviruses by 
+ELISA, IFA, and Western blot techniques. None of the monkeys was known to 
+have suffered from MBG or EBO hemorrhagic fever or similar diseases. The results 
+are summarized in Table 1. All the sera were first screened in an ELISA, the 
+positive ones were further examined either by IFA or Western blot technique. Sera 
+were declared as positive when the results of at least two assays corresponded. 
+Altogether 43.3% of the sera reacted positively with one of the used filoviruses 
+(MBG, EBO, RES). 
+Table 1. Filovirus-specific 
+antibodies in monkey sera 
+a 
+Origin 
+Species 
+Date 
+Total number 
+of import 
+of sera/sera with 
+filovirus antibodies 
+Philippines 
+Macaea 
+fascicularis 
+11 
+/ 1989 
+31 
+/ 12 (39 % 
+) 
+1/1990 
+Uganda 
+Cercopithecus aethiops 
+1978 
+43/32 (76%) 
+? 
+Macaea nemestrina 
+? 
+2/- (0%) 
+? 
+Macaea mulatta 
+? 
+7/2 (28%) 
+China 
+Macaca mulatta 
+1990 
+37/6 (16%) 
+a 120 monkey sera from different origins were screened for antibody prevalence against filoviruses 
+by ELISA and confirmed using indirect immunofluorescence and Western blot techniques 
+47 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+Fig. la-c. Immunoblot with monkey sera. Viral antigens (Ebola, Marburg, Reston virus; EBO, 
+MBG, RES, respectively) were purified by gradient centrifugation and inactivated with SDS at a 
+final concentration of 1%. Virion proteins were separated by 10 
+% SDS-PAGE and transferred to 
+PVDF membranes. The incubation was performed with sera at a dilution of 1 
+: 100 for 1 
+h and 
+immunocomplexes were detected with horseradish peroxidase (HRP) rabbit anti-human-IgG, a 
+EBO-proteins; b MBG-proteins; c RES-proteins. 1-6: Positive monkey sera; 7.' negative monkey 
+serum; 8: positive control serum: a Anti-EBO human convalescent serum; b anti-MBG human 
+convalescent serum; C human serum reacting specific with RES antigen. The numbers in a, b, and 
+c do not represent identical sera 
+Western blot results were declared positive when two or more of the known 
+virion proteins were detected. Most of the positive sera reacted with several viral 
+proteins (NP, VP40, VP35, VP30), only a few reacted with VP24. Hoever, none of 
+the investigated sera reacted with the GP and the L protein of any of the three 
+filoviruses (Fig. 1). Some sera reacted positively with more than one filovirus. 
+In IFA analyses, positive sera showed the typical staining seen during filovirus 
+infections in infected cells (Fig. 2c). Intracytoplasmic viral inclusion bodies 
+consisting of viral nucleocapsid were predominantly visuable [28, 29]. None of the 
+48 
+Fig. 2a-e. Indirect immunofluorescence, a E6 cells infected with MBG, incubated with human 
+sera (dilution 1:40); b E6 cells infected with RES incubated with human sera (dilution 1:40); e E6 
+cells infected with RES incubated with monkey sera (dilution 1 
+: 10). Immunocomplexes were 
+detected with FITC-conjugated anti-human IgG 
+sera showed a positive immunofluorescence with the surface antigen (GP) of 
+filovirus-infected cells. These observations are in good agreement with the Western 
+blot results. Additional immunofluorescence tests using anti-GP monoclonal 
+antibodies, however, resulted positive showing that the GP is present in the 
+membrane of infected cells (data not shown). 
+The highest prevalence of antibodies against filoviruses (76%) were found in 
+the group of Cercopithecus aethiops originating from Uganda at least 12 years ago, 
+which have been kept together in colonies over the years. The Macaeaefasciculares 
+which were imported from the Philippines in November 1989 and January 1990 
+also reacted positive to a high degree (39%). These animals were kept separate 
+during quarantine. The lowest number of antibody positive sera were detected in 
+the group of Macacae mulattae imported from China in September 1990 (16%). 
+The two Macacae nemestrinae from an unknown source were negative, but the 
+number of monkeys examined is too low to make any statement about this species 
+(Table 1). 
+Human sera 
+A total of 1288 human sera of different origins were analyzed for antibodies 
+directed against different filovirus antigens (MBG, EBO, RES). Sera were screened 
+using an ELISA. ELISA-positive sera were further examined by more reliable 
+techniques (IFA and Western blot) to verify the results. None of the tested people 
+had a record of former MBG or EBO hemorrhagic fever or any comparable 
+disease. A group of 56 sera were taken in 1972 from persons, who had been at risk 
+by contact to patients suffering from MBG hemorrhagic disease. The various 
+groups of human sera from different origin showed no statisticly significant 
+differences concerning antibody prevalence against filoviruses, this applies also to 
+the 56 sera of the risk group. They were, therefore, further treated as one group. 
+Table 2. Filovirus-specific antibodies in human sera 
+a 
+49 
+Ebola 
+Marburg 
+Reston 
+(Zaire) 
+(Musoke) 
+Positive sera found by ELISA b 
+Confirmed by immunofluorescence 
+c 
+Confirmed by immunoblot 
+d 
+11 
+34 
+44 
+(0.85%) 
+(2.6%) 
+(3.4%) 
+75% 
+85% 
+80% 
+77% 
+80% 
+66% 
+a 1288 Human sera were tested by antibody prevalence against filoviruses. The screening test was 
+done by ELISA. The following confirmatory tests by immunofluorescense and immunoblot 
+b Serum dilution 1 
+: 100 
+c Serum dilution 1:40 
+d Serum dilution 1 : 100 
+Fig. 3a-c. Immunoblot with human sera. 
+Viral antigens (EBO, MBG, RES) were puri- 
+fied by gradient centrifugation and inactivat- 
+ed with SDS at a final concentration of 1%. 
+Viron proteins were separated by 10% SDS- 
+PAGE and transferred to PVDF membranes. 
+The incubation was performed with sera at a 
+dilution of 1 : 100 for 1 h and immunocom- 
+plexes were detected with HRP rabbit anti- 
+human IgG. a EBO-proteins; b MBG-pro- 
+teins; C RES-proteins. 1-6: Sera; 7: positive 
+control serum: a anti-EBO human convalesc- 
+ent serum; b anti-MBG human convalescent 
+serum; c human serum reacting specific with 
+RES-antigen. The numbers in a, b, and c do 
+not represent identical sera 
+50 
+Table 2 shows the results of the seroepidemiological study with 1288 sera. 
+Altogether 89 sera (6.9 %) were ELISA positive to filoviruses with 2.6 % for MBG, 
+0.85% for EBO, and 3.4% for RES. Out of the 89 filovirus-positive sera 34 (38.2%) 
+reacted with MBG, 11 (12.4%) with EBO, and 44 sera (49.4%) with RES. 
+In western blot analyses sera were considered positive when they would stain 
+with at least two of the viral proteins. In accordance with the monkey sera none of 
+the positive sera reacted with the GP and L protein of the filovirus antigens used in 
+this assay (Fig. 3). Most of the sera reacted with the NP, less with one or more of 
+VP40, VP35, and VP30, only a few reacted with VP24. Antibodies directed against 
+the L protein could not be found even in sera of persons with known history of 
+MBG or EBO hemorrhagic disease (Fig. 4). Western blot analyses confirmed an 
+average of 74% of the ELISA-positive sera, in detail 80% MBG, 77% EBO, and 
+66% RES (Table 2). 
+IFA-positive sera showed an intracytoplasmic immunofluorescence and no 
+staining of the cell nucleus. Viral antigen in coarse and fine aggregates could be 
+seen (Fig. 2). These aggregates consists of the viral nucleocapsid (inclusion bodies). 
+Sera showing a positive immunofluorescence with the surface protein (GP) of 
+filovirus-infected cells were not found. This is in agreement with the Western blot 
+results and the IFA and Western blot results of the tested monkey sera. IFA 
+analyses confirmed the results of about 80 % of the ELISA-positive sera, in detail 
+85% MBG, 75% EBO, and 80% RES (Table 2). 
+Blocking assays were performed to corroborate the specificity of the positive 
+sera. When sera positive for antibody to one of the filovirus antigens were 
+preincubated with the homologous antigen used in ELISA, and then tested again in 
+the same ELISA a titer reduction of 50% or more could be seen (Fig. 5). 
+Preincubation of the same positive sera with one of the other filovirus antigens 
+(heterologous antigen) did not show a decrease of the titer (Fig. 5). Blocking assays 
+were also performed in Western blot analyses. Preincubation of positive sera with 
+the homologous antigen resulted in a loss of detection of the viral proteins, whereas 
+preincubation with the heterologous antigen did not (data not shown). These data 
+show that the detected antibodies are directed to specific filovirus antigens and not 
+caused by antigenic cross-reactivity to other known or unknown agents. 
+NP 
+40 
+VP 35 
+30 
+!!i i! 
+I i 
+2 
+3 
+4 
+5 
+6 
+7 
+NP 
+40 
+VP 35 
+30 
+Fig. 4. Immunoblot with convalescent 
+sera of MBG disease. MBG was purified 
+by gradient centrifugation and inactivated 
+with SDS at a final concentration of 1%. 
+Virion proteins were separated by 10% 
+SDS-PAGE and transferred to PVDF 
+membranes. The incubation was per- 
+formed with MBG-convalescent sera at a 
+dilution of 1 
+: 100 for 1 
+h and immuno- 
+complexes were detected with HRP rabbit 
+anti-human IgG 
+O.D. 
+1. 
+I! 
+0 
+w 
+i 
+, 
+, 
+i 
+, 
+, 
+O.D. 
+0.it 
+........................................ 
+b 
+0.6 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+ 
+~ 
+...... 
+...... 
+L 
+im 
+0 
+O.D. 
+0 
+, 
+f 
+, 
+, 
+P179 
+P202 
+t::'210 
+P158 
+P187 
+P203 
+P217 
+Number of Serum 
+51 
+Fig. 5a-c. Blocking assay. Sera 
+were preincubated with one of 
+the three filoviruses and there- 
+after examined by enzyme-linked 
+immunosorbent assay (ELISA) 
+either with the same virus used 
+in the previous step (homolo- 
+gous) or with another filovirus 
+(heterologous). The absorbance 
+given by the HRP-anti-human 
+IgG was measured with an ELI- 
+SA-reader (592 
+nm). a Without 
+preincubation; b homologous 
+preincubation; c heterologous 
+preincubation; I 
+Ebola- 
+virus, v///.,~ 
+Marburg-Virus, 
+~ 
+Reston-Virus 
+Discussion 
+Up to the end of 1989, filoviruses were believed to originate from the African 
+continent exclusively. There are several reports, based on IFA assays, on the 
+occurrence in various African populations of a considerable percentage of human 
+sera positive for filovirus antibodies [14, 17, 19, 37, 40]. Similar findings in human 
+sera from other continents are not known. Monkeys, on the other hand, especially 
+those of the species Cercopithecus aethiops, had been identified as the source of 
+infection in the case of the MBG outbreak from 1967 but regarding the high 
+pathogenicity of the virus they were not believed to constitute the animal reservoir 
+[35, 38]. Earlier findings of MBG-positive monkey sera of African and Asian origin 
+[20, 21] could not be confirmed [36]. 
+This situation has changed since October 1989, when a new filovirus (RES), 
+antigenically related to EBO, was found in specimens of monkeys of the species 
+Macaca fascicularis of Javanese origin, which suffered from hemorrhagic fever 
+after their importation to the USA [4, 16]. Since this time it has become evident, 
+52 
+that filovirus infections - probably with a lower pathogenic potential [4] - may also 
+be present in wild caught subhuman primates from Asia. 
+In the present report 120 sera from various monkey species of African, Asian 
+and unknown origin were tested for the presence of filovirus antibodies, and a 
+considerable proportion (43.3 %) showed reactivity not only with RES antigen but 
+also with EBO and MBG antigens. The reactions of monkey sera to filovirus 
+antigens are characterized by the absence of antibodies against the GP and L 
+protein. Reactions to the NP are frequent and especially VP40, VP35 and VP30 are 
+heavily stained in Western blot analyses. Absence of reactivity to the GP may be 
+due to the high degree of glycosylation of this protein and might be also attributed 
+to the fact that the virus strains used for antigen preparation were certainly not 
+identical with the viruses which had caused the antibody production in these 
+animals. Similar patterns of reactivity are also encountered in some of the human 
+MBG convalescent sera (Fig. 4). It has to be pointed out that serum titers to 
+filoviruses in monkey sera are relatively low as compared to human convalescent 
+sera. In earlier studies (Slenczka, unpublished) on monkey sera of African origin, 
+this observation had led to the conclusion that these sera were not considered to be 
+seropositive. However, the lower titers of monkey sera might again reflect the 
+situation of antigenic differences between the strains used for antigen preparation 
+and the virus strains causing the antibody production. In addition the low titers 
+might also reflect antigenic differences between IgG of monkey and of human 
+origin in regard to the specificity of the second antibody (rabbit anti-human IgG) 
+used in ELISA and Western blot analyses. The occurrence of antibodies directed 
+against filoviruses in Macacae mulattae imported from China would support the 
+findings of RES-infected monkeys imported to the United States from the 
+Philippines [16] and suggest that filoviruses are spread more widely over the world. 
+The suspicion that infections with filoviruses or with antigenically related 
+viruses may be common in subhuman primates will have to be proved by efforts for 
+virus detection using the polymerase chain reaction or virus isolations and by 
+studies on the route of virus transmission in these animals. 
+Our findings of serological reactions to filovirus antigens or related viral 
+antigens in human sera from central Europe raises several questions. Such 
+reactivities have not been recognized in earlier studies, in which sera from the 
+normal population were included as negative controls. In previous studies with 
+MBG convalescent sera from 1967 we have regularly observed cross-reactivities 
+with EBO antigens; however, sera from 120 human controls did not react with 
+either antigen (Slenczka, unpublished). In these experiments SDS was not included 
+in the antigen preparation. The denaturation of the antigens by SDS may uncover 
+different (originally covered) epitopes which are unaccessible in the native protein 
+and lead to positive reactions. On the other hand, a considerable proportion of the 
+recently identified filovirus sera have also shown a positive reactivity in IFA where 
+acetone-fixed preparations were stained and no SDS was included. 
+Cloning and sequencing data of filovirus genomes have revealed an evolution- 
+ary relationship of filoviruses to other nonsegmented negative-stranded RNA 
+viruses among which they seem to be more closely related to paramyxoviruses than 
+to rhabdoviruses [27, 34]. However, an antigenic relationship with any of the 
+known paramyxoviruses and rhabdoviruses has never been documented for 
+filoviruses. 
+Similar to the monkey sera, none of the human sera reacts with the GP and L 
+protein of filoviruses. The number of L protein molecules per viron particle is very 
+53 
+low and was calculated to 46.6 for EBO [10] and 56 for MBG [24]. In addition it 
+seems to be low immunogenic, which would also explain the negative reaction of 
+the sera to the L protein. Absence of reactivity to the GP is probably due to its high 
+degree of glycosylation or the fact that the virus antigens are not identical with the 
+virus strains causing the antibody production as already discussed for the monkey 
+sera. The fact that the antibody titers of the human sera are relatively low as 
+compared to human convalescent sera might be due to the same circumstances. 
+Most of the sera detected the NP and the VP40, VP35, and VP30 complex, whereas 
+only a few reacted with the VP24. The fact that the majority of antibody-positive 
+human sera stains two or more of the virion proteins is hardly compatible with a B 
+cell activation of other origin which could lead to false-positive results. 
+The blocking assays with either homologous or heterologous antigens were 
+performed to prove the specificity of antigen detection. The titer reduction after 
+incubation with the homologous antigen and the non-reduction after incubation 
+with the heterologous antigen suggest that the reaction is specific for the respective 
+filovirus antigen, and that it is not directed against material of cells, which were 
+used for virus propagation. In addition, the success of homologous immunoab- 
+sorption proves that the observed antibody titers cannot be attributed to a 
+hypothetical cross-reactivity with known or unknown agents. If the reactions were 
+caused by antigenic cross-reactivity or group-specific reactions one would rather 
+expect a titer reduction with the homologous as well as the heterologous antigen. 
+As in the case of antibody findings in the monkey sera our results on human 
+sera will have to be confirmed by further studies. The expression of virion proteins 
+in procaryotic as well as eucaryotic systems is currently under way. These proteins 
+can be used to develop more reliable screening tests, especially for field studies. The 
+data presented in this report suggest that hitherto unknown filoviruses with 
+variable pathogenic potential may be present in many parts of the world, and 
+subclinical infections may occur frequently. Studies involving methods for virus 
+detection with monoclonal antibodies or the polymerase chain reaction will be 
+necessary to uncover the epidemiology and pathogenic potential of these 
+infections. 
+Acknowledgements. We thank A. Fletemeyer for excellent technical assistance. This work was 
+supported by the Deutsche Forschungsgemeinschaft (K1238/1-1 and SFB 286). 
+References 
+1. Baron RC, McCormick JB, Zubeir OA (1983) Ebola hemorrhagic fever in southern Sudan: 
+hospital dissemination and intrafamilial spread. Bull WHO 6:997-1003 
+2. Bowen ETW, Lloyd G, Harris WJ, Platt GS, Baskerville A, Vella EE (1977) Viral 
+hemorrhagic fever in southern Sudan and northern Zaire. Lancet 1:571-573 
+3. Buchmeier MJ, DeFRies RU, McCormick JB, Kiley MP (1983) Comparative analysis of the 
+structural polypeptides of Ebola virus from Sudan and Zaire. J Infect Dis 147:276-281 
+4. CDC: Update (1990) Ebola-related filovirus infection in nonhuman primated and interim 
+guidelines for handling nonhuman primates during transit and quarantine. MMWR 39:22- 
+24, 29-30 
+5. CDC: Update (1990) Filovirus infection in animal handlers. MMWR 39:221 
+6. CDC: Update (1990) Filovirus infections among persons with occupational exposure to 
+nonhuman primates. MMWR 39:266-267 
+7. CDC: Update (1990) Evidence of filovirus infection in an animal caretaker in a research/ 
+service facility. MMWR 39:296-297 
+54 
+8. CDC: Update (1990) Filovirus infection associated with contact with nonhuman 
+primates or 
+their tissues. MMWR 39:404-405 
+9. Cox N 
+J, McCormick JB, Johnson KM, Kiley MP (1983) Evidence for two subtypes of Ebola 
+virus based on oligonucleotide mapping of RNA. J Infect Dis 147:272-275 
+10. Elliot LH, Kiley MP, McCormick JB (1985) Descriptive analysis of Ebola virus proteins. 
+Virology 147:169-176 
+11. Feldmann H, Will C, Schikore M, Slenczka W, Klenk H-D (1991) Glycosylation and 
+oligomerization of the spike protein of Marburg virus. Virology 182:353-356 
+12. Gear JSS, Cassel GA, Gear A 
+J, Trappler B, Clausen L, Meyers AM, Kew MC, Bothwell TH, 
+Sher R, Miller GB, Schneider J, Koornhoff H 
+J, Comperts ED, Isa~icson 
+M, Gear JHS (1975) 
+Outbreak of Marburg virus desease in Johannesburg. Br Med J 4:489-493 
+13. Heymann DL, Weisfeld JS, Webb PA, Johnson KM, Cairns T, Berquist H (1980) Ebola 
+hemorrhagic fever: Tandala, Zaire, 1977-78 J Infect Dis 142:373-376 
+14. Hughes M, Slenczka W, Neppert J (1987) Serologic evidence for the occurrence of human 
+infections with Marburg- and Ebola-Virus in the Republic of Liberia. Zentralbl Bakteriol 
+Mikrobiol Hyg 267:- 128 
+15. Jahrling PB (1991) Filoviruses and arenaviruses. In Balows A (ed) Manual of clinical 
+microbiology. American Society for Microbiology, Washington, D.C., pp 984-997 
+16. Jahrling PB, Geibert TW, Dalgard DW, Johnson ED, Ksiazek TG, Hall WC, Peters CJ (1990) 
+Preliminary report: isolation of Ebola virus from monkeys imported to USA. Lancet 
+335:502-505 
+17. Johnson BK, Ochen D, Oogo S (1986) Seasonal variation in antibodies against Ebola virus in 
+Kenyan fever patients. Lancet I:1160 
+18. Johnson KM, Webb PA, Lange JV, Murphy FA (1977) Isolation and partial characterization 
+of a new virus causing acute hemorrhagic fever in Zaire. Lancet I:569-571 
+19. Johnson KM, Scribner CL, McCormick JB (1981) Ecology of Ebola virus: a first clue? J Infect 
+Dis 143:749-751 
+20. Kafuko GW, Henderson BE, Williams MC, Kissling RE (1970) Investigations in Uganda 
+relating to the Marburg agent. In: Balner H, Beveridge WIB (eds) Infections and immuno- 
+suppressions in subhuman primates. Munksgaard, Kopenhagen, p 45 
+21. Kalter SS, Ratner JL, Heberling 
+RL (1969) Antibodies 
+in primates to the Marburg virus. Proc 
+Soc Exp Biol Med 130:10-12 
+22. Kiley MP, Bowen ETH, Eddy GA, Isaacson M, Johnson KM, McCormick JB, Murphy FA, 
+Pattyn SR, Peters D, Prozesky OW, Regnery RL, Simpson DIH, Slenczka W, Sureau P, van 
+der Groen G, Webb PA, Wulff H (1982) Filoviridae: a taxonomic home for Marburg and 
+Ebola viruses? Intervirology 18 : 
+24-32 
+23. Kiley MP, Wilusz J, McCormick JB, Keene JD (1986) Conservation of the 3'terminal 
+nucleotide sequences of Ebola and Marburg virus. Virology 149:251-254 
+24. Kiley MP, Cox N 
+J, Elliott LH, Sanchez A, DeFries R, Buchmeier M 
+J, Richman DD, 
+McCormick JB (1988) Physicochemical properties of Marburg virus: evidence of three 
+distinct virus strains and their relationship to Ebola virus. J gen Virol 69:1957-1967 
+25. Laemmli UK (1970) Cleavage of structural proteins during the assembly of the head of 
+bacteriophage T4, Nature 227:680-685 
+26. Martini GA (1971) Marburg virus disease. Clinical 
+Syndrome. In: Martini GA, Siegert R (eds) 
+Marburg virus disease. Springer, New York, pp 1-9 
+27. Miihlberger E, Sanchez A, Randolf 
+A, Will C, Kiley MP, Klenk H-D, Feldmann 
+H (1992) The 
+nucleotide sequence of the L gene of Marburg virus, a filovirus: Homologies with 
+paramyxoviruses and rhabdoviruses. Virology 187 (in press) 
+28. Murphy FA (1978) Pathology of Ebola virus infection. In: Pattyn SR (ed) Ebola virus 
+hemorrhagic fever. Amsterdam: Elsevier/North Holland, pp 61-82 
+29. Murphy FP, Kiley MP, Fisher-Hoch SP (1990) Filoviridae. 
+In: Fields et al. (eds) Virology New 
+York, Raven Press, pp 933-942 
+30. Peters D, Mtiller G, Slenczka W (1971) Morphology, development and classification of 
+Marburg virus. In: Martini GA, Siegert R (eds) Marburg virus desease. Springer, New York, 
+pp 68-84 
+31. Regnery RL, Johnson KM, Kiley MP (1981) Marburg and Ebola virus: possible members of a 
+new group fo negative strand viruses. In: Bishop DHL, Compans RW (eds). The replication 
+of 
+negative strand viruses. Elsevier/North Holland, New York, pp 971-977 
+55 
+32. Sanchez A, Kiley MP (1987) Identification and analysis of Ebola virus messenger RNA. 
+Virology 157:414-420 
+33. Sanchez A, Kiley MP, Halloway BP, McCormick JB, Auperin DD (1989) The nucleoprotein 
+gene of the Ebola virus: cloning, sequencing, and in vitro expression, Virology 170:81-91 
+34. Sanchez A, Kiley MP, Klenk H-D, Feldmann H (1992) Sequence analysis of the Marburg 
+virus nucleoprotein gene: comparison to Ebola virus and other nonsegmented negative-strand 
+RNA viruses. J Gen Virol (in press) 
+35. Siegert R, Shu H-L, Slenczka W, Peters D, Mt~ller G (1967) Zur Atiologie 
+einer unbekannten, 
+von Affen ausgegangenen Infektionskrankheit. Dtsch Med Wochenschr 92:2341-2343 
+36. Slenczka W, Wolff G, Siegert R (1972) A critical study of monkey sera for the presence of 
+antibody against the Marburg virus. Am J Epidemiol 93:496-505 
+37. Slenczka W, Rietschel M, Hoffmann C, Sixl W (1984) Seroepidemiologische 
+Untersucbungen 
+fiber das Vorkommen von Antik6rpern gegen Marburg- und Ebola-Virus in Afrika. Mitt 
+Oesterr Ges Tropenmed Parasitol 6:53-60 
+38. Smith CEG, Simpson DIH, Bowen ETW (1967) Fatal human disease from vervet monkeys. 
+Lancet II: 1119-1121 
+39. Smith DH, Johnson BK, Isa~cson M, Swanapoel R, Johnson KM, Kiley MP, Bagshawe A, 
+Siongok T, Keruga WK (1982) Marburg-virus disease in Kenya. Lancet I:816-820 
+40. van der Waals FW, Pomeroy KL, Goudsmit J, Asher DM, Gajdusek DC (1986) Hemorrhagic 
+fever virus infection in an isolated rainforest area of central Liberia. Limitations of the 
+indirect immunofluorescence slide test for antibody screening in Africa. Trop Geogr Med 
+38:209-214 
+41. World Health Organization/International Commission to Sudan (1978) Ebola hemorrhagic 
+fever in Sudan, 1976. Bull WHO 56:247-270 
+42. World Health Organization/International Commission to Zaire (1978) Ebola hemmorrhagic 
+fever in Zaire; 1976. Bull WHO 56:271-293 
+43. World Health Organization (1979) Viral hemorrhagic fever surveillance. Weekly Epidemiol 
+Rec 54:342-343 
+

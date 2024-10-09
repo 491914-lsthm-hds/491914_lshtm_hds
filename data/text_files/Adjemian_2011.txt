@@ -1,0 +1,405 @@
+S U P P L E M E N T A R T I C L E
+Outbreak of Marburg Hemorrhagic Fever Among
+Miners in Kamwenge and Ibanda Districts,
+Uganda, 2007
+Jennifer Adjemian,1,a Eileen C. Farnon,2 Florimond Tschioko,3 Joseph F. Wamala,4 Emmanuel Byaruhanga,5
+Godfrey S. Bwire,4 Edgar Kansiime,4 Atek Kagirita,4 Sam Ahimbisibwe,4 F. Katunguka,4 Ben Jeffs,6 Julius J. Lutwama,7
+Robert Downing,8 Jordan W. Tappero,8 Pierre Formenty,9 Brian Amman,2 Craig Manning,2 Jonathan Towner,2
+Stuart T. Nichol,2 and Pierre E. Rollin2
+1Laboratory of Clinical Infectious Diseases, National Institute of Allergy and Infectious Diseases, National Institutes of Health, Bethesda, Maryland;
+2Viral Special Pathogens Branch, Division of High-Consequence Pathogens and Pathology, National Center for Emerging and Zoonotic Infectious
+Diseases, Centers for Disease Control and Prevention, Atlanta, Georgia; 3World Health Organization–Regional Office for Africa, Brazzaville, Congo;
+4Ministry of Health, Kampala, Uganda; 5Ibanda Hospital, Ibanda, Uganda; 6Me
+´decins sans Frontie
+`res, Barcelona, Spain; 7Uganda Virus Research
+Institute, and 8Centers for Disease Control and Prevention, Entebbe, Uganda; and 9World Health Organization, Geneva, Switzerland
+Marburg hemorrhagic fever was detected among 4 miners in Ibanda District, Uganda, from June through
+September, 2007. Infection was likely acquired through exposure to bats or bat secretions in a mine in
+Kamwenge District, Uganda, and possibly human-to-human transmission between some patients. We describe
+the epidemiologic investigation and the health education response.
+Marburg hemorrhagic fever (MHF) is an acute, severe
+febrile illness caused by Marburg virus (MARV; family,
+Filoviridae). After an incubation period of up to 21 days
+(typically 5–10 days), a sudden onset of fever, headache,
+and myalgia develops; hemorrhagic signs ensue within
+6–8 days after onset [1]. The resulting small vessel
+damage and multisystem organ failure can be fatal.
+MHF outbreaks are rare, resulting from human expo-
+sure to a presumed zoonotic reservoir [2], and are fre-
+quently
+ampliﬁed
+by
+secondary
+person-to-person
+transmission through contact with infectious body ﬂu-
+ids and tissues [3]. Case-fatality rates for large MHF
+outbreaks have ranged from 20% to 90% [4]; the largest
+and deadliest outbreak occurred in northern Angola in
+2005, with 374 cases and a case-fatality rate of 88% [5].
+On 13 July 2007, the Uganda Ministry of Health
+(MoH) was notiﬁed of a suspected case of viral hemor-
+rhagic fever in a miner from Kamwenge District who was
+hospitalized and died in Kampala. A second miner who
+had been in contact with him was also hospitalized with
+suspected viral hemorrhagic fever. This report describes
+the epidemiologic investigation conducted by the MoH
+in collaboration with the Centers for Disease Control and
+Prevention (CDC), World Health Organization (WHO),
+and Me
+´decins sans Frontie
+`res. The initial response was
+followed by an information campaign by the Ugandan
+MoH and the Uganda Wildlife Authority.
+THE STUDY
+The MoH convened a Marburg Task Force comprising
+government
+ministries,
+nongovernmental
+organ-
+izations, and international partner organizations. An
+initial investigation revealed that both patients had
+worked at Kitaka mine in Ibanda District and had lived
+in a tent camp in the Kibale forest reserve surrounding
+the mine. The tunnel mine was the roosting site of
+thousands of bats. The remaining miners reported
+working in the mine using little to no personal pro-
+tective equipment (PPE), with use of only gloves, gum
+Potential conflicts of interest: none reported.
+All authors have submitted the ICMJE Form for Disclosure of Potential Conflicts
+of Interest. Conflicts that the editors consider relevant to the content of the
+manuscript have been disclosed in the Acknowledgments section.
+aPresent affiliation: National Institutes of Health, Bethesda, Maryland.
+Correspondence: Jennifer Adjemian, PhD, NIAID, NIH, Qrts 15 B-1, 8 West Drive,
+MSC 2665, Bethesda, MD 20892-2665 (jennifer.adjemian@nih.gov).
+The Journal of Infectious Diseases
+2011;204:S796–S799
+ The Author 2011. Published by Oxford University Press on behalf of the Infectious
+Diseases Society of America. All rights reserved. For Permissions, please e-mail:
+journals.permissions@oup.com
+0022-1899 (print)/1537-6613 (online)/2011/204S3-0007$14.00
+DOI: 10.1093/infdis/jir312
+S796
+d JID 2011:204 (Suppl 3)
+d Adjemian et al
+boots, and occasionally hard hats reported; no one reported use
+of masks, respirators, or goggles. Kitaka mine was operated from
+1953 until the mid-1970s by a commercial mining company, at
+which point the commercial operation ceased but local residents
+could access open passages in an unofﬁcial capacity. From
+September through December 2006, another commercial min-
+ing operation reopened this mine, employing workers to expand
+tunnels prior to the start of mining operations. On 6 August
+2007, at the recommendation of the Marburg Task Force, the
+Ugandan Department for Geological Survey and Mines ofﬁcially
+closed Kitaka mine and a local miner was hired to help ensure
+that mine access was restricted.
+A suspected case of MHF was deﬁned as having an acute onset
+of fever with either 3 or more nonspeciﬁc symptoms or un-
+explained bleeding at any time since 21 June 2007. A probable
+case was deﬁned as a suspected case with a history of 1 of the
+following in the 3 weeks prior to fever onset: travel to an
+area where an MHF case had occurred; direct contact with
+bodily ﬂuids from a person or animal with probable or con-
+ﬁrmed MHF; or work in a laboratory or animal facility handling
+MARV. A conﬁrmed case was deﬁned as a suspected or probable
+case with laboratory evidence of recent MARV infection by
+virus isolation antigen-detection enzyme-linked immunosor-
+bent assay (ELISA), anti-MARV immunoglobulin M (IgM) or
+immunoglobulin G (IgG), immunohistochemistry, or reverse-
+transcription
+polymerase
+chain
+reaction
+(RT-PCR)
+and
+sequencing [6, 7].
+Three conﬁrmed cases of MHF were identiﬁed with onset
+occurring in June–July 2007; a fourth case occurred in Sep-
+tember 2007 after closure of the mine. All 4 patients were male,
+were aged 22–29 years, and worked at Kitaka mine. The index
+case patient (patient 1), aged 29 years, presented to hospital A in
+Kampala on 7 July with a 3-day history of fever, chills, headache,
+and arthralgia. Three days after admission, he continued to be
+febrile and began vomiting. On 13 July, he developed confusion,
+seizures, hematemesis, and hematochezia, and died later that
+day. A blood sample collected on 13 July was sent on 23 July to
+CDC for testing. MARV was detected by RT-PCR and sub-
+sequently by virus isolation (isolate no. 200702854) and ELISA
+(Table 1).
+Contact tracing revealed that 2 of patient 1’s co-workers
+(patients 2 and 3) were ill prior to the onset of his illness. Patient
+2, aged 23 years, presented to a health center in Kamwenge
+District on 21 June with fever, headache, arthralgia, and vom-
+iting; he was transferred to hospital B in Ibanda District the next
+day, where he developed apparent seizure activity. Patient 2 was
+discharged on 29 June but had persistent weakness and dizziness
+and was transported overnight to hospital C in Kampala District
+on 1 July. He recovered and was discharged on 9 July.
+Patient 3, aged 22 years, developed fever, arthralgia, and
+headache in early June and traveled to a health center in Kam-
+pala for treatment. Both patients 2 and 3 tested positive for anti-
+MARV IgG by ELISA (Table 1). All 3 patients lived in the same
+tent in the mining camp. Patients 1 and 3 had provided care to
+patient 2 during his transportation to hospitals B and C.
+Patient 4, aged 25 years, had onset of weakness and chills on
+14 September. On 21 September he presented to a health
+center in a suburb of Kyebando, located on the outskirts of
+Kampala, with fever, headache, arthralgia, anorexia, and
+hematemesis. Two weeks prior, he entered the mine without
+PPE, despite being aware of the ongoing public health
+response and having been hired to restrict access to the mine
+following its ofﬁcial closure. He was transferred to hospital C
+in Kampala, and MARV infection was conﬁrmed by virus
+isolation (isolate no. 200703648), RT-PCR, and in convales-
+cent samples by anti-MARV IgG (Table 1). Sequencing of viral
+isolates from patients 1 and 4 showed 20% divergence at the
+nucleotide level, indicating that the 2 cases represented
+separate introductions and were not epidemiologically linked
+[8]. Some of the sequences obtained from the original bat
+(Rousettus aegyptiacus) specimens and isolated viruses from
+the same bats, sampled during the following ecological
+investigation, matched very closely to the unique sequence of
+the viruses isolated from the 2 patients [8].
+We performed close monitoring of health workers and con-
+tact tracing in all districts to which the 4 patients had traveled
+from June through September 2007. Contacts were evaluated for
+fever and other symptoms for 21 days after last contact. Of 267
+contacts identiﬁed, 161 were able to be located and followed up;
+83 contacts (73 in Kamwenge and Ibanda districts; 10 in Kam-
+pala District) provided blood samples for testing. During the 21-
+day incubation period, 24 (15%) and 3 (2%) of the 161 contacts
+developed fever and bleeding, respectively; none of the contacts
+had evidence of MARV infection by antigen-detection, IgM, or
+IgG ELISA. Active surveillance for new cases continued in the
+affected districts for an additional 21 days. No additional cases
+were identiﬁed.
+The number of MARV infections in this outbreak was
+limited, although the risk of MHF exists as long as people
+without PPE enter mines or caves inhabited by bats in areas
+where MARV infection is endemic. There are no reasons to
+believe that MARV exists only in Kitaka mine. The move-
+ments of fruit bats are partly regulated by food abundance and
+availability of spaces in the roosting areas. Some proportion of
+the population migrates to other colonies on a seasonal basis
+[9]. This risk of MARV being spread by bats was emphasized
+by the subsequent identiﬁcation of 2 cases of MHF in tourists
+visiting the Python cave in nearby Queen Elizabeth National
+Park [10–12]. In the weeks following this cluster of cases,
+Kitaka mine was ofﬁcially closed and the owner decided to
+destroy the residing bat population by fumigation and by
+closing the access to discourage recolonization by bats from
+other locations. Educational campaigns that targeted com-
+munities living around bat-inhabited caves and mines,
+Marburg Hemorrhagic Fever, Uganda, 2007
+d JID 2011:204 (Suppl 3)
+d S797
+wildlife workers, and tourist groups were established in
+Uganda by the MoH, the Wildlife Authorities, and the Tourist
+Board with the support of CDC. A letter explaining the po-
+tentials risks of entering any bat-inhabited cave was sent by
+the MoH to the Association of Uganda Tour Operators.
+Posters and leaﬂets were designed in English and local lan-
+guages and distributed to target populations. Health messages
+were posted on MoH and CDC Web sites. In recognition of
+the economic impact of the tourism industry in the parks and
+speciﬁcally Queen Elizabeth Park, it was decided that the site
+would be redeveloped for bat observation while protecting the
+health of the visitors. The park rangers received bat ecology
+and MHF-related education training. A viewing platform was
+erected at a safe distance to allow visitors to see the cave and
+the bats from a covered structure during the day, when bat
+movements in and out of the cave are limited. Educational
+signage concerning the ecology of bats, the environment, and
+MARV was posted in the campground, on the trail, and in the
+platform. All signs included speciﬁc warnings of the potential
+for the bats to carry MARV.
+CONCLUSIONS
+This outbreak was limited to 4 conﬁrmed case patients, all of
+whom were male miners with regular contact with bats or their
+secretions. The association of MHF with mines and caves is likely
+related to exposure to bats in a conﬁned space [2, 3]. Considering
+the incubation period, it also remains possible that all 4 cases had
+separate introductions. However, person-to-person transmission
+may have occurred sequentially from patient 3 to patient 2 to
+patient 1, although patient 3’s symptoms were mild, which makes
+it unlikely that he transmitted the infection to either patient 1 or
+patient 2. Without acute-phase samples from patients 2 and 3, it
+is impossible to prove both the timing and the source of their
+infection. Although the 2005 MHF outbreak in Angola included
+a signiﬁcant number of cases from nosocomial transmission [5],
+our contact tracing revealed no evidence of health care–associated
+infection. Barrier nursing and infection control are known to be
+the most critical ways to prevent secondary transmission.
+Surveillance for hemorrhagic fever, rapid testing of suspected
+cases, institution of infection control measures, and education of
+the community, health care workers, and other stakeholders are
+critical to prevent and contain individual cases and outbreaks of
+MHF.
+Funding
+This work was supported by the Viral Special Pathogens Branch, Division
+of High-Consequence Pathogens and Pathology, National Center for
+Emerging and Zoonotic Infectious Diseases, Centers for Disease Control and
+Prevention, Atlanta, Georgia.
+Table 1.
+Results of Marburg Virus–Specific Test Results of 4 Patients With Marburg Hemorrhagic Fever in Uganda, 2007
+Patient, date of
+symptom onset,
+date of sample collection
+Titer
+Days after
+symptom onset
+MARV antigen
+detection ELISAa
+Anti-MARV
+IgM ELISA
+Anti-MARV
+IgG ELISAb
+RT-PCR
+Virus isolation
+1
+4 July 2007
+13 July 2007
+9
+4
+Negative
+Negative
+Positive
+MARV
+2
+21 June 2007
+1 August 2007
+41
+Negative
+Negative
+400
+.
+.
+22 August 2007
+62
+.
+Negative
+400
+.
+.
+29 August 2007
+69
+.
+Negative
+400
+.
+.
+3
+10 June 2007
+1 August 2007
+52
+Negative
+Negative
+400
+.
+.
+22 August 2007
+73
+.
+Negative
+400
+.
+.
+29 August 2007
+80
+.
+Negative
+400
+.
+.
+17 November 2007
+160
+.
+Negative
+400
+.
+.
+4
+14 September 2007
+21 September 2007
+6
+Negative
+Negative
+Negative
+Positive
+MARV
+24 September 2007
+7
+Negative
+Negative
+Negative
+Positive
+.
+5 October 2007
+20
+Negative
+Negative
+1,600
+Negative
+.
+NOTE. ELISA, enzyme-linked immunosorbent assay; IgG, immunoglobulin G; IgM, immunoglobulin M; MARV, Marburg virus; RT-PCR, reverse-transcription
+polymerase chain reaction.
+a For antigen detection, titers of .2 are considered to be positive.
+b For IgG ELISAs, titers of R400 are considered to be positive.
+S798
+d JID 2011:204 (Suppl 3)
+d Adjemian et al
+Acknowledgments
+We thank the following individuals for their support of this outbreak
+investigation: S. I. Okware, M. Malimbo, A. Talisuna, S. Zaramba, S. Kasewa,
+and J. Bamwine, Uganda MoH; M. Nanyunja, W. Mbabazi, and M. George,
+WHO, Kampala; N. Ndayimirije, WHO African Regional Ofﬁce, Harare,
+Zimbabwe; J. Mabweijano, Mulago Hospital, Kampala, Uganda; the staff of
+the International Hospital, Kampala, Uganda; the staff of Ibanda Hospital;
+Me
+´decins sans Frontie
+`res–Spain; and Sherif Zaki, Infectious Diseases Pa-
+thology Branch, Division of High-Consequence Pathogens and Pathology,
+National Center for Emerging and Zoonotic Infectious Diseases, CDC.
+References
+1. Wahl-Jensen V, Feldmann H, Sanchez A, Zaki SR, Rollin PE, Peters CJ.
+Filovirus infections. In Guerrant RL, WD, Weller PF, eds. Tropical
+infectious diseases: principles, pathogens and practice. Philadelphia,
+PA: Elsevier Churchill Livingstone, 2006; 784–96.
+2. Swanepoel R, Smit SB, Rollin PE, et al. Studies of reservoir hosts for
+Marburg virus. Emerg Infect Dis 2007; 13:1847–51.
+3. Bausch DG, Borchert M, Grein T, et al. Risk factors for Marburg
+hemorrhagic fever, Democratic Republic of the Congo. Emerg Infect
+Dis 2003; 9:1531–7.
+4. Centers for Disease Control and Prevention. Outbreak of Marburg
+virus hemorrhagic fever–Angola, October 1, 2004–March 29, 2005.
+MMWR Morb Mortal Wkly Rep 2005; 54:308–9.
+5. World Health Organization. Marburg haemorrhagic fever, Angola–
+update. Wkly Epidemiol Rec 2005; 80:298.
+6. Bausch DG, Nichol ST, Muyembe-Tamfum JJ, et al. Marburg hem-
+orrhagic fever associated with multiple genetic lineages of virus. N Engl
+J Med 2006; 355:909–19.
+7. Towner JS, Khristova ML, Sealy TK, et al. Marburgvirus genomics and
+association with a large hemorrhagic fever outbreak in Angola. J Virol
+2006; 80:6497–516.
+8. Towner JS, Amman BR, Sealy TK, et al. Isolation of genetically diverse
+Marburg viruses from Egyptian fruit bats. PLoS Pathog 2009;
+5:e1000536.
+9. Taylor PJ. Bats of southern Africa. Pietermaritzburg: University of
+Natal Press, 2000.
+10. Timen A, Koopmans MPG, Vossen ACTM, et al. Response to imported
+case of Marburg hemorrhagic fever, the Netherlands. Emerg Infect Dis
+2009; 15:1171–5.
+11. Centers for Disease Control and Prevention. Imported case of Marburg
+hemorrhagic fever–Colorado, 2008. MMWR Morb Mortal Wkly Rep
+2009; 58:1377–81.
+12. Jentes ES, Gallagher N, Hale C, Farnon E, Rollin P, Marano N.
+Investigation of Uganda tour companions of the ﬁrst U.S. case of
+imported Marburg hemorrhagic fever, 2009 [abstract 2985]. In: Late
+breaker abstracts of the 58th annual conference for the American
+Society of Tropical Medicine and Hygiene (Washington, DC).
+Washington, DC: American Society of Tropical Medicine and Hygiene,
+2009.
+Marburg Hemorrhagic Fever, Uganda, 2007
+d JID 2011:204 (Suppl 3)
+d S799
+
